@@ -1,5 +1,7 @@
 """DeadRecs CLI — command-line interface for the recommendation engine."""
 
+import logging
+
 import click
 
 from deadrecs import __version__
@@ -7,15 +9,20 @@ from deadrecs import __version__
 
 @click.group()
 @click.version_option(version=__version__, prog_name="deadrecs")
-def main():
+@click.option("-v", "--verbose", is_flag=True, help="Enable verbose logging.")
+def main(verbose):
     """DeadRecs — A Grateful Dead show recommendation engine."""
+    level = logging.DEBUG if verbose else logging.WARNING
+    logging.basicConfig(level=level, format="%(levelname)s: %(message)s")
 
 
 @main.command()
 @click.option("--delay", default=1.0, type=float, help="Seconds between requests.")
 def scrape(delay):
     """Scrape performance data from Headyversion.com."""
-    click.echo("Scraper not yet implemented.")
+    from deadrecs.scraper import run_scraper
+
+    run_scraper(delay=delay)
 
 
 @main.command()
