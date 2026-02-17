@@ -4,6 +4,7 @@ __pycache__/
 dist/
 build/
 data/graph.pickle
+data/description_embeddings.pt
 data/model.pt
 data/embeddings.pt
 .pytest_cache/

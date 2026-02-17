@@ -30,7 +30,28 @@ def scrape(delay):
 @click.option("--k-neighbors", default=10, type=int, help="Top-k setlist neighbors per show.")
 def train(epochs, k_neighbors):
     """Build the graph and train the GNN model."""
-    click.echo("Training not yet implemented.")
+    from deadrecs.graph import build_graph, save_graph
+    from deadrecs.features import (
+        add_setlist_neighbor_edges,
+        compute_description_embeddings,
+        compute_idf,
+    )
+    from deadrecs.utils import SONGS_INDEX_PATH
+
+    if not SONGS_INDEX_PATH.exists():
+        raise click.ClickException(
+            "No scraped data found. Run `deadrecs scrape` first."
+        )
+
+    # Phase 3: Graph construction
+    G = build_graph()
+    compute_idf(G)
+    compute_description_embeddings(G)
+    add_setlist_neighbor_edges(G, k=k_neighbors)
+    save_graph(G)
+
+    # Phase 4: GNN training (not yet implemented)
+    click.echo("\nGNN training not yet implemented (Phase 4).")
 
 
 @main.command()

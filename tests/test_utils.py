@@ -4,6 +4,7 @@ from pathlib import Path
 
 from deadrecs.utils import (
     DATA_DIR,
+    DESCRIPTION_EMBEDDINGS_PATH,
     EMBEDDINGS_PATH,
     GRAPH_PATH,
     MODEL_PATH,
@@ -30,6 +31,7 @@ def test_data_paths_are_under_project_root():
 def test_artifact_paths():
     assert SONGS_INDEX_PATH == RAW_DIR / "songs_index.json"
     assert GRAPH_PATH == DATA_DIR / "graph.pickle"
+    assert DESCRIPTION_EMBEDDINGS_PATH == DATA_DIR / "description_embeddings.pt"
     assert MODEL_PATH == DATA_DIR / "model.pt"
     assert EMBEDDINGS_PATH == DATA_DIR / "embeddings.pt"
 
