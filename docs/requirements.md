@@ -30,9 +30,11 @@ The system uses a Graph Neural Network (GNN) trained on a graph of Grateful Dead
 
 - **FR-3.1**: Convert the NetworkX graph to a PyTorch Geometric `HeteroData` object (heterogeneous graph with typed nodes and edges).
 - **FR-3.2**: Define node features: vote counts, song IDF, performance count per show, and any other meaningful numeric properties.
-- **FR-3.3**: Train a GNN (GraphSAGE or similar) to produce node embeddings via self-supervised learning (e.g., link prediction as the training objective).
-- **FR-3.4**: Save trained model weights and learned embeddings to disk.
-- **FR-3.5**: Support retraining when new data is scraped.
+- **FR-3.3**: Compute sentence embeddings for performance descriptions using a lightweight pretrained model (`sentence-transformers/all-MiniLM-L6-v2`) and include them as `SongPerformance` node features. Cache embeddings to disk for reuse.
+- **FR-3.4**: For performances with empty descriptions (~8%), use a zero vector of the same dimensionality as a fallback.
+- **FR-3.5**: Train a GNN (GraphSAGE or similar) to produce node embeddings via self-supervised learning (e.g., link prediction as the training objective).
+- **FR-3.6**: Save trained model weights and learned embeddings to disk.
+- **FR-3.7**: Support retraining when new data is scraped.
 
 ### FR-4: Recommendations
 
