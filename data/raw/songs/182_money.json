@@ -1,0 +1,30 @@
+{
+  "song_id": 182,
+  "name": "Money",
+  "performances": [
+    {
+      "votes": 27,
+      "date": "1974-05-17",
+      "show_id": 771,
+      "venue": "P.N.E. Coliseum Vancouver, BC",
+      "description": "A smoking version from a smoking show so go with the Miller.",
+      "archive_url": "https://headyversion.com/show/771/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1974-05-19",
+      "show_id": 469,
+      "venue": "Portland Memorial Coliseum Portland, OR",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/469/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1974-05-21",
+      "show_id": 407,
+      "venue": "Edmundson Pavilion Seattle, WA",
+      "description": "I think this final version has a nice rocking groove should not have given up on this.",
+      "archive_url": "https://headyversion.com/show/407/archive/"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "song_id": 283,
+  "name": "Wake Up Little Susie",
+  "performances": [
+    {
+      "votes": 21,
+      "date": "1970-02-13",
+      "show_id": 595,
+      "venue": "Fillmore East New York City, NY",
+      "description": "The Bear's Choice version.",
+      "archive_url": "https://headyversion.com/show/595/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-06-04",
+      "show_id": 1394,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "With David Nelson and John Dawson",
+      "archive_url": "https://headyversion.com/show/1394/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-11-08",
+      "show_id": 796,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Final time played, and its a grand finale.",
+      "archive_url": "https://headyversion.com/show/796/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "This song is always a treat on a 1970 acoustic set.  Wish they had played it in the 1980 or other years, acoustic sets.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-05-01",
+      "show_id": 729,
+      "venue": "Alfred College Alfred, NY",
+      "description": "tough little gem well performed by the boys.",
+      "archive_url": "https://headyversion.com/show/729/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "sweet version of the rare gem",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-03-21",
+      "show_id": 1258,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Late Show, great take on the rare gem",
+      "archive_url": "https://headyversion.com/show/1258/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-08-19",
+      "show_id": 1545,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "I so wish they played this sweet gem more often a classic song with an awesome grateful dead spin.",
+      "archive_url": "https://headyversion.com/show/1545/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-04-03",
+      "show_id": 811,
+      "venue": "Field House, U. of Cincinnati Cincinnati, OH",
+      "description": "This tune is so sweet",
+      "archive_url": "https://headyversion.com/show/811/archive/"
+    }
+  ]
+}

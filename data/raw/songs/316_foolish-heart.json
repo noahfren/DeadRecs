@@ -1,0 +1,630 @@
+{
+  "song_id": 316,
+  "name": "Foolish Heart",
+  "performances": [
+    {
+      "votes": 67,
+      "date": "1990-03-19",
+      "show_id": 379,
+      "venue": "Civic Center Hartford, CT",
+      "description": "lots of phil",
+      "archive_url": "https://headyversion.com/show/379/archive/"
+    },
+    {
+      "votes": 65,
+      "date": "1989-07-19",
+      "show_id": 59,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "great version, great set, great scene",
+      "archive_url": "https://headyversion.com/show/59/archive/"
+    },
+    {
+      "votes": 40,
+      "date": "1990-07-12",
+      "show_id": 111,
+      "venue": "Robert F. Kennedy Stadium Washington, DC",
+      "description": "foolish>darkstar",
+      "archive_url": "https://headyversion.com/show/111/archive/"
+    },
+    {
+      "votes": 38,
+      "date": "1990-07-19",
+      "show_id": 320,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/320/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1990-12-28",
+      "show_id": 1303,
+      "venue": "Coliseum Arena Oakland, Ca",
+      "description": "Set one closer Jamming as hell the exit Jam may be one of the better ones they played great end to set 1. Ripping solos from Jerry,> out of VOC is hot",
+      "archive_url": "https://headyversion.com/show/1303/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1993-06-11",
+      "show_id": 192,
+      "venue": "Buckeye Lake Music Center Hebron, OH",
+      "description": "jack straw>foolish to open show",
+      "archive_url": "https://headyversion.com/show/192/archive/"
+    },
+    {
+      "votes": 29,
+      "date": "1990-09-18",
+      "show_id": 470,
+      "venue": "Madison Square Garden New York City, NY",
+      "description": "Fantastic version from a phenomenal run",
+      "archive_url": "https://headyversion.com/show/470/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1990-04-02",
+      "show_id": 197,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Very under-rated show.  Great Foolish to open up the second set.",
+      "archive_url": "https://headyversion.com/show/197/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1989-10-08",
+      "show_id": 385,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Great way to start an epic two-night run in the mothership",
+      "archive_url": "https://headyversion.com/show/385/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1995-02-21",
+      "show_id": 803,
+      "venue": "Delta Center Salt Lake City, UT",
+      "description": "great show from '95",
+      "archive_url": "https://headyversion.com/show/803/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1990-06-08",
+      "show_id": 266,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Jerry's intro+Phil's entrance+single drum beat as solo peaks+sloppy but fun outro jam = my fave!",
+      "archive_url": "https://headyversion.com/show/266/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1991-12-28",
+      "show_id": 815,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Great version with lots of active keyboard work",
+      "archive_url": "https://headyversion.com/show/815/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1991-06-22",
+      "show_id": 261,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "Second Set opener, nicely jammed middle, great ending, transitions into Looks Like Rain",
+      "archive_url": "https://headyversion.com/show/261/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1989-10-26",
+      "show_id": 11,
+      "venue": "Miami Arena Miami, FL",
+      "description": "Not the best lyrically, but it is fun to have the percussion from the album version in concert!",
+      "archive_url": "https://headyversion.com/show/11/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1995-06-27",
+      "show_id": 273,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "30 min victim>foolish",
+      "archive_url": "https://headyversion.com/show/273/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1989-07-15",
+      "show_id": 225,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "first deer creek show, awesome version",
+      "archive_url": "https://headyversion.com/show/225/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1994-10-13",
+      "show_id": 1489,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "The middle and end Jams are exquisite and long and has that MSG magic from '94.",
+      "archive_url": "https://headyversion.com/show/1489/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1995-05-25",
+      "show_id": 1761,
+      "venue": "Memorial Stadium Seattle, WA",
+      "description": "Set 2 opener into Victim a reverse of the usual",
+      "archive_url": "https://headyversion.com/show/1761/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1990-06-24",
+      "show_id": 1823,
+      "venue": "Autzen Stadium Eugene, OR",
+      "description": "Another meaty Foolish Heart to open a set 2 in 1990, Brent's last west coast show. Sprightly lines from Jerry and loads of Brent, Hot number.",
+      "archive_url": "https://headyversion.com/show/1823/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1990-10-30",
+      "show_id": 1822,
+      "venue": "Wembley Arena London,",
+      "description": "Phil is all over this version check it out its lead bas by Phil Lesh, killer he is on fire playing his ass off, love FH never heard Phil so into it",
+      "archive_url": "https://headyversion.com/show/1822/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1990-03-28",
+      "show_id": 107,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/107/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1991-05-10",
+      "show_id": 347,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "High energy tight performance nice swirling jams loads of sweet Jerry and keyboards, Ending features nice Bruce and Jerry jam",
+      "archive_url": "https://headyversion.com/show/347/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1989-04-02",
+      "show_id": 1275,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1275/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1990-07-23",
+      "show_id": 377,
+      "venue": "World Music Theatre Tinley Park, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/377/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1990-05-06",
+      "show_id": 380,
+      "venue": "California State University Dominguez Hills Carson, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/380/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1991-03-20",
+      "show_id": 340,
+      "venue": "Capital Centre Landover, MD",
+      "description": "smooth transition from eyes of the world",
+      "archive_url": "https://headyversion.com/show/340/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1988-07-02",
+      "show_id": 324,
+      "venue": "Oxford Plains Speedway Oxford, ME",
+      "description": "Intricate and emotional",
+      "archive_url": "https://headyversion.com/show/324/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1989-07-10",
+      "show_id": 1163,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Nice emotional jam in the latter section.  Jerry's in a good mood",
+      "archive_url": "https://headyversion.com/show/1163/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1994-07-29",
+      "show_id": 1304,
+      "venue": "Buckeye Lake Music Center Hebron, OH",
+      "description": "a few minor lyrical flubs but well jammed out with very nice energy on a COLD july evening",
+      "archive_url": "https://headyversion.com/show/1304/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1995-04-01",
+      "show_id": 1268,
+      "venue": "Pyramid Arena Memphis, TN",
+      "description": "One of my favorites",
+      "archive_url": "https://headyversion.com/show/1268/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1991-08-13",
+      "show_id": 1990,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Nicely in sync here. Fuzzy Bob accents, Jer nailing the vocal and Vince twinkling.  Phil all over it - this is actually great - yessss.",
+      "archive_url": "https://headyversion.com/show/1990/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1990-07-04",
+      "show_id": 1824,
+      "venue": "Sandstone Amphitheatre Bonner Springs, KS",
+      "description": "Tight jamming and bright rendition flows beautiful out of a melting Victim and moves sprightly into Just a little light.",
+      "archive_url": "https://headyversion.com/show/1824/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1992-05-24",
+      "show_id": 1637,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Rocking version of Foolish Heart one of the better Vince versions.",
+      "archive_url": "https://headyversion.com/show/1637/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1989-08-19",
+      "show_id": 956,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/956/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1995-03-22",
+      "show_id": 986,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Beautiful first solo that builds and builds the crowd to a fever",
+      "archive_url": "https://headyversion.com/show/986/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1989-06-18",
+      "show_id": 1254,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Heady first set Foolish opener!  Great first set.",
+      "archive_url": "https://headyversion.com/show/1254/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1992-03-08",
+      "show_id": 1138,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Jammy version of Foolish Heart melts wonderfully into a powerful LL rain. Great sequence",
+      "archive_url": "https://headyversion.com/show/1138/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-04-09",
+      "show_id": 1478,
+      "venue": "Orlando Arena Orlando, FL",
+      "description": "Sublime dueling keyboards and bass",
+      "archive_url": "https://headyversion.com/show/1478/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1988-06-28",
+      "show_id": 1306,
+      "venue": "Saratoga Performing Arts Center Saratoga Springs, NY",
+      "description": "Jerry is Rockin",
+      "archive_url": "https://headyversion.com/show/1306/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1994-09-28",
+      "show_id": 1643,
+      "venue": "Boston Garden Boston, MA",
+      "description": "First jam DOES NOT QUIT and is subtly climatic",
+      "archive_url": "https://headyversion.com/show/1643/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1994-12-15",
+      "show_id": 1457,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "long and delicious jam",
+      "archive_url": "https://headyversion.com/show/1457/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1994-07-19",
+      "show_id": 208,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "jerry really going for it in 94",
+      "archive_url": "https://headyversion.com/show/208/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1991-09-12",
+      "show_id": 1682,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Not a great show but the Foolish Heart is a highlight",
+      "archive_url": "https://headyversion.com/show/1682/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1991-04-03",
+      "show_id": 1048,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1048/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-05-22",
+      "show_id": 966,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Dig the vibe on this tho a sad one....J sounds weak which makes it all the more poignant. I was lucky to be there - Shoreline is a cool venue.",
+      "archive_url": "https://headyversion.com/show/966/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1993-06-16",
+      "show_id": 1020,
+      "venue": "Freedom Hall Louisville, KY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1020/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-12-28",
+      "show_id": 995,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "One of my personal favorites appears out of the ordinary in the normal Jerry ballad slot. A little vocally sloppy but high energy jams make up for it.",
+      "archive_url": "https://headyversion.com/show/995/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1991-06-01",
+      "show_id": 1638,
+      "venue": "Los Angeles Coliseum Los Angeles, CA",
+      "description": "interesting Picasso Moon->Foolish Heart set 2 opener",
+      "archive_url": "https://headyversion.com/show/1638/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-12-08",
+      "show_id": 1548,
+      "venue": "Compton Terrace Amphitheatre Chandler, AZ",
+      "description": "High energy and beautiful rises like a Phoenix from the crazy spacey chaos of Victim, Great ending launches into PITB.",
+      "archive_url": "https://headyversion.com/show/1548/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-05-07",
+      "show_id": 162,
+      "venue": "Frost Ampitheater Stanford, CA",
+      "description": "Near-perfect lyrically!  Nice",
+      "archive_url": "https://headyversion.com/show/162/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-12-14",
+      "show_id": 1577,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1577/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-09-08",
+      "show_id": 211,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "very good post brent version",
+      "archive_url": "https://headyversion.com/show/211/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-07-17",
+      "show_id": 56,
+      "venue": "Greek Theater - University of California Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/56/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-07-31",
+      "show_id": 1884,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "Nice and Funky Foolish HEart emerges from a high energy Bucket. Brent and Jerry gelling so well. Fantastic.",
+      "archive_url": "https://headyversion.com/show/1884/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-03-28",
+      "show_id": 698,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Loads of Vinny and a ripping Garcia solo. Ncie fun take",
+      "archive_url": "https://headyversion.com/show/698/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-06-11",
+      "show_id": 487,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/487/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-08-03",
+      "show_id": 1585,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "The outro is lovely, flowing and beautiful",
+      "archive_url": "https://headyversion.com/show/1585/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-03-28",
+      "show_id": 1300,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Stong version with an excellent jam out of Playing> Foolish Heart.",
+      "archive_url": "https://headyversion.com/show/1300/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-06-19",
+      "show_id": 1615,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Debut of the latter day classic. Not the set two openerit would become but worth it for historical value alone",
+      "archive_url": "https://headyversion.com/show/1615/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-09-25",
+      "show_id": 1748,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Surprised not to see this one up here.  September 1993 has some rather shining moments.",
+      "archive_url": "https://headyversion.com/show/1748/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-09-24",
+      "show_id": 314,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Very nice vocal work and fretwork :)",
+      "archive_url": "https://headyversion.com/show/314/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-04-09",
+      "show_id": 1295,
+      "venue": "Freedom Hall Louisville, KY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1295/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-10-21",
+      "show_id": 1016,
+      "venue": "Reunion Arena Dallas, TX",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1016/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-10-16",
+      "show_id": 1209,
+      "venue": "Bayfront Center St. Petersburg, FL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1209/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-08-28",
+      "show_id": 1715,
+      "venue": "Autzen Stadium Eugene , OR",
+      "description": "Nice jamming",
+      "archive_url": "https://headyversion.com/show/1715/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-09-10",
+      "show_id": 1064,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Fast, busy, but totally tight.",
+      "archive_url": "https://headyversion.com/show/1064/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-10-14",
+      "show_id": 1385,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1385/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-12-09",
+      "show_id": 1338,
+      "venue": "Great Western LA Forum Inglewood, CA",
+      "description": "Big jam before the first 'bake your bread' line is heady as fuck, and transition seamless; cool album version percussion too.",
+      "archive_url": "https://headyversion.com/show/1338/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-07-01",
+      "show_id": 1363,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1363/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-10-07",
+      "show_id": 1729,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1729/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-12-28",
+      "show_id": 1195,
+      "venue": "Coliseum Arean Oakland, CA",
+      "description": "Nothing too exciting, but worth an honorable mention at least.",
+      "archive_url": "https://headyversion.com/show/1195/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-04-28",
+      "show_id": 344,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "It took Foolish a few years to really develop.  Phil is doing it up in a well developed jam crescendo with a very tasty solo from Jerry.",
+      "archive_url": "https://headyversion.com/show/344/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-03-24",
+      "show_id": 274,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/274/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-10-22",
+      "show_id": 1860,
+      "venue": "Festhalle Frankfurt\u007f, GM",
+      "description": "Phil Noodle Bowl",
+      "archive_url": "https://headyversion.com/show/1860/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-09-19",
+      "show_id": 1568,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Enjoy the free wanderings of these earlier versions before the \u201chook\u201d closed the jam segment.",
+      "archive_url": "https://headyversion.com/show/1568/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-09-17",
+      "show_id": 1751,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Strong middle jam and Jerry roars out the ending vocals.",
+      "archive_url": "https://headyversion.com/show/1751/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-13",
+      "show_id": 1777,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "Bright, glowing performance.",
+      "archive_url": "https://headyversion.com/show/1777/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-02-12",
+      "show_id": 68,
+      "venue": "Great Western Forum Inglewood, CA",
+      "description": "awesome",
+      "archive_url": "https://headyversion.com/show/68/archive/"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "song_id": 365,
+  "name": "King Solomon's Marbles",
+  "performances": [
+    {
+      "votes": 33,
+      "date": "1975-08-13",
+      "show_id": 170,
+      "venue": "Great American Music Hall San Francisco, CA",
+      "description": "Another exploratory amazing performance by the boys, heady 1975 space jam, Spine tingling & goose bump inducing.",
+      "archive_url": "https://headyversion.com/show/170/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1975-03-23",
+      "show_id": 951,
+      "venue": "Kezar Stadium San Francisco, CA",
+      "description": "Dont know why the poster took this down but its the best. My Favorite Stronger, ove the interplay between Phil and Jerry, Primal and the crowd loved",
+      "archive_url": "https://headyversion.com/show/951/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1975-09-28",
+      "show_id": 432,
+      "venue": "Lindley Meadows, Golden Gate Park San Francisco, CA",
+      "description": "Was up but the original poster took it down? One of their best moments, this is classic exploratory stuff, truly magnificent.",
+      "archive_url": "https://headyversion.com/show/432/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1976-07-16",
+      "show_id": 538,
+      "venue": "Orpheum Theatre San Francisco, CA",
+      "description": "Very Hot cosmic Playin->Stronger than dirt->Cosmic Charlie, Some seriously heady stuff",
+      "archive_url": "https://headyversion.com/show/538/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1975-06-17",
+      "show_id": 171,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "This is absolutely among their greatest moments all the blues for allah stronger than dirt sequences are among their craziest most enjoyable selection",
+      "archive_url": "https://headyversion.com/show/171/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1975-03-21",
+      "show_id": 1830,
+      "venue": "Ace's studio Mill Valley, CA",
+      "description": "Practice for the legendary Kezar show in just a few days",
+      "archive_url": "https://headyversion.com/show/1830/archive/"
+    }
+  ]
+}

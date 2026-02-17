@@ -1,0 +1,54 @@
+{
+  "song_id": 307,
+  "name": "You Don't Have To Ask",
+  "performances": [
+    {
+      "votes": 11,
+      "date": "1966-07-16",
+      "show_id": 829,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Love the Nuggets/garage band early era psychedelic sound from the boys",
+      "archive_url": "https://headyversion.com/show/829/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1966-07-03",
+      "show_id": 1086,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Definitive",
+      "archive_url": "https://headyversion.com/show/1086/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1966-03-25",
+      "show_id": 515,
+      "venue": "Trouper's Hall Los Angeles, CA",
+      "description": "Pigpen's funky organ and early Jerry and the boy, very driving sound for early Dead!",
+      "archive_url": "https://headyversion.com/show/515/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1966-07-29",
+      "show_id": 1982,
+      "venue": "P.N.E. Garden Auditorium Vancouver, BC",
+      "description": "fantastic early dead",
+      "archive_url": "https://headyversion.com/show/1982/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1966-05-19",
+      "show_id": 518,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "wonderful garage band sound",
+      "archive_url": "https://headyversion.com/show/518/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1966-07-30",
+      "show_id": 1029,
+      "venue": "P.N.E. Garden Auditorium Vancouver,",
+      "description": "Delicious early garage band sound",
+      "archive_url": "https://headyversion.com/show/1029/archive/"
+    }
+  ]
+}

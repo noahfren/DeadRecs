@@ -1,0 +1,46 @@
+{
+  "song_id": 364,
+  "name": "Got My Mojo Working",
+  "performances": [
+    {
+      "votes": 34,
+      "date": "1978-10-21",
+      "show_id": 155,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "This wasnt played often but this is the definitive version that goes into one of the most intense O1's ever.",
+      "archive_url": "https://headyversion.com/show/155/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1978-10-22",
+      "show_id": 492,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Killer NFA>GDTRFB that contains Caution and a full on Mojo Jam...10/21 definitive tho.",
+      "archive_url": "https://headyversion.com/show/492/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1978-10-18",
+      "show_id": 70,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Frickin' tasty Mojo Jam that has a MLTBJ feel at the end.  Cool stuff.",
+      "archive_url": "https://headyversion.com/show/70/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1977-04-22",
+      "show_id": 372,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "First Mojo ever...has Dancin' feel throughout.  Can't touch 10/21/78, tho.",
+      "archive_url": "https://headyversion.com/show/372/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-04-04",
+      "show_id": 1628,
+      "venue": "Civic Center Providence, RI",
+      "description": "There's a jam out of GDTRFB that sounds like a cross between Mojo and Caution. What do you think?",
+      "archive_url": "https://headyversion.com/show/1628/archive/"
+    }
+  ]
+}

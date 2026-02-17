@@ -1,0 +1,38 @@
+{
+  "song_id": 204,
+  "name": "Operator",
+  "performances": [
+    {
+      "votes": 14,
+      "date": "1970-09-18",
+      "show_id": 1050,
+      "venue": "Fillmore East New York, NY",
+      "description": "wow, this is rare",
+      "archive_url": "https://headyversion.com/show/1050/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1970-11-08",
+      "show_id": 796,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Final time played, Pig is in fine form, acoustic set here is beautiful, entire show for that matter is transcendent stuff.",
+      "archive_url": "https://headyversion.com/show/796/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-08-18",
+      "show_id": 652,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Perfect AUD sound quality and a nice harmonica solo from pigpen to end",
+      "archive_url": "https://headyversion.com/show/652/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-11-07",
+      "show_id": 1219,
+      "venue": "Capital Theater Port Chester, NY",
+      "description": "This is a truly rare gem",
+      "archive_url": "https://headyversion.com/show/1219/archive/"
+    }
+  ]
+}

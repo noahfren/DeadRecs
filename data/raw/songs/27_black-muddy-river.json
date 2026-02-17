@@ -1,0 +1,366 @@
+{
+  "song_id": 27,
+  "name": "Black Muddy River",
+  "performances": [
+    {
+      "votes": 38,
+      "date": "1995-07-09",
+      "show_id": 198,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "It speaks for itself.",
+      "archive_url": "https://headyversion.com/show/198/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1990-04-02",
+      "show_id": 197,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/197/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1988-03-30",
+      "show_id": 1612,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Heartfelt and plaintive....just how you want it.",
+      "archive_url": "https://headyversion.com/show/1612/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1989-04-03",
+      "show_id": 786,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Super powerful and emotive delivery to make this dirge special.",
+      "archive_url": "https://headyversion.com/show/786/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1990-03-14",
+      "show_id": 530,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Since Jer's death this song has become more significant to me.  I love all these 90's versions.",
+      "archive_url": "https://headyversion.com/show/530/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1986-12-15",
+      "show_id": 784,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "The first live version played at Jerry's \"Comeback\" show.",
+      "archive_url": "https://headyversion.com/show/784/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1987-05-10",
+      "show_id": 1625,
+      "venue": "Laguna Seca Raceway Monterey, CA",
+      "description": "beautiful follows NFA",
+      "archive_url": "https://headyversion.com/show/1625/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1988-07-29",
+      "show_id": 327,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/327/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1986-12-27",
+      "show_id": 924,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Quinn>Dancin>BlackMuddy>Nicewaytoopenthe2ndset!!!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/924/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1987-04-11",
+      "show_id": 1689,
+      "venue": "UIC Pavilion Chicago, IL",
+      "description": "Glowing, warm encore with sweet Brent vocals/keys and solid Phil touches.",
+      "archive_url": "https://headyversion.com/show/1689/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1991-08-13",
+      "show_id": 1990,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Nice strong vox from Jer, I think Vince has some carnival riff going - now I'm bummed.",
+      "archive_url": "https://headyversion.com/show/1990/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1989-07-12",
+      "show_id": 1578,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Love Jers solo in this one...seems like a happier BMR",
+      "archive_url": "https://headyversion.com/show/1578/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1988-09-08",
+      "show_id": 1932,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "This one has the emotional Jerry vocal you are looking for with great Brent backup.",
+      "archive_url": "https://headyversion.com/show/1932/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-09-19",
+      "show_id": 239,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Awesome encore to a cool show at MSG",
+      "archive_url": "https://headyversion.com/show/239/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-06-13",
+      "show_id": 977,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "Encore -Jerry delivers the RIFF and emotion you are looking for - play & repeat.",
+      "archive_url": "https://headyversion.com/show/977/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-12-06",
+      "show_id": 1352,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Super kind with Clarence Clemmons blending in sweetly.",
+      "archive_url": "https://headyversion.com/show/1352/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-10-14",
+      "show_id": 1385,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Classic passionate Encore",
+      "archive_url": "https://headyversion.com/show/1385/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-09-02",
+      "show_id": 1536,
+      "venue": "Capital Centre Landover, MD",
+      "description": "What do you want me to do? It's a show-closing flawless BMR with all of Jer's heart in it",
+      "archive_url": "https://headyversion.com/show/1536/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-08-26",
+      "show_id": 1875,
+      "venue": "Tacoma Dome Tacoma, WA",
+      "description": "Mournful as it should be...",
+      "archive_url": "https://headyversion.com/show/1875/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-06-27",
+      "show_id": 941,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Lovely",
+      "archive_url": "https://headyversion.com/show/941/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-08-11",
+      "show_id": 1278,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1278/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-02-06",
+      "show_id": 1931,
+      "venue": "Henry J Kaiser Convention Center Oakland, CA",
+      "description": "Slow dirge here but still oh so kind.",
+      "archive_url": "https://headyversion.com/show/1931/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-04-18",
+      "show_id": 1617,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1617/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-08-18",
+      "show_id": 436,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "Great version at the Greek.",
+      "archive_url": "https://headyversion.com/show/436/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-03-24",
+      "show_id": 807,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/807/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-04-06",
+      "show_id": 543,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/543/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1986-12-31",
+      "show_id": 1409,
+      "venue": "Kaiser Convention Center Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1409/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-03-24",
+      "show_id": 667,
+      "venue": "Omni Coliseum Atlanta, GA",
+      "description": "good version from a great late 80s show.",
+      "archive_url": "https://headyversion.com/show/667/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-07-02",
+      "show_id": 726,
+      "venue": "Silver Stadium Rochester, NY",
+      "description": "The encore of one of the very best shows of this year. The perfect ending.",
+      "archive_url": "https://headyversion.com/show/726/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1995-06-24",
+      "show_id": 351,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Its return from hiatus",
+      "archive_url": "https://headyversion.com/show/351/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-03-01",
+      "show_id": 1367,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Excellent BM River->He's Gone real special moment",
+      "archive_url": "https://headyversion.com/show/1367/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-10-02",
+      "show_id": 962,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Wonderful with loads of Phil and sweet backing vocals from brent and bobby. Great keys from brent. Crisp",
+      "archive_url": "https://headyversion.com/show/962/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-10-20",
+      "show_id": 1537,
+      "venue": "The Summit Houston, TX",
+      "description": "ll-around solid version!!",
+      "archive_url": "https://headyversion.com/show/1537/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-10-14",
+      "show_id": 2093,
+      "venue": "Miami Arena Miami, FL",
+      "description": "Big fella nails this one, scream from an eagle as she flies alt lyric treat, dude nails the \u201cdream me a dream\u201d, anything but a lock, big man killed it",
+      "archive_url": "https://headyversion.com/show/2093/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1995-07-05",
+      "show_id": 813,
+      "venue": "Riverport Amphitheater Maryland Heights, MO",
+      "description": "A personal favorite. Similar to the final show version, but this underrated song needed more attention.",
+      "archive_url": "https://headyversion.com/show/813/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-04-14",
+      "show_id": 1677,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "Very slow emotional reading minor vocal flubs but sung with pure passion. Excellent",
+      "archive_url": "https://headyversion.com/show/1677/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-04-19",
+      "show_id": 993,
+      "venue": "Irvine Meadows Amphitheatre Laguna Hills, CA",
+      "description": "A sweet version in the middle of the second set.",
+      "archive_url": "https://headyversion.com/show/993/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-03-17",
+      "show_id": 1618,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Powerful and emotional a great encore to the St. patrick's day show. Tear jerker version.",
+      "archive_url": "https://headyversion.com/show/1618/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-09-14",
+      "show_id": 1897,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "sweet tune",
+      "archive_url": "https://headyversion.com/show/1897/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-03-29",
+      "show_id": 1664,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1664/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-04-08",
+      "show_id": 2112,
+      "venue": "The Centrum  Worcester , MA",
+      "description": "Superb Encore.",
+      "archive_url": "https://headyversion.com/show/2112/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-07-08",
+      "show_id": 1270,
+      "venue": "Roanoke Civic Center Roanoke, VA",
+      "description": "Roll on forever",
+      "archive_url": "https://headyversion.com/show/1270/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-11-15",
+      "show_id": 1077,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Awesome version late in a great year full of Black Muddy encores. Sick percussion during the solo. Great end to a great show",
+      "archive_url": "https://headyversion.com/show/1077/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-09-18",
+      "show_id": 1877,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Excellent BMR encore after a HOT show and a NFA chant. Really soulful version",
+      "archive_url": "https://headyversion.com/show/1877/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-09-12",
+      "show_id": 720,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Fine early Black Muddy River :)",
+      "archive_url": "https://headyversion.com/show/720/archive/"
+    }
+  ]
+}

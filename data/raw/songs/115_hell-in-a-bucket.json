@@ -1,0 +1,926 @@
+{
+  "song_id": 115,
+  "name": "Hell in a Bucket",
+  "performances": [
+    {
+      "votes": 47,
+      "date": "1990-03-26",
+      "show_id": 300,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Jerry shreds like a beast on this one",
+      "archive_url": "https://headyversion.com/show/300/archive/"
+    },
+    {
+      "votes": 36,
+      "date": "1989-07-07",
+      "show_id": 281,
+      "venue": "JFK Stadium Philadelphia, PA",
+      "description": "Bobby screams his lungs out",
+      "archive_url": "https://headyversion.com/show/281/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1987-09-24",
+      "show_id": 629,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "A super juiced up second set Hell in a Bucket for the ages...was also my first show!",
+      "archive_url": "https://headyversion.com/show/629/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1990-03-19",
+      "show_id": 379,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Heavy Phil on this one...love it!",
+      "archive_url": "https://headyversion.com/show/379/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1987-09-18",
+      "show_id": 200,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "I enjoyed the ride listening to this version",
+      "archive_url": "https://headyversion.com/show/200/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1985-06-27",
+      "show_id": 907,
+      "venue": "SPAC Saratoga Springs, NY",
+      "description": "Heavy metal Jerry as he tears through the solo on this one.",
+      "archive_url": "https://headyversion.com/show/907/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1989-07-19",
+      "show_id": 59,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Jerry is on Fire! Gotta love Alpine '89!",
+      "archive_url": "https://headyversion.com/show/59/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1989-07-13",
+      "show_id": 2013,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Nice weaving Phil JG torches the jam and we get a nice lift off.",
+      "archive_url": "https://headyversion.com/show/2013/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1983-10-14",
+      "show_id": 685,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "DP 6 early version I'm liking the bucket>day job pairing!!",
+      "archive_url": "https://headyversion.com/show/685/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1984-07-13",
+      "show_id": 12,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "Surprised this has't been submitted yet. My favorite version. So much energy. Weir screaming like crazy. Drummers going nuts.",
+      "archive_url": "https://headyversion.com/show/12/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1987-07-24",
+      "show_id": 901,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Sweet sweet ride into Scarlet!",
+      "archive_url": "https://headyversion.com/show/901/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1984-04-06",
+      "show_id": 1456,
+      "venue": "Aladdin Theater Las Vegas, NV",
+      "description": "An extremelly slow Bucket gives it a really funky bluesy feel, really a cool version, great Brent keys",
+      "archive_url": "https://headyversion.com/show/1456/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1987-07-12",
+      "show_id": 166,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Hot",
+      "archive_url": "https://headyversion.com/show/166/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1988-07-03",
+      "show_id": 1351,
+      "venue": "Oxford Plains Speedway Oxford, ME",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1351/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1989-02-12",
+      "show_id": 68,
+      "venue": "Great Western Forum Inglewood, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/68/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-04-03",
+      "show_id": 157,
+      "venue": "The Omni Atlanta, GA",
+      "description": "As good as the Knick!",
+      "archive_url": "https://headyversion.com/show/157/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1994-06-26",
+      "show_id": 113,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "http://www.youtube.com/watch?v=vUiutKkMeiA",
+      "archive_url": "https://headyversion.com/show/113/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-09-16",
+      "show_id": 691,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Killer bucket from MSG",
+      "archive_url": "https://headyversion.com/show/691/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1993-09-13",
+      "show_id": 981,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "great opener to  great time in Philly",
+      "archive_url": "https://headyversion.com/show/981/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-11-22",
+      "show_id": 1930,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Nice rock n roll opener firing right off the bat, Healy fucking around with some cool effects at the end of BUcket",
+      "archive_url": "https://headyversion.com/show/1930/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1992-03-20",
+      "show_id": 323,
+      "venue": "Copps Coliseum Hamilton,",
+      "description": "Hot Bucket to start this epic show.  You can just tell from the opening notes that they were ready to bring it!",
+      "archive_url": "https://headyversion.com/show/323/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1983-10-11",
+      "show_id": 71,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "A \"Perfect\" version. Drums, vocals, guitar leads, bass... everyone is on-point!",
+      "archive_url": "https://headyversion.com/show/71/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1984-07-15",
+      "show_id": 139,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "Hell Yeah! This show is a must! When Hell In A Bucket smokes, you know you're in for a treat",
+      "archive_url": "https://headyversion.com/show/139/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1983-10-17",
+      "show_id": 722,
+      "venue": "Olympic Center Lake Placid, NY",
+      "description": "Bob sings, \"Ride Sally Ride\" in honor of the space shuttle.",
+      "archive_url": "https://headyversion.com/show/722/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-06-22",
+      "show_id": 261,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "Bucket->shakedown to open a hot show in Chicago.",
+      "archive_url": "https://headyversion.com/show/261/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1990-10-27",
+      "show_id": 1313,
+      "venue": "The Zenith Paris,",
+      "description": "Hard driving bucket with Bruce/Vince.",
+      "archive_url": "https://headyversion.com/show/1313/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-12-31",
+      "show_id": 49,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "Ticket to New Year's barn burner! Lights up!",
+      "archive_url": "https://headyversion.com/show/49/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1991-12-31",
+      "show_id": 862,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "I know there is no Branford and no DS, but this is hot start to the last great years of shows.  Totally underrated!",
+      "archive_url": "https://headyversion.com/show/862/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1984-07-22",
+      "show_id": 429,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "Really raunchy hard rocking version. Teamed with Day Job for a very rock n roll ending to the set. this is a real stellar versions bobby gives his all",
+      "archive_url": "https://headyversion.com/show/429/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1995-04-01",
+      "show_id": 1268,
+      "venue": "Pyramid Arena Memphis, TN",
+      "description": "Proving they could still bring some fire even in 1995 this is a growling hot smoking opener. Bobby is possessed and Jerry lays down some nice runs.",
+      "archive_url": "https://headyversion.com/show/1268/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-05-27",
+      "show_id": 1849,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Rager to open set two flows nicely into a hot wicked Fire on the Mountain.",
+      "archive_url": "https://headyversion.com/show/1849/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1983-09-11",
+      "show_id": 987,
+      "venue": "Downs of Santa Fe Santa Fe, NM",
+      "description": "This is such an underrated show!",
+      "archive_url": "https://headyversion.com/show/987/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-06-21",
+      "show_id": 199,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "I was shocked not to see this one from the famous PPV solstice broadcast.",
+      "archive_url": "https://headyversion.com/show/199/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-04-09",
+      "show_id": 1717,
+      "venue": "Centrum Worchester, MA",
+      "description": "Killer Jerry outro shredding, leads into a great \"Aiko\"",
+      "archive_url": "https://headyversion.com/show/1717/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1994-12-16",
+      "show_id": 1291,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "With Branford best Post Brent version. Great effort by All. Not equal to any of the 1987 second set versions but still excellent.",
+      "archive_url": "https://headyversion.com/show/1291/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1984-12-31",
+      "show_id": 335,
+      "venue": "SF Civic san francisco, ca",
+      "description": "Nice position next to last song of set one as opposed to usual opener",
+      "archive_url": "https://headyversion.com/show/335/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-06-20",
+      "show_id": 889,
+      "venue": "Greek Theater Berkeley, Ca",
+      "description": "Opener",
+      "archive_url": "https://headyversion.com/show/889/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-09-15",
+      "show_id": 1953,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Really hot bucket opener Jerry ripping off hot leads and bobby spitting ut the lyrics wonderfully",
+      "archive_url": "https://headyversion.com/show/1953/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-12-31",
+      "show_id": 153,
+      "venue": "Coliseum Arena Oakland, CA",
+      "description": "Cranked up show opener for NYE.",
+      "archive_url": "https://headyversion.com/show/153/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1984-04-19",
+      "show_id": 1307,
+      "venue": "Philadelphia Civic Center Philadelphia, PA",
+      "description": "Double barreled heater.",
+      "archive_url": "https://headyversion.com/show/1307/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-03-22",
+      "show_id": 1923,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Out of Scarlet Begonias to open the second set, with some teases of the song in the transition.",
+      "archive_url": "https://headyversion.com/show/1923/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-07-16",
+      "show_id": 375,
+      "venue": "Rich Stadium Orchard Park, NY",
+      "description": "A tight version of this tune",
+      "archive_url": "https://headyversion.com/show/375/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-04-28",
+      "show_id": 1244,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Snarling version to open set 2.",
+      "archive_url": "https://headyversion.com/show/1244/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-07-08",
+      "show_id": 1270,
+      "venue": "Roanoke Civic Center Roanoke, VA",
+      "description": "One of the best of 87",
+      "archive_url": "https://headyversion.com/show/1270/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-06-28",
+      "show_id": 1306,
+      "venue": "Saratoga Performing Arts Center Saratoga Springs, NY",
+      "description": "Rockin' tight opener. Love the acoustics at SPAC. Jerry follows with a sweet Bertha.",
+      "archive_url": "https://headyversion.com/show/1306/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-04-11",
+      "show_id": 1689,
+      "venue": "UIC Pavilion Chicago, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1689/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-07-02",
+      "show_id": 726,
+      "venue": "Silver Stadium Rochester, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/726/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-08-12",
+      "show_id": 898,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Cool version at Red Rocks!",
+      "archive_url": "https://headyversion.com/show/898/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-11-03",
+      "show_id": 1355,
+      "venue": "Polo Field, Golden Gate Park San Francisco, CA",
+      "description": "Great opener to a legendary show. Bob brings it for Bill.",
+      "archive_url": "https://headyversion.com/show/1355/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-09-11",
+      "show_id": 1251,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Rocking kick ass set one closer. Nice treat in a different position adds added dimension to the performance.",
+      "archive_url": "https://headyversion.com/show/1251/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-03-01",
+      "show_id": 1367,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Smoking set two opener, full of fhigh octane bobby screaming and spitting out the lyrics leads into a hot scarlet->fire. What a way to open a set.",
+      "archive_url": "https://headyversion.com/show/1367/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-10",
+      "show_id": 732,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Rocking version on an under rated show",
+      "archive_url": "https://headyversion.com/show/732/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1995-06-21",
+      "show_id": 1609,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1609/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-05",
+      "show_id": 940,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Rocking opener to a great show",
+      "archive_url": "https://headyversion.com/show/940/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-06-22",
+      "show_id": 921,
+      "venue": "Alpine Valley Music Theater East Troy, WI",
+      "description": "HOT SHOW OPENER Billy and mickey are tight on this with some great fills in the verses. Brent shreds as well",
+      "archive_url": "https://headyversion.com/show/921/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-09-21",
+      "show_id": 355,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Pure power.  Phil drives things as he did this entire MSG run.  Jerry's guitar sound is caustic.",
+      "archive_url": "https://headyversion.com/show/355/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-03-27",
+      "show_id": 278,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Great bucket to start off this great 93 show.",
+      "archive_url": "https://headyversion.com/show/278/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1983-09-24",
+      "show_id": 1678,
+      "venue": "Santa Cruz County Fairgrounds Watsonville, CA",
+      "description": "Coming back to the site after 5 years to submit this gem of a bucket. HOT!",
+      "archive_url": "https://headyversion.com/show/1678/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-04-03",
+      "show_id": 1476,
+      "venue": "The Centrum Worcester, MA",
+      "description": "A super-charged version of an excellent song.",
+      "archive_url": "https://headyversion.com/show/1476/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1986-05-10",
+      "show_id": 708,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "A great rockin' version. Definitely my personal favorite. Love the Bobby screams at the end!",
+      "archive_url": "https://headyversion.com/show/708/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-10-19",
+      "show_id": 1170,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1170/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-10-17",
+      "show_id": 1695,
+      "venue": "Grugahalle Essen,",
+      "description": "Very rocking ass kicking opener, loads of high pitched Bobby screams and the band is raging behind him. Great opener",
+      "archive_url": "https://headyversion.com/show/1695/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-07-31",
+      "show_id": 1884,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "Set 2 opener hot and screaming bobby version given a little something extra to open second set.",
+      "archive_url": "https://headyversion.com/show/1884/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-09-08",
+      "show_id": 1848,
+      "venue": "Civic Center Providence, RI",
+      "description": "THis is a truly wicked pairing Hell in a Bucket-> Fire On The Mountain. Hot wicked pairing.",
+      "archive_url": "https://headyversion.com/show/1848/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-05-01",
+      "show_id": 1271,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Rockin high energy with loads of Phil.",
+      "archive_url": "https://headyversion.com/show/1271/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-09-11",
+      "show_id": 631,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "This is a very hot Bucket pairs nicely with a hot touch to open set 2. The intro jam is real nice",
+      "archive_url": "https://headyversion.com/show/631/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-10-08",
+      "show_id": 1121,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "Great Phil Lesh filling",
+      "archive_url": "https://headyversion.com/show/1121/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-10-22",
+      "show_id": 1494,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "Cool stuff right here. Early bucket with tons of Bobby energy.",
+      "archive_url": "https://headyversion.com/show/1494/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-21",
+      "show_id": 1655,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Hot opener from Boston 1991.",
+      "archive_url": "https://headyversion.com/show/1655/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-02-20",
+      "show_id": 1857,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1857/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-04-08",
+      "show_id": 783,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/783/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-03-27",
+      "show_id": 896,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "1/2step>Bucket.............................Nice.....................",
+      "archive_url": "https://headyversion.com/show/896/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-10-04",
+      "show_id": 1506,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Stright up ripping second set opener!",
+      "archive_url": "https://headyversion.com/show/1506/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-03-31",
+      "show_id": 222,
+      "venue": "Marin County Civic Center San Rafael, CA",
+      "description": "Scorching and clean",
+      "archive_url": "https://headyversion.com/show/222/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-03-26",
+      "show_id": 1078,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "fantastic!",
+      "archive_url": "https://headyversion.com/show/1078/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-03-31",
+      "show_id": 1235,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1235/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-06-28",
+      "show_id": 857,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/857/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-09-12",
+      "show_id": 720,
+      "venue": "Capital Centre Landover, MD",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/720/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-04-05",
+      "show_id": 700,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Loud ripping and rocking on fire right out of the gate on this night into an equally hot sugaree",
+      "archive_url": "https://headyversion.com/show/700/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-09-20",
+      "show_id": 620,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Ripping version a great rocker to open a really hot and rocking set 2. Loaded with rock star cheesy bobby. Loads of fun",
+      "archive_url": "https://headyversion.com/show/620/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-12-10",
+      "show_id": 1128,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1128/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-04-09",
+      "show_id": 1478,
+      "venue": "Orlando Arena Orlando, FL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1478/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-27",
+      "show_id": 922,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/922/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-08-18",
+      "show_id": 242,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Explosive show opener. Wire to wire intensity, energy and execution. A must-hear for Bucket fans.",
+      "archive_url": "https://headyversion.com/show/242/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-06-05",
+      "show_id": 228,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Charging, gnarly version to open the proceedings before the dish-off off to a soaring Sugaree",
+      "archive_url": "https://headyversion.com/show/228/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-09-08",
+      "show_id": 1560,
+      "venue": "Coliseum Richfield, OH",
+      "description": "Great opener for Vince's second show. Jerry's solos are rippin' and Bob's possessed. Nice subtle work from Vinny.",
+      "archive_url": "https://headyversion.com/show/1560/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-17",
+      "show_id": 616,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Get this St. Patrick's day off to an appropriately rowdy start. Even the accordion works here.",
+      "archive_url": "https://headyversion.com/show/616/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-10-12",
+      "show_id": 1511,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Energetic romp! This one slaps!",
+      "archive_url": "https://headyversion.com/show/1511/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-07-04",
+      "show_id": 1862,
+      "venue": "Five Seasons Center Cedar Rapids , IA",
+      "description": "Greasy good ole chopsfest.... freight train of sardonic violence",
+      "archive_url": "https://headyversion.com/show/1862/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-05-13",
+      "show_id": 1212,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "Great First Performance",
+      "archive_url": "https://headyversion.com/show/1212/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-04-07",
+      "show_id": 1408,
+      "venue": "Brendan Bryne Arena East Rutherford, NJ",
+      "description": "Wicked smoking Bucket in a year full of them.",
+      "archive_url": "https://headyversion.com/show/1408/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-03-19",
+      "show_id": 55,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Nice version. Bobby and Phil come through loud on the Senn 441 source. Good rhythm playing, great era for Bob!",
+      "archive_url": "https://headyversion.com/show/55/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-09-12",
+      "show_id": 1682,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Hell In A Bucket, Bertha to open this hot MSG show!!!",
+      "archive_url": "https://headyversion.com/show/1682/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-06-03",
+      "show_id": 1242,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1242/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-04-12",
+      "show_id": 983,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "Probably my favorite '86 show and 2nd hottest song of the night behind killer Straw to end set 1",
+      "archive_url": "https://headyversion.com/show/983/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-04-15",
+      "show_id": 935,
+      "venue": "rosemont chicago, Il",
+      "description": "Takes flight during the final jam!",
+      "archive_url": "https://headyversion.com/show/935/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-10-11",
+      "show_id": 1708,
+      "venue": "Civic Center Augusta, ME",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1708/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-02-27",
+      "show_id": 982,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "I like this one..",
+      "archive_url": "https://headyversion.com/show/982/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-29",
+      "show_id": 213,
+      "venue": "Boston Garden Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/213/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-08-17",
+      "show_id": 1683,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "The show opener at the last Greek run! How is this not mentioned yet?",
+      "archive_url": "https://headyversion.com/show/1683/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-09-08",
+      "show_id": 462,
+      "venue": "Red Rocks Morrison, CO",
+      "description": "Rockin' early version. Bobby may flub a lyric here or there, but dig it, the interplay is on point.",
+      "archive_url": "https://headyversion.com/show/462/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-11-06",
+      "show_id": 1331,
+      "venue": "Henry J Kaiser Convention Center Oakland, CA",
+      "description": "Explodes out of Scarlet...a very dreamy Scarlet. Weird & unexpected, not the let-down some might expect. Not at all. Bob's a bit scraggly though...",
+      "archive_url": "https://headyversion.com/show/1331/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-06-18",
+      "show_id": 108,
+      "venue": "Saratoga Performing Arts Center Saratoga Springs, NY",
+      "description": "High energy early bucket",
+      "archive_url": "https://headyversion.com/show/108/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-11-16",
+      "show_id": 156,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Hot opener",
+      "archive_url": "https://headyversion.com/show/156/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-09-06",
+      "show_id": 843,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Punchy and ready!",
+      "archive_url": "https://headyversion.com/show/843/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-29",
+      "show_id": 2009,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "Scathing scorcher",
+      "archive_url": "https://headyversion.com/show/2009/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-06-13",
+      "show_id": 1871,
+      "venue": "Red Rocks Ampitheatre Morrison, CO",
+      "description": "He was drinkin' last night with a biker",
+      "archive_url": "https://headyversion.com/show/1871/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-06-22",
+      "show_id": 939,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/939/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-07-06",
+      "show_id": 2010,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Thunderous show opener",
+      "archive_url": "https://headyversion.com/show/2010/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-07-22",
+      "show_id": 1346,
+      "venue": "World Music Theater Tinley Park, IL",
+      "description": "Nice way to end the first set",
+      "archive_url": "https://headyversion.com/show/1346/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-06-23",
+      "show_id": 112,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "exemplary soaring freakout",
+      "archive_url": "https://headyversion.com/show/112/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-10-18",
+      "show_id": 1873,
+      "venue": "Keifer Lakefront Arena New Orleans, LA",
+      "description": "Great vocals from Bobby (minus the ending of this song, which is, you know lol) Solid one",
+      "archive_url": "https://headyversion.com/show/1873/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-06-21",
+      "show_id": 2012,
+      "venue": "Kingswood Music Theater Maple, ON",
+      "description": "Great, uptempo show opener!",
+      "archive_url": "https://headyversion.com/show/2012/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-04-14",
+      "show_id": 696,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "Bob rocks the outstanding vocals and Jerry delivers as usual",
+      "archive_url": "https://headyversion.com/show/696/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-04-16",
+      "show_id": 1549,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Tight, excellent Bob vox, hot Garcia JerryBerry jam 3:18 \u2013 4:20",
+      "archive_url": "https://headyversion.com/show/1549/archive/"
+    }
+  ]
+}

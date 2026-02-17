@@ -1,0 +1,30 @@
+{
+  "song_id": 210,
+  "name": "Pride of Cucamonga",
+  "performances": [
+    {
+      "votes": 8,
+      "date": "1977-02-17",
+      "show_id": 1035,
+      "venue": "Arista Studios Unknown, CA",
+      "description": "A Prdie of Cucamonga tags along into these only OK Terrapin outtakes (Feb. 20th Outtakes are much better)",
+      "archive_url": "https://headyversion.com/show/1035/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1974-06-27",
+      "show_id": 2182,
+      "venue": "Mars Hotel Cucamonga,",
+      "description": "the one from the album",
+      "archive_url": "https://headyversion.com/show/2182/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-08-04",
+      "show_id": 2197,
+      "venue": "Record Plant Sausalito, CA",
+      "description": "Another acoustic studio demo but this time with Phil doing all the work. I wish they actually played this song live. From Beyond Description",
+      "archive_url": "https://headyversion.com/show/2197/archive/"
+    }
+  ]
+}

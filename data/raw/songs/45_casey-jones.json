@@ -1,0 +1,1646 @@
+{
+  "song_id": 45,
+  "name": "Casey Jones",
+  "performances": [
+    {
+      "votes": 81,
+      "date": "1977-10-02",
+      "show_id": 333,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "the return this is a ripper",
+      "archive_url": "https://headyversion.com/show/333/archive/"
+    },
+    {
+      "votes": 56,
+      "date": "1971-08-06",
+      "show_id": 13,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Funky happy singalong clappin",
+      "archive_url": "https://headyversion.com/show/13/archive/"
+    },
+    {
+      "votes": 45,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "From Dick's Picks 4. Crunchy, stoked up tear. Opening tune of a legendary show.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 40,
+      "date": "1972-08-27",
+      "show_id": 18,
+      "venue": "Old Renaissance Faire Grounds Veneta, OR",
+      "description": "All I can say is: This is the cream of Casey Joneses. Pure awesomeness",
+      "archive_url": "https://headyversion.com/show/18/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1971-04-27",
+      "show_id": 594,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Should be on the list",
+      "archive_url": "https://headyversion.com/show/594/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1972-04-08",
+      "show_id": 524,
+      "venue": "Wembley Empire Pool London,",
+      "description": "Fierce performance, hard driving ripper.",
+      "archive_url": "https://headyversion.com/show/524/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1972-04-24",
+      "show_id": 737,
+      "venue": "Rheinhalle Dusseldorf,",
+      "description": "\"Thunderous\" is the word for this version. One of E72's best.",
+      "archive_url": "https://headyversion.com/show/737/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1992-06-20",
+      "show_id": 329,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "the breakout, coming out of space complete with the billy train horn",
+      "archive_url": "https://headyversion.com/show/329/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1977-10-28",
+      "show_id": 638,
+      "venue": "Soldiers' and Sailors' Memorial Hall Kansas City, KS",
+      "description": "Seething, edgy, hard rocking ending this one.  ENERGY!",
+      "archive_url": "https://headyversion.com/show/638/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1973-05-26",
+      "show_id": 536,
+      "venue": "Kezar Stadium San Francisco, CA",
+      "description": "Keith's awesome",
+      "archive_url": "https://headyversion.com/show/536/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1978-12-31",
+      "show_id": 356,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Classic, how am I the first to vote for this?",
+      "archive_url": "https://headyversion.com/show/356/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1973-06-26",
+      "show_id": 67,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "Laid-back show opener...cool points for the transition into unusual",
+      "archive_url": "https://headyversion.com/show/67/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1973-06-22",
+      "show_id": 522,
+      "venue": "Pacific Coliseum Vancouver, BC",
+      "description": "Encore version, the band sounds exausted yet they bring the house down with this one.",
+      "archive_url": "https://headyversion.com/show/522/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1972-11-17",
+      "show_id": 957,
+      "venue": "Century II Convention Hall Wichita, KS",
+      "description": "Laid back groove and the vocals lock in nicely. The Dave's Picks polish makes it a must.",
+      "archive_url": "https://headyversion.com/show/957/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1972-05-13",
+      "show_id": 51,
+      "venue": "Lille Fairgrounds Lille,",
+      "description": "Slowed down and not coked out. Pretty.",
+      "archive_url": "https://headyversion.com/show/51/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1971-12-02",
+      "show_id": 500,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Boston Music Hall - Band forgot how to end it and started back up again; crowd goes crazy when mirror ball lit up",
+      "archive_url": "https://headyversion.com/show/500/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1972-05-07",
+      "show_id": 445,
+      "venue": "Bickershaw Festival Wigan,",
+      "description": "another hot one to end set one",
+      "archive_url": "https://headyversion.com/show/445/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1970-05-02",
+      "show_id": 27,
+      "venue": "Harpur College Binghamton, NY",
+      "description": "No fuckin way this isnt listed.  Its crisp as can be and amongst a pure epic set!",
+      "archive_url": "https://headyversion.com/show/27/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-10-18",
+      "show_id": 657,
+      "venue": "Fox Theater St. Louis, MO",
+      "description": "Hot show closer",
+      "archive_url": "https://headyversion.com/show/657/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-04-14",
+      "show_id": 135,
+      "venue": "Tivolis Koncertsal Copenhagen, DN",
+      "description": "Another hot set 1 closer from europe",
+      "archive_url": "https://headyversion.com/show/135/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-12-19",
+      "show_id": 442,
+      "venue": "Curtis Hixon Convention Hall Tampa, FL",
+      "description": "Super chill but funky version.  Like no other version I have heard before.",
+      "archive_url": "https://headyversion.com/show/442/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-05-26",
+      "show_id": 575,
+      "venue": "Strand Lyceum London,",
+      "description": "Near flawless version from a near flawless tour.  The whole band is locked in on the home stretch here, and keith is hammerin' away on those ivories..",
+      "archive_url": "https://headyversion.com/show/575/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1969-12-12",
+      "show_id": 1383,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "Such a  crisp and clean version.",
+      "archive_url": "https://headyversion.com/show/1383/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1993-03-27",
+      "show_id": 278,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Final Version. Last song of first set.",
+      "archive_url": "https://headyversion.com/show/278/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1974-08-04",
+      "show_id": 772,
+      "venue": "Philadelphia Civic Center Philadelphia, PA",
+      "description": "Slower than usual, but grooves and soars... Thought out, precise, and delicate this Casey is surely a gem",
+      "archive_url": "https://headyversion.com/show/772/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1992-12-16",
+      "show_id": 341,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "Really fun latter day version. I believe it is the second to last played. The boys get into it, and reassure the crowd they arent quite done yet.",
+      "archive_url": "https://headyversion.com/show/341/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1972-05-11",
+      "show_id": 14,
+      "venue": "Rotterdam Civic Hall Rotterdam,",
+      "description": "Hard hitting closer of first set at epic Rotterdam.",
+      "archive_url": "https://headyversion.com/show/14/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1971-11-15",
+      "show_id": 446,
+      "venue": "The Austin Municipal Auditorium Austin, TX",
+      "description": "After Dark Star",
+      "archive_url": "https://headyversion.com/show/446/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1972-04-07",
+      "show_id": 1070,
+      "venue": "Wembley Empire Pool London,",
+      "description": "Sweet closer to set one first night Europe 72 tour",
+      "archive_url": "https://headyversion.com/show/1070/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1972-04-26",
+      "show_id": 471,
+      "venue": "Jahrhunderthalle Frankfurt,",
+      "description": "second set version from europe 72",
+      "archive_url": "https://headyversion.com/show/471/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1973-04-02",
+      "show_id": 50,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Not normally a huge fan of this live, but it gets really hot in the last few minutes. So good",
+      "archive_url": "https://headyversion.com/show/50/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1979-01-15",
+      "show_id": 460,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "This one does not disappoint in the middle of a week of hot Casey Joneses.",
+      "archive_url": "https://headyversion.com/show/460/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1971-12-10",
+      "show_id": 86,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "A lot like the wild December 2 Casey, without the extra solo at the end. A fantastic, complete build-up. Keith goes nuts. Great energy!",
+      "archive_url": "https://headyversion.com/show/86/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-03-28",
+      "show_id": 646,
+      "venue": "Academy of Music New York, NY",
+      "description": "Drivin' version here.  This show deserves some more props.",
+      "archive_url": "https://headyversion.com/show/646/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-01-02",
+      "show_id": 415,
+      "venue": "Fillmore East (Late Show) New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/415/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1974-06-23",
+      "show_id": 92,
+      "venue": "Jai-Alai Fronton Miami, FL",
+      "description": "Cherry on top of a great show",
+      "archive_url": "https://headyversion.com/show/92/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1973-11-17",
+      "show_id": 430,
+      "venue": "Pauley Pavilion - University of California Los Angeles, CA",
+      "description": "Encore of an epic show.  This one deserves to be on the list.",
+      "archive_url": "https://headyversion.com/show/430/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-04-11",
+      "show_id": 528,
+      "venue": "Newcastle City Hall Newcastle,",
+      "description": "cocaine",
+      "archive_url": "https://headyversion.com/show/528/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-09-27",
+      "show_id": 583,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "I love this show!  Great 72 Casey!",
+      "archive_url": "https://headyversion.com/show/583/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-09-17",
+      "show_id": 584,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "Powerful version from one of the strongest overall September '72 shows.",
+      "archive_url": "https://headyversion.com/show/584/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-05-04",
+      "show_id": 549,
+      "venue": "Olympia Theater Paris,",
+      "description": "Nice end to a nice set 1",
+      "archive_url": "https://headyversion.com/show/549/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-07-02",
+      "show_id": 1088,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Truly spectacular version, tight and sung very well. Stays close to album version but is played exceptionally with nice back up from Bobby",
+      "archive_url": "https://headyversion.com/show/1088/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1992-06-28",
+      "show_id": 231,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "encore, the next version after the break out in RFK",
+      "archive_url": "https://headyversion.com/show/231/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1984-06-26",
+      "show_id": 725,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "Opening of the show is beyond dead description!",
+      "archive_url": "https://headyversion.com/show/725/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-04-29",
+      "show_id": 819,
+      "venue": "Musikhalle Hamburg,",
+      "description": "Another hot set one closer in Europe",
+      "archive_url": "https://headyversion.com/show/819/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "Opens the electric set of the early show",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-05-25",
+      "show_id": 401,
+      "venue": "Strand Lyceum London, UK",
+      "description": "Sweet",
+      "archive_url": "https://headyversion.com/show/401/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-04-17",
+      "show_id": 40,
+      "venue": "Dillon Gym Princeton, NJ",
+      "description": "Jerry really drives that train back then.",
+      "archive_url": "https://headyversion.com/show/40/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1974-02-23",
+      "show_id": 360,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/360/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-10-31",
+      "show_id": 287,
+      "venue": "Ohio Theatre Columbus, OH",
+      "description": "Like the Jack Straw earlier, they take a slower deliberate pace to create a new vibe. Here you can hear them jam with over the sound of a train. Cool.",
+      "archive_url": "https://headyversion.com/show/287/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-05-10",
+      "show_id": 745,
+      "venue": "Concertgebouw Amsterdam,",
+      "description": "Interesting version, very unique show for that matter. Good stuff, Europe '72 so you know it's good",
+      "archive_url": "https://headyversion.com/show/745/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1974-10-17",
+      "show_id": 556,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Steal Your Face Version",
+      "archive_url": "https://headyversion.com/show/556/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-04-17",
+      "show_id": 399,
+      "venue": "Tivolis Koncertsal K\u00f8benhavn (Copenhagen),",
+      "description": "Europe set 2 opener",
+      "archive_url": "https://headyversion.com/show/399/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-03-21",
+      "show_id": 1258,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Plugged in and slashingly (\"thwok! thwok! thwok! thwok\")! energetic opener for a rowdy crowd.",
+      "archive_url": "https://headyversion.com/show/1258/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-07-31",
+      "show_id": 134,
+      "venue": "Yale Bowl, Yale University New Haven, CT",
+      "description": "another wonderful rocking fast paced energetic version, full on heady performance",
+      "archive_url": "https://headyversion.com/show/134/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-10-23",
+      "show_id": 1426,
+      "venue": "Easttown Theatre Detroit, MI",
+      "description": "Crunching, banging and crunching some more raw one here that's got a strong kick to it.",
+      "archive_url": "https://headyversion.com/show/1426/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-11-24",
+      "show_id": 850,
+      "venue": "Dallas Memorial Auditorium Dallas, TX",
+      "description": "For Phil and Keith lovers - speedy little devil right here.",
+      "archive_url": "https://headyversion.com/show/850/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1973-12-01",
+      "show_id": 1349,
+      "venue": "Music Hall Boston, MA",
+      "description": "Nice mellow reading very different feel to it. Keith is outstanding.",
+      "archive_url": "https://headyversion.com/show/1349/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-08-07",
+      "show_id": 1323,
+      "venue": "Golden Hall San Diego, CA",
+      "description": "I know its not on archive but this version is miles better than anything else on this list",
+      "archive_url": "https://headyversion.com/show/1323/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-12-09",
+      "show_id": 1164,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "One of the best. I'm amazed it hasn't beed posted yet.",
+      "archive_url": "https://headyversion.com/show/1164/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-02-19",
+      "show_id": 539,
+      "venue": "International Amphitheatre Chicago, IL",
+      "description": "Not my favorite song but this show ender has high energy!!",
+      "archive_url": "https://headyversion.com/show/539/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1984-11-02",
+      "show_id": 930,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "1984 yes please!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/930/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-02-15",
+      "show_id": 364,
+      "venue": "Dane County Coliseum Madison, WI",
+      "description": "Follows a tasty \"Playing\" to wrap up Set I. There are problems with the sound (AUD patch), which just lets you hear the crowd roar.",
+      "archive_url": "https://headyversion.com/show/364/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-05-03",
+      "show_id": 80,
+      "venue": "Olympia Theater Paris,",
+      "description": "Another hot one to close set one, its standard position in Europe",
+      "archive_url": "https://headyversion.com/show/80/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-05-18",
+      "show_id": 290,
+      "venue": "Kongressaal, Deutsches Museum Munich, DE",
+      "description": "Very hard rocking set closer",
+      "archive_url": "https://headyversion.com/show/290/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-07-10",
+      "show_id": 1185,
+      "venue": "St. Paul Civic Center Arena St. Paul, MN",
+      "description": "Nice surprise encore, really enjoyable not many brent casey joneses",
+      "archive_url": "https://headyversion.com/show/1185/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1979-12-28",
+      "show_id": 550,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "I love this under the radar show.  Great playing and groove all night.  This Casey is a perfect show closer.",
+      "archive_url": "https://headyversion.com/show/550/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-09-03",
+      "show_id": 664,
+      "venue": "Folsom Field, University of Colorado Boulder, CO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/664/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-02-18",
+      "show_id": 130,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Set two opener",
+      "archive_url": "https://headyversion.com/show/130/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-06-05",
+      "show_id": 748,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Out of St Stephen to close the show...sweet stuff when combined",
+      "archive_url": "https://headyversion.com/show/748/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-06-27",
+      "show_id": 721,
+      "venue": "Veterans Auditorium Santa Rosa, CA",
+      "description": "2nd ever, with a long cool intro that sounds a bit like Row Jimmy.  This one's a beaut from a show full of great rarities (Slewfoot opener!).",
+      "archive_url": "https://headyversion.com/show/721/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-05-24",
+      "show_id": 984,
+      "venue": "Strand Lyceum London,",
+      "description": "set one closer",
+      "archive_url": "https://headyversion.com/show/984/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-03-27",
+      "show_id": 1321,
+      "venue": "Academy of Music New York, NY",
+      "description": "The boys absolutely freaking nail this one, close to perfection. Tight lyrics perfect instrumentation. Highly recommended whole show is tight.",
+      "archive_url": "https://headyversion.com/show/1321/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-09-01",
+      "show_id": 1934,
+      "venue": "Baton Rouge International Speedway Baton Rouge, LA",
+      "description": "After an interesting introduction you get a really cool jammed out early casey jones the intro jam is rather tasty",
+      "archive_url": "https://headyversion.com/show/1934/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-08-21",
+      "show_id": 1122,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "Phil up the neck and Keith throwing ragtime with Jer and Bob belting out the chorus...this train gets barrelin'.",
+      "archive_url": "https://headyversion.com/show/1122/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-12-14",
+      "show_id": 1095,
+      "venue": "Hill Auditorium Ann Arbor, MI",
+      "description": "Amazing first set closer....makes you feel like a racehorse with a head full of blow as the song speeds up at the end. Hot!",
+      "archive_url": "https://headyversion.com/show/1095/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-04-13",
+      "show_id": 1423,
+      "venue": "Catholic Youth Center Scranton, PA",
+      "description": "Bob's belting it out hard on this one.",
+      "archive_url": "https://headyversion.com/show/1423/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-10-24",
+      "show_id": 1134,
+      "venue": "Easttown Theatre Detroit, MI",
+      "description": "Bar room jukin on this one. Loose but deliberate at the same time.",
+      "archive_url": "https://headyversion.com/show/1134/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-05-23",
+      "show_id": 400,
+      "venue": "Strand Lyceum London, UK",
+      "description": "Not Flashy, Just Exactly Perfect Though",
+      "archive_url": "https://headyversion.com/show/400/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-11-20",
+      "show_id": 1071,
+      "venue": "Denver Coliseum Denver, CO",
+      "description": "You need to listen to this one!",
+      "archive_url": "https://headyversion.com/show/1071/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-12-26",
+      "show_id": 960,
+      "venue": "McFarlin Auditorium, SMU Dallas, TX",
+      "description": "The music sounds like something you'd hear being played at a carnival.",
+      "archive_url": "https://headyversion.com/show/960/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-07-21",
+      "show_id": 1411,
+      "venue": "Paramount Northwest Theater Seattle, WA",
+      "description": "Surprised this has no votes. This version is played with a level of energy and precision CJ rarely ever got. Great set 2 opener.",
+      "archive_url": "https://headyversion.com/show/1411/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-11-25",
+      "show_id": 1305,
+      "venue": "Feyline Field Tempe, AZ",
+      "description": "And you know that notion to add this just crossed my mind",
+      "archive_url": "https://headyversion.com/show/1305/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-09-09",
+      "show_id": 140,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Nobody likes this song",
+      "archive_url": "https://headyversion.com/show/140/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-10-17",
+      "show_id": 498,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Do whatever's natural",
+      "archive_url": "https://headyversion.com/show/498/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-08-24",
+      "show_id": 650,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Grate version from a time when the boys were in peak form",
+      "archive_url": "https://headyversion.com/show/650/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1978-11-11",
+      "show_id": 1327,
+      "venue": "Saturday Night Live Live from New York this is, NY",
+      "description": "The band is having fun with it on live TV, even though squeezed into under 4 minutes: http://vimeo.com/35129207. Bobby slides over the disco beat.",
+      "archive_url": "https://headyversion.com/show/1327/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-08-05",
+      "show_id": 48,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Just kickin', this one.  The whole show is dynamite.",
+      "archive_url": "https://headyversion.com/show/48/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-02-11",
+      "show_id": 110,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Exuberent and crisp with pumped up energy... Hmmmm?",
+      "archive_url": "https://headyversion.com/show/110/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-06-22",
+      "show_id": 121,
+      "venue": "Central Park NYC, NY",
+      "description": "cool early version wish there were some crisp soundboards of this available.",
+      "archive_url": "https://headyversion.com/show/121/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1979-02-03",
+      "show_id": 788,
+      "venue": "Market Square Arena Indianapolis, IN",
+      "description": "Great capper to one of the all time greatest set list dont believe me go check it out. FIery rendition real good show",
+      "archive_url": "https://headyversion.com/show/788/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-02-12",
+      "show_id": 1745,
+      "venue": "Ungano's Night Club New York, NY",
+      "description": "The qual on this is unreal -short one but very nice...",
+      "archive_url": "https://headyversion.com/show/1745/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1973-03-31",
+      "show_id": 559,
+      "venue": "War Memorial Buffalo, NY",
+      "description": "hot encore, love a casey jones encore.",
+      "archive_url": "https://headyversion.com/show/559/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-03-21",
+      "show_id": 391,
+      "venue": "Academy of Music New York City, NY",
+      "description": "Another gem from these pre Europe shows at the Academy.  This show just has such an amazing energy.  Love Billy on this one!!!",
+      "archive_url": "https://headyversion.com/show/391/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-12-07",
+      "show_id": 16,
+      "venue": "Felt Forum, Madison Square Garden New York, NY",
+      "description": "This version is short, but spot on.",
+      "archive_url": "https://headyversion.com/show/16/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-11-08",
+      "show_id": 796,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Upbeat and well-played version. Not a mind-blower, but builds up to a pretty sweet peak into a nice Truckin'",
+      "archive_url": "https://headyversion.com/show/796/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-07-26",
+      "show_id": 1018,
+      "venue": "Paramount Theater Portland, OR",
+      "description": "Jerry's guitar soars on this one. Really good vocals, too.",
+      "archive_url": "https://headyversion.com/show/1018/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1995-04-01",
+      "show_id": 1268,
+      "venue": "Pyramid Arena Memphis, TN",
+      "description": "Very cool soundcheck version released on the 2018 30 Days of Dead. It would've been cool if they busted out at this great Memphis show.",
+      "archive_url": "https://headyversion.com/show/1268/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1973-05-20",
+      "show_id": 601,
+      "venue": "U.C.  Santa Barbara, CA",
+      "description": "Heater!",
+      "archive_url": "https://headyversion.com/show/601/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-02-02",
+      "show_id": 589,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Hot show opener",
+      "archive_url": "https://headyversion.com/show/589/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-11-02",
+      "show_id": 390,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "A super friendly and uptempo version. Love the organ on this one - so soulful and fun.",
+      "archive_url": "https://headyversion.com/show/390/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1974-06-16",
+      "show_id": 507,
+      "venue": "Iowa State Fairgrounds Des Moines, IA",
+      "description": "Keith and Billy really shine hear, and Phil is most excellent",
+      "archive_url": "https://headyversion.com/show/507/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-05-23",
+      "show_id": 802,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "One of my all-time fav shows!!!!!!!!!!!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/802/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-08-01",
+      "show_id": 370,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "Closes 1st set with a smooth but up-and-jumping version.",
+      "archive_url": "https://headyversion.com/show/370/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-10-23",
+      "show_id": 651,
+      "venue": "Metropolitan Sports Center Bloomington, MN",
+      "description": "Interrupted by bad fight in front of the stage. Phil goes bonkers, calls the security guard \"Asshole\". Weird scene/bad vibes.",
+      "archive_url": "https://headyversion.com/show/651/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-08-03",
+      "show_id": 604,
+      "venue": "Starlight Theatre Kansas City, MO",
+      "description": "Jerry is on fire in this one!!!",
+      "archive_url": "https://headyversion.com/show/604/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-11-02",
+      "show_id": 607,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Rocking Casey Jones, first one with Brent. The band sounds completely revitalized with a new keyboard player.",
+      "archive_url": "https://headyversion.com/show/607/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-07",
+      "show_id": 1601,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Intense, driving energy. Phil belts out the chorus like his life depends on it.",
+      "archive_url": "https://headyversion.com/show/1601/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-08-23",
+      "show_id": 1172,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "They announce the set-break, then decide to blow out the tubes on this one, capping one of the best 1st sets of 1971.",
+      "archive_url": "https://headyversion.com/show/1172/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-08-30",
+      "show_id": 1530,
+      "venue": "KQED Studios San Francisco, CA",
+      "description": "The fact that you can watch them play this live is reason enough to vote for it - it's on youtube! KQED \"celebration",
+      "archive_url": "https://headyversion.com/show/1530/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-10-28",
+      "show_id": 1539,
+      "venue": "Cleveland Public Hall Cleveland, OH",
+      "description": "Just outrageous. Problematic show b/c of mix and cuts in the source. Not here: just a blizzard of jam.",
+      "archive_url": "https://headyversion.com/show/1539/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-12-04",
+      "show_id": 1325,
+      "venue": "Cincinnati Gardens Cincinnati, OH",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1325/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-12-10",
+      "show_id": 1211,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Solid high-energy version, Jerry's singing to beat the band.",
+      "archive_url": "https://headyversion.com/show/1211/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-08-04",
+      "show_id": 396,
+      "venue": "Terminal Island Correctional Facility San Pedro, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/396/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-06-07",
+      "show_id": 738,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Wow this is an impressive early casey jones, full of energy and with that wonderful prankster edge.",
+      "archive_url": "https://headyversion.com/show/738/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-01-03",
+      "show_id": 122,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Another fantastic early version in the late show, terrific stuff",
+      "archive_url": "https://headyversion.com/show/122/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-21",
+      "show_id": 1538,
+      "venue": "Rhode Island Auditorium Providence, RI",
+      "description": "Such a great show opener and this one does not disappoint. Very spirited reading",
+      "archive_url": "https://headyversion.com/show/1538/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-24",
+      "show_id": 1979,
+      "venue": "Wallace Wade Stadium, Duke University Durham, NC",
+      "description": "High energy from an excellent 1971 concert from top to bottom",
+      "archive_url": "https://headyversion.com/show/1979/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-02-17",
+      "show_id": 569,
+      "venue": "St. Paul Auditorium St. Paul, MN",
+      "description": "Pure Jerry on the vocals here - starts out deliberate and then goes for a slow long burn on the end - sweet.",
+      "archive_url": "https://headyversion.com/show/569/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-06-21",
+      "show_id": 512,
+      "venue": "Chateau d'Herouville Herouville,",
+      "description": "The boys are loose and having fun they rock this and biff the end - then bring it back.",
+      "archive_url": "https://headyversion.com/show/512/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-10-27",
+      "show_id": 1420,
+      "venue": "Onondaga War Memorial Syracuse, NY",
+      "description": "This is a real nice Casey Jones opener, The miller board is exquisite as usual.",
+      "archive_url": "https://headyversion.com/show/1420/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-08-02",
+      "show_id": 1605,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "This version is seriously jammed out.",
+      "archive_url": "https://headyversion.com/show/1605/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-03-23",
+      "show_id": 1262,
+      "venue": "Academy of Music New York, NY",
+      "description": "''72 Casey Jones 1st set closer - spin it and feel the heat.",
+      "archive_url": "https://headyversion.com/show/1262/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Sorry, thought this Casey Jones should be on here.. Really tight",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-09-15",
+      "show_id": 1889,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Watch yo speed",
+      "archive_url": "https://headyversion.com/show/1889/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-10-29",
+      "show_id": 767,
+      "venue": "Kiel Auditorium St. Louis, MO",
+      "description": "Hot closing rendition with some fast-paced Keith playing",
+      "archive_url": "https://headyversion.com/show/767/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-01-11",
+      "show_id": 31,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Great end to a great 4 night run, 2 MSG and the 2 Nassau shows.  Being the first Casey Jones I saw live makes it special to me, but it smokes.  Give i",
+      "archive_url": "https://headyversion.com/show/31/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-01-17",
+      "show_id": 1081,
+      "venue": "New Haven Coliseum New Haven, CT",
+      "description": "Took me 33 years to hear this one again, don't make the same mistake, it rocks",
+      "archive_url": "https://headyversion.com/show/1081/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-09-17",
+      "show_id": 757,
+      "venue": "Onondaga County War Memorial Syracuse, NY",
+      "description": "Builds and builds and builds, faster hotter faster and hotter. The crowd goes wild (stage antics?)  Something special was in the wind.",
+      "archive_url": "https://headyversion.com/show/757/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-07-07",
+      "show_id": 860,
+      "venue": "Piedmont Park Atlanta, GA",
+      "description": "Has a \"My Girl\" swing to it.",
+      "archive_url": "https://headyversion.com/show/860/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-02-20",
+      "show_id": 1472,
+      "venue": "Fillmore East New York, NY",
+      "description": "What an opener",
+      "archive_url": "https://headyversion.com/show/1472/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-11-10",
+      "show_id": 947,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Nicing driving version to end this great night at Winterland.",
+      "archive_url": "https://headyversion.com/show/947/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-10-23",
+      "show_id": 1754,
+      "venue": "McDonough Arena - Georgetown University Washington, DC",
+      "description": "Live from the nations capital. Teaming with energy, love fall 1970. Jerry's guitar tone and voice are top notch.",
+      "archive_url": "https://headyversion.com/show/1754/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-09-18",
+      "show_id": 1050,
+      "venue": "Fillmore East New York, NY",
+      "description": "Stellar version",
+      "archive_url": "https://headyversion.com/show/1050/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-07-04",
+      "show_id": 1202,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "awesome early version for the birthday of our country",
+      "archive_url": "https://headyversion.com/show/1202/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-07-05",
+      "show_id": 1786,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "another great early version",
+      "archive_url": "https://headyversion.com/show/1786/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-09-30",
+      "show_id": 1112,
+      "venue": "American University Washington, DC",
+      "description": "Real nice slow burner super heady, Jerry is really on and phil is just there bombing away",
+      "archive_url": "https://headyversion.com/show/1112/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-01-10",
+      "show_id": 1188,
+      "venue": "Community Concourse San Diego, CA",
+      "description": "Another great early version loaded with energy",
+      "archive_url": "https://headyversion.com/show/1188/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-01-16",
+      "show_id": 955,
+      "venue": "Springer's Inn Portland Portland, OR",
+      "description": "Another fantastic early Casey Jones full blast off version",
+      "archive_url": "https://headyversion.com/show/955/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-04-12",
+      "show_id": 558,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Another great casey jones from 1970, this is some real amazing early dead.",
+      "archive_url": "https://headyversion.com/show/558/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-05-24",
+      "show_id": 1125,
+      "venue": "Hollywood Music Festival Newcastle-Under-Lyme, EN",
+      "description": "Excellent full energy blast sweet and works so well as an opener, 1970 is such a hot year.",
+      "archive_url": "https://headyversion.com/show/1125/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-06-21",
+      "show_id": 1974,
+      "venue": "Pauley Ballroom, U. of California Berkeley, CA",
+      "description": "another great 1970 Casey Jones",
+      "archive_url": "https://headyversion.com/show/1974/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-26",
+      "show_id": 131,
+      "venue": "Fillmore East New York City, NY",
+      "description": "fantastic version to end set 1",
+      "archive_url": "https://headyversion.com/show/131/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-08-26",
+      "show_id": 592,
+      "venue": "Gaelic Park New York, NY",
+      "description": "another wonderful 1971 Casey Jones,",
+      "archive_url": "https://headyversion.com/show/592/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-05-14",
+      "show_id": 719,
+      "venue": "Merramec Community College Kirkwood, MO",
+      "description": "Tremendous They just kill this version, Bobby's assists on vocals are tremendous and Jerry is almost growling at points, Hot version",
+      "archive_url": "https://headyversion.com/show/719/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-03-05",
+      "show_id": 1524,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "After a pretty sloppy 1st set, they charge up and nail this one. Phil goes bananas on the out chorus.",
+      "archive_url": "https://headyversion.com/show/1524/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-03-22",
+      "show_id": 865,
+      "venue": "Academy of Music NYC, NY",
+      "description": "Insane explosive blowout for the set-closer. Caps an excellent first set with extraordinary energy.",
+      "archive_url": "https://headyversion.com/show/865/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-12-10",
+      "show_id": 750,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Rollicking and hard-charging good time set closer after a brain-melting Playin'.",
+      "archive_url": "https://headyversion.com/show/750/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-14",
+      "show_id": 1006,
+      "venue": "Davis Gym, Bucknell University Lewisburg, PA",
+      "description": "It sounds like Jerry wants to kill the song 3 times, but Bob pushes for more.",
+      "archive_url": "https://headyversion.com/show/1006/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-18",
+      "show_id": 417,
+      "venue": "Lusk Field House - State University Of New York Cortland, NY",
+      "description": "Energetic",
+      "archive_url": "https://headyversion.com/show/417/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1974-07-29",
+      "show_id": 437,
+      "venue": "Capitol Center Landover, MD",
+      "description": "Relaxed",
+      "archive_url": "https://headyversion.com/show/437/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-03-18",
+      "show_id": 416,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Very surprised this tasty selection from the \"30 Trips\" 1971 show is not here yet. Great start to a great show.",
+      "archive_url": "https://headyversion.com/show/416/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-11-12",
+      "show_id": 1571,
+      "venue": "San Antonio Civic Auditorium San Antonio, TX",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1571/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1977-12-31",
+      "show_id": 663,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Long final portion... cool jam in the bridge.",
+      "archive_url": "https://headyversion.com/show/663/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-11-08",
+      "show_id": 743,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Great early version",
+      "archive_url": "https://headyversion.com/show/743/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-11-07",
+      "show_id": 567,
+      "venue": "Harding Theatre San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/567/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-11-17",
+      "show_id": 1542,
+      "venue": "Albuquerque Civic Auditorium Albuquerque, NM",
+      "description": "I like this song",
+      "archive_url": "https://headyversion.com/show/1542/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-02-21",
+      "show_id": 458,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Pretty good climax on this one, which is the key to the song IMO. All-around solid version, surprised it's not on here yet.",
+      "archive_url": "https://headyversion.com/show/458/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-10-19",
+      "show_id": 1176,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Hot first set closer",
+      "archive_url": "https://headyversion.com/show/1176/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-02-13",
+      "show_id": 595,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Caps the early show of this legendary evening in style!",
+      "archive_url": "https://headyversion.com/show/595/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-11-23",
+      "show_id": 797,
+      "venue": "County Coliseum El Paso, TX",
+      "description": "Swings and shimmies before busting out the heavy artillery.",
+      "archive_url": "https://headyversion.com/show/797/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-05-13",
+      "show_id": 371,
+      "venue": "Iowa State Fairgrounds Des Moines, IA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/371/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-11-22",
+      "show_id": 1455,
+      "venue": "Austin Municipal Auditorium Austin, TX",
+      "description": "Ends first set. Love the end jam. Chugga chugga & Keith's adding some sparkly fun. Fun vocals too.",
+      "archive_url": "https://headyversion.com/show/1455/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1974-06-08",
+      "show_id": 640,
+      "venue": "Coliseum Stadium Oakland, CA",
+      "description": "Very strong encore version at a great, seemingly underrated show.",
+      "archive_url": "https://headyversion.com/show/640/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-08-21",
+      "show_id": 1759,
+      "venue": "Aqua Theater Seattle, WA",
+      "description": "Absolutely sweet early version of the classic Grateful Dead tune.",
+      "archive_url": "https://headyversion.com/show/1759/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-07-11",
+      "show_id": 953,
+      "venue": "NY State Pavilion, Flushing Meadow Park Queens, NY",
+      "description": "Rather cool early version of the classic Hunter/Garcia tune.",
+      "archive_url": "https://headyversion.com/show/953/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-13",
+      "show_id": 1887,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "Trouble Ahead Trouble Behind",
+      "archive_url": "https://headyversion.com/show/1887/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1972-11-13",
+      "show_id": 639,
+      "venue": "Soldiers and Sailors Memorial Hall Kansas City, KS",
+      "description": "Absolutely on fire set 2 ender. Jerry is just killing it, very high energy supercharged version.",
+      "archive_url": "https://headyversion.com/show/639/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-10-10",
+      "show_id": 1975,
+      "venue": "Action House Island Park, NY",
+      "description": "after a false start they pull off a nice hot version",
+      "archive_url": "https://headyversion.com/show/1975/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-05-29",
+      "show_id": 1607,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Wonderful opener shows no signs of the recent vacation taken by the boys.",
+      "archive_url": "https://headyversion.com/show/1607/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-08-19",
+      "show_id": 1545,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "what a great old nugget, love the drums on this version.",
+      "archive_url": "https://headyversion.com/show/1545/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-03-14",
+      "show_id": 1224,
+      "venue": "Camp Randall Field House Madison, WI",
+      "description": "Crisp clean casey",
+      "archive_url": "https://headyversion.com/show/1224/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-10-24",
+      "show_id": 1474,
+      "venue": "Kiel Opera House St. Louis, MO",
+      "description": "Good Jerry solo to spice up this basic song.",
+      "archive_url": "https://headyversion.com/show/1474/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-04-30",
+      "show_id": 1587,
+      "venue": "Greensboro Coliseum Greensboro, NC",
+      "description": "Before they start playing, Bob tells the crowd about how there was a train wreck near here and the engineer died, but his memory lives.",
+      "archive_url": "https://headyversion.com/show/1587/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-30",
+      "show_id": 413,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "Odd at times - kinda creepy organ coming from Pigpen.",
+      "archive_url": "https://headyversion.com/show/413/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-07-16",
+      "show_id": 1546,
+      "venue": "Euphoria Ballroom San Rafael, CA",
+      "description": "Solid early version.",
+      "archive_url": "https://headyversion.com/show/1546/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-02-24",
+      "show_id": 503,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/503/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-04-04",
+      "show_id": 1115,
+      "venue": "Manhattan Center NYC, NY",
+      "description": "Diggin' Jerry's phrasing on this one",
+      "archive_url": "https://headyversion.com/show/1115/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1973-02-21",
+      "show_id": 1248,
+      "venue": "Assembly Hall, University Of Illinois Champaign, IL",
+      "description": "overlooked ripper here to end a hot hot set. Not polished but awesome energy!",
+      "archive_url": "https://headyversion.com/show/1248/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-12-05",
+      "show_id": 791,
+      "venue": "Felt Forum - Madison Square Garden New York, NY",
+      "description": "It's nearing the end of 71, Keith is on on board now; their tight and energetic, 72 here they come!",
+      "archive_url": "https://headyversion.com/show/791/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-05",
+      "show_id": 2102,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "unique, spacious laid back Jerry from a great night in 69",
+      "archive_url": "https://headyversion.com/show/2102/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-05-30",
+      "show_id": 1405,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Great version",
+      "archive_url": "https://headyversion.com/show/1405/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-06-04",
+      "show_id": 1394,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "The horniest band in the world....The Grateful Dead!",
+      "archive_url": "https://headyversion.com/show/1394/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-02-20",
+      "show_id": 88,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Opens the show with serious energy. Perfect vocals and great balance of tightness, but bouncy playing. This whole first set is super crisp",
+      "archive_url": "https://headyversion.com/show/88/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-08-15",
+      "show_id": 1606,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "Phil is high in the mix. One of the best '71 versions, I believe.",
+      "archive_url": "https://headyversion.com/show/1606/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-11-14",
+      "show_id": 1171,
+      "venue": "Texas Christian University Fort Worth, TX",
+      "description": "On the wrong track and heady for you",
+      "archive_url": "https://headyversion.com/show/1171/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1973-02-09",
+      "show_id": 99,
+      "venue": "Roscoe Maples Pavilion - Stanford University Palo Alto, CA",
+      "description": "Caps a helluva show in fine form",
+      "archive_url": "https://headyversion.com/show/99/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1973-09-12",
+      "show_id": 1297,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "Perfectly executed. Great ending.",
+      "archive_url": "https://headyversion.com/show/1297/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-12-26",
+      "show_id": 527,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "Speed Issues",
+      "archive_url": "https://headyversion.com/show/527/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1973-07-01",
+      "show_id": 576,
+      "venue": "Universal Amphitheatre Universal City, CA",
+      "description": "Delightful with a great ending.",
+      "archive_url": "https://headyversion.com/show/576/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-02-19",
+      "show_id": 137,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Three From The Vault... C'mon",
+      "archive_url": "https://headyversion.com/show/137/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1972-09-26",
+      "show_id": 779,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "I think '71-'72 was probably the peak for this song...",
+      "archive_url": "https://headyversion.com/show/779/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-11",
+      "show_id": 1627,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "Fun, organ-heavy version!",
+      "archive_url": "https://headyversion.com/show/1627/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-12-13",
+      "show_id": 2212,
+      "venue": "Swing Auditorium  San Bernardino, CA",
+      "description": "Cool,raw Casey Jones!",
+      "archive_url": "https://headyversion.com/show/2212/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-08-26",
+      "show_id": 2106,
+      "venue": "Cleveland Public Auditorium Cleveland, OH",
+      "description": "Bobby slide AND crazy Brent tones what more could you want",
+      "archive_url": "https://headyversion.com/show/2106/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1972-12-15",
+      "show_id": 502,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Strong finish to a great first set at a strangely overlooked show...",
+      "archive_url": "https://headyversion.com/show/502/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-10-19",
+      "show_id": 513,
+      "venue": "Northrop Auditorium, U. of Minn. Minneapolis, MN",
+      "description": "even with a lyric flub, this version speeds down the track",
+      "archive_url": "https://headyversion.com/show/513/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-11-20",
+      "show_id": 1704,
+      "venue": "Pauley Pavilion Los Angeles, CA",
+      "description": "The band hits another gear toward the end, especially after the false ending. I've never heard Billy go as crazy as this before. Great one!",
+      "archive_url": "https://headyversion.com/show/1704/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-10-23",
+      "show_id": 1146,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "Radio City crowd takes the lyrics right out of Jerry's hands. I think even he was a little taken aback by the gesture.",
+      "archive_url": "https://headyversion.com/show/1146/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1972-12-31",
+      "show_id": 920,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Keith really adds some intensity. Do you know where your train is at 2am?",
+      "archive_url": "https://headyversion.com/show/920/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-04-12",
+      "show_id": 1604,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "It can't be said enough how well Bobby plays this show. This is basically a rhythm guitar duel with Jerry, and it kicks ass.",
+      "archive_url": "https://headyversion.com/show/1604/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-03-01",
+      "show_id": 1284,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Trying to locate an east coast show with the train horns",
+      "archive_url": "https://headyversion.com/show/1284/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-11-05",
+      "show_id": 149,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Early Brent show. He shines on the keys here",
+      "archive_url": "https://headyversion.com/show/149/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-04-25",
+      "show_id": 643,
+      "venue": "Fillmore East New York, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/643/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1974-09-21",
+      "show_id": 835,
+      "venue": "Palais Des Sports Paris,",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/835/archive/"
+    }
+  ]
+}

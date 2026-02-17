@@ -1,0 +1,22 @@
+{
+  "song_id": 103,
+  "name": "The Golden Road (to unlimited devotion)",
+  "performances": [
+    {
+      "votes": 17,
+      "date": "1967-05-05",
+      "show_id": 393,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Classic",
+      "archive_url": "https://headyversion.com/show/393/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1967-03-18",
+      "show_id": 15,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "One of the first Dead songs I ever heard way back in the day. Kicks off a raging Set II.",
+      "archive_url": "https://headyversion.com/show/15/archive/"
+    }
+  ]
+}

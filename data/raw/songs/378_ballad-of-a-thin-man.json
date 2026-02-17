@@ -1,0 +1,46 @@
+{
+  "song_id": 378,
+  "name": "Ballad of a Thin Man",
+  "performances": [
+    {
+      "votes": 20,
+      "date": "1988-03-27",
+      "show_id": 223,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Not one version of this on here? Bobby sings the dylan tune quite well. Deserves some votes.",
+      "archive_url": "https://headyversion.com/show/223/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1988-04-01",
+      "show_id": 168,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "This one does it for me. Highlight of this first set.",
+      "archive_url": "https://headyversion.com/show/168/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-06-01",
+      "show_id": 2121,
+      "venue": "Onion Lake Rd Lakehead,",
+      "description": "Otis, The best voice in the world sings Ballad Of A Thin Man",
+      "archive_url": "https://headyversion.com/show/2121/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-07-26",
+      "show_id": 1019,
+      "venue": "Anaheim Stadium Anaheim, CA",
+      "description": "One of the best Dylan songs, played with alacrity. Dylan sneers and seethes, he actually enjoys singing this.",
+      "archive_url": "https://headyversion.com/show/1019/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-07-19",
+      "show_id": 1237,
+      "venue": "Autzen Stadium - University of Oregon Eugene, OR",
+      "description": "The Boys with Bob Dylan and they aint playin round",
+      "archive_url": "https://headyversion.com/show/1237/archive/"
+    }
+  ]
+}

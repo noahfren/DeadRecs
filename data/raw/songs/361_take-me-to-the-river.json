@@ -1,0 +1,38 @@
+{
+  "song_id": 361,
+  "name": "Take Me To The River",
+  "performances": [
+    {
+      "votes": 16,
+      "date": "1995-04-01",
+      "show_id": 1268,
+      "venue": "Pyramid Arena Memphis, TN",
+      "description": "Epic bust out in Memphis, the home of Al Green. Sorry, Talking Heads did not write the song.  Firm believer this was the best run in 1995.",
+      "archive_url": "https://headyversion.com/show/1268/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1995-06-30",
+      "show_id": 181,
+      "venue": "Three Rivers Stadium Pittsburgh, PA",
+      "description": "Fun pittsburgh show in the pouring rain, not the total let down many summer 1995 shows were, this was a rare treat",
+      "archive_url": "https://headyversion.com/show/181/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-06-21",
+      "show_id": 1609,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Nice rare cover of the classic Al Green tune, also covered by the Talking Heads. Perfect Bobby cover choice.",
+      "archive_url": "https://headyversion.com/show/1609/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-07-06",
+      "show_id": 1735,
+      "venue": "Riverport Amphitheatre Maryland Heights, MO",
+      "description": "Rare late era take on the al green classic",
+      "archive_url": "https://headyversion.com/show/1735/archive/"
+    }
+  ]
+}

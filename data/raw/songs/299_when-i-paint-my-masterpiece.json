@@ -1,0 +1,670 @@
+{
+  "song_id": 299,
+  "name": "When I Paint My Masterpiece",
+  "performances": [
+    {
+      "votes": 40,
+      "date": "1990-03-29",
+      "show_id": 188,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "epic when i paint masterpiece right before branford comes on stage",
+      "archive_url": "https://headyversion.com/show/188/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1989-07-04",
+      "show_id": 820,
+      "venue": "Rich Stadium Orchard Park, NY",
+      "description": "jerry shreds it",
+      "archive_url": "https://headyversion.com/show/820/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1987-09-18",
+      "show_id": 200,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Is it really a contest? This version \"goes to 11\"",
+      "archive_url": "https://headyversion.com/show/200/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1990-03-25",
+      "show_id": 299,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Such a nice version, included on Dozin' at the Knick -- this is my \"go-to\" Masterpiece.",
+      "archive_url": "https://headyversion.com/show/299/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1991-06-17",
+      "show_id": 296,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Great version with a healthy Dark Star tease before it.",
+      "archive_url": "https://headyversion.com/show/296/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1990-07-18",
+      "show_id": 183,
+      "venue": "Deer Creek Music Theater Noblesville, IN",
+      "description": "Sweet masterpiece",
+      "archive_url": "https://headyversion.com/show/183/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1987-10-03",
+      "show_id": 618,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Cool version",
+      "archive_url": "https://headyversion.com/show/618/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1989-10-11",
+      "show_id": 1272,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "My favorite version- from Postcards of the Hanging",
+      "archive_url": "https://headyversion.com/show/1272/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1990-07-10",
+      "show_id": 1260,
+      "venue": "Carter-Finley Stadium Raleigh, NC",
+      "description": "The crowd/storm reactions in the AUD are spine tingling !!",
+      "archive_url": "https://headyversion.com/show/1260/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1988-03-31",
+      "show_id": 1235,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "A nice Road Trips version.",
+      "archive_url": "https://headyversion.com/show/1235/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1987-12-31",
+      "show_id": 49,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "Jerry's vocal boisterousness mixed with Bobby's at the end makes it $$$",
+      "archive_url": "https://headyversion.com/show/49/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1993-05-27",
+      "show_id": 376,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "The perfect backdrop to this outdoor show.",
+      "archive_url": "https://headyversion.com/show/376/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1995-04-01",
+      "show_id": 1268,
+      "venue": "Pyramid Arena Memphis, TN",
+      "description": "Really on performance, this is a real animated performance, Vince is shinning, Jerry even throws in some sweet backing vocals.",
+      "archive_url": "https://headyversion.com/show/1268/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1993-03-11",
+      "show_id": 1485,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1485/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1987-07-26",
+      "show_id": 1019,
+      "venue": "Anaheim Stadium Anaheim, CA",
+      "description": "Butter.",
+      "archive_url": "https://headyversion.com/show/1019/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1988-04-01",
+      "show_id": 168,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "this version is my favorite",
+      "archive_url": "https://headyversion.com/show/168/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-04-03",
+      "show_id": 157,
+      "venue": "The Omni Atlanta, GA",
+      "description": "They found the right (slower) tempo for this in later years. Also Bobby learned not to oversing. The moments when his voice fills with rage now work.",
+      "archive_url": "https://headyversion.com/show/157/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-09-22",
+      "show_id": 234,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/234/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-06-06",
+      "show_id": 265,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/265/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1992-12-06",
+      "show_id": 1520,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Not Knickerbocker Arena but Compton Terrace. Blazing version, huge passion and a rollicking vibe!",
+      "archive_url": "https://headyversion.com/show/1520/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-03-18",
+      "show_id": 1024,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Tremendous Dylan cover, this is terrific Hot Spring 1990",
+      "archive_url": "https://headyversion.com/show/1024/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-06-21",
+      "show_id": 199,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Summer solstice",
+      "archive_url": "https://headyversion.com/show/199/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-09-07",
+      "show_id": 352,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "Vince's first show has the extra verse that The Band did in their version. \"Sailing 'round the world...\"",
+      "archive_url": "https://headyversion.com/show/352/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-07-17",
+      "show_id": 53,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "i cant believe this whole show has been voted on but this song, a good one with jerry belting back ups. love these versions",
+      "archive_url": "https://headyversion.com/show/53/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-08-18",
+      "show_id": 436,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/436/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1995-07-09",
+      "show_id": 198,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "From the legendary final show. Also the finest masterpiece ever created",
+      "archive_url": "https://headyversion.com/show/198/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-06-09",
+      "show_id": 374,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Good vocals, love Phil's bass.",
+      "archive_url": "https://headyversion.com/show/374/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-09-18",
+      "show_id": 2023,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "They start this one out very stark and build the intensity wonderfully as the song progresses, a very nice Bobby performance, Phil is thunderous !",
+      "archive_url": "https://headyversion.com/show/2023/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-06-25",
+      "show_id": 306,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "sweet",
+      "archive_url": "https://headyversion.com/show/306/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-06-24",
+      "show_id": 1823,
+      "venue": "Autzen Stadium Eugene, OR",
+      "description": "Beautiful version Brent really shines in this one",
+      "archive_url": "https://headyversion.com/show/1823/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-08-18",
+      "show_id": 242,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Bob nails it. I dig that Hornsby accordian.",
+      "archive_url": "https://headyversion.com/show/242/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-10-27",
+      "show_id": 1313,
+      "venue": "The Zenith Paris,",
+      "description": "Eloquent Jerry solo elevates this one unexpectedly.",
+      "archive_url": "https://headyversion.com/show/1313/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-09-16",
+      "show_id": 1947,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Bobby colors this one finely and Jer dishes the backup vocals and riffs perfectly - they nail the changes to make this one glow. (matrix)",
+      "archive_url": "https://headyversion.com/show/1947/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-10-06",
+      "show_id": 1769,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1769/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-13",
+      "show_id": 1285,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Jerry giving it a touch of that country twang.",
+      "archive_url": "https://headyversion.com/show/1285/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-04",
+      "show_id": 1342,
+      "venue": "Richfield Coliseum Richfield, Oh",
+      "description": "Jerry really gets into this one on the vocals.",
+      "archive_url": "https://headyversion.com/show/1342/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-07-12",
+      "show_id": 166,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "The boys had the odasity to play this song during their set at Giants stadium during the Dylan and the Dead tour, and rightfully so!",
+      "archive_url": "https://headyversion.com/show/166/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-06-13",
+      "show_id": 977,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "first time played",
+      "archive_url": "https://headyversion.com/show/977/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-12-31",
+      "show_id": 862,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "truly a magnificent version, have listened to it many times",
+      "archive_url": "https://headyversion.com/show/862/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-06-09",
+      "show_id": 227,
+      "venue": "Buckeye Lake Music Center Hebron, OH",
+      "description": "Nice version, with some emotive singing from Bob and Hornsby's accordion support.",
+      "archive_url": "https://headyversion.com/show/227/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-10-27",
+      "show_id": 496,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "And with that, every song from this incredible show has been submitted.",
+      "archive_url": "https://headyversion.com/show/496/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-03-18",
+      "show_id": 1089,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Bob really belts it out. Great energy and solos.",
+      "archive_url": "https://headyversion.com/show/1089/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-06-15",
+      "show_id": 548,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/548/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-04-03",
+      "show_id": 1048,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1048/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-04-14",
+      "show_id": 1677,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1677/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-09-24",
+      "show_id": 1276,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Phil, Bobby, Jerry and Vince playing unplugged, Better then some of the acoustic sets from 1970.",
+      "archive_url": "https://headyversion.com/show/1276/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-05-16",
+      "show_id": 304,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Right after the \"eating candy\" verse, you can hear the band find the pocket and really tear thru the rest of the song.  My favorite!",
+      "archive_url": "https://headyversion.com/show/304/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-10-23",
+      "show_id": 1028,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Pretty hot version, just wish Brent threw in a \"when I paint\" at the end",
+      "archive_url": "https://headyversion.com/show/1028/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-12-30",
+      "show_id": 267,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "Not a song I often acknowledge, but Bobby delivers a great vocal here. Good performance all around.",
+      "archive_url": "https://headyversion.com/show/267/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-07-08",
+      "show_id": 1270,
+      "venue": "Roanoke Civic Center Roanoke, VA",
+      "description": "A little uptempo, but still good",
+      "archive_url": "https://headyversion.com/show/1270/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-05-24",
+      "show_id": 1637,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Lopes gracefully down those Spanish Steps.",
+      "archive_url": "https://headyversion.com/show/1637/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-07-03",
+      "show_id": 1302,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Nice acoustic guitar here",
+      "archive_url": "https://headyversion.com/show/1302/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-12-11",
+      "show_id": 1097,
+      "venue": "Oakland Coliseum Oakland, CA",
+      "description": "Slow burn, this is a righteous show",
+      "archive_url": "https://headyversion.com/show/1097/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-30",
+      "show_id": 2008,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "Defty played. Bobby strongly sings a great Dylan ditty",
+      "archive_url": "https://headyversion.com/show/2008/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-02-24",
+      "show_id": 1584,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1584/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-07-22",
+      "show_id": 1346,
+      "venue": "World Music Theater Tinley Park, IL",
+      "description": "Life will be sweet like a rhapsody",
+      "archive_url": "https://headyversion.com/show/1346/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-06-22",
+      "show_id": 1775,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Elegant strumming, powerful message, unforgettable band beyond description.",
+      "archive_url": "https://headyversion.com/show/1775/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-20",
+      "show_id": 316,
+      "venue": "Internationales Congress Centrum Berlin,",
+      "description": "Accordion and a chops-filled country and western sprite and vigor watercolor the proceedings on this boisterously rousing version",
+      "archive_url": "https://headyversion.com/show/316/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-04-08",
+      "show_id": 1743,
+      "venue": "Miami Arena Miami, FL",
+      "description": "acoustic, really pretty and mellow!!! Spot on!!",
+      "archive_url": "https://headyversion.com/show/1743/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-08-11",
+      "show_id": 1278,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Interesting as sure sounds like violin. Jerry's tone sounds little bit like Robbie Robertson. Phil lots of heady goodness.",
+      "archive_url": "https://headyversion.com/show/1278/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-12-18",
+      "show_id": 1329,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Lovely version of the Dylan classic. Jerry plays some great leads and his acoustic tone works extremely well here.",
+      "archive_url": "https://headyversion.com/show/1329/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-05-06",
+      "show_id": 380,
+      "venue": "California State University Dominguez Hills Carson, CA",
+      "description": "Jerry's solo is on point, really precise and eloquent.",
+      "archive_url": "https://headyversion.com/show/380/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-09-13",
+      "show_id": 709,
+      "venue": "Capital Centre Landover, MD",
+      "description": "The boys are firing on all cylinders here",
+      "archive_url": "https://headyversion.com/show/709/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-09-22",
+      "show_id": 1410,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "giving it their all here on this awesome track",
+      "archive_url": "https://headyversion.com/show/1410/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-06",
+      "show_id": 303,
+      "venue": "Crisler Arena Ann Arbor, MI",
+      "description": "so bumpy that I almost cried!",
+      "archive_url": "https://headyversion.com/show/303/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-12-14",
+      "show_id": 1577,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1577/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-06-21",
+      "show_id": 422,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "Cmon this is a no brainer...out of Space folks",
+      "archive_url": "https://headyversion.com/show/422/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-06-25",
+      "show_id": 1239,
+      "venue": "Sam Boyd Silver Bowl, U.N.L.V. Las Vegas, NV",
+      "description": "Nice version",
+      "archive_url": "https://headyversion.com/show/1239/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-11-07",
+      "show_id": 918,
+      "venue": "Henry J Kaiser Convention Center Oakland, CA",
+      "description": "They are just \"on\" this show. Killer Masterpiece. Great energy.",
+      "archive_url": "https://headyversion.com/show/918/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-08-16",
+      "show_id": 1154,
+      "venue": "Town Park Telluride, CO",
+      "description": "Love the violin, jerry's giving it all on harmony and all in the telluride town park",
+      "archive_url": "https://headyversion.com/show/1154/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-14",
+      "show_id": 1004,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Very nice late version, this show in general is pretty solid. Very good Masterpiece this evening.",
+      "archive_url": "https://headyversion.com/show/1004/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-03-28",
+      "show_id": 259,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Not my fav song, but this is just a sweet sweet version!",
+      "archive_url": "https://headyversion.com/show/259/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-05-28",
+      "show_id": 215,
+      "venue": "Portland Meadows Portland, OR",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/215/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-10-19",
+      "show_id": 1170,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Very vocally animated Bobby contains all of that October 1989 magic, this is an incredibly Hot show, excellent SNBD.",
+      "archive_url": "https://headyversion.com/show/1170/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-02-20",
+      "show_id": 1857,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "Nice Bobby vocals",
+      "archive_url": "https://headyversion.com/show/1857/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-10-14",
+      "show_id": 2093,
+      "venue": "Miami Arena Miami, FL",
+      "description": "Great version because Bobby is understated, even weary. This gives Jerry the space to jump into the choruses with emotion. Dodging lions.",
+      "archive_url": "https://headyversion.com/show/2093/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-28",
+      "show_id": 1386,
+      "venue": "Boston Garden Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1386/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-09-24",
+      "show_id": 1339,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1339/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-09-20",
+      "show_id": 353,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Fun beauty with Bruce having a blast on the accordion!",
+      "archive_url": "https://headyversion.com/show/353/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-09-15",
+      "show_id": 1787,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "This one even features the \"Sailing round he world in a dirty gondola",
+      "archive_url": "https://headyversion.com/show/1787/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-09-15",
+      "show_id": 1787,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "This one even features the \"Sailing round he world in a dirty gondola.\"",
+      "archive_url": "https://headyversion.com/show/1787/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-06-11",
+      "show_id": 192,
+      "venue": "Buckeye Lake Music Center Hebron, OH",
+      "description": "Funky little number, great Phil bass work and cozy leads from Jerry.",
+      "archive_url": "https://headyversion.com/show/192/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-01-27",
+      "show_id": 2171,
+      "venue": "The Ritz New York City, NY",
+      "description": "Great version from a rare Garcia/Kahn show. Jer on vocals this time, which is good. From GarciaLive 14",
+      "archive_url": "https://headyversion.com/show/2171/archive/"
+    }
+  ]
+}

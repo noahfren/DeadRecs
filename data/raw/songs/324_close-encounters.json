@@ -1,0 +1,70 @@
+{
+  "song_id": 324,
+  "name": "Close Encounters Jam",
+  "performances": [
+    {
+      "votes": 39,
+      "date": "1978-01-22",
+      "show_id": 418,
+      "venue": "McArthur Court, U of Oregon Eugene, OR",
+      "description": "A cool spacey Jam, and technically the best version, 'tis the only version.",
+      "archive_url": "https://headyversion.com/show/418/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1989-07-15",
+      "show_id": 225,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Close Encouters down the road from Muncie Indiana, where the UFOs are first seen",
+      "archive_url": "https://headyversion.com/show/225/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1977-12-29",
+      "show_id": 635,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "I know its only 25 seconds as it goes into the greatest Bertha of all time, but each member plays the riff at some point.",
+      "archive_url": "https://headyversion.com/show/635/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-07-17",
+      "show_id": 53,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "They also threw one in here in Alpine Valley - it's short but there (or out there I should say)!",
+      "archive_url": "https://headyversion.com/show/53/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1978-04-24",
+      "show_id": 72,
+      "venue": "Horton Field House - Illinois State University Normal, IL",
+      "description": "\"space\" after drums before not fade away. Maybe just jerry messin around with the mu-tron but sounds like encounters to me.",
+      "archive_url": "https://headyversion.com/show/72/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-09-20",
+      "show_id": 1360,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "In the middle of a drums/space then into a great spanish jam. some fine dead moments here",
+      "archive_url": "https://headyversion.com/show/1360/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1978-04-08",
+      "show_id": 773,
+      "venue": "Veterans Memorial Coliseum Jacksonville, FL",
+      "description": "Right at the end of space",
+      "archive_url": "https://headyversion.com/show/773/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-01-13",
+      "show_id": 1789,
+      "venue": "Arlington Theater Santa Barbara, CA",
+      "description": "Friday the 13th, super brief, but it's there between Dancin' and Wharf Rat, both great versions!",
+      "archive_url": "https://headyversion.com/show/1789/archive/"
+    }
+  ]
+}

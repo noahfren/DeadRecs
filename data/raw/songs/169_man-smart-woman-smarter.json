@@ -1,0 +1,798 @@
+{
+  "song_id": 169,
+  "name": "Man Smart, Woman Smarter",
+  "performances": [
+    {
+      "votes": 54,
+      "date": "1989-07-04",
+      "show_id": 820,
+      "venue": "Rich Stadium Orchard Park, NY",
+      "description": "Just plain heady... super tight and inspired",
+      "archive_url": "https://headyversion.com/show/820/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1982-08-07",
+      "show_id": 573,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/573/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1989-07-12",
+      "show_id": 1578,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Epic Brent and Bruce simultaneous jam on this one.",
+      "archive_url": "https://headyversion.com/show/1578/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1987-09-18",
+      "show_id": 200,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "they kick this songs ASS with an epic vocal breakdown with jerry croakin, bobby falsetto, and brent ballsy per usual",
+      "archive_url": "https://headyversion.com/show/200/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1990-03-16",
+      "show_id": 735,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Completely unique and interesting jam out of this one.  Sweet Caribbean feel",
+      "archive_url": "https://headyversion.com/show/735/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1982-04-05",
+      "show_id": 787,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Lots of energy and enthusiasm in this one...",
+      "archive_url": "https://headyversion.com/show/787/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1983-04-26",
+      "show_id": 764,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Brent tickling the ivories and Jerry noodling away, just beautiful. Builds into the drums really nicely. Released on Dave's Picks 39",
+      "archive_url": "https://headyversion.com/show/764/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1989-04-02",
+      "show_id": 1275,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Some thought out leads from Jerry. Feel the groove sway. Love Brents energy. Cant not bop your head to this one. Download Series Volume 9.",
+      "archive_url": "https://headyversion.com/show/1275/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-07-16",
+      "show_id": 375,
+      "venue": "Rich Stadium Orchard Park, NY",
+      "description": "Killer version.Check out the Sugar Mag>Scarlet before it",
+      "archive_url": "https://headyversion.com/show/375/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1992-03-20",
+      "show_id": 323,
+      "venue": "Copps Coliseum Hamilton,",
+      "description": "Great Women are smarter at this best show of 1992!  Shakedown>Women Smarter>DS...whoa!",
+      "archive_url": "https://headyversion.com/show/323/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-12-31",
+      "show_id": 79,
+      "venue": "Oakland Coliseum Oakland, CA",
+      "description": "Excellent vocal breakdown at the end where Bobby goes into a falsetto and brings it all back to a crescendo. (video link in comments)",
+      "archive_url": "https://headyversion.com/show/79/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1984-07-13",
+      "show_id": 12,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "the boys are locked in.  bob, brent & jerry sing great together.  quality stuff!",
+      "archive_url": "https://headyversion.com/show/12/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1993-01-26",
+      "show_id": 1562,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "This second set opener is killer.  Super high energy. And is just the beginning of this excellent pre-drums.",
+      "archive_url": "https://headyversion.com/show/1562/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1984-07-22",
+      "show_id": 429,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "That's right...........",
+      "archive_url": "https://headyversion.com/show/429/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1986-05-03",
+      "show_id": 1220,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "High energy rocker, dont be scared by the 1986 date, they are dialed in on this evening",
+      "archive_url": "https://headyversion.com/show/1220/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1982-08-03",
+      "show_id": 604,
+      "venue": "Starlight Theatre Kansas City, MO",
+      "description": "The recording speaks for itself one of the best you will hear!!!!!",
+      "archive_url": "https://headyversion.com/show/604/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1988-04-03",
+      "show_id": 1099,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Greatest ever hands down, Brent at his finest, Funny breakdowns and one hell of a Bobby Scream",
+      "archive_url": "https://headyversion.com/show/1099/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-08-28",
+      "show_id": 938,
+      "venue": "Oregon Country Fairgrounds Veneta, OR",
+      "description": "Nie slinky and funky Man Smart Women Smarter",
+      "archive_url": "https://headyversion.com/show/938/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-07-18",
+      "show_id": 1310,
+      "venue": "Alpine Valley Alpine Valley, WI",
+      "description": "Killer version at Alpine. They skip the reprise vocal as they go into Eyes.",
+      "archive_url": "https://headyversion.com/show/1310/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1981-10-06",
+      "show_id": 624,
+      "venue": "Rainbow Theater London, UK",
+      "description": "Short but sweet with lots of good stuff from everyone",
+      "archive_url": "https://headyversion.com/show/624/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-03-18",
+      "show_id": 1089,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Great energy and plenty of shredding!",
+      "archive_url": "https://headyversion.com/show/1089/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-03-26",
+      "show_id": 300,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Love when Brent takes the vocal on 2nd verse PLUS check out the little trade-off he & Bob do on lyrics in last stanza. Bouncy, jaunty, supefun stuff",
+      "archive_url": "https://headyversion.com/show/300/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-12-30",
+      "show_id": 1336,
+      "venue": "Civic Auditorium San Francisco, CA",
+      "description": "Some of the smoothest rhythm Bobby ever laid down on this tune. Brent provides great harmony. Super sweetness here!",
+      "archive_url": "https://headyversion.com/show/1336/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-07-06",
+      "show_id": 1356,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "With the Neville Brothers, a jumpin' version - Jerry really picks up energy from them",
+      "archive_url": "https://headyversion.com/show/1356/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-09-20",
+      "show_id": 354,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Fast and energetic, solid 90s rendition. New keyboardists do a nice job. I like Dave Bratman's FOB recording the most",
+      "archive_url": "https://headyversion.com/show/354/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-04-19",
+      "show_id": 778,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "BRENT LAYS DOWN SOME FUNK:::::::::::WOMAN>MIGHTASWELL TO CLOSE 1ST SET!!!!!",
+      "archive_url": "https://headyversion.com/show/778/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-06-24",
+      "show_id": 1823,
+      "venue": "Autzen Stadium Eugene, OR",
+      "description": "Midi jamfest filled with spicy Caribbean flavor. Flows beautifully out of Foolish heart. Loads of midi horn from Jerry.",
+      "archive_url": "https://headyversion.com/show/1823/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-12-28",
+      "show_id": 815,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "The whole fuckin show is money.  Love this version as it leads into the monster trifecta!",
+      "archive_url": "https://headyversion.com/show/815/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-05",
+      "show_id": 940,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Underrated show",
+      "archive_url": "https://headyversion.com/show/940/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1983-03-30",
+      "show_id": 943,
+      "venue": "Warfield Theatre San Francisco, CA",
+      "description": "Very hot interesting version coming out of space and into China doll.  Bth the entrance and exit jams are really on fire",
+      "archive_url": "https://headyversion.com/show/943/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-10-14",
+      "show_id": 1385,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Nice funky with a cajun flair.",
+      "archive_url": "https://headyversion.com/show/1385/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1983-10-17",
+      "show_id": 722,
+      "venue": "Olympic Center Lake Placid, NY",
+      "description": "Fun version",
+      "archive_url": "https://headyversion.com/show/722/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-04-01",
+      "show_id": 167,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Best of 1990.",
+      "archive_url": "https://headyversion.com/show/167/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-04-17",
+      "show_id": 1399,
+      "venue": "Niagara Falls Convention Center Niagara Falls, NY",
+      "description": "Niagara falls getting some love with a stupendous version from one magical 80's show",
+      "archive_url": "https://headyversion.com/show/1399/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-05-31",
+      "show_id": 235,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Coming out of a solid \"Scarlet -> Fire,\" this is a great version. Fun, bouncy, good singing from Bob.",
+      "archive_url": "https://headyversion.com/show/235/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-03-24",
+      "show_id": 1492,
+      "venue": "Civic Center Springfield, MA",
+      "description": "From the cold depths of 1985 comes a truly great MSWS. Drums are tight, Phil and Bobby sound great, and Jerry repeatedly comes up with gold.",
+      "archive_url": "https://headyversion.com/show/1492/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-03-23",
+      "show_id": 44,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Rockin smooth",
+      "archive_url": "https://headyversion.com/show/44/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-08-06",
+      "show_id": 988,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Another song that hit its stride in '89. Great work by all.",
+      "archive_url": "https://headyversion.com/show/988/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-04-27",
+      "show_id": 298,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Caps a great sequence of Scarlet-Eyes-GDTRFB-WomanSmarter-into a really good drums.",
+      "archive_url": "https://headyversion.com/show/298/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-04-17",
+      "show_id": 908,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "My all time fav!!!!!!!",
+      "archive_url": "https://headyversion.com/show/908/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-03-25",
+      "show_id": 1279,
+      "venue": "Dean Smith Center - University of North Carolina Chapel Hill, NC",
+      "description": "Seriously funky version with great work from Jer.",
+      "archive_url": "https://headyversion.com/show/1279/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-02-17",
+      "show_id": 1299,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "An early, sprightly version showcasing Bob's integrative contributions in a well-balanced mix",
+      "archive_url": "https://headyversion.com/show/1299/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-10-22",
+      "show_id": 1494,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "Great licks, tight solid version in a great second set .",
+      "archive_url": "https://headyversion.com/show/1494/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-06-13",
+      "show_id": 1871,
+      "venue": "Red Rocks Ampitheatre Morrison, CO",
+      "description": "Bobby's guitar high in the mix makes for a strong version. Good vocals all around.",
+      "archive_url": "https://headyversion.com/show/1871/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-06-19",
+      "show_id": 251,
+      "venue": "Pine Knob Clarkston, MI",
+      "description": "Heady version out of epic Victim>Scarlet>Fire.",
+      "archive_url": "https://headyversion.com/show/251/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-12-10",
+      "show_id": 1726,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "BRENT AND BRUCE ON KEYS!!!! Enough said.",
+      "archive_url": "https://headyversion.com/show/1726/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-12-31",
+      "show_id": 49,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "The \"Aiko\" is here but not the \"Woman Are Smarter\"? Blasphemy.",
+      "archive_url": "https://headyversion.com/show/49/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-06-27",
+      "show_id": 907,
+      "venue": "SPAC Saratoga Springs, NY",
+      "description": "Killer run of \"Stranger\" -> \"Eyes\" -> \"GDTRFB\" -> \"MSWS.\" What a great run at the end of June.",
+      "archive_url": "https://headyversion.com/show/907/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-07-07",
+      "show_id": 2139,
+      "venue": "Red Rockstar Ampitheatre Morrison, Co",
+      "description": "The jam is brief but joyously electrifying. Give it a listen!",
+      "archive_url": "https://headyversion.com/show/2139/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-09-05",
+      "show_id": 1804,
+      "venue": "Glen Helen Regional Park Devore, CA",
+      "description": "inspired",
+      "archive_url": "https://headyversion.com/show/1804/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-05-05",
+      "show_id": 2000,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "MIDI Horn fest on Jerry's end + the Vince synths make this an interesting MSWM. Carrying over the tame energy from the Eyes beforehand. Solo Vince",
+      "archive_url": "https://headyversion.com/show/2000/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-10-02",
+      "show_id": 962,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Energetic version. these guys are having a good time tonight.",
+      "archive_url": "https://headyversion.com/show/962/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-07-06",
+      "show_id": 440,
+      "venue": "Cardinal Stadium Louisville, KY",
+      "description": "Surprised this one hasn\u2019t been submitted already. Raucous version with Brent getting weirdly psychedelic for his calypso-like solo",
+      "archive_url": "https://headyversion.com/show/440/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-08-20",
+      "show_id": 2025,
+      "venue": "Park West Ski Resort Park West, UT",
+      "description": "Plenty of energy and nice crowd response, \"That's right!\"",
+      "archive_url": "https://headyversion.com/show/2025/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-10-12",
+      "show_id": 775,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Carries the momentum of the H/S/F prior, leading to a fast version with some great Jerry solos.",
+      "archive_url": "https://headyversion.com/show/775/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-06-25",
+      "show_id": 903,
+      "venue": "St. Paul Civic Center St. Paul, MN",
+      "description": "This is a really smoking version.  The playing is great with high intensity and energy.",
+      "archive_url": "https://headyversion.com/show/903/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-07-28",
+      "show_id": 1060,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Put's you right there  https://archive.org/details/gd1982-07-28.138613.beyerm201.holbrook.flac2448/gd1982-07-28beyerm201.24s2t01.flac",
+      "archive_url": "https://headyversion.com/show/1060/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-07-02",
+      "show_id": 1737,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Get the second set started",
+      "archive_url": "https://headyversion.com/show/1737/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-17",
+      "show_id": 616,
+      "venue": "Capital Centre Landover, MD",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/616/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-10-18",
+      "show_id": 1230,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Incredible duel  between Jerry and Brent Jams! There is nothing in this world like that Hammond organ mixed with Jerry's MIDI",
+      "archive_url": "https://headyversion.com/show/1230/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-09-17",
+      "show_id": 1059,
+      "venue": "Cumberland County Civic Center Portland, ME",
+      "description": "This is a very hot version driven by the drummers and Bobby's pointed vocals.",
+      "archive_url": "https://headyversion.com/show/1059/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-07-13",
+      "show_id": 814,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "Just Hot! Right out of a sick Touch!",
+      "archive_url": "https://headyversion.com/show/814/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-02-27",
+      "show_id": 619,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "Mardi Gras Brent goes off on his verse",
+      "archive_url": "https://headyversion.com/show/619/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-04-07",
+      "show_id": 1408,
+      "venue": "Brendan Bryne Arena East Rutherford, NJ",
+      "description": "great jamming version with a great crowd clap along leads into a truly wonderful inventive drums",
+      "archive_url": "https://headyversion.com/show/1408/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-05-22",
+      "show_id": 937,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "This one has a cool drummers open!",
+      "archive_url": "https://headyversion.com/show/937/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-12-31",
+      "show_id": 382,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "I think the band was a little cooked from the night before but it seems like they're still having some fun.",
+      "archive_url": "https://headyversion.com/show/382/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-09-11",
+      "show_id": 631,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Tight groove and Brent and Bobby locked in vocally, this is a real nice tight fun version with a real nice Garcia solo, Hot and fun",
+      "archive_url": "https://headyversion.com/show/631/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-12-14",
+      "show_id": 1577,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "vince absolutely erupts! fiery keys",
+      "archive_url": "https://headyversion.com/show/1577/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-04-07",
+      "show_id": 236,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Dialed in, rocking hard, a just-right vocal breakdown with a slamming tight finish!",
+      "archive_url": "https://headyversion.com/show/236/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-09-24",
+      "show_id": 1678,
+      "venue": "Santa Cruz County Fairgrounds Watsonville, CA",
+      "description": "Loud and funky with tight playing, this one will have you dancing for sure",
+      "archive_url": "https://headyversion.com/show/1678/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-05-08",
+      "show_id": 1843,
+      "venue": "Silva Hall at the Hult Center Eugene, OR",
+      "description": "this one makes you move",
+      "archive_url": "https://headyversion.com/show/1843/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-10-28",
+      "show_id": 884,
+      "venue": "Fox Theater Atlanta, GA",
+      "description": "Perfect tight 1985 first set jam in a way underrated show",
+      "archive_url": "https://headyversion.com/show/884/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-04-14",
+      "show_id": 696,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "Tight, hot, powerhouse version",
+      "archive_url": "https://headyversion.com/show/696/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-09-12",
+      "show_id": 720,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Awesome.",
+      "archive_url": "https://headyversion.com/show/720/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-07-31",
+      "show_id": 1884,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "Good energy",
+      "archive_url": "https://headyversion.com/show/1884/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-09-10",
+      "show_id": 1113,
+      "venue": "Downs of Santa Fe Santa Fe, NM",
+      "description": "Great version with some great banter from Bob: \u201cIf it\u2019s any comfort to anyone, in 1890 in Cairo, Illinois, it rained fish",
+      "archive_url": "https://headyversion.com/show/1113/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-10-01",
+      "show_id": 1052,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "A great version of a song that\u2019s not always my favorite",
+      "archive_url": "https://headyversion.com/show/1052/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-08-12",
+      "show_id": 898,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/898/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-04-08",
+      "show_id": 1330,
+      "venue": "Orlando Arena Orlando, FL",
+      "description": "Great one. Clean",
+      "archive_url": "https://headyversion.com/show/1330/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-10-17",
+      "show_id": 202,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "veneta-esque drop into this rowdy strummer dripping in midi",
+      "archive_url": "https://headyversion.com/show/202/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-06-09",
+      "show_id": 184,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "Vince teases Stagger Lee starting at 4:00 and continuing through Jerry's MIDI solo. A nice variation - has the band done this before?",
+      "archive_url": "https://headyversion.com/show/184/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-06-15",
+      "show_id": 264,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Not the best ever, but an extended jam with lots of MIDI is always welcome. Sandwiched between a 30 min. Scarlet>Fire and soulful He's Gone.",
+      "archive_url": "https://headyversion.com/show/264/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-12-30",
+      "show_id": 798,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "With the Neville Brothers. Excellent little guitar duel between jerry and Brian Stoltzof the Nevilles and Funky Meters. Very cool version",
+      "archive_url": "https://headyversion.com/show/798/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-07-19",
+      "show_id": 320,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Killer version.Check out the Sugar Mag>Scarlet before it",
+      "archive_url": "https://headyversion.com/show/320/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-17",
+      "show_id": 1751,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "A toe tapping good time.",
+      "archive_url": "https://headyversion.com/show/1751/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-02-19",
+      "show_id": 1148,
+      "venue": "Golden Hall, Community Concourse San Diego, CA",
+      "description": "Great and rare in the post jerry ballad position. Rocking version, post space is hot in its entirety.",
+      "archive_url": "https://headyversion.com/show/1148/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-04-03",
+      "show_id": 1476,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Schmoking Women R Smarter from a Killer Show!",
+      "archive_url": "https://headyversion.com/show/1476/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-07-23",
+      "show_id": 377,
+      "venue": "World Music Theatre Tinley Park, IL",
+      "description": "Smoking version. Killer Brent vocals. Jerry nails the solo.",
+      "archive_url": "https://headyversion.com/show/377/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-08-17",
+      "show_id": 1547,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Joyous jamming courtesy of Bruce Hornsby",
+      "archive_url": "https://headyversion.com/show/1547/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-08-17",
+      "show_id": 1683,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "That\u2019s right",
+      "archive_url": "https://headyversion.com/show/1683/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-09-05",
+      "show_id": 1646,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "This one cooks. Great 91 version.",
+      "archive_url": "https://headyversion.com/show/1646/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-09-27",
+      "show_id": 1505,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Jerry plays some nice angular lines (ex. first solo), and this features a decent vocal performance.",
+      "archive_url": "https://headyversion.com/show/1505/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-01-30",
+      "show_id": 1898,
+      "venue": "San Francisco Civic Auditorium San Francisco, CA",
+      "description": "Hot funtime cajun medley Aiko into Women r Smarter, Real cooking party time duo great fun had by all real fun listen",
+      "archive_url": "https://headyversion.com/show/1898/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-04-24",
+      "show_id": 2015,
+      "venue": "Veterans' Memorial Coliseum New Haven, CT",
+      "description": "Rhythmic, bouncy, Uptempo BobbyBrentastic version",
+      "archive_url": "https://headyversion.com/show/2015/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-02-19",
+      "show_id": 1783,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "With Gung Hay Fat Choy",
+      "archive_url": "https://headyversion.com/show/1783/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-03-13",
+      "show_id": 934,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "with Hamza El Din",
+      "archive_url": "https://headyversion.com/show/934/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-07-13",
+      "show_id": 495,
+      "venue": "McNichols Sports Arena Denver, CO",
+      "description": "Kicks off the second set",
+      "archive_url": "https://headyversion.com/show/495/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-12-31",
+      "show_id": 335,
+      "venue": "SF Civic san francisco, ca",
+      "description": "Band reeling from preceding S>F.",
+      "archive_url": "https://headyversion.com/show/335/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-07-15",
+      "show_id": 1007,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "Like a puppet show",
+      "archive_url": "https://headyversion.com/show/1007/archive/"
+    }
+  ]
+}

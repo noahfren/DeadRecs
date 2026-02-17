@@ -1,0 +1,22 @@
+{
+  "song_id": 295,
+  "name": "What's Become of the Baby",
+  "performances": [
+    {
+      "votes": 15,
+      "date": "1969-04-26",
+      "show_id": 990,
+      "venue": "The Electric Theatre Chicago, IL",
+      "description": "The band does feedback while a tape of Baby is played over it.",
+      "archive_url": "https://headyversion.com/show/990/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-10-01",
+      "show_id": 2099,
+      "venue": "Pacific high recording studios San mateo, ca",
+      "description": "nitrously motivated",
+      "archive_url": "https://headyversion.com/show/2099/archive/"
+    }
+  ]
+}

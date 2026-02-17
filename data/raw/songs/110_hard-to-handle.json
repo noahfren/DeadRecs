@@ -1,0 +1,790 @@
+{
+  "song_id": 110,
+  "name": "Hard to Handle",
+  "performances": [
+    {
+      "votes": 228,
+      "date": "1971-08-06",
+      "show_id": 13,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Insane rager, hold on to your seats",
+      "archive_url": "https://headyversion.com/show/13/archive/"
+    },
+    {
+      "votes": 75,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Classic pigpen",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 41,
+      "date": "1971-07-31",
+      "show_id": 134,
+      "venue": "Yale Bowl, Yale University New Haven, CT",
+      "description": "Played a week before the 8/6/71 version, but super hot also.  Both versions are a part of Road Trips Vol1-3.",
+      "archive_url": "https://headyversion.com/show/134/archive/"
+    },
+    {
+      "votes": 38,
+      "date": "1971-04-28",
+      "show_id": 997,
+      "venue": "Fillmore East New York, NY",
+      "description": "Not sure why the next night gets all the love, this one's great, too!",
+      "archive_url": "https://headyversion.com/show/997/archive/"
+    },
+    {
+      "votes": 29,
+      "date": "1971-08-07",
+      "show_id": 1323,
+      "venue": "Golden Hall San Diego, CA",
+      "description": "When I'm a little hard to handle I load this up and pull the trigger. I'm surprised no one submitted this one yet.",
+      "archive_url": "https://headyversion.com/show/1323/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1971-06-21",
+      "show_id": 512,
+      "venue": "Chateau d'Herouville Herouville,",
+      "description": "Starts off with Pigpen improving lyrics then Bobby and Jerry battle off each other beautifully.  Give it a listen!!",
+      "archive_url": "https://headyversion.com/show/512/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "The Bear's Choice version.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1971-03-24",
+      "show_id": 596,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Oh Yeah!!",
+      "archive_url": "https://headyversion.com/show/596/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1971-04-27",
+      "show_id": 594,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Possibly the best out of this Fillmore East run..listen to the boys explode during the jam, an 8/6/71 contender",
+      "archive_url": "https://headyversion.com/show/594/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1971-04-13",
+      "show_id": 1423,
+      "venue": "Catholic Youth Center Scranton, PA",
+      "description": "Phil just likes doin' the nasty all over this one! The mix is fooked but well worth the listen for the JAM - dang!",
+      "archive_url": "https://headyversion.com/show/1423/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1971-02-18",
+      "show_id": 130,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Pigpen's voice is deep, SC-soaked and clear.  The jam is ballsy and pushing out against the seams.",
+      "archive_url": "https://headyversion.com/show/130/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1971-04-26",
+      "show_id": 131,
+      "venue": "Fillmore East New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/131/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "Certainly not number one, but worthy to be listed.",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1969-04-17",
+      "show_id": 909,
+      "venue": "Washington U.  St. Louis, MO",
+      "description": "Fantastic early H2H when Jer was still rippin' it with the slide!",
+      "archive_url": "https://headyversion.com/show/909/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1971-08-14",
+      "show_id": 411,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "Another great version from August.",
+      "archive_url": "https://headyversion.com/show/411/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1970-02-13",
+      "show_id": 595,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Bobby Weir on de Funky Riddim Guitar - stellar!",
+      "archive_url": "https://headyversion.com/show/595/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1970-02-02",
+      "show_id": 589,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Pretty in your face guitar work by Jerry.  Real nice Dave's pick.",
+      "archive_url": "https://headyversion.com/show/589/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1971-08-26",
+      "show_id": 592,
+      "venue": "Gaelic Park New York, NY",
+      "description": "Last one with Pig: A blasting sexy swagger with slow rising force like the Palladium one up top here. Listen past the tape problems and slow start.",
+      "archive_url": "https://headyversion.com/show/592/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1970-01-02",
+      "show_id": 415,
+      "venue": "Fillmore East (Late Show) New York City, NY",
+      "description": "Not as long as they'd become but the jamming is intense",
+      "archive_url": "https://headyversion.com/show/415/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-05-01",
+      "show_id": 729,
+      "venue": "Alfred College Alfred, NY",
+      "description": "That great May 1970 Jerry tone. Electric.",
+      "archive_url": "https://headyversion.com/show/729/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-08-04",
+      "show_id": 396,
+      "venue": "Terminal Island Correctional Facility San Pedro, CA",
+      "description": "Home of The Bear...energized to say the least",
+      "archive_url": "https://headyversion.com/show/396/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-04-18",
+      "show_id": 417,
+      "venue": "Lusk Field House - State University Of New York Cortland, NY",
+      "description": "Overlooked gritty superfunk. Bobby solos, then Jerry takes him to school. Phil, meanwhile is nuking the world big time.",
+      "archive_url": "https://headyversion.com/show/417/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-04-25",
+      "show_id": 643,
+      "venue": "Fillmore East New York, NY",
+      "description": "Of course. Every April'71 is outta sight, and this one pumps diesel.",
+      "archive_url": "https://headyversion.com/show/643/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-07-02",
+      "show_id": 1088,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "A tight, solid version that just grabs yer ass and shakes it for ya!",
+      "archive_url": "https://headyversion.com/show/1088/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-12-12",
+      "show_id": 1383,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "wow",
+      "archive_url": "https://headyversion.com/show/1383/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-01-23",
+      "show_id": 394,
+      "venue": "Honolulu Civic Auditorium Honolulu, HI",
+      "description": "Classic \"single\" version, meaning shorter and more compact than the '71 hyperspace megas.",
+      "archive_url": "https://headyversion.com/show/394/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-05-23",
+      "show_id": 752,
+      "venue": "Seminole Indian Village West Hollywood, FL",
+      "description": "Primal grateful dead at the Seminole Indian village",
+      "archive_url": "https://headyversion.com/show/752/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-04-21",
+      "show_id": 1538,
+      "venue": "Rhode Island Auditorium Providence, RI",
+      "description": "Listening to this got my speakers pregnant.",
+      "archive_url": "https://headyversion.com/show/1538/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1982-12-31",
+      "show_id": 754,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Etta James...This is a great version of a great song.",
+      "archive_url": "https://headyversion.com/show/754/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-12-28",
+      "show_id": 78,
+      "venue": "International Speedway Hollywood, FL",
+      "description": "One HARD Hard to Handle!",
+      "archive_url": "https://headyversion.com/show/78/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-04-17",
+      "show_id": 40,
+      "venue": "Dillon Gym Princeton, NJ",
+      "description": "Cruising along with 3rd\u00b0 swagger when it suddently hits high gear and <BOOM!>, you become the Pig, and it feels good.",
+      "archive_url": "https://headyversion.com/show/40/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-04-14",
+      "show_id": 1006,
+      "venue": "Davis Gym, Bucknell University Lewisburg, PA",
+      "description": "Another raging inferno. Benefits enormously from a great mix where everyone's audible and you hear Bobby's part. Hot stuff.",
+      "archive_url": "https://headyversion.com/show/1006/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-04-22",
+      "show_id": 1541,
+      "venue": "Bangor Municipal Auditorium Bangor, ME",
+      "description": "Probably the best 'Bobby Segment' on this tune that I've heard, and Pig at his greasy best.",
+      "archive_url": "https://headyversion.com/show/1541/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-04-15",
+      "show_id": 593,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Short but filled with energy",
+      "archive_url": "https://headyversion.com/show/593/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-04-10",
+      "show_id": 671,
+      "venue": "East Hall, Franklin & Marshall College Lancaster, PA",
+      "description": "Such an awesome rendition. Slow and low is the tempo.  Phil is epic in this version!",
+      "archive_url": "https://headyversion.com/show/671/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-04-05",
+      "show_id": 1126,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Hot sex.",
+      "archive_url": "https://headyversion.com/show/1126/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-10-31",
+      "show_id": 659,
+      "venue": "School Gymnasium, S.U.N.Y. Stony Brook, NY",
+      "description": "Super tight and funky",
+      "archive_url": "https://headyversion.com/show/659/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-04-23",
+      "show_id": 389,
+      "venue": "The Ark Boston, MA",
+      "description": "Crazy slide licks, wondeful version from a show with one of the best second sets of all time! Jerry goes nuts a little over 3 minutes in . . .",
+      "archive_url": "https://headyversion.com/show/389/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-02-20",
+      "show_id": 88,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "My first bootleg ever, this song took me on this long strange trip.  Phil's bass lines are phat and enjoyable.  A personal favorite!!",
+      "archive_url": "https://headyversion.com/show/88/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-04-21",
+      "show_id": 560,
+      "venue": "The Ark Boston, MA",
+      "description": "Love this show and this version does not disappoint",
+      "archive_url": "https://headyversion.com/show/560/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-12-11",
+      "show_id": 1627,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "Muscular vintage riffing...",
+      "archive_url": "https://headyversion.com/show/1627/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-04-18",
+      "show_id": 948,
+      "venue": "Purdue University Layfayette, IN",
+      "description": "Psychedelic Slide Jammin.",
+      "archive_url": "https://headyversion.com/show/948/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-06-05",
+      "show_id": 748,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Such a relaxed smoking informal show, the crowd and band are interacting throughout and the music is magical",
+      "archive_url": "https://headyversion.com/show/748/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-12-30",
+      "show_id": 1093,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "This is the first Hard to handle since August 26, 1971. Thanks to Etta James Vocals",
+      "archive_url": "https://headyversion.com/show/1093/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-04-24",
+      "show_id": 1979,
+      "venue": "Wallace Wade Stadium, Duke University Durham, NC",
+      "description": "A song that was generally performed at an exceptional level throughout 1971 this is no exception.",
+      "archive_url": "https://headyversion.com/show/1979/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-12-20",
+      "show_id": 1471,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "jerry feels it",
+      "archive_url": "https://headyversion.com/show/1471/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-01-10",
+      "show_id": 1188,
+      "venue": "Community Concourse San Diego, CA",
+      "description": "Tight, sweet version. Doesn't have the inferno element from some at the top, but a strong one nevertheless.",
+      "archive_url": "https://headyversion.com/show/1188/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-02-04",
+      "show_id": 1564,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "\"How was this not here\" is a thing I read a lot on here. The saying is def true with this HOT 6+ min version. Pig is S C R E A M I N G ! ! !",
+      "archive_url": "https://headyversion.com/show/1564/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-01-24",
+      "show_id": 1580,
+      "venue": "Seattle Center Arena Seattle, WA",
+      "description": "Pig clear in the mix with JG delivering the funky blues chops you wanna hear.",
+      "archive_url": "https://headyversion.com/show/1580/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-03-20",
+      "show_id": 1597,
+      "venue": "University of Iowa Iowa City, IA",
+      "description": "Hot and sweaty sounding mix with a bit of a slow burn from Jerry - not crazy with the macho but cool.",
+      "archive_url": "https://headyversion.com/show/1597/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-01-30",
+      "show_id": 1721,
+      "venue": "The Warehouse New Orleans, LA",
+      "description": "Nawlins Rockin'",
+      "archive_url": "https://headyversion.com/show/1721/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-12-19",
+      "show_id": 950,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Macho and Jammy right here.",
+      "archive_url": "https://headyversion.com/show/950/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-03-14",
+      "show_id": 1224,
+      "venue": "Camp Randall Field House Madison, WI",
+      "description": "A fantastic version from a fantastic show!",
+      "archive_url": "https://headyversion.com/show/1224/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-12-27",
+      "show_id": 1575,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "Pig on the scene.",
+      "archive_url": "https://headyversion.com/show/1575/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-11-16",
+      "show_id": 1512,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Unique flavor to this one, with Steve Winwood poaching Pig's organ.",
+      "archive_url": "https://headyversion.com/show/1512/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-07-04",
+      "show_id": 1758,
+      "venue": "McMahon Stadium Calgary,",
+      "description": "Hate to be that guy... But can't believe this one isn't here, best of 1970? It's on youtube. Type in 'Grateful Dead Hard to Handle 1970'",
+      "archive_url": "https://headyversion.com/show/1758/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-02-12",
+      "show_id": 1745,
+      "venue": "Ungano's Night Club New York, NY",
+      "description": "Date overshadowed by the next night and ambiguous provenance - but don't skip it. Bobby's high in the mix with rare balance and a great jam.",
+      "archive_url": "https://headyversion.com/show/1745/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-12-26",
+      "show_id": 960,
+      "venue": "McFarlin Auditorium, SMU Dallas, TX",
+      "description": "Pigpen struggles with his timing and vocals in general.",
+      "archive_url": "https://headyversion.com/show/960/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-02-06",
+      "show_id": 1215,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "I love the hard chargers, but this one is different: Almost mellow with a slow simmering groove. Cool, not hot. Check it out.",
+      "archive_url": "https://headyversion.com/show/1215/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-01-31",
+      "show_id": 1526,
+      "venue": "The Warehouse New Orleans, LA",
+      "description": "More like the great '71s than the others from 1970.  A hard enough rocker that it apparently nuked Phil's amp, leading to a wonderful acoustic set.",
+      "archive_url": "https://headyversion.com/show/1526/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-07-05",
+      "show_id": 1786,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "absolutley rocks versions like this are why the black crowes chose to do this song",
+      "archive_url": "https://headyversion.com/show/1786/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-05-24",
+      "show_id": 1125,
+      "venue": "Hollywood Music Festival Newcastle-Under-Lyme, EN",
+      "description": "Tis is fantastic Pigpen in full display of his powers",
+      "archive_url": "https://headyversion.com/show/1125/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-04-25",
+      "show_id": 1883,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "JG throws down all sorts of slide weirdness here.",
+      "archive_url": "https://headyversion.com/show/1883/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-08-23",
+      "show_id": 1523,
+      "venue": "Pelletier Farm St. Helens, OR",
+      "description": "Another great 1969 Version with Pigpen leading the band in its blues psychedelia period.",
+      "archive_url": "https://headyversion.com/show/1523/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-12-17",
+      "show_id": 1720,
+      "venue": "The Matrix San Francisco, CA",
+      "description": "Super smooth Quaalude styled jam that is totally worth the trip.",
+      "archive_url": "https://headyversion.com/show/1720/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-03-15",
+      "show_id": 1608,
+      "venue": "Hilton Hotel San Francisco, CA",
+      "description": "Famous Black and White Ball",
+      "archive_url": "https://headyversion.com/show/1608/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-01-21",
+      "show_id": 2094,
+      "venue": "Freeborn Hall, University of California Davis, CA",
+      "description": "Completely overlooked UC Davis show that exists only on an aud. But this version smokes.",
+      "archive_url": "https://headyversion.com/show/2094/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-10-23",
+      "show_id": 1754,
+      "venue": "McDonough Arena - Georgetown University Washington, DC",
+      "description": "Begins sounding like the epic hard charging beast it becomes over the next months.",
+      "archive_url": "https://headyversion.com/show/1754/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-12-12",
+      "show_id": 1450,
+      "venue": "Santa Rosa Fairgrounds Santa Rosa, CA",
+      "description": "Hot Licks city ala 1970",
+      "archive_url": "https://headyversion.com/show/1450/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-11-11",
+      "show_id": 1977,
+      "venue": "49th Street Rock Palace Brooklyn, NY",
+      "description": "Hot soloing and '71 levels of intensity.  Listenable in spite of some tape wobble and distortion. Fun to watch H2H expanding during this era.",
+      "archive_url": "https://headyversion.com/show/1977/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-04",
+      "show_id": 1115,
+      "venue": "Manhattan Center NYC, NY",
+      "description": "Great 'Bobby segment', as his solo has come to be known. Whole show overshadowed by the outrageous monster the next day, but still great fun.",
+      "archive_url": "https://headyversion.com/show/1115/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-08-02",
+      "show_id": 1605,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Nice slower version. Jerry solo and band improv a little different than usual.",
+      "archive_url": "https://headyversion.com/show/1605/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-02-24",
+      "show_id": 503,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Solid version, deserves a listen for sure.",
+      "archive_url": "https://headyversion.com/show/503/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-12-29",
+      "show_id": 392,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "Is everybody ready to boogie?!?",
+      "archive_url": "https://headyversion.com/show/392/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-05-29",
+      "show_id": 1607,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Don't pass this by because of the AUD issues. Stands up to all the top H2Hs here. The jam and energy are outrageous.",
+      "archive_url": "https://headyversion.com/show/1607/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-12-23",
+      "show_id": 741,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Real heady performance of the classic pigpen number",
+      "archive_url": "https://headyversion.com/show/741/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-10-10",
+      "show_id": 1975,
+      "venue": "Action House Island Park, NY",
+      "description": "Hot Pigpen with the band just ripping",
+      "archive_url": "https://headyversion.com/show/1975/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-03-20",
+      "show_id": 1752,
+      "venue": "Capitol Theater Port Chester,",
+      "description": "full of tons of high energy with a unique Pigpen rap. real hot.",
+      "archive_url": "https://headyversion.com/show/1752/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-03-08",
+      "show_id": 1814,
+      "venue": "Star Theatre Phoenix, AZ",
+      "description": "Pigpen is dominating the proceedings this evening",
+      "archive_url": "https://headyversion.com/show/1814/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-06-13",
+      "show_id": 1771,
+      "venue": "Fresno Convention Center Fresno, CA",
+      "description": "sweet hard to handle opener, hot barn burner, pigpen in fine form",
+      "archive_url": "https://headyversion.com/show/1771/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-01-16",
+      "show_id": 955,
+      "venue": "Springer's Inn Portland Portland, OR",
+      "description": "Great early version - nice jam.",
+      "archive_url": "https://headyversion.com/show/955/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-05-10",
+      "show_id": 1764,
+      "venue": "Rose Palace  Pasadena , CA",
+      "description": "Sweet Hrd to Handle show plaqued with equipment problems but the boys give their all throughout",
+      "archive_url": "https://headyversion.com/show/1764/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-05-31",
+      "show_id": 847,
+      "venue": "McArthur Court, University of Oregon Eugene, OR",
+      "description": "fantastic version so many heady moments in 1969",
+      "archive_url": "https://headyversion.com/show/847/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-06-05",
+      "show_id": 878,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "A hot version! T.C is a huge part of this one. Some real feisty organ textures all throughout, particularly toward the beginning and end of the jam.",
+      "archive_url": "https://headyversion.com/show/878/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-04-26",
+      "show_id": 990,
+      "venue": "The Electric Theatre Chicago, IL",
+      "description": "Jerry just never takes the slide off from It Hurts Me Too, makes me smile hearing him work his way through this tune. Definitely a lysergic night.",
+      "archive_url": "https://headyversion.com/show/990/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-03-21",
+      "show_id": 1598,
+      "venue": "Exposition Center Milwaukee, WI",
+      "description": "While the recording isn't great, you can still hear and feel the intensity. Really great and worth checking out",
+      "archive_url": "https://headyversion.com/show/1598/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-05-16",
+      "show_id": 2209,
+      "venue": "Temple University Philadelphia, PA",
+      "description": "AUD only but fire! Not totally smoking but its heady for sure. The Dead opening for Hendrix can't get any better than that",
+      "archive_url": "https://headyversion.com/show/2209/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-10-26",
+      "show_id": 2146,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Real hot one!",
+      "archive_url": "https://headyversion.com/show/2146/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-07-11",
+      "show_id": 953,
+      "venue": "NY State Pavilion, Flushing Meadow Park Queens, NY",
+      "description": "With Jerry on Pedal Steel. Excellent version from an underrated show. Terriffic, one of the earliest cowboy sounding shows.",
+      "archive_url": "https://headyversion.com/show/953/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-31",
+      "show_id": 414,
+      "venue": "??? Boston Tea Party, MA",
+      "description": "Swanky, loose and dirty.",
+      "archive_url": "https://headyversion.com/show/414/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-11-07",
+      "show_id": 1522,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Not too slow, bouncy, Pig confident, on his best game, and sounds like he wants to be there. Jam starting at 3:00 is a sonic gumbo.",
+      "archive_url": "https://headyversion.com/show/1522/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-04-03",
+      "show_id": 2157,
+      "venue": "Catholic Youth Center Scranton, PA",
+      "description": "This version is pretty unique and excellent. .",
+      "archive_url": "https://headyversion.com/show/2157/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-07",
+      "show_id": 2083,
+      "venue": "Fillmore San Francisco, CA",
+      "description": "Short but just as hot as always!",
+      "archive_url": "https://headyversion.com/show/2083/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-07-01",
+      "show_id": 534,
+      "venue": "Winnipeg Fairgrounds Winnipeg,",
+      "description": "The only recording available, it starts in the middle of the instrumental break.",
+      "archive_url": "https://headyversion.com/show/534/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-07-04",
+      "show_id": 1202,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "Awesome show opener",
+      "archive_url": "https://headyversion.com/show/1202/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-01-17",
+      "show_id": 1451,
+      "venue": "Oregon State University Corvallis, OR",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1451/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-04-11",
+      "show_id": 1984,
+      "venue": "University Auditorium, University of Arizona Tucson, AZ",
+      "description": "Great Jam with Pigpen leading the charge, controlling the mic like an mc pigpen emoting his swagger on this version, HOT!!!!",
+      "archive_url": "https://headyversion.com/show/1984/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-06-22",
+      "show_id": 121,
+      "venue": "Central Park NYC, NY",
+      "description": "Sick fast short early hard to handle good little jam",
+      "archive_url": "https://headyversion.com/show/121/archive/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "song_id": 71,
+  "name": "Dear Prudence",
+  "performances": [
+    {
+      "votes": 8,
+      "date": "1991-12-30",
+      "show_id": 887,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Most painful tease I ever heard live.  I wanted Jerry to start singing sooo bad.",
+      "archive_url": "https://headyversion.com/show/887/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-03-13",
+      "show_id": 564,
+      "venue": "Reno Centennial Coliseum Reno, NV",
+      "description": "Fantastic!",
+      "archive_url": "https://headyversion.com/show/564/archive/"
+    }
+  ]
+}

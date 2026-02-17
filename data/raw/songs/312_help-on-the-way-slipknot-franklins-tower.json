@@ -1,0 +1,902 @@
+{
+  "song_id": 312,
+  "name": "Help On The Way > Slipknot > Franklin's Tower",
+  "performances": [
+    {
+      "votes": 232,
+      "date": "1975-08-13",
+      "show_id": 170,
+      "venue": "Great American Music Hall San Francisco, CA",
+      "description": "yes indeed",
+      "archive_url": "https://headyversion.com/show/170/archive/"
+    },
+    {
+      "votes": 165,
+      "date": "1977-05-09",
+      "show_id": 25,
+      "venue": "War Memorial Buffalo, NY",
+      "description": "After cornell, duh.",
+      "archive_url": "https://headyversion.com/show/25/archive/"
+    },
+    {
+      "votes": 157,
+      "date": "1977-06-09",
+      "show_id": 245,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "At least 45 minutes long - and it was on my 18th birthday!",
+      "archive_url": "https://headyversion.com/show/245/archive/"
+    },
+    {
+      "votes": 142,
+      "date": "1977-05-22",
+      "show_id": 100,
+      "venue": "The Sportatorium Pembroke Pines, FL",
+      "description": "This one sparkles:) Dick",
+      "archive_url": "https://headyversion.com/show/100/archive/"
+    },
+    {
+      "votes": 104,
+      "date": "1977-02-26",
+      "show_id": 6,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "Awesome Slipknot!",
+      "archive_url": "https://headyversion.com/show/6/archive/"
+    },
+    {
+      "votes": 89,
+      "date": "1976-10-09",
+      "show_id": 630,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Solid version from one of the best second sets ever!",
+      "archive_url": "https://headyversion.com/show/630/archive/"
+    },
+    {
+      "votes": 65,
+      "date": "1990-03-30",
+      "show_id": 28,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "How could anyone forget the Without a Net version??????  Best in my books.",
+      "archive_url": "https://headyversion.com/show/28/archive/"
+    },
+    {
+      "votes": 56,
+      "date": "1976-06-14",
+      "show_id": 22,
+      "venue": "Beacon Theatre New York, NY",
+      "description": "Slower than later versions but still rockin.  Epic rendition of the classic trio",
+      "archive_url": "https://headyversion.com/show/22/archive/"
+    },
+    {
+      "votes": 53,
+      "date": "1990-07-18",
+      "show_id": 183,
+      "venue": "Deer Creek Music Theater Noblesville, IN",
+      "description": "best version ever",
+      "archive_url": "https://headyversion.com/show/183/archive/"
+    },
+    {
+      "votes": 48,
+      "date": "1977-10-11",
+      "show_id": 408,
+      "venue": "Lloyd Noble Center - University of Oklahoma Norman, OK",
+      "description": "Great way to open a show",
+      "archive_url": "https://headyversion.com/show/408/archive/"
+    },
+    {
+      "votes": 47,
+      "date": "1991-09-10",
+      "show_id": 325,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Hot version w/Branford",
+      "archive_url": "https://headyversion.com/show/325/archive/"
+    },
+    {
+      "votes": 45,
+      "date": "1976-06-19",
+      "show_id": 421,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Just when you think you've heard 'em all...Peppy&Zippy yet tight HELP >groovy-spacedout Slip>killer jumping-Jerry-led Franklins. Must Hear!",
+      "archive_url": "https://headyversion.com/show/421/archive/"
+    },
+    {
+      "votes": 43,
+      "date": "1976-10-01",
+      "show_id": 605,
+      "venue": "Market Square Arena Indianapolis, IN",
+      "description": "Mind blowing!!!!",
+      "archive_url": "https://headyversion.com/show/605/archive/"
+    },
+    {
+      "votes": 43,
+      "date": "1991-06-14",
+      "show_id": 482,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Best version with Bruce...couldn't believe it's not up here!",
+      "archive_url": "https://headyversion.com/show/482/archive/"
+    },
+    {
+      "votes": 41,
+      "date": "1977-04-23",
+      "show_id": 172,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "check out keith on this version of a very spaced out slipknot",
+      "archive_url": "https://headyversion.com/show/172/archive/"
+    },
+    {
+      "votes": 39,
+      "date": "1989-10-08",
+      "show_id": 385,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "The breakout version from the 'Warlocks' Hampton shows, they really tear it up here.",
+      "archive_url": "https://headyversion.com/show/385/archive/"
+    },
+    {
+      "votes": 36,
+      "date": "1976-06-17",
+      "show_id": 1404,
+      "venue": "Capitol Theater Passaic, NJ",
+      "description": "Crazy good show from a crazy good month...great slipknot & they ain't done after franklin's...right into sick stealthy dancin",
+      "archive_url": "https://headyversion.com/show/1404/archive/"
+    },
+    {
+      "votes": 35,
+      "date": "1983-09-02",
+      "show_id": 404,
+      "venue": "Boise Pavilion - Boise State University Boise, ID",
+      "description": "This Slipknot jam is a MONSTER (go directly to jam).  Listen to Phil and Jerry communicate and battle.  Results in new heights previously unheard of!",
+      "archive_url": "https://headyversion.com/show/404/archive/"
+    },
+    {
+      "votes": 34,
+      "date": "1976-06-24",
+      "show_id": 174,
+      "venue": "Tower Theatre Upper Darby, PA",
+      "description": "franklin's in PHilly..HUSH",
+      "archive_url": "https://headyversion.com/show/174/archive/"
+    },
+    {
+      "votes": 33,
+      "date": "1975-09-28",
+      "show_id": 432,
+      "venue": "Lindley Meadows, Golden Gate Park San Francisco, CA",
+      "description": "Hot start to a show - Help > Slip > Music Never Stopped",
+      "archive_url": "https://headyversion.com/show/432/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1984-04-01",
+      "show_id": 695,
+      "venue": "Marin County Veterans Auditorium San Rafael, CA",
+      "description": "Best of the 80's.",
+      "archive_url": "https://headyversion.com/show/695/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1976-06-03",
+      "show_id": 537,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "Groovy slow Help!, lengthy Slip, and sweet Franklin's...check it out!",
+      "archive_url": "https://headyversion.com/show/537/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1976-09-24",
+      "show_id": 683,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "Help>Slipknot>Drums>Slipknot>Franklins>Music.  This slipknot is the spacest you will ever here guaranteed, the reprise is crazy!! Gotta spin this one!",
+      "archive_url": "https://headyversion.com/show/683/archive/"
+    },
+    {
+      "votes": 29,
+      "date": "1983-04-26",
+      "show_id": 764,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "WOw can not believe this is not here this is truly amazing the slipknot is possibly the best of the 80's tremendous,Help is 5* and FT peaks many times",
+      "archive_url": "https://headyversion.com/show/764/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1976-08-04",
+      "show_id": 173,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "maybe the best ever",
+      "archive_url": "https://headyversion.com/show/173/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1991-09-25",
+      "show_id": 521,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Bruce added so much to this already great song...JAZZY.",
+      "archive_url": "https://headyversion.com/show/521/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1990-03-24",
+      "show_id": 191,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Love Sping.'90. LTGTR>HSF great tempo transition. Crowd goes nuts.",
+      "archive_url": "https://headyversion.com/show/191/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1993-09-22",
+      "show_id": 234,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "try catching jerry on this one",
+      "archive_url": "https://headyversion.com/show/234/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1977-04-29",
+      "show_id": 723,
+      "venue": "The Palladium New York, NY",
+      "description": "Soaring and beautiful...God save the child who rings that bell",
+      "archive_url": "https://headyversion.com/show/723/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1983-04-09",
+      "show_id": 669,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "This whole show is the Dead at their most energetic and the HSF has some exceptionally fine playing by Jerry. Maybe the best version of the decade!",
+      "archive_url": "https://headyversion.com/show/669/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1994-10-01",
+      "show_id": 268,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Tight H>S>F in beantown",
+      "archive_url": "https://headyversion.com/show/268/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1983-10-12",
+      "show_id": 775,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "listen for the slipknot alone, another one that will melt your face off",
+      "archive_url": "https://headyversion.com/show/775/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1976-06-10",
+      "show_id": 1183,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "So many brilliant ones, but you're missing a real treat if you count this one out.  Particularly strong Franklin's but the Slipknot! is brilliant too.",
+      "archive_url": "https://headyversion.com/show/1183/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1993-08-22",
+      "show_id": 221,
+      "venue": "Autzen Stadium - University of Oregon Eugene, OR",
+      "description": "Lovin me some Phil",
+      "archive_url": "https://headyversion.com/show/221/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1992-06-28",
+      "show_id": 231,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "great start to a great show",
+      "archive_url": "https://headyversion.com/show/231/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1984-06-27",
+      "show_id": 694,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "Merriweather always delivered, no let down here!",
+      "archive_url": "https://headyversion.com/show/694/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1990-09-19",
+      "show_id": 339,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "A big version. Listen as the baton gets passed without missing a beat.",
+      "archive_url": "https://headyversion.com/show/339/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1976-12-31",
+      "show_id": 46,
+      "venue": "Cow Palace Daly City, CA",
+      "description": "Help> Slip no Frank but still incredible.  The jam is amazing and at 3:06 Jerry just turns it on. Amazing",
+      "archive_url": "https://headyversion.com/show/46/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1976-09-27",
+      "show_id": 673,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Help> Slip> Drums>Other One> Wharf Rat> Slip> Franklin's. Is it any wonder why 76 is a pinnacle dead year? Whole 2nd set is one long jam. Amazing.",
+      "archive_url": "https://headyversion.com/show/673/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1976-06-21",
+      "show_id": 1335,
+      "venue": "Tower Theater Upper Darby, PA",
+      "description": "Really silky smooth Franklins. Just like the rest of the June '76 Help > Slipknot > Franklins is HOT.",
+      "archive_url": "https://headyversion.com/show/1335/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1984-04-21",
+      "show_id": 1653,
+      "venue": "Philadelphia Civic Center Philadelphia, PA",
+      "description": "A quick and driven entrance into the Help featuring Brent and Phil filling elusively and Jerry nailing it; Very intricate Knot; Infectious Franklins.",
+      "archive_url": "https://headyversion.com/show/1653/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1975-06-17",
+      "show_id": 171,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "instrumental version of 'help on the way'",
+      "archive_url": "https://headyversion.com/show/171/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1976-06-27",
+      "show_id": 1531,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "'76 Slipknots are special for the level of the Jerry/Keith interplay, and this is one of the very best of the year.",
+      "archive_url": "https://headyversion.com/show/1531/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1983-09-11",
+      "show_id": 987,
+      "venue": "Downs of Santa Fe Santa Fe, NM",
+      "description": "The Slipknot is the true meat of this H>S>F triptych...",
+      "archive_url": "https://headyversion.com/show/987/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1983-09-06",
+      "show_id": 843,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Rippin' at Red Rocks. Bouncy, jaunty, zippy and energetic early 80's version. Brent  takes control on Franklin's.",
+      "archive_url": "https://headyversion.com/show/843/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1991-10-31",
+      "show_id": 293,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "great version",
+      "archive_url": "https://headyversion.com/show/293/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1983-04-17",
+      "show_id": 908,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Best of 1983.......................maybe ever!!!!!!",
+      "archive_url": "https://headyversion.com/show/908/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1983-06-28",
+      "show_id": 597,
+      "venue": "Poplar Creek Music Theater Hofman Estates, IL",
+      "description": "The boys burn it up...Jerry's flying and Phil's bombing...transitions into a pretty funky Women are Smarter for the crowd to dance the intensity away",
+      "archive_url": "https://headyversion.com/show/597/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1984-04-17",
+      "show_id": 1399,
+      "venue": "Niagara Falls Convention Center Niagara Falls, NY",
+      "description": "off the handle and flying atcha",
+      "archive_url": "https://headyversion.com/show/1399/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1995-05-26",
+      "show_id": 250,
+      "venue": "Memorial Stadium Seattle, WA",
+      "description": "Is this really 1995?? Some great jams by Jerry!",
+      "archive_url": "https://headyversion.com/show/250/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1994-10-10",
+      "show_id": 311,
+      "venue": "USAir Arena Landover, MD",
+      "description": "second set opener",
+      "archive_url": "https://headyversion.com/show/311/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1993-05-16",
+      "show_id": 304,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/304/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1985-09-12",
+      "show_id": 905,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Last HSF until Hampton, very nice!!!!!",
+      "archive_url": "https://headyversion.com/show/905/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1989-10-19",
+      "show_id": 1170,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Heater of a Slipknot!",
+      "archive_url": "https://headyversion.com/show/1170/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1976-07-12",
+      "show_id": 760,
+      "venue": "Orpheum Theater San Francisco, CA",
+      "description": "Magnificent with a typically heady 1976 slipknot, jazzy and funky great 76 sound on this version.",
+      "archive_url": "https://headyversion.com/show/760/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1993-03-11",
+      "show_id": 1485,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1485/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1984-07-04",
+      "show_id": 1862,
+      "venue": "Five Seasons Center Cedar Rapids , IA",
+      "description": "Fast. Fast. Fast. Cokey version seems like it's playing in fast forward. '84 is so unique and magical/dreamy sometimes.",
+      "archive_url": "https://headyversion.com/show/1862/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1976-09-23",
+      "show_id": 897,
+      "venue": "Cameron Indoor Stadium, Duke U Durham, NC",
+      "description": "Really hot Slipknot",
+      "archive_url": "https://headyversion.com/show/897/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1993-06-22",
+      "show_id": 147,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Hot from start to finish... best of the Vince era. Band was on, Healy was on, crowd was on, it was ON",
+      "archive_url": "https://headyversion.com/show/147/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1976-06-04",
+      "show_id": 1497,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "Help has an indescribable groove to it, Garcia's solo really shines. Slipknot is an exploratory ten minutes and gets slow at the end, Frank rules.",
+      "archive_url": "https://headyversion.com/show/1497/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1989-10-22",
+      "show_id": 1554,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Cool jam in Franklin's Tower",
+      "archive_url": "https://headyversion.com/show/1554/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1990-10-31",
+      "show_id": 126,
+      "venue": "Wembley Arena London,",
+      "description": "Opens this show up right!  Bruce really getting comfortable by now.",
+      "archive_url": "https://headyversion.com/show/126/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1990-06-15",
+      "show_id": 264,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Wild tuning turns into a meaty help on the way, very nice slipknot with all contributing leads to a fiery franklin's tower. Very meaty version",
+      "archive_url": "https://headyversion.com/show/264/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1994-10-18",
+      "show_id": 1640,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "The final MSG stand, the boys showed up at times this run here is one of them. Potent and rocking wonderful Phil transition, Soaring Franklin's,",
+      "archive_url": "https://headyversion.com/show/1640/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1994-03-06",
+      "show_id": 1999,
+      "venue": "Desert Sky Pavilion Phoenix, AZ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1999/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1974-06-20",
+      "show_id": 20,
+      "venue": "The Omni Atlanta, GA",
+      "description": "*THIS IS NOT A HELP/SLIP/FRANKLINS JAM* this is the first slipknot ever  wedged in between an Eyes and China Doll",
+      "archive_url": "https://headyversion.com/show/20/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1990-06-24",
+      "show_id": 1823,
+      "venue": "Autzen Stadium Eugene, OR",
+      "description": "I really like the version of Help...strong vibes throughout the entire jam though",
+      "archive_url": "https://headyversion.com/show/1823/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-09-20",
+      "show_id": 353,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Ok technically it's Help>Slipknot>Fire but c'mon that's pretty cool & even w/out the novelty of the change-up it's a sweet version",
+      "archive_url": "https://headyversion.com/show/353/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1983-03-25",
+      "show_id": 785,
+      "venue": "Compton Terrace Amphitheatre Tempe, AZ",
+      "description": "The return of Help->Slipknot->Franklin's after 5 years off, the crowd goes nuts a true powerhouse version. moves nicely into a good playin'",
+      "archive_url": "https://headyversion.com/show/785/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-06-09",
+      "show_id": 184,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "great 93 version",
+      "archive_url": "https://headyversion.com/show/184/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1994-07-21",
+      "show_id": 185,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "help>slip>frank into drums; lots of midi, extended jam before verse one of franklins",
+      "archive_url": "https://headyversion.com/show/185/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1984-11-02",
+      "show_id": 930,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "If this sh",
+      "archive_url": "https://headyversion.com/show/930/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1991-06-24",
+      "show_id": 497,
+      "venue": "Sandstone Amphitheatre Bonner Springs, KS",
+      "description": "This is a quality 90's version of the trio of songs, and it happens to be a long half hour version too.",
+      "archive_url": "https://headyversion.com/show/497/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1992-03-05",
+      "show_id": 295,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "BRUUUUUUUCE, His return for the evening has an absolute positive effect on the whole band but Jerry in particular and this whole trio SMOKES ,DANK!!!!",
+      "archive_url": "https://headyversion.com/show/295/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1984-07-14",
+      "show_id": 1908,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "Bobby has to be coaxed out luckily the band performs a rel smooth laid back help slip franklins smooth and full of grooves, not the tightest but jazzy",
+      "archive_url": "https://headyversion.com/show/1908/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-10-14",
+      "show_id": 1385,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "excellent and very rare set one closer. nice long franklins and a killer help",
+      "archive_url": "https://headyversion.com/show/1385/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-04-02",
+      "show_id": 946,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/946/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1992-05-31",
+      "show_id": 235,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/235/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1991-05-05",
+      "show_id": 2000,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2000/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-03-25",
+      "show_id": 1293,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "Slipknot is a super windup to a smooth and relaxed Franklin's",
+      "archive_url": "https://headyversion.com/show/1293/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-05-05",
+      "show_id": 186,
+      "venue": "California State University Dominguez Hills Carson, CA",
+      "description": "I love this version, nice and loose; west coast",
+      "archive_url": "https://headyversion.com/show/186/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1991-05-12",
+      "show_id": 346,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "second set opener; hot show. hot 3 shows in mountain view",
+      "archive_url": "https://headyversion.com/show/346/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-04-12",
+      "show_id": 998,
+      "venue": "Broome County Arena Binghamton, NY",
+      "description": "Hot Help On The Way->Slipknot!->Franklin's Tower to open set two.",
+      "archive_url": "https://headyversion.com/show/998/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-12-08",
+      "show_id": 1389,
+      "venue": "Great Western Forum Inglewood, CA",
+      "description": "its the West Coast retuRn of HeLp on the Way in quite some time...so. the 2nd set opened..and we Listened to the music play \u2665",
+      "archive_url": "https://headyversion.com/show/1389/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1984-10-09",
+      "show_id": 1247,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Each piece is played to masterful heights. Pretty damn good version for 84' coasts into a rocking jack straw",
+      "archive_url": "https://headyversion.com/show/1247/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-05-15",
+      "show_id": 869,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "With Airto Moreira, Set 2 opener at the Greek on Healy's Birthday.",
+      "archive_url": "https://headyversion.com/show/869/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-12-13",
+      "show_id": 1859,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "killer Colorado set 2 opener. Underrated show, stellar set list.",
+      "archive_url": "https://headyversion.com/show/1859/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-03-21",
+      "show_id": 322,
+      "venue": "Copps Coliseum Hamilton,",
+      "description": "this help slip franks has leftover energy from the first night",
+      "archive_url": "https://headyversion.com/show/322/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-12-31",
+      "show_id": 862,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Help>Slip>Frank to close the 1st set...........Yes, Yes and Yes!",
+      "archive_url": "https://headyversion.com/show/862/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1983-03-29",
+      "show_id": 1890,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Nice 1980's example.",
+      "archive_url": "https://headyversion.com/show/1890/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1983-10-31",
+      "show_id": 665,
+      "venue": "Marin Veterans Memorial Auditorium San Rafael, CA",
+      "description": "Halloween Help Slip Franklin's Jerry is at attention on this piece",
+      "archive_url": "https://headyversion.com/show/665/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-04-04",
+      "show_id": 1550,
+      "venue": "Sports Arena Orlando, FL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1550/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-06-23",
+      "show_id": 637,
+      "venue": "Star Lake Amphitheater Burgettstown, PA",
+      "description": "Under-Rated Show",
+      "archive_url": "https://headyversion.com/show/637/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-08-17",
+      "show_id": 1547,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1547/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-03-24",
+      "show_id": 1462,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "HOt opener at Knickerbocker, loud clear soundboard up on archive, Nice hot show per usual at Knickerbocker,NO Bruce on this night",
+      "archive_url": "https://headyversion.com/show/1462/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-02-21",
+      "show_id": 338,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Inventive grooves in this solid workout",
+      "archive_url": "https://headyversion.com/show/338/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-03-22",
+      "show_id": 253,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Hotlanta!  this help slip franks is best of spring 93",
+      "archive_url": "https://headyversion.com/show/253/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-09-14",
+      "show_id": 1004,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Nice show opener. Very good three night run in Philly excellent by 1993 standards.",
+      "archive_url": "https://headyversion.com/show/1004/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-07-02",
+      "show_id": 969,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Nice Jazzy 20 minute set 2 opener",
+      "archive_url": "https://headyversion.com/show/969/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-04-04",
+      "show_id": 342,
+      "venue": "The Omni Atlanta, GA",
+      "description": "second set opener in hotlanta",
+      "archive_url": "https://headyversion.com/show/342/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-06-24",
+      "show_id": 902,
+      "venue": "Dane County Coliseum Madison, WI",
+      "description": "Smokin' 15 minute Franklin's in Mad-Town!",
+      "archive_url": "https://headyversion.com/show/902/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-10-20",
+      "show_id": 1165,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Phil just destroys the opening help nice weaving long slipknot into a real cooking franklin's tower. Fantastic opener to set 2. sizzling version",
+      "archive_url": "https://headyversion.com/show/1165/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-10-17",
+      "show_id": 1169,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Phil dominates the help slipknot segment Jerry has some voice issues but makes up for it in his playing here. Phil inspires Jerry to some heady space",
+      "archive_url": "https://headyversion.com/show/1169/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-12-11",
+      "show_id": 980,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Help->Slip is sloppy but...THis is a monster franklin's where Jerry absolutely lets loose, check out the fanning in the final jam, sick sweet stuff.",
+      "archive_url": "https://headyversion.com/show/980/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-03-29",
+      "show_id": 1736,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1736/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-02-24",
+      "show_id": 1728,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1728/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-12-17",
+      "show_id": 1757,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1757/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-03-25",
+      "show_id": 1582,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Not one of the \"big boys\" in terms of versions, but features nice Hornsby on accordian.",
+      "archive_url": "https://headyversion.com/show/1582/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-06-22",
+      "show_id": 1775,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1775/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-24",
+      "show_id": 2018,
+      "venue": "Sportsahalle Hamburg,",
+      "description": "Sweet version from Germany",
+      "archive_url": "https://headyversion.com/show/2018/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1976-06-26",
+      "show_id": 1062,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "Jerry's feelin' himself",
+      "archive_url": "https://headyversion.com/show/1062/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1974-07-25",
+      "show_id": 801,
+      "venue": "International Amphitheater Chicago, IL",
+      "description": "'Slipknot' only.Out of the mid DS jam,not a little 5 second tease but a full 6 minute ''Slip'' clear as day. Billy & Keith are the main culprits here.",
+      "archive_url": "https://headyversion.com/show/801/archive/"
+    }
+  ]
+}

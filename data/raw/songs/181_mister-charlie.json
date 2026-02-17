@@ -1,0 +1,374 @@
+{
+  "song_id": 181,
+  "name": "Mister Charlie",
+  "performances": [
+    {
+      "votes": 58,
+      "date": "1971-08-06",
+      "show_id": 13,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Jerry's guitar is smoking here.  The beat is really funky also.  Always a crowd pleaser!",
+      "archive_url": "https://headyversion.com/show/13/archive/"
+    },
+    {
+      "votes": 43,
+      "date": "1972-05-07",
+      "show_id": 445,
+      "venue": "Bickershaw Festival Wigan,",
+      "description": "Should have lots of votes. Tremendous version.",
+      "archive_url": "https://headyversion.com/show/445/archive/"
+    },
+    {
+      "votes": 38,
+      "date": "1972-05-03",
+      "show_id": 80,
+      "venue": "Olympia Theater Paris,",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/80/archive/"
+    },
+    {
+      "votes": 33,
+      "date": "1972-04-14",
+      "show_id": 135,
+      "venue": "Tivolis Koncertsal Copenhagen, DN",
+      "description": "Great redition here.  What a fabulous night in Europe!!",
+      "archive_url": "https://headyversion.com/show/135/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1972-04-26",
+      "show_id": 471,
+      "venue": "Jahrhunderthalle Frankfurt,",
+      "description": "The consistency on this tour is silly",
+      "archive_url": "https://headyversion.com/show/471/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1972-04-08",
+      "show_id": 524,
+      "venue": "Wembley Empire Pool London,",
+      "description": "This show has such great flow and energy and just keeps it going after a tasty Bertha, MaMU.",
+      "archive_url": "https://headyversion.com/show/524/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1972-05-04",
+      "show_id": 549,
+      "venue": "Olympia Theater Paris,",
+      "description": "Yup!",
+      "archive_url": "https://headyversion.com/show/549/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1972-05-16",
+      "show_id": 739,
+      "venue": "Theatre Hall Luxembourg,",
+      "description": "One of the best of the tour. Pig sounds fantastic, and the band is kicking.",
+      "archive_url": "https://headyversion.com/show/739/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1971-12-02",
+      "show_id": 500,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Short but funky and awesome",
+      "archive_url": "https://headyversion.com/show/500/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1972-04-21",
+      "show_id": 985,
+      "venue": "Beat Club Bremen, GE",
+      "description": "excellent another hot Europe 72",
+      "archive_url": "https://headyversion.com/show/985/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1971-08-07",
+      "show_id": 1323,
+      "venue": "Golden Hall San Diego, CA",
+      "description": "Jerry leans into it with a jaw-tighteningly crisp and high-voltage tone for a killer solo, though the group is a bit loose. Pigpen sounds amazing.",
+      "archive_url": "https://headyversion.com/show/1323/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1972-04-11",
+      "show_id": 528,
+      "venue": "Newcastle City Hall Newcastle,",
+      "description": "Wow this tour is just epic another barn burner",
+      "archive_url": "https://headyversion.com/show/528/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-05-23",
+      "show_id": 400,
+      "venue": "Strand Lyceum London, UK",
+      "description": "Europe 72 version..... totally shreds",
+      "archive_url": "https://headyversion.com/show/400/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-05-26",
+      "show_id": 575,
+      "venue": "Strand Lyceum London,",
+      "description": "London Lyceum '72... duh!",
+      "archive_url": "https://headyversion.com/show/575/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-05-11",
+      "show_id": 14,
+      "venue": "Rotterdam Civic Hall Rotterdam,",
+      "description": "Everything is golden from this show, even Mr. Charlie.",
+      "archive_url": "https://headyversion.com/show/14/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1971-12-10",
+      "show_id": 86,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Nice and funky. Pigpen and the backup vocals sounding great.",
+      "archive_url": "https://headyversion.com/show/86/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-04-07",
+      "show_id": 1070,
+      "venue": "Wembley Empire Pool London,",
+      "description": "Great one",
+      "archive_url": "https://headyversion.com/show/1070/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-03-26",
+      "show_id": 1788,
+      "venue": "Academy of Music New York, NY",
+      "description": "Crowd is frickin lovin this one!  Great groove...Jer nails it!",
+      "archive_url": "https://headyversion.com/show/1788/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-04-24",
+      "show_id": 737,
+      "venue": "Rheinhalle Dusseldorf,",
+      "description": "another hot one from europe",
+      "archive_url": "https://headyversion.com/show/737/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-04-29",
+      "show_id": 819,
+      "venue": "Musikhalle Hamburg,",
+      "description": "Amazing how they brought it night in and night out on this expansive tour of europe",
+      "archive_url": "https://headyversion.com/show/819/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1971-08-14",
+      "show_id": 411,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "phil got the chuba, pig the wooley booley, jer playin high, playin low.",
+      "archive_url": "https://headyversion.com/show/411/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-05-10",
+      "show_id": 745,
+      "venue": "Concertgebouw Amsterdam,",
+      "description": "the tour that just keeps on giving",
+      "archive_url": "https://headyversion.com/show/745/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-05-18",
+      "show_id": 290,
+      "venue": "Kongressaal, Deutsches Museum Munich, DE",
+      "description": "Every time on this tour this song was heady",
+      "archive_url": "https://headyversion.com/show/290/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-12-07",
+      "show_id": 16,
+      "venue": "Felt Forum, Madison Square Garden New York, NY",
+      "description": "They catch a groove so pass over that alligator wine. Chuba-chuba.",
+      "archive_url": "https://headyversion.com/show/16/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-05-25",
+      "show_id": 401,
+      "venue": "Strand Lyceum London, UK",
+      "description": "Europe was so smoking hot",
+      "archive_url": "https://headyversion.com/show/401/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-05-24",
+      "show_id": 984,
+      "venue": "Strand Lyceum London,",
+      "description": "another standout from europe 72",
+      "archive_url": "https://headyversion.com/show/984/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-07-31",
+      "show_id": 134,
+      "venue": "Yale Bowl, Yale University New Haven, CT",
+      "description": "Ignore the audiophobes and get into it. Pig and Jerry both totally on. The band is exploding with energy. Overlooked show, and Dave knew it.",
+      "archive_url": "https://headyversion.com/show/134/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-04-16",
+      "show_id": 818,
+      "venue": "Aarhus University Aarhus,",
+      "description": "Wow fantastic",
+      "archive_url": "https://headyversion.com/show/818/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-05-13",
+      "show_id": 51,
+      "venue": "Lille Fairgrounds Lille,",
+      "description": "Distinctly slower, with a greasier funk vibe. Surprised it isn't here. Different from the others and lots of fun.",
+      "archive_url": "https://headyversion.com/show/51/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-12-14",
+      "show_id": 1095,
+      "venue": "Hill Auditorium Ann Arbor, MI",
+      "description": "Sick Jerry solo.",
+      "archive_url": "https://headyversion.com/show/1095/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-03-28",
+      "show_id": 646,
+      "venue": "Academy of Music New York, NY",
+      "description": "The best Mr. Charlie from the Academy of Music run of March 1972 (in my opinion)  Follows a fantastic \"You Win Again\"",
+      "archive_url": "https://headyversion.com/show/646/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-12-06",
+      "show_id": 1544,
+      "venue": "Felt Forum, Madison Square Garden New York, NY",
+      "description": "Lookin' high, lookin' low",
+      "archive_url": "https://headyversion.com/show/1544/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-12-09",
+      "show_id": 1164,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Great funk just right in that sweet, rockin' spot. Pig's voice is on, Jerry's on fire, and Keith sounds great.",
+      "archive_url": "https://headyversion.com/show/1164/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-12-15",
+      "show_id": 29,
+      "venue": "Hill Auditorium Ann Arbor, MI",
+      "description": "Pigpen at his best with the band at its grit-in-the-gears crunchiest.  They were on this night and this one is just full of butt.",
+      "archive_url": "https://headyversion.com/show/29/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-04-17",
+      "show_id": 399,
+      "venue": "Tivolis Koncertsal K\u00f8benhavn (Copenhagen),",
+      "description": "Solid version from a great Europe '72 show, tight vocals",
+      "archive_url": "https://headyversion.com/show/399/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-03-21",
+      "show_id": 391,
+      "venue": "Academy of Music New York City, NY",
+      "description": "Part of a great first set, the band is on fire, and Pigpen in great form.  Tight rocker.",
+      "archive_url": "https://headyversion.com/show/391/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-08-26",
+      "show_id": 592,
+      "venue": "Gaelic Park New York, NY",
+      "description": "Rip snortin' version!",
+      "archive_url": "https://headyversion.com/show/592/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-03-27",
+      "show_id": 1321,
+      "venue": "Academy of Music New York, NY",
+      "description": "Has a real sick groove makes you want to get up and dance, real solid funky groove tight Jerry guitar and Pigpen vocals. Great stuff ready for Europe",
+      "archive_url": "https://headyversion.com/show/1321/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-08-05",
+      "show_id": 48,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Definitely overlooked because of the monster that came the night after, but in fact this is a really hot version.",
+      "archive_url": "https://headyversion.com/show/48/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-03-22",
+      "show_id": 865,
+      "venue": "Academy of Music NYC, NY",
+      "description": "High-voltage and up tempo shuffle. Great sounding C. Miller cleanup.",
+      "archive_url": "https://headyversion.com/show/865/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-12-31",
+      "show_id": 409,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Nice swing to this version.",
+      "archive_url": "https://headyversion.com/show/409/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-08-15",
+      "show_id": 1606,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "Snarling and ballsy, complete with a hog snort in the pause after it.  Pigpen got good and greased up for this show.  Fun and loose.",
+      "archive_url": "https://headyversion.com/show/1606/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-03-05",
+      "show_id": 1524,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Slow tempo, groovy and funky.",
+      "archive_url": "https://headyversion.com/show/1524/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-12-04",
+      "show_id": 17,
+      "venue": "Felt Forum, Madison Square Garden New York City, NY",
+      "description": "The blues is strong here, Jerry's solo is truly incredible. Keith laying it down with Pigpen in the Garden rapping up a storm. One of the best.",
+      "archive_url": "https://headyversion.com/show/17/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1972-01-02",
+      "show_id": 42,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Funky.",
+      "archive_url": "https://headyversion.com/show/42/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-12-05",
+      "show_id": 791,
+      "venue": "Felt Forum - Madison Square Garden New York, NY",
+      "description": "Infectious groove",
+      "archive_url": "https://headyversion.com/show/791/archive/"
+    }
+  ]
+}

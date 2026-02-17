@@ -1,0 +1,78 @@
+{
+  "song_id": 135,
+  "name": "I Second That Emotion",
+  "performances": [
+    {
+      "votes": 23,
+      "date": "1971-04-25",
+      "show_id": 643,
+      "venue": "Fillmore East New York, NY",
+      "description": "Banging! Nice and clean and funky on a smokey robinson classic",
+      "archive_url": "https://headyversion.com/show/643/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "So Sweet. One of the greatest overall shows of any band, EVER.",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-04-18",
+      "show_id": 417,
+      "venue": "Lusk Field House - State University Of New York Cortland, NY",
+      "description": "Reminiscent of early TLEO's, beautiful wailing Garcia guitar, and it's just such a nice song",
+      "archive_url": "https://headyversion.com/show/417/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-04-13",
+      "show_id": 1423,
+      "venue": "Catholic Youth Center Scranton, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1423/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-15",
+      "show_id": 1543,
+      "venue": "Allegheny College Meadville, PA",
+      "description": "Jerry sounds so sweet on this one. Solo is sharp and tender. You'll \"feel it\" around the 4 minute mark.",
+      "archive_url": "https://headyversion.com/show/1543/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-08",
+      "show_id": 1087,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Sweet version of the classic tune.",
+      "archive_url": "https://headyversion.com/show/1087/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-10-13",
+      "show_id": 1753,
+      "venue": "NBC Studios New York , NY",
+      "description": "The David Letterman Show, epic legendary spot by Garcia and Weir",
+      "archive_url": "https://headyversion.com/show/1753/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-14",
+      "show_id": 1006,
+      "venue": "Davis Gym, Bucknell University Lewisburg, PA",
+      "description": "Nice version of the rare tune only played in April of 1971",
+      "archive_url": "https://headyversion.com/show/1006/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1978-03-22",
+      "show_id": 2068,
+      "venue": "Veteran's. Hall Sebastopol, CA",
+      "description": "Garcia live 4. The girls add nice harmonies and the solos just keep giving",
+      "archive_url": "https://headyversion.com/show/2068/archive/"
+    }
+  ]
+}

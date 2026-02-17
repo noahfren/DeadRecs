@@ -1,0 +1,30 @@
+{
+  "song_id": 59,
+  "name": "Confusion Prince",
+  "performances": [
+    {
+      "votes": 7,
+      "date": "1965-11-03",
+      "show_id": 658,
+      "venue": "Golden State Studios San Francisco, CA",
+      "description": "Can't believe I'm the first one to upload a heady version of this song. Such a cool one!",
+      "archive_url": "https://headyversion.com/show/658/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1966-11-29",
+      "show_id": 830,
+      "venue": "The Matrix San Francisco,, CA",
+      "description": "The last live version of the song",
+      "archive_url": "https://headyversion.com/show/830/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1966-05-19",
+      "show_id": 518,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "oldie but goodie",
+      "archive_url": "https://headyversion.com/show/518/archive/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "song_id": 287,
+  "name": "Walking the Dog",
+  "performances": [
+    {
+      "votes": 14,
+      "date": "1985-04-08",
+      "show_id": 783,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Midnite Hour>WTD>Big Boss Man to open the show-Wow!; Walkin' worth it just to hear Jerry sustain the vocal on \"Pretty maids all in a Roooooooowww!\"",
+      "archive_url": "https://headyversion.com/show/783/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-03-21",
+      "show_id": 1258,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "A fantasic version from a fantastic run of shows!",
+      "archive_url": "https://headyversion.com/show/1258/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-11-11",
+      "show_id": 1716,
+      "venue": "Brendan Byrne Arena East Rutherford, NJ",
+      "description": "Nice opener to a show that BEGS for more attention. 2nd set \"Eyes\" is killer",
+      "archive_url": "https://headyversion.com/show/1716/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1984-03-29",
+      "show_id": 1535,
+      "venue": "Marin County Veterans Auditorium San Rafael, CA",
+      "description": "Terrific mid 1980's rarity after a long hiatus",
+      "archive_url": "https://headyversion.com/show/1535/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-21",
+      "show_id": 1552,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "One of the few mid 1980's versions",
+      "archive_url": "https://headyversion.com/show/1552/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1966-02-01",
+      "show_id": 1257,
+      "venue": "early 1966 studio recordings San Francisco, CA",
+      "description": "Studio recording that can be found on Rare Cuts And Oddities.  Exact date unknown.",
+      "archive_url": "https://headyversion.com/show/1257/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-09",
+      "show_id": 1976,
+      "venue": "Action House Island Park, NY",
+      "description": "Wonderful true rarity.",
+      "archive_url": "https://headyversion.com/show/1976/archive/"
+    }
+  ]
+}

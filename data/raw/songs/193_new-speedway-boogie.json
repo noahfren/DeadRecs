@@ -1,0 +1,398 @@
+{
+  "song_id": 193,
+  "name": "New Speedway Boogie",
+  "performances": [
+    {
+      "votes": 54,
+      "date": "1991-06-17",
+      "show_id": 296,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Rockin' version from a top shelf show",
+      "archive_url": "https://headyversion.com/show/296/archive/"
+    },
+    {
+      "votes": 50,
+      "date": "1970-09-20",
+      "show_id": 85,
+      "venue": "Fillmore East New York, NY",
+      "description": "Relaxed funky opium den vibe",
+      "archive_url": "https://headyversion.com/show/85/archive/"
+    },
+    {
+      "votes": 41,
+      "date": "1970-05-14",
+      "show_id": 719,
+      "venue": "Merramec Community College Kirkwood, MO",
+      "description": "Good vibe",
+      "archive_url": "https://headyversion.com/show/719/archive/"
+    },
+    {
+      "votes": 35,
+      "date": "1970-05-01",
+      "show_id": 729,
+      "venue": "Alfred College Alfred, NY",
+      "description": "i DONT KNOW BUT i BEEN TOLD",
+      "archive_url": "https://headyversion.com/show/729/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "This really needs some votes. This one is the goods.",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1992-06-28",
+      "show_id": 231,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "speedway>smokestack set closer!",
+      "archive_url": "https://headyversion.com/show/231/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1969-12-20",
+      "show_id": 1471,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "bluesy goodness",
+      "archive_url": "https://headyversion.com/show/1471/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1995-07-02",
+      "show_id": 350,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "definitive version  jerry doesn't miss a lyric",
+      "archive_url": "https://headyversion.com/show/350/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-07-14",
+      "show_id": 57,
+      "venue": "Euphoria Ballroom San Rafael, CA",
+      "description": "w/Crosby - simply amazing version....love it!",
+      "archive_url": "https://headyversion.com/show/57/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1995-06-24",
+      "show_id": 351,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "this is the last great raging version, better than deer creek plus hornsby on grand",
+      "archive_url": "https://headyversion.com/show/351/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1991-03-17",
+      "show_id": 616,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Short Truckin leads into a very nice New Speedway Boogie, VERY bluesy nice work from Bob and Jerry. First East coast performance in 20 years",
+      "archive_url": "https://headyversion.com/show/616/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1991-02-19",
+      "show_id": 1002,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "The Breakout! In \"honor\" of the impending Gulf War. Vocals are sloppy(which one isn't), but ripping version",
+      "archive_url": "https://headyversion.com/show/1002/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1994-03-21",
+      "show_id": 204,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "jerry going nuts with new guitar",
+      "archive_url": "https://headyversion.com/show/204/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-06-07",
+      "show_id": 738,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "acoustic and an early version",
+      "archive_url": "https://headyversion.com/show/738/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-07-03",
+      "show_id": 1022,
+      "venue": "McMahon Stadium Calgary, AB",
+      "description": "Sentimental favorite - on YouTube too",
+      "archive_url": "https://headyversion.com/show/1022/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1995-06-02",
+      "show_id": 1003,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Fantastic version from '95.",
+      "archive_url": "https://headyversion.com/show/1003/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1994-03-30",
+      "show_id": 383,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Top shelf performance",
+      "archive_url": "https://headyversion.com/show/383/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-05-07",
+      "show_id": 1217,
+      "venue": "DuPont Gym - MIT Cambridge, MA",
+      "description": "Acoustic version with a bone in its teeth.",
+      "archive_url": "https://headyversion.com/show/1217/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1994-10-15",
+      "show_id": 1602,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Very Jammy version of New Speedway into drums, A Song the really sank into the last 2 years, Jer brings it to near stillness then explodes in a hot ja",
+      "archive_url": "https://headyversion.com/show/1602/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-06-08",
+      "show_id": 180,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "truckin>speedway>twbs to open second set smokes",
+      "archive_url": "https://headyversion.com/show/180/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-08-18",
+      "show_id": 652,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Pure version, with just the right amount of menace and swagger. A great jam here too. Check it out.",
+      "archive_url": "https://headyversion.com/show/652/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1992-03-24",
+      "show_id": 274,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "mid first set version really smokes",
+      "archive_url": "https://headyversion.com/show/274/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-12-30",
+      "show_id": 413,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "So soon after the tragedies at Altamont Speedway this version carries an extra heavy presence.",
+      "archive_url": "https://headyversion.com/show/413/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-06-13",
+      "show_id": 1573,
+      "venue": "Red Vest Oahu, HI",
+      "description": "Amog the finest early versions they played of this classic.",
+      "archive_url": "https://headyversion.com/show/1573/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-05-10",
+      "show_id": 347,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/347/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-09-09",
+      "show_id": 1463,
+      "venue": "MSG New York, NY",
+      "description": "grab hold of your seat bc this train's got to run today. grab the aud and listen to jerry wake up the soda vendors out in the halls",
+      "archive_url": "https://headyversion.com/show/1463/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-07-13",
+      "show_id": 1498,
+      "venue": "Franklin County Airport Highgate, VT",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1498/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-07-11",
+      "show_id": 1620,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Superb, a distant reach-out from the AUDmurk of time. A special treat here.",
+      "archive_url": "https://headyversion.com/show/1620/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-10-06",
+      "show_id": 1769,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1769/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-12-26",
+      "show_id": 960,
+      "venue": "McFarlin Auditorium, SMU Dallas, TX",
+      "description": "Despite the cut at the beginning and a few lyrical flubs, this is still a passionate early one, with the recent disaster of Altamont haunting it.",
+      "archive_url": "https://headyversion.com/show/960/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-03-23",
+      "show_id": 1742,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1742/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-07-31",
+      "show_id": 216,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "listen to the ending with jerry singing, \"..this darkness got to give\" . sounds like an indian pow wow",
+      "archive_url": "https://headyversion.com/show/216/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-06-23",
+      "show_id": 637,
+      "venue": "Star Lake Amphitheater Burgettstown, PA",
+      "description": "Awesome version. Jerry is into it, great soundboadr mix,energetic jam with no screw ups",
+      "archive_url": "https://headyversion.com/show/637/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-06-07",
+      "show_id": 291,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Scarlet>Fire>Truckin'>NewSpeedway>The Place was Jumpin' with Joy!!!!",
+      "archive_url": "https://headyversion.com/show/291/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-06-12",
+      "show_id": 252,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Great first set Speedway drifts weirdly and quietly into Promised Land",
+      "archive_url": "https://headyversion.com/show/252/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-08-19",
+      "show_id": 1545,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Love this in 70",
+      "archive_url": "https://headyversion.com/show/1545/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-12-19",
+      "show_id": 1277,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "Hot in a year full of really good ones. Jerry played this with passion thru the end.",
+      "archive_url": "https://headyversion.com/show/1277/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-06-05",
+      "show_id": 748,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "With the exception of the unfortunate tape flip, this is a pristine acoustic version. Jerry has the vox of an angel here.",
+      "archive_url": "https://headyversion.com/show/748/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-03-17",
+      "show_id": 1659,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Nice surprise out of truckin'",
+      "archive_url": "https://headyversion.com/show/1659/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-01-01",
+      "show_id": 453,
+      "venue": "Studio- Wally Heider PERRO, CA",
+      "description": "Unknown date, released on the \"Fallout From the Phil Zone\" cd. The performance is on par with any of these, and the sound quality smokes them all.",
+      "archive_url": "https://headyversion.com/show/453/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-05-03",
+      "show_id": 1972,
+      "venue": "Field House, Wesleyan University Middletown, CT",
+      "description": "marvelous early version reallly brings the heat.",
+      "archive_url": "https://headyversion.com/show/1972/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-04-18",
+      "show_id": 1681,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Fiery yet contained, a great acoustic version. This whole show is a gem for acoustic lovers...",
+      "archive_url": "https://headyversion.com/show/1681/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-06-27",
+      "show_id": 2195,
+      "venue": "Canadian National Exhibition Grandstand Toronto, ON",
+      "description": "Part of the 1970 Trans-Continental Pop Festival. Video footage shown in the Festival Express Documentary.",
+      "archive_url": "https://headyversion.com/show/2195/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-12-21",
+      "show_id": 1470,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Coming in hot from a steamin' Smokestack",
+      "archive_url": "https://headyversion.com/show/1470/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-02-25",
+      "show_id": 1825,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "This was a song Jerry seemed to really ply well in 1995 with several strong versions including this goose-bump inducing version.",
+      "archive_url": "https://headyversion.com/show/1825/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-03-29",
+      "show_id": 2075,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2075/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-09-24",
+      "show_id": 314,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Killer version from the Bruce era.  Nice first set closer.",
+      "archive_url": "https://headyversion.com/show/314/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-05-25",
+      "show_id": 1800,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "flows nicely out f spoonful into a hot rhythm devils",
+      "archive_url": "https://headyversion.com/show/1800/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-05-04",
+      "show_id": 1631,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Nice first set choice - Jerry flubs some lyrics but the playing is great. Note that this is a Vince only '91 show and he kills",
+      "archive_url": "https://headyversion.com/show/1631/archive/"
+    }
+  ]
+}

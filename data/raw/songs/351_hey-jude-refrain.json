@@ -1,0 +1,158 @@
+{
+  "song_id": 351,
+  "name": "Hey Jude Finale",
+  "performances": [
+    {
+      "votes": 18,
+      "date": "1989-07-02",
+      "show_id": 641,
+      "venue": "Sullivan Stadium Foxboro, MA",
+      "description": "Sweet flowig beautifully out of Mr Fantasy",
+      "archive_url": "https://headyversion.com/show/641/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-03-22",
+      "show_id": 565,
+      "venue": "Copps Coliseum Hamilton, ON",
+      "description": "Great version from a great show, Jerry breaks a string at the end of Mr Fantasy (check out the YouTube video) which leads to a long Hey Jude Refrain",
+      "archive_url": "https://headyversion.com/show/565/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-03-01",
+      "show_id": 81,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Yea pigpen siging Hey Jude",
+      "archive_url": "https://headyversion.com/show/81/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-04-01",
+      "show_id": 167,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Another great version from Spring \u201990, got to love the MIDI tone of Garcia\u2019s guitar.",
+      "archive_url": "https://headyversion.com/show/167/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-07-12",
+      "show_id": 111,
+      "venue": "Robert F. Kennedy Stadium Washington, DC",
+      "description": "Sadly, I must also nominate the last one played, from what was the best \u201cStadium\u201d show I saw.  RIP Brent.",
+      "archive_url": "https://headyversion.com/show/111/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-07-03",
+      "show_id": 1351,
+      "venue": "Oxford Plains Speedway Oxford, ME",
+      "description": "At the speedway with every note echoing off of the mountains",
+      "archive_url": "https://headyversion.com/show/1351/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-06-09",
+      "show_id": 374,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "1990 was the year for mr fantasy hey jude. killer version",
+      "archive_url": "https://headyversion.com/show/374/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-07-18",
+      "show_id": 1310,
+      "venue": "Alpine Valley Alpine Valley, WI",
+      "description": "super from such a tight run",
+      "archive_url": "https://headyversion.com/show/1310/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-09-07",
+      "show_id": 219,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Have to give a nod to the first one performed, took us all by surprise, beautiful day at Red Rocks.",
+      "archive_url": "https://headyversion.com/show/219/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-10-19",
+      "show_id": 1170,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Flows beautifully out of a total ass kicking shredding Dear Mr Fantasy. Hot pairing, Brent at his best.",
+      "archive_url": "https://headyversion.com/show/1170/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-04-13",
+      "show_id": 1777,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "another sweet version from april 1989",
+      "archive_url": "https://headyversion.com/show/1777/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-04-09",
+      "show_id": 1717,
+      "venue": "Centrum Worchester, MA",
+      "description": "Always held a special place for me, my 16th birthday. One of my favorite songs.",
+      "archive_url": "https://headyversion.com/show/1717/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-03-17",
+      "show_id": 1618,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "second version nearly 2.5 years after first on St. Patricks day",
+      "archive_url": "https://headyversion.com/show/1618/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-12-31",
+      "show_id": 382,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Fantastic out of the BEST Dear Mr Fantasy",
+      "archive_url": "https://headyversion.com/show/382/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-04-15",
+      "show_id": 935,
+      "venue": "rosemont chicago, Il",
+      "description": "Brent just explodes vocally on this wonderously joyous tune",
+      "archive_url": "https://headyversion.com/show/935/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-06-26",
+      "show_id": 1648,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Ripping and crazy maniacal version truly a treat love these fantasy->Jude combos",
+      "archive_url": "https://headyversion.com/show/1648/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-09-08",
+      "show_id": 1932,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Wow this is a ripping smoking version. Band backs up Brent's frenzy with a frenzy of their own.",
+      "archive_url": "https://headyversion.com/show/1932/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-02",
+      "show_id": 1275,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "With Extra Lyrics from Brent. An absolutely fabulous version",
+      "archive_url": "https://headyversion.com/show/1275/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-12-09",
+      "show_id": 1338,
+      "venue": "Great Western LA Forum Inglewood, CA",
+      "description": "Hot ending to the Brent pairing.",
+      "archive_url": "https://headyversion.com/show/1338/archive/"
+    }
+  ]
+}

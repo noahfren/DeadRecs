@@ -1,0 +1,22 @@
+{
+  "song_id": 127,
+  "name": "I'll Take A Melody",
+  "performances": [
+    {
+      "votes": 6,
+      "date": "1977-12-06",
+      "show_id": 1438,
+      "venue": "The Dome Greenvale, NY",
+      "description": "JGB- Love Garcia's vocals on this! Hint of spring tour '78",
+      "archive_url": "https://headyversion.com/show/1438/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1975-06-21",
+      "show_id": 1373,
+      "venue": "Keystone Berkeley, CA",
+      "description": "Several are close but this one is just perfect to me.",
+      "archive_url": "https://headyversion.com/show/1373/archive/"
+    }
+  ]
+}

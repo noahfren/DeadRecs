@@ -1,0 +1,118 @@
+{
+  "song_id": 223,
+  "name": "Rosalie McFall",
+  "performances": [
+    {
+      "votes": 17,
+      "date": "1970-09-20",
+      "show_id": 85,
+      "venue": "Fillmore East New York, NY",
+      "description": "Super sweet and mellow version from a great acoustic set.",
+      "archive_url": "https://headyversion.com/show/85/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-11-08",
+      "show_id": 796,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "A true Grateful Dead artifact. This audience recording is second-to-none for the early years, and the atmosphere it creates is divine.",
+      "archive_url": "https://headyversion.com/show/796/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1980-09-26",
+      "show_id": 1288,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Absolute goodness.  These shows are all so beautiful, the playing is all virtuoso, and the feeling is so positive. Brent here is especially perfect.",
+      "archive_url": "https://headyversion.com/show/1288/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-08-05",
+      "show_id": 553,
+      "venue": "Golden Hall - San Diego Community Concourse San Diego, CA",
+      "description": "A nice 1970 version with mandolin.",
+      "archive_url": "https://headyversion.com/show/553/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "A sweet and subtle acoustic gem, with some of the NRPS boys.",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-10-11",
+      "show_id": 963,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Jerry nails it on vocals and guitar. Brent sounding hot on keys.",
+      "archive_url": "https://headyversion.com/show/963/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-09-30",
+      "show_id": 547,
+      "venue": "Warfield Theatre San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/547/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-09-25",
+      "show_id": 403,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "The Reckoning version.",
+      "archive_url": "https://headyversion.com/show/403/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-07-30",
+      "show_id": 1076,
+      "venue": "The Matrix San Francisco, CA",
+      "description": "Perfectly played and sung.",
+      "archive_url": "https://headyversion.com/show/1076/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-08-19",
+      "show_id": 1545,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Grisman takes this one into hoedown territory",
+      "archive_url": "https://headyversion.com/show/1545/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-10-19",
+      "show_id": 855,
+      "venue": "Saenger Performing Arts Center New Orleans, LA",
+      "description": "Best 80's Rosalie McFall? Great clap along, very strong tempo and delivered near flawless. Jerry sounds amazing. Acoustic beauty. A must listen!",
+      "archive_url": "https://headyversion.com/show/855/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-07-11",
+      "show_id": 1620,
+      "venue": "Fillmore East New York City, NY",
+      "description": "First ever, and with 45 years between us and then, it's like a sweet whisper in AUD beauty.  Real stuff here.",
+      "archive_url": "https://headyversion.com/show/1620/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-10-07",
+      "show_id": 1100,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "This is a great one!",
+      "archive_url": "https://headyversion.com/show/1100/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-08-18",
+      "show_id": 652,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "The sweetest rose of color",
+      "archive_url": "https://headyversion.com/show/652/archive/"
+    }
+  ]
+}

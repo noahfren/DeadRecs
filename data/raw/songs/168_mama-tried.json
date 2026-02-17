@@ -1,0 +1,982 @@
+{
+  "song_id": 168,
+  "name": "Mama Tried",
+  "performances": [
+    {
+      "votes": 41,
+      "date": "1977-05-08",
+      "show_id": 1,
+      "venue": "Barton Hall - Cornell University Ithaca, NY",
+      "description": "Hot version, and notable because that date WAS mothers day...Thanks Mom!!!",
+      "archive_url": "https://headyversion.com/show/1/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1977-02-26",
+      "show_id": 6,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "WHAO! Did everybody miss this version? Short and sweet, HIGH Energy version.",
+      "archive_url": "https://headyversion.com/show/6/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1977-11-05",
+      "show_id": 749,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Banging!",
+      "archive_url": "https://headyversion.com/show/749/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1978-04-12",
+      "show_id": 424,
+      "venue": "Cameron Indoor Stadium Durham, NC",
+      "description": "Awesome! First time I've ever noticed Keith in a positive way.",
+      "archive_url": "https://headyversion.com/show/424/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1978-04-16",
+      "show_id": 615,
+      "venue": "Huntington Civic Center Huntington, WV",
+      "description": "Blue-grassy, short and sweet",
+      "archive_url": "https://headyversion.com/show/615/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1977-05-26",
+      "show_id": 893,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "So damn funky; killer groove.  I'm a stickler for vocals, and Bob sings this one beautifully.  High energy '77 version.",
+      "archive_url": "https://headyversion.com/show/893/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1976-06-14",
+      "show_id": 22,
+      "venue": "Beacon Theatre New York, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/22/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1970-02-13",
+      "show_id": 595,
+      "venue": "Fillmore East New York City, NY",
+      "description": "nice early country version.",
+      "archive_url": "https://headyversion.com/show/595/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1976-10-10",
+      "show_id": 746,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Hot version out of Might As Well.",
+      "archive_url": "https://headyversion.com/show/746/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1976-09-25",
+      "show_id": 649,
+      "venue": "Capital Centre Landover, MD",
+      "description": "This one is sick! I think '76 is an underrated year for some reason, doesn't get a lot of talk, but there are some gems",
+      "archive_url": "https://headyversion.com/show/649/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1971-04-26",
+      "show_id": 131,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Skull and Roses version - A fine introduction to Merle.",
+      "archive_url": "https://headyversion.com/show/131/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1977-12-29",
+      "show_id": 635,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Wolf's tone is even killer on Mama.  I have no problem saying this is best ever.",
+      "archive_url": "https://headyversion.com/show/635/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1977-05-05",
+      "show_id": 511,
+      "venue": "New Haven Coliseum New Haven, CT",
+      "description": "this whole show is more sedate and slower than some of the others from earlier \t\tthis week/tour. Nice Jerry support, good vocals from Bobby.",
+      "archive_url": "https://headyversion.com/show/511/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-11-02",
+      "show_id": 390,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Excellent version",
+      "archive_url": "https://headyversion.com/show/390/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1976-12-31",
+      "show_id": 46,
+      "venue": "Cow Palace Daly City, CA",
+      "description": "Great Show",
+      "archive_url": "https://headyversion.com/show/46/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1979-12-28",
+      "show_id": 550,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Really tight and energetic; follows the blistering Sugaree and darts into superb Mexicali",
+      "archive_url": "https://headyversion.com/show/550/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-08-07",
+      "show_id": 1323,
+      "venue": "Golden Hall San Diego, CA",
+      "description": "Sweet country Dead. Great mix if you want to feel Phil's thunder.",
+      "archive_url": "https://headyversion.com/show/1323/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1977-03-19",
+      "show_id": 677,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Deserves to be mentioned in the same breath as the other punchy, galloping \u201977s.",
+      "archive_url": "https://headyversion.com/show/677/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-01-02",
+      "show_id": 415,
+      "venue": "Fillmore East (Late Show) New York City, NY",
+      "description": "Perfect fun, with great organ work and the '70 sound. Pig says, \"I'd thank you to not use no dirty words in the public\" which cracks me up, too.",
+      "archive_url": "https://headyversion.com/show/415/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1990-03-14",
+      "show_id": 530,
+      "venue": "Capital Centre Landover, MD",
+      "description": "One of the more inspired MamaTried>Big Rivers!",
+      "archive_url": "https://headyversion.com/show/530/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-01-23",
+      "show_id": 394,
+      "venue": "Honolulu Civic Auditorium Honolulu, HI",
+      "description": "Cranky clanky crankity sweet Garcia tones.",
+      "archive_url": "https://headyversion.com/show/394/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1983-10-14",
+      "show_id": 685,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "DP 6 I always love some Merle. Slips into big river",
+      "archive_url": "https://headyversion.com/show/685/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-04-06",
+      "show_id": 103,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Fast, with a fluid Jerry. Love the tempo.",
+      "archive_url": "https://headyversion.com/show/103/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-11-08",
+      "show_id": 743,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Hard drivin' with a country twang",
+      "archive_url": "https://headyversion.com/show/743/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1983-09-02",
+      "show_id": 404,
+      "venue": "Boise Pavilion - Boise State University Boise, ID",
+      "description": "Smoking version",
+      "archive_url": "https://headyversion.com/show/404/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-12-12",
+      "show_id": 1383,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "Wedged in a energetic psychdelic explosion,this Merle Haggard classic provides a contrast in mood and direction. Jerry's twanging it up!",
+      "archive_url": "https://headyversion.com/show/1383/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-04-15",
+      "show_id": 593,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "One of my favourite shows...",
+      "archive_url": "https://headyversion.com/show/593/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-07-08",
+      "show_id": 474,
+      "venue": "Three Rivers Stadium Pittsburgh, PA",
+      "description": "July 8, 1990 View From The Vault Three Rivers Stadium Pittsburgh PA",
+      "archive_url": "https://headyversion.com/show/474/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-05-01",
+      "show_id": 729,
+      "venue": "Alfred College Alfred, NY",
+      "description": "Perfect. Sweet harmonies, sweet country pickin'. Good times acoustic.",
+      "archive_url": "https://headyversion.com/show/729/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1976-06-29",
+      "show_id": 455,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/455/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "In spite of a bit of tape wobble, this is an otherwise pristine version, with everyone keyed up right.  A tight solo and a fun time.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-07-19",
+      "show_id": 59,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Fantastic late era version. Truly a really excellent performance cant wait for the movie",
+      "archive_url": "https://headyversion.com/show/59/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "With the NRPS and ridiculously perfect. Perfect vocals and Jerry's '70 pedal steel sound. Amazing.",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1976-07-17",
+      "show_id": 276,
+      "venue": "Orpheum Theatre San Francisco, CA",
+      "description": "It's got everything nice about the '76 sound: Crisp and clean while laid back. Perfect execution.",
+      "archive_url": "https://headyversion.com/show/276/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-02-02",
+      "show_id": 589,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "There's a certain emphatic vibrancy to all the songs in this concert",
+      "archive_url": "https://headyversion.com/show/589/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1976-10-01",
+      "show_id": 605,
+      "venue": "Market Square Arena Indianapolis, IN",
+      "description": "Sweet version here.  Everyone is just exactly perfect.",
+      "archive_url": "https://headyversion.com/show/605/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-01-16",
+      "show_id": 955,
+      "venue": "Springer's Inn Portland Portland, OR",
+      "description": "This was the first version I heard sung by someone other than Merle Haggard. It's been my favorite version ever since.",
+      "archive_url": "https://headyversion.com/show/955/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-11-29",
+      "show_id": 105,
+      "venue": "Alligator Alley Gym, University of Florida Gainsville, FL",
+      "description": "Love everything about this show including the mama tried!",
+      "archive_url": "https://headyversion.com/show/105/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-08-16",
+      "show_id": 1374,
+      "venue": "Yasgur's Farm Bethel, NY",
+      "description": "Yeah i know the Band and legend thiought they sucked at Woodstock but considering the conditions the preformance is quite herioc",
+      "archive_url": "https://headyversion.com/show/1374/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-09-20",
+      "show_id": 85,
+      "venue": "Fillmore East New York, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/85/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-04-17",
+      "show_id": 40,
+      "venue": "Dillon Gym Princeton, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/40/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-08-03",
+      "show_id": 1488,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Wow Psychedelic Mama Tried. Raw and nasty",
+      "archive_url": "https://headyversion.com/show/1488/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-01-31",
+      "show_id": 1526,
+      "venue": "The Warehouse New Orleans, LA",
+      "description": "Everybody's in the pocket after having a little meet with Buford T Justice.",
+      "archive_url": "https://headyversion.com/show/1526/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-01-25",
+      "show_id": 1694,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Only one from 1993.",
+      "archive_url": "https://headyversion.com/show/1694/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1974-10-20",
+      "show_id": 628,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "What language is Bob singing in for the first verse?!",
+      "archive_url": "https://headyversion.com/show/628/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1978-05-11",
+      "show_id": 551,
+      "venue": "Springfield Civic Center Arena Springfield, MA",
+      "description": "Nice, bouncy upbeat tune.",
+      "archive_url": "https://headyversion.com/show/551/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-09-03",
+      "show_id": 582,
+      "venue": "Civic Center Springfield, MA",
+      "description": "Bouncy and full of energy.",
+      "archive_url": "https://headyversion.com/show/582/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1978-07-03",
+      "show_id": 1749,
+      "venue": "St. Paul Civic Center Arena St. Paul, MN",
+      "description": "The DRUMMERS...holy hell! They help elevate this peppy version. Great guitar work too - a highlight of the first set!",
+      "archive_url": "https://headyversion.com/show/1749/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1974-10-19",
+      "show_id": 357,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Cool version of this song!!!!",
+      "archive_url": "https://headyversion.com/show/357/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-06-04",
+      "show_id": 1394,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Bob joined the end of the NRPS set, so this gets the full Jerry pedal steel treatment",
+      "archive_url": "https://headyversion.com/show/1394/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1976-07-18",
+      "show_id": 23,
+      "venue": "Orpheum Theater San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/23/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-13",
+      "show_id": 1423,
+      "venue": "Catholic Youth Center Scranton, PA",
+      "description": "Just Perfect - Wow! On the money vocal, bass and riff'ng!",
+      "archive_url": "https://headyversion.com/show/1423/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-09-01",
+      "show_id": 1934,
+      "venue": "Baton Rouge International Speedway Baton Rouge, LA",
+      "description": "Hot psychedelic cowboy Bob Ace Weir kills it here and the band is on fire and again the recording quality is top notch",
+      "archive_url": "https://headyversion.com/show/1934/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-06-17",
+      "show_id": 2049,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Only one from 1992.",
+      "archive_url": "https://headyversion.com/show/2049/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1995-06-25",
+      "show_id": 233,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Final time played.",
+      "archive_url": "https://headyversion.com/show/233/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-06-11",
+      "show_id": 1238,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Sparkling notes from Bruce like jewels in the night.",
+      "archive_url": "https://headyversion.com/show/1238/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1977-04-30",
+      "show_id": 662,
+      "venue": "The Palladium New York, NY",
+      "description": "Awesome Mama Tried > Me & My Uncle",
+      "archive_url": "https://headyversion.com/show/662/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1981-07-05",
+      "show_id": 516,
+      "venue": "Zoo Amphitheater Oklahoma City, OK",
+      "description": "Boys are rockin'",
+      "archive_url": "https://headyversion.com/show/516/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1978-02-01",
+      "show_id": 1151,
+      "venue": "Uptown Theatre Chicago, IL",
+      "description": "Energy! Nice solo too.",
+      "archive_url": "https://headyversion.com/show/1151/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-12-26",
+      "show_id": 527,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "Sweet and somewhat mellow, but not lacking punch. A hot version for sure",
+      "archive_url": "https://headyversion.com/show/527/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-11-16",
+      "show_id": 1512,
+      "venue": "Fillmore East New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1512/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-06-07",
+      "show_id": 738,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/738/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-06",
+      "show_id": 419,
+      "venue": "Manhattan Center New York, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/419/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-06-28",
+      "show_id": 1515,
+      "venue": "Veterans Auditorium Santa Rosa, CA",
+      "description": "great show from their transitional period",
+      "archive_url": "https://headyversion.com/show/1515/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-07-05",
+      "show_id": 1786,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "Wow this is great",
+      "archive_url": "https://headyversion.com/show/1786/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-07-07",
+      "show_id": 860,
+      "venue": "Piedmont Park Atlanta, GA",
+      "description": "another smoking early mama tried",
+      "archive_url": "https://headyversion.com/show/860/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-27",
+      "show_id": 594,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Definitive.",
+      "archive_url": "https://headyversion.com/show/594/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-06-05",
+      "show_id": 748,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Want to here the '70 sound, the closeness, the transition from psychedlicore to country to arena rock?  Here it is in all its chaotic beauty.",
+      "archive_url": "https://headyversion.com/show/748/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-08-05",
+      "show_id": 553,
+      "venue": "Golden Hall - San Diego Community Concourse San Diego, CA",
+      "description": "Like all your best friends sitting around the campfire, strumming and pickin' by starlight. Have a sip or a toke and enjoy....",
+      "archive_url": "https://headyversion.com/show/553/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-12-31",
+      "show_id": 1846,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Tremendous drumming and some top rate backing vocals from Jerry make this one a standout.",
+      "archive_url": "https://headyversion.com/show/1846/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-10-02",
+      "show_id": 1727,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Nice later version. Jerry solo is good for later Jerry.",
+      "archive_url": "https://headyversion.com/show/1727/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-12-06",
+      "show_id": 2037,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "Sunday is family day",
+      "archive_url": "https://headyversion.com/show/2037/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1978-05-07",
+      "show_id": 480,
+      "venue": "Field House - Rensselaer Polytechnic Institute Troy, NY",
+      "description": "Holy cow this one really swings.",
+      "archive_url": "https://headyversion.com/show/480/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-03-24",
+      "show_id": 557,
+      "venue": "Pirates World Dania, FL",
+      "description": "Clean version from an immaculate 1970 soundboard.",
+      "archive_url": "https://headyversion.com/show/557/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-07-01",
+      "show_id": 701,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "Jerry's boogie and Bob's vocals make this one.",
+      "archive_url": "https://headyversion.com/show/701/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-12-27",
+      "show_id": 1970,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "Phil puts up a nice low growl.",
+      "archive_url": "https://headyversion.com/show/1970/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1976-06-21",
+      "show_id": 1335,
+      "venue": "Tower Theater Upper Darby, PA",
+      "description": "Airplay perfect.  Seems like they wanted to pick up the pace a bit and this one is just fine and dandy.",
+      "archive_url": "https://headyversion.com/show/1335/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-10-31",
+      "show_id": 659,
+      "venue": "School Gymnasium, S.U.N.Y. Stony Brook, NY",
+      "description": "Halloween psychedelia",
+      "archive_url": "https://headyversion.com/show/659/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1976-06-23",
+      "show_id": 581,
+      "venue": "Tower Theatre Upper Darby, PA",
+      "description": "Fun, raucous, and rowdy, but full of tight ensemble jamming and a nice Bobby/Jerry balance, allowing you to hear Cowboy Bob's great backup work.",
+      "archive_url": "https://headyversion.com/show/581/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1976-08-02",
+      "show_id": 1043,
+      "venue": "Colt Park Hartford, CT",
+      "description": "Continues the run of perfect Mamas from the Summer tour.  This one is short and sweet, perfect vocals.",
+      "archive_url": "https://headyversion.com/show/1043/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1976-10-15",
+      "show_id": 627,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Solid shitkicker.  \"As usual, dedicated to our equipment crew\".  Lol, Bobby.",
+      "archive_url": "https://headyversion.com/show/627/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-06-13",
+      "show_id": 1959,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "She truly did!!! God love her!!!!!!",
+      "archive_url": "https://headyversion.com/show/1959/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1976-06-11",
+      "show_id": 672,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Keith is going nuts and the drummers have a swing in their shoes. FANTASTIC version that needs some love.",
+      "archive_url": "https://headyversion.com/show/672/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-09-08",
+      "show_id": 462,
+      "venue": "Red Rocks Morrison, CO",
+      "description": "Doing Merle justice as always",
+      "archive_url": "https://headyversion.com/show/462/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-02-18",
+      "show_id": 130,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "More relaxed pace than usual, which allows Bob to give a nice, thoughtful vocal performance.",
+      "archive_url": "https://headyversion.com/show/130/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1986-02-14",
+      "show_id": 334,
+      "venue": "Henry J. Kaiser Center Oakland, CA",
+      "description": "Not a very special version, but has some good vocals. Not too rushed either.",
+      "archive_url": "https://headyversion.com/show/334/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-06-20",
+      "show_id": 705,
+      "venue": "West High Auditorium Anchorage, AK",
+      "description": "Bringing the Desert to Alaska, this one rocks heavy in the chilliest state!",
+      "archive_url": "https://headyversion.com/show/705/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-06-16",
+      "show_id": 132,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Tight version with a spirited solo from Jerry.",
+      "archive_url": "https://headyversion.com/show/132/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-04-18",
+      "show_id": 1681,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Great version featuring David Nelson and John Dawson of the NRPS",
+      "archive_url": "https://headyversion.com/show/1681/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-07-02",
+      "show_id": 1088,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Perfect version of the tune",
+      "archive_url": "https://headyversion.com/show/1088/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-01-05",
+      "show_id": 1914,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Candyman into Mama Tried. AUD recording. Bobby is solid here and has good energy. A good showing from the band this show.",
+      "archive_url": "https://headyversion.com/show/1914/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1976-06-18",
+      "show_id": 476,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Part of one of my favorite first sets of the year",
+      "archive_url": "https://headyversion.com/show/476/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-06-30",
+      "show_id": 247,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "I've always loved this song, particularly when it's uptempo and full like this version. The fire continues onto Mexicali Blues.",
+      "archive_url": "https://headyversion.com/show/247/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-02-20",
+      "show_id": 1900,
+      "venue": "Golden Hall, Community Concourse San Diego, CA",
+      "description": "Jerry's playing is sharp as hell. Incredible sounding AUD for this show too.",
+      "archive_url": "https://headyversion.com/show/1900/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-06-27",
+      "show_id": 721,
+      "venue": "Veterans Auditorium Santa Rosa, CA",
+      "description": "crystal clear vocals instruments low in the mix but still very sweet early version",
+      "archive_url": "https://headyversion.com/show/721/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-07-04",
+      "show_id": 1202,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "another sweet early version",
+      "archive_url": "https://headyversion.com/show/1202/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-05-04",
+      "show_id": 1075,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "2:30 minutes of blistering C&W with crisp Jerry lines and growling Booby",
+      "archive_url": "https://headyversion.com/show/1075/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-08-08",
+      "show_id": 776,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Another burner from august 1982 what a tour, growling Bobby and blistering Jerry leads nice little quick solo drops nicely into mexicali blues",
+      "archive_url": "https://headyversion.com/show/776/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-01-03",
+      "show_id": 122,
+      "venue": "Fillmore East New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/122/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-03-26",
+      "show_id": 1905,
+      "venue": "Aladdin Theater Las Vegas, NV",
+      "description": "Jerry's got that lonesome prarie sound goin' on.",
+      "archive_url": "https://headyversion.com/show/1905/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-30",
+      "show_id": 413,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "Nice job byb Bob articulating the lyrics. Good harmonies, too.",
+      "archive_url": "https://headyversion.com/show/413/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-09-02",
+      "show_id": 756,
+      "venue": "Augusta Civic Center Augusta, ME",
+      "description": "The crowd sure is fired up for this one.",
+      "archive_url": "https://headyversion.com/show/756/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-04-12",
+      "show_id": 1803,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Fiesty!",
+      "archive_url": "https://headyversion.com/show/1803/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-06-21",
+      "show_id": 1974,
+      "venue": "Pauley Ballroom, U. of California Berkeley, CA",
+      "description": "Raw, 1970 power.",
+      "archive_url": "https://headyversion.com/show/1974/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-11-24",
+      "show_id": 606,
+      "venue": "Golden Hall, Community Concourse San Diego, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/606/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-10-17",
+      "show_id": 435,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Inspired",
+      "archive_url": "https://headyversion.com/show/435/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-05-08",
+      "show_id": 626,
+      "venue": "Recreation Hall - Penn State University University Park, PA",
+      "description": "Inspired",
+      "archive_url": "https://headyversion.com/show/626/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-07-28",
+      "show_id": 1060,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "\"Now ladies and gentlemen, a little polka time.\"",
+      "archive_url": "https://headyversion.com/show/1060/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-09-15",
+      "show_id": 152,
+      "venue": "Devore Field Chula Vista, CA",
+      "description": "Always loved this Merle tune",
+      "archive_url": "https://headyversion.com/show/152/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-09-26",
+      "show_id": 1933,
+      "venue": "Fillmore East New York, NY",
+      "description": "Great early version, even if it's only an audience recording.",
+      "archive_url": "https://headyversion.com/show/1933/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-12-12",
+      "show_id": 1450,
+      "venue": "Santa Rosa Fairgrounds Santa Rosa, CA",
+      "description": "Crystal Bobby vocals on an underrated classic 70 sbd",
+      "archive_url": "https://headyversion.com/show/1450/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-01-10",
+      "show_id": 774,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Bobby always did Merle justice, Jerry\u2019s harmonies help too",
+      "archive_url": "https://headyversion.com/show/774/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-12-02",
+      "show_id": 634,
+      "venue": "Assembly Hall Champaign, IL",
+      "description": "Always a country rocker",
+      "archive_url": "https://headyversion.com/show/634/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-08-31",
+      "show_id": 1963,
+      "venue": "Capitol Center Landover, MD",
+      "description": "Sometimes you know a tune will be heady on the first note. The crowd seems to know it too. Killer solo.",
+      "archive_url": "https://headyversion.com/show/1963/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1977-10-15",
+      "show_id": 655,
+      "venue": "Moody Coliseum - Southern Methodist University Dallas, TX",
+      "description": "Doesn't get more disco than this. The Dusborne matrix version is filthy, crunchy, and powerful. My personal fav for some time now. Play it loud!",
+      "archive_url": "https://headyversion.com/show/655/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-06-22",
+      "show_id": 939,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/939/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1976-07-14",
+      "show_id": 1831,
+      "venue": "Orpheum Theatre San Francisco, CA",
+      "description": "Always great",
+      "archive_url": "https://headyversion.com/show/1831/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-08-12",
+      "show_id": 1459,
+      "venue": "Salt Palace Salt Lake City, UT",
+      "description": "Jerry going HAM on this short + sweet version from an all-time show!",
+      "archive_url": "https://headyversion.com/show/1459/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-08-29",
+      "show_id": 1820,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "Euphoric jerry leads. Tres tight!! nimble and exciting, some architecture to this early brent version",
+      "archive_url": "https://headyversion.com/show/1820/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-10-31",
+      "show_id": 599,
+      "venue": "Carolina Coliseum - University of South Carolina Columbia, SC",
+      "description": "wicked hot, folks... Bobby and phil are super animated",
+      "archive_url": "https://headyversion.com/show/599/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1976-10-03",
+      "show_id": 562,
+      "venue": "Cobo Arena Detroit, MI",
+      "description": "This show feels very Jerry Band-ish",
+      "archive_url": "https://headyversion.com/show/562/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-06",
+      "show_id": 303,
+      "venue": "Crisler Arena Ann Arbor, MI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/303/archive/"
+    }
+  ]
+}

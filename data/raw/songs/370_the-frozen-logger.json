@@ -1,0 +1,54 @@
+{
+  "song_id": 370,
+  "name": "The Frozen Logger",
+  "performances": [
+    {
+      "votes": 7,
+      "date": "1985-09-07",
+      "show_id": 219,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Thanks Steve, In honor of the Pranksters I'll submit this last version from Red Rocks. I'd love to see some more!",
+      "archive_url": "https://headyversion.com/show/219/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-10-22",
+      "show_id": 1332,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "Some fun banter from the band and a little taste of cold rain and snow towards the end.",
+      "archive_url": "https://headyversion.com/show/1332/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-10-21",
+      "show_id": 397,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "Into a great DS...little old rain tease too",
+      "archive_url": "https://headyversion.com/show/397/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-16",
+      "show_id": 1512,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Found this thing",
+      "archive_url": "https://headyversion.com/show/1512/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-12-26",
+      "show_id": 527,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "Short and weird like the rest. I prefer slewfoot but kind of fun",
+      "archive_url": "https://headyversion.com/show/527/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1972-08-21",
+      "show_id": 1122,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "Not listed on the Dave\u2019s Picks release but can still be heard after the post Loser tuning",
+      "archive_url": "https://headyversion.com/show/1122/archive/"
+    }
+  ]
+}

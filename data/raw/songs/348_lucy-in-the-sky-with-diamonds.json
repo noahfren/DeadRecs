@@ -1,0 +1,110 @@
+{
+  "song_id": 348,
+  "name": "Lucy In The Sky With Diamonds",
+  "performances": [
+    {
+      "votes": 12,
+      "date": "1993-03-24",
+      "show_id": 96,
+      "venue": "Dean Smith Center Chapel Hill, NC",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/96/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1993-03-17",
+      "show_id": 975,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Bustout",
+      "archive_url": "https://headyversion.com/show/975/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1994-12-16",
+      "show_id": 1291,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1291/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1993-06-23",
+      "show_id": 112,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Nice psychedelic encore. A great show good vibes from start to finish. Quite aromatic.",
+      "archive_url": "https://headyversion.com/show/112/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1995-03-17",
+      "show_id": 1659,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Long intro, presumably because JGarcia spaced the lyrics, but a fun, jammed version.",
+      "archive_url": "https://headyversion.com/show/1659/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-12-08",
+      "show_id": 1724,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Appears in the Jerry Ballad slot, unexpected treat. lyrics done fairly accurately",
+      "archive_url": "https://headyversion.com/show/1724/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-05-23",
+      "show_id": 159,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/159/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-10-11",
+      "show_id": 1487,
+      "venue": "USAir Arena Landover, MD",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1487/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-06-28",
+      "show_id": 1968,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "Jerry's voice is strong + motivated.BEAUTIFUL keywork from Vince. Bob and Phil consistently strong, both with highlights. This could rival the #1 Lucy",
+      "archive_url": "https://headyversion.com/show/1968/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-06-02",
+      "show_id": 1003,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Cherry on top of a great show.",
+      "archive_url": "https://headyversion.com/show/1003/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-06-18",
+      "show_id": 1592,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "June of '95 featuring 2 Lucy's! Awesome recording + great crowd. A good performance. Always a treat to hear the GD cover this!",
+      "archive_url": "https://headyversion.com/show/1592/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-05-19",
+      "show_id": 209,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Dripping Lucy. Jerry's vocals are strong and accurate",
+      "archive_url": "https://headyversion.com/show/209/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-05-15",
+      "show_id": 2029,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Well-played encore.",
+      "archive_url": "https://headyversion.com/show/2029/archive/"
+    }
+  ]
+}

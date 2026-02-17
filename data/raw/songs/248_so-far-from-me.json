@@ -1,0 +1,22 @@
+{
+  "song_id": 248,
+  "name": "So Far From Me",
+  "performances": [
+    {
+      "votes": 1,
+      "date": "1982-08-08",
+      "show_id": 776,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Smokin version!",
+      "archive_url": "https://headyversion.com/show/776/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-08-28",
+      "show_id": 938,
+      "venue": "Oregon Country Fairgrounds Veneta, OR",
+      "description": "Brent song",
+      "archive_url": "https://headyversion.com/show/938/archive/"
+    }
+  ]
+}

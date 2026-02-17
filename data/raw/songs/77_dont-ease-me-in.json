@@ -1,0 +1,910 @@
+{
+  "song_id": 77,
+  "name": "Don't Ease Me In",
+  "performances": [
+    {
+      "votes": 45,
+      "date": "1970-05-02",
+      "show_id": 27,
+      "venue": "Harpur College Binghamton, NY",
+      "description": "Opener for a legendary show. A great acoustic version.",
+      "archive_url": "https://headyversion.com/show/27/archive/"
+    },
+    {
+      "votes": 33,
+      "date": "1973-10-19",
+      "show_id": 703,
+      "venue": "Oklahoma City Fairgrounds Arena Oklahoma City, OK",
+      "description": "Dick's Picks Vol. 19 from OKC",
+      "archive_url": "https://headyversion.com/show/703/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "Fillmore East New York",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1973-11-30",
+      "show_id": 555,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Bouncy romp",
+      "archive_url": "https://headyversion.com/show/555/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1980-11-29",
+      "show_id": 105,
+      "venue": "Alligator Alley Gym, University of Florida Gainsville, FL",
+      "description": "Best post Pigpen version I have heard, absolutely rocking!",
+      "archive_url": "https://headyversion.com/show/105/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-11-17",
+      "show_id": 957,
+      "venue": "Century II Convention Hall Wichita, KS",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/957/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-02-26",
+      "show_id": 645,
+      "venue": "Pershing Municipal Auditorium Lincoln, NE",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/645/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1973-11-09",
+      "show_id": 483,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Such a limited song, but this one cooks.",
+      "archive_url": "https://headyversion.com/show/483/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1972-10-17",
+      "show_id": 498,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Fast and loose, with great Keith barrelhouse fills. Jerry doesn't want to quit. Good fun.",
+      "archive_url": "https://headyversion.com/show/498/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-03-24",
+      "show_id": 557,
+      "venue": "Pirates World Dania, FL",
+      "description": "Rock n Roll sweetness...The sound is so fine from this time",
+      "archive_url": "https://headyversion.com/show/557/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1973-04-02",
+      "show_id": 50,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Crisp and right",
+      "archive_url": "https://headyversion.com/show/50/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1970-06-24",
+      "show_id": 395,
+      "venue": "Capitol Theatre Port Chester, NY",
+      "description": "Acoustic version, beautiful and tight.  Don't miss the acoustic set in the rush to the late show.",
+      "archive_url": "https://headyversion.com/show/395/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1989-10-26",
+      "show_id": 11,
+      "venue": "Miami Arena Miami, FL",
+      "description": "Magical show set one closer",
+      "archive_url": "https://headyversion.com/show/11/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1981-03-10",
+      "show_id": 762,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Very tight, fast pace, toss in a little fire.",
+      "archive_url": "https://headyversion.com/show/762/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1974-08-06",
+      "show_id": 9,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "Rare one for 1974.",
+      "archive_url": "https://headyversion.com/show/9/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1973-03-24",
+      "show_id": 602,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Chewy with some super sweet Bobby rhythm licks!",
+      "archive_url": "https://headyversion.com/show/602/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1973-03-28",
+      "show_id": 510,
+      "venue": "Civic Center Springfield, MA",
+      "description": "Great stuff off the newest DP",
+      "archive_url": "https://headyversion.com/show/510/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1973-11-25",
+      "show_id": 1305,
+      "venue": "Feyline Field Tempe, AZ",
+      "description": "Very nice version from smokin' show",
+      "archive_url": "https://headyversion.com/show/1305/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-10-18",
+      "show_id": 657,
+      "venue": "Fox Theater St. Louis, MO",
+      "description": "Jerry doesn\u2019t stop jammin the whole time",
+      "archive_url": "https://headyversion.com/show/657/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1973-10-29",
+      "show_id": 767,
+      "venue": "Kiel Auditorium St. Louis, MO",
+      "description": "Strong country kicker. Wolf's leads peal out over Keith's barrelhouse piano accompaniment.",
+      "archive_url": "https://headyversion.com/show/767/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-03-22",
+      "show_id": 565,
+      "venue": "Copps Coliseum Hamilton, ON",
+      "description": "Rockin' first set closer from this epic show",
+      "archive_url": "https://headyversion.com/show/565/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-03-15",
+      "show_id": 359,
+      "venue": "Capital Centre Landover, MD",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/359/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-04-18",
+      "show_id": 1681,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1681/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-12-18",
+      "show_id": 614,
+      "venue": "Curtis Hixon Convention Hall Tampa, FL",
+      "description": "I usually always skip this song, but I really dig Bobbys playing in this one!",
+      "archive_url": "https://headyversion.com/show/614/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-07-02",
+      "show_id": 641,
+      "venue": "Sullivan Stadium Foxboro, MA",
+      "description": "Set ender to a great night at the movies",
+      "archive_url": "https://headyversion.com/show/641/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-10-31",
+      "show_id": 961,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "Dead Ahead version",
+      "archive_url": "https://headyversion.com/show/961/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1981-05-06",
+      "show_id": 146,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/146/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-07-31",
+      "show_id": 464,
+      "venue": "Manor Downs Austin, TX",
+      "description": "Ending rocker, second song of the encore from an all-around great set II.",
+      "archive_url": "https://headyversion.com/show/464/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-11-23",
+      "show_id": 797,
+      "venue": "County Coliseum El Paso, TX",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/797/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-12-12",
+      "show_id": 1055,
+      "venue": "Omni Coliseum Atlanta, GA",
+      "description": "Really good '73 version!!",
+      "archive_url": "https://headyversion.com/show/1055/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-12-31",
+      "show_id": 920,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Ah the joy, in them tearing it up and us getting to listen!",
+      "archive_url": "https://headyversion.com/show/920/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-06-27",
+      "show_id": 907,
+      "venue": "SPAC Saratoga Springs, NY",
+      "description": "Out of Hell in a Bucket, this one is fueled by Brent dancing all over the Hammond. HIGH energy",
+      "archive_url": "https://headyversion.com/show/907/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-06-20",
+      "show_id": 705,
+      "venue": "West High Auditorium Anchorage, AK",
+      "description": "Proves the boys could really swing when they wanted to. Hear Jerry on \"The Girl I Love\" line; like 'Gator Alley--1980 a  good year for this tune",
+      "archive_url": "https://headyversion.com/show/705/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-05-16",
+      "show_id": 676,
+      "venue": "Barton Hall - Cornell University Ithaca, NY",
+      "description": "set one closer from another great show at Barton Hall.",
+      "archive_url": "https://headyversion.com/show/676/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-10-02",
+      "show_id": 1358,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "Wow - this really swings!",
+      "archive_url": "https://headyversion.com/show/1358/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-10-19",
+      "show_id": 1176,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Sweet rocker here.",
+      "archive_url": "https://headyversion.com/show/1176/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1966-07-16",
+      "show_id": 829,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "First time played? Surprised it hasn't been mentioned.",
+      "archive_url": "https://headyversion.com/show/829/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-01",
+      "show_id": 420,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "Smokin\u2019 hot version coming out of a Jack Straw that wouldn\u2019t stop",
+      "archive_url": "https://headyversion.com/show/420/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1973-12-08",
+      "show_id": 660,
+      "venue": "Cameron Indoor Stadium, Duke U Durham, NC",
+      "description": "Hell yeah",
+      "archive_url": "https://headyversion.com/show/660/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1973-12-10",
+      "show_id": 1211,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Very very nice.",
+      "archive_url": "https://headyversion.com/show/1211/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1979-12-09",
+      "show_id": 881,
+      "venue": "Kiel Auditorium St. Louis, MO",
+      "description": "Don't sleep on this one. Brent's sweeping fluorishes permeate + a nice epic coda. Overlooked tune from a sleeper show now w/more looks due to DaP#47",
+      "archive_url": "https://headyversion.com/show/881/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-02-17",
+      "show_id": 880,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "a breakout for the last keith and donna show. just a real nice version with great harmonies and of course jerry playing his heart out.",
+      "archive_url": "https://headyversion.com/show/880/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-03-26",
+      "show_id": 509,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "pretty smoking",
+      "archive_url": "https://headyversion.com/show/509/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-03-31",
+      "show_id": 994,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Well sung and well played nice ending to a very hot set 1 in Philadelphia",
+      "archive_url": "https://headyversion.com/show/994/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-05-14",
+      "show_id": 719,
+      "venue": "Merramec Community College Kirkwood, MO",
+      "description": "Sweet and solid show opener.  A pure expression of the peak '70 year sound. Strap in and enjoy the show....",
+      "archive_url": "https://headyversion.com/show/719/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-07-01",
+      "show_id": 576,
+      "venue": "Universal Amphitheatre Universal City, CA",
+      "description": "Another killer version with everyone representing.",
+      "archive_url": "https://headyversion.com/show/576/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-05-07",
+      "show_id": 1217,
+      "venue": "DuPont Gym - MIT Cambridge, MA",
+      "description": "Good acoustic version with great harmonies. Great sound on the remastered audience recording.",
+      "archive_url": "https://headyversion.com/show/1217/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-04-19",
+      "show_id": 1307,
+      "venue": "Philadelphia Civic Center Philadelphia, PA",
+      "description": "This one pops, rocks and rolls with some nice energy.",
+      "archive_url": "https://headyversion.com/show/1307/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-16",
+      "show_id": 337,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Nice MSG 91 version!!",
+      "archive_url": "https://headyversion.com/show/337/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-02-22",
+      "show_id": 328,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "Good for a surprising reason.",
+      "archive_url": "https://headyversion.com/show/328/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-06-08",
+      "show_id": 305,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/305/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-09-28",
+      "show_id": 41,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "This version told me to put it on this list",
+      "archive_url": "https://headyversion.com/show/41/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-10-19",
+      "show_id": 1092,
+      "venue": "Sports Palace Barcelona,",
+      "description": "Raucous encore version complete with a wicked Brent solo,Hot, Great ending to a very HOT show",
+      "archive_url": "https://headyversion.com/show/1092/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-05-03",
+      "show_id": 1954,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Excellent set ender Bobby doing some crazy things on rhythm",
+      "archive_url": "https://headyversion.com/show/1954/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1974-06-30",
+      "show_id": 1027,
+      "venue": "Civic Center Springfield, MA",
+      "description": "Nice show opener!!",
+      "archive_url": "https://headyversion.com/show/1027/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-07-03",
+      "show_id": 1022,
+      "venue": "McMahon Stadium Calgary, AB",
+      "description": "Goodies. Festival Express fun!",
+      "archive_url": "https://headyversion.com/show/1022/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-08-31",
+      "show_id": 566,
+      "venue": "Silva Hall - Hult Center for the Performing Arts Eugene, OR",
+      "description": "Inspired guitar and vocals from Jerry..",
+      "archive_url": "https://headyversion.com/show/566/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-08-14",
+      "show_id": 965,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "The two instrumental breaks make this one.",
+      "archive_url": "https://headyversion.com/show/965/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-12-30",
+      "show_id": 710,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "They play it strong as an encore.",
+      "archive_url": "https://headyversion.com/show/710/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-07-05",
+      "show_id": 516,
+      "venue": "Zoo Amphitheater Oklahoma City, OK",
+      "description": "Tight version. Yeah, it's a short tune, but it still rocks.",
+      "archive_url": "https://headyversion.com/show/516/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-10-30",
+      "show_id": 1672,
+      "venue": "Ford Auditorium Detroit, MI",
+      "description": "Crackling with energy and goodness.",
+      "archive_url": "https://headyversion.com/show/1672/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-12-12",
+      "show_id": 1359,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Energetic version",
+      "archive_url": "https://headyversion.com/show/1359/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-09-12",
+      "show_id": 1297,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "Keith and Jerry, man",
+      "archive_url": "https://headyversion.com/show/1297/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-11-08",
+      "show_id": 1265,
+      "venue": "Capitol Center Landover, MD",
+      "description": "Looe, fun version. Love Brent's solo.",
+      "archive_url": "https://headyversion.com/show/1265/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-11-24",
+      "show_id": 850,
+      "venue": "Dallas Memorial Auditorium Dallas, TX",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/850/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-07-10",
+      "show_id": 1163,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Usually a bit of a throwaway for me, but this one was lyrically enthusiastic with tight playing",
+      "archive_url": "https://headyversion.com/show/1163/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-09-19",
+      "show_id": 239,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Brent is on this entire show.",
+      "archive_url": "https://headyversion.com/show/239/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-05-11",
+      "show_id": 914,
+      "venue": "Cumberland County Civic Center Portland, ME",
+      "description": "Pretty slick",
+      "archive_url": "https://headyversion.com/show/914/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-05-12",
+      "show_id": 384,
+      "venue": "Veterans' Memorial Coliseum New Haven, CT",
+      "description": "closes out the show the day after Bob Marley died, great organ, before getting into it BW says \"he was a powerful poet and a general revolutionary\"",
+      "archive_url": "https://headyversion.com/show/384/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-12-31",
+      "show_id": 335,
+      "venue": "SF Civic san francisco, ca",
+      "description": "A little rough around the edges but a really strong take",
+      "archive_url": "https://headyversion.com/show/335/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-07-01",
+      "show_id": 1039,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "Set 2 opener. Ripping early Brent show.",
+      "archive_url": "https://headyversion.com/show/1039/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-12-01",
+      "show_id": 1349,
+      "venue": "Music Hall Boston, MA",
+      "description": "Can't not put this on here",
+      "archive_url": "https://headyversion.com/show/1349/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-09-02",
+      "show_id": 64,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Sweet version",
+      "archive_url": "https://headyversion.com/show/64/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-03-25",
+      "show_id": 785,
+      "venue": "Compton Terrace Amphitheatre Tempe, AZ",
+      "description": "Sweet encore!",
+      "archive_url": "https://headyversion.com/show/785/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-04-01",
+      "show_id": 695,
+      "venue": "Marin County Veterans Auditorium San Rafael, CA",
+      "description": "Opening set closer",
+      "archive_url": "https://headyversion.com/show/695/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-03-16",
+      "show_id": 363,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Smoking second solo.",
+      "archive_url": "https://headyversion.com/show/363/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-09-03",
+      "show_id": 999,
+      "venue": "Starlight Theater Kansas City, MO",
+      "description": "Could be I haven\u2019t heard that many mid 80s shows but jerr sounds great!!",
+      "archive_url": "https://headyversion.com/show/999/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-07-04",
+      "show_id": 1862,
+      "venue": "Five Seasons Center Cedar Rapids , IA",
+      "description": "soaring brent, anthemic",
+      "archive_url": "https://headyversion.com/show/1862/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-05-13",
+      "show_id": 371,
+      "venue": "Iowa State Fairgrounds Des Moines, IA",
+      "description": "Scorching solos-Jerry just won\u2019t let go!",
+      "archive_url": "https://headyversion.com/show/371/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-06-07",
+      "show_id": 291,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Music>Don'tEase  Nice way to end the 1ST SET!!!",
+      "archive_url": "https://headyversion.com/show/291/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-02-27",
+      "show_id": 472,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "Nice encore, decent version.",
+      "archive_url": "https://headyversion.com/show/472/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-10-06",
+      "show_id": 1769,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1769/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-09-05",
+      "show_id": 1646,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "good Jerry vocals!!",
+      "archive_url": "https://headyversion.com/show/1646/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-10-17",
+      "show_id": 1593,
+      "venue": "Hippodrome Paris,",
+      "description": "Fun times in Paris!!!",
+      "archive_url": "https://headyversion.com/show/1593/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-06-29",
+      "show_id": 1961,
+      "venue": "Pauley Pavilion Los Angeles, CA",
+      "description": "Rockin' The House That Wooden Built!!!",
+      "archive_url": "https://headyversion.com/show/1961/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-04-03",
+      "show_id": 1476,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Straight forward, slower, but great",
+      "archive_url": "https://headyversion.com/show/1476/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-06-10",
+      "show_id": 2004,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2004/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-03-01",
+      "show_id": 1284,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1284/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-04-05",
+      "show_id": 787,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Crisp vocals from Jerry.",
+      "archive_url": "https://headyversion.com/show/787/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-09-12",
+      "show_id": 1686,
+      "venue": "Lakeland Civic Center Lakeland, FL",
+      "description": "I love it when they close the show with an uptempo rocker.",
+      "archive_url": "https://headyversion.com/show/1686/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-12-26",
+      "show_id": 1317,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "She brings me about every damn thing but the jailhouse key.",
+      "archive_url": "https://headyversion.com/show/1317/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-06-28",
+      "show_id": 1684,
+      "venue": "Mile High Stadium Denver, CO",
+      "description": "Diggin' the depth Hornsby brings.",
+      "archive_url": "https://headyversion.com/show/1684/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1966-07-03",
+      "show_id": 1086,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Possibly from the second set, or maybe another show.",
+      "archive_url": "https://headyversion.com/show/1086/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-12-06",
+      "show_id": 1352,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Nice ending to a nice first set",
+      "archive_url": "https://headyversion.com/show/1352/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-09-24",
+      "show_id": 1339,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1339/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-06",
+      "show_id": 670,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Good acoustic version of this song. The audio quality isn't as good as the 05/70 versions but the playing and vocals are quite good.",
+      "archive_url": "https://headyversion.com/show/670/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-09-14",
+      "show_id": 1448,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Vince has some great moments here!",
+      "archive_url": "https://headyversion.com/show/1448/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-08-17",
+      "show_id": 1683,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "Ends a solid set in style. Plenty of organ crescendo!",
+      "archive_url": "https://headyversion.com/show/1683/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-08-28",
+      "show_id": 1715,
+      "venue": "Autzen Stadium Eugene , OR",
+      "description": "First set closer, show gets better as it goes along",
+      "archive_url": "https://headyversion.com/show/1715/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-09-13",
+      "show_id": 1906,
+      "venue": "Manor Downs Austin, TX",
+      "description": "You know the women down there got the Texas blues!",
+      "archive_url": "https://headyversion.com/show/1906/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-10-25",
+      "show_id": 612,
+      "venue": "New Haven Coliseum New Haven, CT",
+      "description": "Opens a killer show! I been all night long comin\u2019 home.",
+      "archive_url": "https://headyversion.com/show/612/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-10-04",
+      "show_id": 1318,
+      "venue": "Rainbow Theater London,",
+      "description": "Concludes this lost gem of a show.  The boys gave it their all on this night.",
+      "archive_url": "https://headyversion.com/show/1318/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1973-07-31",
+      "show_id": 1311,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "As hot as you would expect. Excellent!",
+      "archive_url": "https://headyversion.com/show/1311/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-12-31",
+      "show_id": 1581,
+      "venue": "Civic Auditorium San Francisco, CA",
+      "description": "rowdy new year's dont' ease me in set 1 closer. They sound just massive.",
+      "archive_url": "https://headyversion.com/show/1581/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-01-13",
+      "show_id": 1012,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Fire show opener! Jerry and Bob both sound great. Brent confidently delivers a inspiring solo. STRONG Don't Ease Me in. Listen!",
+      "archive_url": "https://headyversion.com/show/1012/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-10-26",
+      "show_id": 405,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "A banger coming out of Let it Grow",
+      "archive_url": "https://headyversion.com/show/405/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-03-30",
+      "show_id": 28,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Punchy Spring '90 version - practically every \"Dough Knees\" from this period is a rocker",
+      "archive_url": "https://headyversion.com/show/28/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-06-30",
+      "show_id": 247,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "Incredibly high-octane version from a great show!",
+      "archive_url": "https://headyversion.com/show/247/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-09-09",
+      "show_id": 1993,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Fun fun. Listen to Garcia\u2019s vocals.",
+      "archive_url": "https://headyversion.com/show/1993/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-11-11",
+      "show_id": 1716,
+      "venue": "Brendan Byrne Arena East Rutherford, NJ",
+      "description": "Brent on fire version that rocks",
+      "archive_url": "https://headyversion.com/show/1716/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-11-01",
+      "show_id": 368,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Nassau Coliseum Uniondale, NY",
+      "archive_url": "https://headyversion.com/show/368/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-13",
+      "show_id": 1777,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "Great set closer. Jerry is top notch and Brent was at his best when he behind a B3.",
+      "archive_url": "https://headyversion.com/show/1777/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-09-16",
+      "show_id": 1693,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "A rager! Really!",
+      "archive_url": "https://headyversion.com/show/1693/archive/"
+    }
+  ]
+}

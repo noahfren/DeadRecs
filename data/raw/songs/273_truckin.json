@@ -1,0 +1,2894 @@
+{
+  "song_id": 273,
+  "name": "Truckin'",
+  "performances": [
+    {
+      "votes": 159,
+      "date": "1974-05-19",
+      "show_id": 469,
+      "venue": "Portland Memorial Coliseum Portland, OR",
+      "description": "This version absolutely smokes",
+      "archive_url": "https://headyversion.com/show/469/archive/"
+    },
+    {
+      "votes": 110,
+      "date": "1972-05-26",
+      "show_id": 575,
+      "venue": "Strand Lyceum London,",
+      "description": "A can't believe that this isn't listed yet.  Truckin'->The Other One->Morning Dew->The Other One->Sing Me Back Home.",
+      "archive_url": "https://headyversion.com/show/575/archive/"
+    },
+    {
+      "votes": 97,
+      "date": "1977-11-06",
+      "show_id": 34,
+      "venue": "Broome County Arena Binghamton, NY",
+      "description": "Ton o' energy",
+      "archive_url": "https://headyversion.com/show/34/archive/"
+    },
+    {
+      "votes": 76,
+      "date": "1974-06-26",
+      "show_id": 369,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "this is the one from Dick's Picks 12.",
+      "archive_url": "https://headyversion.com/show/369/archive/"
+    },
+    {
+      "votes": 63,
+      "date": "1973-06-22",
+      "show_id": 522,
+      "venue": "Pacific Coliseum Vancouver, BC",
+      "description": "A blistering 30 minute Truckin' jam.",
+      "archive_url": "https://headyversion.com/show/522/archive/"
+    },
+    {
+      "votes": 57,
+      "date": "1977-09-03",
+      "show_id": 39,
+      "venue": "Raceway Park Englishtown, NJ",
+      "description": "Whew. Phil! Only heard him dig this deep vocally one other time(9.28.75). And the way he drives the band around 8' is UNREAL...phenomenal",
+      "archive_url": "https://headyversion.com/show/39/archive/"
+    },
+    {
+      "votes": 48,
+      "date": "1973-05-26",
+      "show_id": 536,
+      "venue": "Kezar Stadium San Francisco, CA",
+      "description": "A massive run of He's Gone->Truckin'->The Other One->Eyes Of The World->China Doll",
+      "archive_url": "https://headyversion.com/show/536/archive/"
+    },
+    {
+      "votes": 44,
+      "date": "1972-04-26",
+      "show_id": 471,
+      "venue": "Jahrhunderthalle Frankfurt,",
+      "description": "Hard rocker. Great interplay and the band at the top of their '72 game. \"No. 1 in Turlock, and that's a fact\". - Bobby.",
+      "archive_url": "https://headyversion.com/show/471/archive/"
+    },
+    {
+      "votes": 41,
+      "date": "1974-06-20",
+      "show_id": 20,
+      "venue": "The Omni Atlanta, GA",
+      "description": "very jammy leading into eyes",
+      "archive_url": "https://headyversion.com/show/20/archive/"
+    },
+    {
+      "votes": 37,
+      "date": "1974-07-31",
+      "show_id": 568,
+      "venue": "Dillon Stadium Hartford, CT",
+      "description": "Innnncredible version.  Stellar show",
+      "archive_url": "https://headyversion.com/show/568/archive/"
+    },
+    {
+      "votes": 37,
+      "date": "1972-04-11",
+      "show_id": 528,
+      "venue": "Newcastle City Hall Newcastle,",
+      "description": "Rippin' peaks...timeless formless jamming while also being totally focused. Good for listening with the lights out",
+      "archive_url": "https://headyversion.com/show/528/archive/"
+    },
+    {
+      "votes": 36,
+      "date": "1973-03-24",
+      "show_id": 602,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Smokin' jam that oozes into a patient, slow build Spanish Jam.  This show slays",
+      "archive_url": "https://headyversion.com/show/602/archive/"
+    },
+    {
+      "votes": 35,
+      "date": "1972-11-17",
+      "show_id": 957,
+      "venue": "Century II Convention Hall Wichita, KS",
+      "description": "A great jam of Truckin'->The Other One->Brokedown Palace but the sound quality is a bit below par. I hope that the Dead release it.",
+      "archive_url": "https://headyversion.com/show/957/archive/"
+    },
+    {
+      "votes": 34,
+      "date": "1974-06-16",
+      "show_id": 507,
+      "venue": "Iowa State Fairgrounds Des Moines, IA",
+      "description": "Bouncy, romping version into a nice NFBM jam.  Good shit Miroki",
+      "archive_url": "https://headyversion.com/show/507/archive/"
+    },
+    {
+      "votes": 34,
+      "date": "1977-11-02",
+      "show_id": 859,
+      "venue": "Field House - Seneca College Toronto, ON",
+      "description": "Balls out version!",
+      "archive_url": "https://headyversion.com/show/859/archive/"
+    },
+    {
+      "votes": 33,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "A great opening version for the band's last Fillmore East show.",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1972-04-08",
+      "show_id": 524,
+      "venue": "Wembley Empire Pool London,",
+      "description": "Yet another great '72 version.",
+      "archive_url": "https://headyversion.com/show/524/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1973-12-02",
+      "show_id": 428,
+      "venue": "Music Hall Boston, MA",
+      "description": "Briliant version outta He's Gone, forsakes the all out bluesy, rockin' type of Truckin' for a snaky, bluesy, up-to-no-good sound.",
+      "archive_url": "https://headyversion.com/show/428/archive/"
+    },
+    {
+      "votes": 29,
+      "date": "1973-02-28",
+      "show_id": 8,
+      "venue": "Salt Palace Salt Lake City, UT",
+      "description": "Very amazing combo of Truckin>O1>Eyes>Morning Dew.  The truckin' is just as hot as the rest.",
+      "archive_url": "https://headyversion.com/show/8/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1972-04-16",
+      "show_id": 818,
+      "venue": "Aarhus University Aarhus,",
+      "description": "Out there version, very exploratory and creative",
+      "archive_url": "https://headyversion.com/show/818/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1974-08-05",
+      "show_id": 517,
+      "venue": "Philadelphia Civic Arena Philadelphia, PA",
+      "description": "Holy Moley!!! WHITE hot Truckin' peak, into  a seriously funky powerhouse space jam, and then landing on a wild Other One jam",
+      "archive_url": "https://headyversion.com/show/517/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1971-08-06",
+      "show_id": 13,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Absolutely smokin' hard rocking swagger. Builds from a cool shuffle to a blisteringly hot rocker setting up Drums/TOO. Great show all around.",
+      "archive_url": "https://headyversion.com/show/13/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1972-09-21",
+      "show_id": 142,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Solid and rocking!",
+      "archive_url": "https://headyversion.com/show/142/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1990-07-16",
+      "show_id": 375,
+      "venue": "Rich Stadium Orchard Park, NY",
+      "description": "Interesting jam out of this one, dig it",
+      "archive_url": "https://headyversion.com/show/375/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1972-04-07",
+      "show_id": 1070,
+      "venue": "Wembley Empire Pool London,",
+      "description": "Absolute powerhouse jamming eventually winds down to a nice spacey seuge",
+      "archive_url": "https://headyversion.com/show/1070/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1978-02-05",
+      "show_id": 449,
+      "venue": "Uni Dome, U of Northern Iowa Cedar Falls, IA",
+      "description": "Truckin'->Drums->The Other One->Wharf Rat->Around And Around.",
+      "archive_url": "https://headyversion.com/show/449/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1973-11-21",
+      "show_id": 69,
+      "venue": "Denver Coliseum Denver, CO",
+      "description": "This one has the best release after the tension build.  The drop into the beat after the break feels so damn good.",
+      "archive_url": "https://headyversion.com/show/69/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1973-11-14",
+      "show_id": 33,
+      "venue": "San Diego International Sports Arena San Diego, CA",
+      "description": "endless jams",
+      "archive_url": "https://headyversion.com/show/33/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1973-12-19",
+      "show_id": 442,
+      "venue": "Curtis Hixon Convention Hall Tampa, FL",
+      "description": "Part of a real tasty He's Gone>Truckin>NFBM>Other One",
+      "archive_url": "https://headyversion.com/show/442/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1972-04-24",
+      "show_id": 737,
+      "venue": "Rheinhalle Dusseldorf,",
+      "description": "I can't believe that i get to post this.  Maybe best opener of the tour!",
+      "archive_url": "https://headyversion.com/show/737/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1973-03-26",
+      "show_id": 509,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "Everything you could want from Truckin'...PLUS a filthy Nobody's Jam...WORTHY",
+      "archive_url": "https://headyversion.com/show/509/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1973-02-19",
+      "show_id": 539,
+      "venue": "International Amphitheatre Chicago, IL",
+      "description": "A very nice closing jam in this one.",
+      "archive_url": "https://headyversion.com/show/539/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1974-10-19",
+      "show_id": 357,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "The Grateful Dead Movie Soundtrack version.",
+      "archive_url": "https://headyversion.com/show/357/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1973-10-29",
+      "show_id": 767,
+      "venue": "Kiel Auditorium St. Louis, MO",
+      "description": "Out-friggin-standing 18 min. space/jazz jam out of this Truckin'...then a brief drums segment into a blistering Other One",
+      "archive_url": "https://headyversion.com/show/767/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1972-03-26",
+      "show_id": 1788,
+      "venue": "Academy of Music New York, NY",
+      "description": "Smokin' second set opener!",
+      "archive_url": "https://headyversion.com/show/1788/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1972-05-03",
+      "show_id": 80,
+      "venue": "Olympia Theater Paris,",
+      "description": "sweet!",
+      "archive_url": "https://headyversion.com/show/80/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1972-04-14",
+      "show_id": 135,
+      "venue": "Tivolis Koncertsal Copenhagen, DN",
+      "description": "What a powerhouse version.  The jams are amazing.  Best night on the Europe tour??? Could be!!",
+      "archive_url": "https://headyversion.com/show/135/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1972-05-07",
+      "show_id": 445,
+      "venue": "Bickershaw Festival Wigan,",
+      "description": "Smokin' hot show opener. The band is ultra tight and kick things off with force.",
+      "archive_url": "https://headyversion.com/show/445/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1978-04-12",
+      "show_id": 424,
+      "venue": "Cameron Indoor Stadium Durham, NC",
+      "description": "Couldn't believe this one wasn't listed.. Wow, the energy in the jam is nuts. Jerry and Bob both doing windmills as well. live show is on youtube!",
+      "archive_url": "https://headyversion.com/show/424/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1979-05-09",
+      "show_id": 489,
+      "venue": "Broome County Arena Binghamton, NY",
+      "description": "Gigantic early peak, followed by high energy band interplay, concluded with some jacked up speedy noodling.  Hard to ask for more",
+      "archive_url": "https://headyversion.com/show/489/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1970-09-20",
+      "show_id": 85,
+      "venue": "Fillmore East New York, NY",
+      "description": "ACOUSTIC Truckin', yes please!",
+      "archive_url": "https://headyversion.com/show/85/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1972-12-31",
+      "show_id": 920,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Epic version from an epic show!",
+      "archive_url": "https://headyversion.com/show/920/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1990-09-20",
+      "show_id": 354,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "final show, second set opener",
+      "archive_url": "https://headyversion.com/show/354/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1974-09-09",
+      "show_id": 968,
+      "venue": "Alexandra Palace London,",
+      "description": "Dick's Picks 7 version.",
+      "archive_url": "https://headyversion.com/show/968/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1972-04-17",
+      "show_id": 399,
+      "venue": "Tivolis Koncertsal K\u00f8benhavn (Copenhagen),",
+      "description": "Rippin stellar version.  I like this one a little better than the 72-04-14, which is a close second.",
+      "archive_url": "https://headyversion.com/show/399/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1971-11-15",
+      "show_id": 446,
+      "venue": "The Austin Municipal Auditorium Austin, TX",
+      "description": "Smokin' hot opening to this fierce show",
+      "archive_url": "https://headyversion.com/show/446/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1991-06-17",
+      "show_id": 296,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "This Truckin is so tight",
+      "archive_url": "https://headyversion.com/show/296/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1972-09-17",
+      "show_id": 584,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "Definately should be in the converation as heady.  Smokin' second set opener to this very fine show.",
+      "archive_url": "https://headyversion.com/show/584/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1972-08-25",
+      "show_id": 827,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Monster Truckin>O1",
+      "archive_url": "https://headyversion.com/show/827/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1979-12-03",
+      "show_id": 1083,
+      "venue": "Uptown Theatre Chicago, IL",
+      "description": "A rocking version from Fall '79.",
+      "archive_url": "https://headyversion.com/show/1083/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1974-05-17",
+      "show_id": 771,
+      "venue": "P.N.E. Coliseum Vancouver, BC",
+      "description": "Top notch version.",
+      "archive_url": "https://headyversion.com/show/771/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1973-11-20",
+      "show_id": 1071,
+      "venue": "Denver Coliseum Denver, CO",
+      "description": "Absolutely demented bulidup and jam + a killer Phil solo segment",
+      "archive_url": "https://headyversion.com/show/1071/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1973-10-23",
+      "show_id": 651,
+      "venue": "Metropolitan Sports Center Bloomington, MN",
+      "description": "Wow - Part of a truly awesome segment. Truckin' > NFBM > Other One > drums > Jam > WRS. Top shelf",
+      "archive_url": "https://headyversion.com/show/651/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1974-05-25",
+      "show_id": 799,
+      "venue": "Campus Stadium, UCSB Santa Barbara, CA",
+      "description": "Oh man can't forget this one! Electric Truckin' jam into some awesome, spacey almost Playin' territory before they land on a great Let It Grow",
+      "archive_url": "https://headyversion.com/show/799/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1982-07-31",
+      "show_id": 464,
+      "venue": "Manor Downs Austin, TX",
+      "description": "Good on its own, great in context (Drums > Space > UJB > here)",
+      "archive_url": "https://headyversion.com/show/464/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1973-09-08",
+      "show_id": 804,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "groovy, laid back jams",
+      "archive_url": "https://headyversion.com/show/804/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1975-09-28",
+      "show_id": 432,
+      "venue": "Lindley Meadows, Golden Gate Park San Francisco, CA",
+      "description": "Explosive jam like they had 11 months of unplayed Truckin's compressed into one.",
+      "archive_url": "https://headyversion.com/show/432/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1978-01-06",
+      "show_id": 1553,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "If you dig 11-6-77, you'll love this. One of the highest-octane versions ever performed. Insanity.",
+      "archive_url": "https://headyversion.com/show/1553/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1989-07-15",
+      "show_id": 225,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Rocking. Used on the soundrack of the movie \"The Music Never Stopped.\"",
+      "archive_url": "https://headyversion.com/show/225/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1974-02-23",
+      "show_id": 360,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Absolute fire blues here. This is crushed, awesome version from an awesome show",
+      "archive_url": "https://headyversion.com/show/360/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1983-04-26",
+      "show_id": 764,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Meaty version out of space with some nice vocal improvisations by Bobby and a killer epilogue jam which flows beautifully into a quick NBF Jam",
+      "archive_url": "https://headyversion.com/show/764/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1972-09-09",
+      "show_id": 140,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Another hot and jam filled Truckin from 1972, nice an exploratory version. Very high energy and quick pace.",
+      "archive_url": "https://headyversion.com/show/140/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1978-05-13",
+      "show_id": 1137,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Absolutely crazy interplay between JG and Weir throwin' slide action down after the drop. They're havin fun and the tasty licks testify. HEADY!",
+      "archive_url": "https://headyversion.com/show/1137/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1972-05-13",
+      "show_id": 51,
+      "venue": "Lille Fairgrounds Lille,",
+      "description": "Unforgivable that you guys overlook Truckin'. There's a reason it's the one song non-heads know. This one is a forgotten colossus. Listen up.",
+      "archive_url": "https://headyversion.com/show/51/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1978-07-05",
+      "show_id": 1656,
+      "venue": "Omaha Civic Auditorium Omaha, NE",
+      "description": "Great version, Jerry on fire especially during the outro",
+      "archive_url": "https://headyversion.com/show/1656/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1971-02-18",
+      "show_id": 130,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "\"It's not drivin' that train but it's almost as good\" - Bob Weir",
+      "archive_url": "https://headyversion.com/show/130/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1973-03-31",
+      "show_id": 559,
+      "venue": "War Memorial Buffalo, NY",
+      "description": "Truckin'->Drums->The Other One->Spanish Jam->I know you rider. 1973 Magic pure good ol' grateful dead.",
+      "archive_url": "https://headyversion.com/show/559/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1974-09-18",
+      "show_id": 93,
+      "venue": "Parc des Expositions Dijon,",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/93/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-09-10",
+      "show_id": 406,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "REAL nice bluesy leads",
+      "archive_url": "https://headyversion.com/show/406/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1973-06-09",
+      "show_id": 684,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Long journey.  Jer moves out of the nebulae toward HCS around 10:50, but the cosmos moved into Playin' instead.  Epic indeed.",
+      "archive_url": "https://headyversion.com/show/684/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1974-05-12",
+      "show_id": 578,
+      "venue": "University of Nevada Reno, NV",
+      "description": "Inventive and crystal clear jam, leading into a 'nobody's fault' jam and a killer TOO>MLB where the '74 sound is just taking shape. Underappreciated.",
+      "archive_url": "https://headyversion.com/show/578/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-06-26",
+      "show_id": 67,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "Swingin' and groovin'...Phil takes charge on forgotten first verse..Bob drops an f-bomb but seems to censor himself on \"ain't it a shame\" line. Funny",
+      "archive_url": "https://headyversion.com/show/67/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1978-04-21",
+      "show_id": 648,
+      "venue": "Rupp Arena Lexington, KY",
+      "description": "Killer",
+      "archive_url": "https://headyversion.com/show/648/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-03-22",
+      "show_id": 443,
+      "venue": "Utica Memorial Auditorium Utica, NY",
+      "description": "Ballsy and rockin with great energy, flows from HCS and then seamless into a great TOO. It's what's great about Truckin.",
+      "archive_url": "https://headyversion.com/show/443/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-11-10",
+      "show_id": 947,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "A groovin' version with a killer jam at the end that fades into a great Wharf Rat.",
+      "archive_url": "https://headyversion.com/show/947/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-05-20",
+      "show_id": 601,
+      "venue": "U.C.  Santa Barbara, CA",
+      "description": "This one gets wayyy out there for Truckin after a \"Nobody's Fault But Mine\" jam before > Drums...PITB-esque",
+      "archive_url": "https://headyversion.com/show/601/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-07-18",
+      "show_id": 461,
+      "venue": "Rossevelt Stadium Jersey City, NJ",
+      "description": "How has this Truckin been overlooked? So fucking hot!",
+      "archive_url": "https://headyversion.com/show/461/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-04-21",
+      "show_id": 985,
+      "venue": "Beat Club Bremen, GE",
+      "description": "Cool version. Truckin' > Drums > The Other One. Meet up at the movies 2014! Was awesome to see on the big screen.",
+      "archive_url": "https://headyversion.com/show/985/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1972-11-22",
+      "show_id": 1455,
+      "venue": "Austin Municipal Auditorium Austin, TX",
+      "description": "Very Jazzy take on truckin, Jerry is just ripping the transition into the other one with some real fine support from Billy and Phil.",
+      "archive_url": "https://headyversion.com/show/1455/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1980-11-29",
+      "show_id": 105,
+      "venue": "Alligator Alley Gym, University of Florida Gainsville, FL",
+      "description": "Jerry rips it up.",
+      "archive_url": "https://headyversion.com/show/105/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1974-08-06",
+      "show_id": 9,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "Great truckin' morphs into a mellow and tripy space jam to finaly go into spanish jam",
+      "archive_url": "https://headyversion.com/show/9/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1972-05-10",
+      "show_id": 745,
+      "venue": "Concertgebouw Amsterdam,",
+      "description": "Truckin' -> Drums -> The Other One -> Me and bobby mcgee -> The Other one -> wharf rat. so sick",
+      "archive_url": "https://headyversion.com/show/745/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1972-03-28",
+      "show_id": 646,
+      "venue": "Academy of Music New York, NY",
+      "description": "A more uptempo version where the band really gels nicely. You can hear Pigpen's organ shining on it, which is often lost in the mix.",
+      "archive_url": "https://headyversion.com/show/646/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1990-06-16",
+      "show_id": 132,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "View from the Vault Vol. III version",
+      "archive_url": "https://headyversion.com/show/132/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-05-11",
+      "show_id": 14,
+      "venue": "Rotterdam Civic Hall Rotterdam,",
+      "description": "leads into Uncle Johns Band. Great performance, great show",
+      "archive_url": "https://headyversion.com/show/14/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1973-09-07",
+      "show_id": 761,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Top form from a great 2nd set then into a ballsy TOO jam (no lyrics) and then one of the best Eyes of all time.",
+      "archive_url": "https://headyversion.com/show/761/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1973-02-09",
+      "show_id": 99,
+      "venue": "Roscoe Maples Pavilion - Stanford University Palo Alto, CA",
+      "description": "Truckin' into incredible Eyes... Give it a spin.",
+      "archive_url": "https://headyversion.com/show/99/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1971-12-14",
+      "show_id": 1095,
+      "venue": "Hill Auditorium Ann Arbor, MI",
+      "description": "Bristling hot show opener shows how they meant business. Dec. '71 is special transition time and this one pins you to the wall with energy.",
+      "archive_url": "https://headyversion.com/show/1095/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-05-24",
+      "show_id": 984,
+      "venue": "Strand Lyceum London,",
+      "description": "*Yet another* stellar Truckin' from Europe '72. It would be unconscionable not to acknowledge its greatness here.",
+      "archive_url": "https://headyversion.com/show/984/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-05-16",
+      "show_id": 739,
+      "venue": "Theatre Hall Luxembourg,",
+      "description": "This little radio broadcast show smokes.  Super hot Truckin>O1.",
+      "archive_url": "https://headyversion.com/show/739/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-03-21",
+      "show_id": 391,
+      "venue": "Academy of Music New York City, NY",
+      "description": "A classic 72 Truckin'...intnese and high energy!",
+      "archive_url": "https://headyversion.com/show/391/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-10-19",
+      "show_id": 1176,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "HOT Truckin'->Drums->The Other One 1972 Magic in full effect.",
+      "archive_url": "https://headyversion.com/show/1176/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1977-10-02",
+      "show_id": 333,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "This packs a punch then after the drop major lick-city and nice tension with Phil as they transition into TOO",
+      "archive_url": "https://headyversion.com/show/333/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1973-06-10",
+      "show_id": 144,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Tight and packing a punch!",
+      "archive_url": "https://headyversion.com/show/144/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1977-11-01",
+      "show_id": 571,
+      "venue": "Cobo Arena Detroit, MI",
+      "description": "The Jam at the end is very intense.  Quite an enjoyable show throughout!!",
+      "archive_url": "https://headyversion.com/show/571/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1973-10-27",
+      "show_id": 842,
+      "venue": "Indianapolis State Fair Coliseum Indianapolis, IN",
+      "description": "Enormous peak, really funky Nobody's jam",
+      "archive_url": "https://headyversion.com/show/842/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-05-18",
+      "show_id": 290,
+      "venue": "Kongressaal, Deutsches Museum Munich, DE",
+      "description": "A rockin' way to start the show.",
+      "archive_url": "https://headyversion.com/show/290/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-03-22",
+      "show_id": 565,
+      "venue": "Copps Coliseum Hamilton, ON",
+      "description": "The outro jam into drums is great orchestra.  Real well-played version with great Brent vocs.",
+      "archive_url": "https://headyversion.com/show/565/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1974-07-29",
+      "show_id": 437,
+      "venue": "Capitol Center Landover, MD",
+      "description": "Hotness, the NFBM jam is tight out of this one",
+      "archive_url": "https://headyversion.com/show/437/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1974-07-21",
+      "show_id": 540,
+      "venue": "Hollywood Bowl Hollywood, CA",
+      "description": "The high energy middle of a spacey, jammy, Wall of Sound sammich",
+      "archive_url": "https://headyversion.com/show/540/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1982-04-06",
+      "show_id": 103,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Pretty standard version but has alternate \"sex change\" lyrics from Bobby",
+      "archive_url": "https://headyversion.com/show/103/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-08-24",
+      "show_id": 650,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Massive driving groove leading straight into one of the top DS of all time. My ears hear a flirt with NFBM jam that never quite hatches.",
+      "archive_url": "https://headyversion.com/show/650/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1978-09-16",
+      "show_id": 716,
+      "venue": "Sphinx Theatre Giza,",
+      "description": "Awesome version here.  These ae very under-rated showxs from egypt.  Some very inspired playing.",
+      "archive_url": "https://headyversion.com/show/716/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1989-07-02",
+      "show_id": 641,
+      "venue": "Sullivan Stadium Foxboro, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/641/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-11-17",
+      "show_id": 1542,
+      "venue": "Albuquerque Civic Auditorium Albuquerque, NM",
+      "description": "Tasty Truckin opener",
+      "archive_url": "https://headyversion.com/show/1542/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-09-26",
+      "show_id": 779,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "Nice version that melts into a beautiful jam",
+      "archive_url": "https://headyversion.com/show/779/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-09-28",
+      "show_id": 41,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "A standout Truckin'  from a great show.",
+      "archive_url": "https://headyversion.com/show/41/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-11-08",
+      "show_id": 796,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Unbelievable jam...",
+      "archive_url": "https://headyversion.com/show/796/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1974-06-30",
+      "show_id": 1027,
+      "venue": "Civic Center Springfield, MA",
+      "description": "Long exploratory solos, smouldering jams, cool interplay. Won't blow you off your chair but very inventive and interesting.",
+      "archive_url": "https://headyversion.com/show/1027/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-09-15",
+      "show_id": 1889,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "11+ minutes of pure goodness leads into a nice Billy Drum solo and then an amazing the other one. a snbd of only this sequence is available on archive",
+      "archive_url": "https://headyversion.com/show/1889/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1983-10-12",
+      "show_id": 775,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Out of Space with a whistle start.... nice end jammin.",
+      "archive_url": "https://headyversion.com/show/775/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1993-03-11",
+      "show_id": 1485,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "Truckin'>Spoonful",
+      "archive_url": "https://headyversion.com/show/1485/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-04-18",
+      "show_id": 417,
+      "venue": "Lusk Field House - State University Of New York Cortland, NY",
+      "description": "Loose and bluesy upfront then Jer gets riff happy with some sweet bends while Bobby blows power chords - a really cool racket here.",
+      "archive_url": "https://headyversion.com/show/417/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1984-06-30",
+      "show_id": 832,
+      "venue": "Indianapolis Sports and Music Center Indianapolis, IN",
+      "description": "One of the best of the mid 1980's truckin's. Stellar standout from the whole band.",
+      "archive_url": "https://headyversion.com/show/832/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1973-11-23",
+      "show_id": 797,
+      "venue": "County Coliseum El Paso, TX",
+      "description": "Wickedly Hot Truckin, stellar sequence Typical 1973 excellence",
+      "archive_url": "https://headyversion.com/show/797/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-12-09",
+      "show_id": 1164,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Show opening muscle-flexer",
+      "archive_url": "https://headyversion.com/show/1164/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-09-20",
+      "show_id": 353,
+      "venue": "Boston Garden Boston, MA",
+      "description": "what else will you follow help>slip>fire>estimated with?  double bobby jammin",
+      "archive_url": "https://headyversion.com/show/353/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1974-02-22",
+      "show_id": 365,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "A standout version from a great show.",
+      "archive_url": "https://headyversion.com/show/365/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1979-12-10",
+      "show_id": 1110,
+      "venue": "Soldiers' and Sailors' Memorial Hall Kansas City, KS",
+      "description": "The band just rips it up here!",
+      "archive_url": "https://headyversion.com/show/1110/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1985-03-28",
+      "show_id": 1118,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Powerful Truckin' opener.  Start to another one of those slinky 85 combos -- Truckin'>SS>High Time",
+      "archive_url": "https://headyversion.com/show/1118/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-06-07",
+      "show_id": 291,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Truckin>NewSpeedway!!!!!!!!!!!!!!    yes please!!!!!!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/291/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1979-09-02",
+      "show_id": 756,
+      "venue": "Augusta Civic Center Augusta, ME",
+      "description": "They totally screw up the lyrics, but once they hit \u201cGet back Truckin\u2019 On\u201d wow it rocks, the first peak is very powerful, then a second peak.",
+      "archive_url": "https://headyversion.com/show/756/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1973-12-04",
+      "show_id": 1325,
+      "venue": "Cincinnati Gardens Cincinnati, OH",
+      "description": "Bonus disc to Winterland 73 Box Set... Bobby and Jerry were singing it like they meant it. Great jam and transition to a beautiful Stella",
+      "archive_url": "https://headyversion.com/show/1325/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-08-10",
+      "show_id": 675,
+      "venue": "Iowa Fieldhouse - University of Iowa Iowa City, IA",
+      "description": "This version sucks, I just really love this show.",
+      "archive_url": "https://headyversion.com/show/675/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-09-11",
+      "show_id": 809,
+      "venue": "West Palm Beach Auditorium West Palm Beach, FL",
+      "description": "Kicks back into the cowboy vibe from earlier in the show, leads into a stellar \"Stella.\"",
+      "archive_url": "https://headyversion.com/show/809/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1978-12-28",
+      "show_id": 1150,
+      "venue": "Golden Hall, Community Concourse San Diego, CA",
+      "description": "Very strong, but the highlight comes in the form of the transition into Wharf Rat",
+      "archive_url": "https://headyversion.com/show/1150/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-11-14",
+      "show_id": 1171,
+      "venue": "Texas Christian University Fort Worth, TX",
+      "description": "Bonus disc leading into monumental Other One",
+      "archive_url": "https://headyversion.com/show/1171/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1990-03-18",
+      "show_id": 1024,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Nice full band jam at the end.",
+      "archive_url": "https://headyversion.com/show/1024/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-12-10",
+      "show_id": 86,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Bobby and Keith have a really brilliant exchange in the background here.  Great version.",
+      "archive_url": "https://headyversion.com/show/86/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-08-22",
+      "show_id": 1361,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Truckin -> Drums -> The Other One -> Stella Blue. Rippin' truckin' here, they're just trucking along, high voltage summer '72 style, classic stuff.",
+      "archive_url": "https://headyversion.com/show/1361/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-12-26",
+      "show_id": 527,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "absolutely smokin'",
+      "archive_url": "https://headyversion.com/show/527/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-11-24",
+      "show_id": 850,
+      "venue": "Dallas Memorial Auditorium Dallas, TX",
+      "description": "High enrgy ripper with some real hot fiery jams. A very high octane rocking version.",
+      "archive_url": "https://headyversion.com/show/850/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1973-07-01",
+      "show_id": 576,
+      "venue": "Universal Amphitheatre Universal City, CA",
+      "description": "Kills truckin>other one> space > wharf rat. This whole show smokes get the aud quick!",
+      "archive_url": "https://headyversion.com/show/576/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-12-07",
+      "show_id": 16,
+      "venue": "Felt Forum, Madison Square Garden New York, NY",
+      "description": "Jer get's downright snappy on this one.",
+      "archive_url": "https://headyversion.com/show/16/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-11-14",
+      "show_id": 1416,
+      "venue": "Oklahoma City Music Hall Oklahoma City, OK",
+      "description": "Just when it seems like they've decided on O1 as the jam vehicle of choice, they suddenly switch to a great Truckin'.",
+      "archive_url": "https://headyversion.com/show/1416/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-07-28",
+      "show_id": 1060,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Really cool, notable for Sweet Jane's sex change lyric and the funky outro",
+      "archive_url": "https://headyversion.com/show/1060/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1989-07-09",
+      "show_id": 1525,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Real heady summer '89 Truckin', great vocals and powerful playing, what else to say except hot!",
+      "archive_url": "https://headyversion.com/show/1525/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-06-08",
+      "show_id": 180,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "truckin>speedway to open the second set",
+      "archive_url": "https://headyversion.com/show/180/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1977-12-31",
+      "show_id": 663,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Scarlet>Fire>Truckin",
+      "archive_url": "https://headyversion.com/show/663/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-11-07",
+      "show_id": 567,
+      "venue": "Harding Theatre San Francisco, CA",
+      "description": "Get back Truckin' on!",
+      "archive_url": "https://headyversion.com/show/567/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1983-06-20",
+      "show_id": 98,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "Nice 'blow out\" jam.",
+      "archive_url": "https://headyversion.com/show/98/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-02-21",
+      "show_id": 1248,
+      "venue": "Assembly Hall, University Of Illinois Champaign, IL",
+      "description": "Tight and energetic.  Massive Phil solo going into a great Eyes. Why isn't this already here?",
+      "archive_url": "https://headyversion.com/show/1248/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-03-16",
+      "show_id": 363,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Check out the totally mad vocals. Someone's belting it out, and it ain't Donna!  Out of a killer Dark Star.",
+      "archive_url": "https://headyversion.com/show/363/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-10-02",
+      "show_id": 1358,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "surprised this Truckin' -> Nobody's Fault but Mine Jam -> Drums -> Jam (w. Feelin Groovy) hasn't been mentioned. one of my favorites",
+      "archive_url": "https://headyversion.com/show/1358/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1982-10-09",
+      "show_id": 851,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Whereas most versions from this period depend on bombast, this is a fairly well-explored take.  Classic sequence of Truckin>O1>Dew.",
+      "archive_url": "https://headyversion.com/show/851/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1978-01-31",
+      "show_id": 1266,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "Ends a great Set II sequence. Listen to the drummers play along with the whistle blower in the audience!",
+      "archive_url": "https://headyversion.com/show/1266/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-06-21",
+      "show_id": 199,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Not super long, but like Clarence alot on this!  Great combo of Truckin>O1>Dew!",
+      "archive_url": "https://headyversion.com/show/199/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-12-10",
+      "show_id": 1211,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Billy tickles the drums at Bobby's lyrical blunder. Then blues.",
+      "archive_url": "https://headyversion.com/show/1211/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-09-03",
+      "show_id": 664,
+      "venue": "Folsom Field, University of Colorado Boulder, CO",
+      "description": "Has the number one song in Turlock California introduction. Short exit jm due to a broken string, Bobby announced this from stage",
+      "archive_url": "https://headyversion.com/show/664/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-12-15",
+      "show_id": 502,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Another massive 1972 Truckin, Jerry is just shooting off leads, Phil is bombing us into deep space, and Billy is a beast on the kit. Fantastic exit ja",
+      "archive_url": "https://headyversion.com/show/502/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1991-03-25",
+      "show_id": 2020,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Truckin->Spoonful->(Russian lullaby) Jam",
+      "archive_url": "https://headyversion.com/show/2020/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-05-16",
+      "show_id": 676,
+      "venue": "Barton Hall - Cornell University Ithaca, NY",
+      "description": "Great version at this epic show...sex change.",
+      "archive_url": "https://headyversion.com/show/676/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-05-27",
+      "show_id": 1849,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "HOLY SHIT INTENSE!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/1849/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-03-18",
+      "show_id": 416,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Not super long but very tight and intense",
+      "archive_url": "https://headyversion.com/show/416/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-08-23",
+      "show_id": 1172,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "Hard edged blues metal - whole bands goin' for it.",
+      "archive_url": "https://headyversion.com/show/1172/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-08-07",
+      "show_id": 1323,
+      "venue": "Golden Hall San Diego, CA",
+      "description": "Opens 2nd set and delivers the goods in '71 style",
+      "archive_url": "https://headyversion.com/show/1323/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-11-01",
+      "show_id": 768,
+      "venue": "McGaw Memorial Hall - Northwestern University Evanston, IL",
+      "description": "This is a criminally underrated version in a fantastic second set medley! Check it out!",
+      "archive_url": "https://headyversion.com/show/768/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-03-10",
+      "show_id": 762,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Wow! Can't believe this hasn't made the cut yet. Rips and roars out of poignant China Doll. Almost become a Smokestack... Super strong show!",
+      "archive_url": "https://headyversion.com/show/762/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-05-13",
+      "show_id": 371,
+      "venue": "Iowa State Fairgrounds Des Moines, IA",
+      "description": "Perfect...out of the best He's Gone these ears have heard",
+      "archive_url": "https://headyversion.com/show/371/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1978-10-18",
+      "show_id": 70,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "A pounding Truckin'",
+      "archive_url": "https://headyversion.com/show/70/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1981-07-11",
+      "show_id": 1011,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Great version of He's Gone->Truckin'.",
+      "archive_url": "https://headyversion.com/show/1011/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-02-17",
+      "show_id": 569,
+      "venue": "St. Paul Auditorium St. Paul, MN",
+      "description": "Just beautiful 2nd set opener. This show doesn't get the attention it deserves!  Solid jamming.",
+      "archive_url": "https://headyversion.com/show/569/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-09-21",
+      "show_id": 554,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Stunning w/ great Phil solo into TOO. A 2nd set from heaven: LIG>He's Gone>Truckin>TOO>Wharf Rat. Don't be put off by 1st set flubs, listen to this!",
+      "archive_url": "https://headyversion.com/show/554/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-10-21",
+      "show_id": 839,
+      "venue": "Omaha Civic Auditorium Omaha, NE",
+      "description": "Absolutley relentless",
+      "archive_url": "https://headyversion.com/show/839/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1977-10-15",
+      "show_id": 655,
+      "venue": "Moody Coliseum - Southern Methodist University Dallas, TX",
+      "description": "Awesome",
+      "archive_url": "https://headyversion.com/show/655/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1979-10-31",
+      "show_id": 447,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Wow this version smokes, only an (Great) AUD recording is available, but Jerry is possessed, kinds of blows up at the end, but the middle jam rocks.",
+      "archive_url": "https://headyversion.com/show/447/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-12-05",
+      "show_id": 791,
+      "venue": "Felt Forum - Madison Square Garden New York, NY",
+      "description": "Diesel-burnin' hard charging set opener. \"Straight to number 1 in Turlock, California and that's a fact.\"",
+      "archive_url": "https://headyversion.com/show/791/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1978-01-13",
+      "show_id": 1789,
+      "venue": "Arlington Theater Santa Barbara, CA",
+      "description": "Very interesting placement towards the end of set 2",
+      "archive_url": "https://headyversion.com/show/1789/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-10-26",
+      "show_id": 1413,
+      "venue": "The Palestra, U. of Rochester Rochester, NY",
+      "description": "This one has an interesting fantastic jam Phil and Jerry are true stand outs.",
+      "archive_url": "https://headyversion.com/show/1413/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-11-20",
+      "show_id": 1704,
+      "venue": "Pauley Pavilion Los Angeles, CA",
+      "description": "ice truckin with a jam that launches them into the zone",
+      "archive_url": "https://headyversion.com/show/1704/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-08-04",
+      "show_id": 326,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/326/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-06-29",
+      "show_id": 1652,
+      "venue": "Universal Amphitheatre Universal City, CA",
+      "description": "Jam this one into The Other One nicely...",
+      "archive_url": "https://headyversion.com/show/1652/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1991-05-05",
+      "show_id": 2000,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2000/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-10-21",
+      "show_id": 706,
+      "venue": "Worcester Centrum Worcester, MA",
+      "description": "Ever since she went and had her frontal lobes changed, all a friend can say is aint it a shame.",
+      "archive_url": "https://headyversion.com/show/706/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-01-02",
+      "show_id": 42,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "The rockin' opener to a really GREAT 1972 show-wish this show could get a formal Dead release.",
+      "archive_url": "https://headyversion.com/show/42/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-08-20",
+      "show_id": 1563,
+      "venue": "San Jose Civic Auditorium San Jose, CA",
+      "description": "Nice version into the other one, Phil is on!",
+      "archive_url": "https://headyversion.com/show/1563/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1981-12-03",
+      "show_id": 724,
+      "venue": "Dane County Coliseum Madison, WI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/724/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1991-05-10",
+      "show_id": 347,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/347/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1977-11-05",
+      "show_id": 749,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Full of energy and roaring throughout the whole jam including multiple peaking buildups.",
+      "archive_url": "https://headyversion.com/show/749/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1991-10-31",
+      "show_id": 293,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Love Bob laughing for getting hassled over bungled lyrics.",
+      "archive_url": "https://headyversion.com/show/293/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1992-05-30",
+      "show_id": 294,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Very tight version, with a SUPER climax. Phil will rattle your teeth with this bomb! One of the best peaks",
+      "archive_url": "https://headyversion.com/show/294/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-03-19",
+      "show_id": 1259,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Swingin' and energetic version with a really cool Nobody's Fault But Mine jam",
+      "archive_url": "https://headyversion.com/show/1259/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-09-11",
+      "show_id": 987,
+      "venue": "Downs of Santa Fe Santa Fe, NM",
+      "description": "Needs to be on the list excellent 83 Truckin from a classic show.",
+      "archive_url": "https://headyversion.com/show/987/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-09-17",
+      "show_id": 757,
+      "venue": "Onondaga County War Memorial Syracuse, NY",
+      "description": "Horns work really well with the band here.",
+      "archive_url": "https://headyversion.com/show/757/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-12-08",
+      "show_id": 660,
+      "venue": "Cameron Indoor Stadium, Duke U Durham, NC",
+      "description": "Great version from an amazing tour. They had to play two Jer ballads to get everyone calmed down after the jam.",
+      "archive_url": "https://headyversion.com/show/660/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-03-15",
+      "show_id": 1231,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Solid version with some really nice jamming in the outro",
+      "archive_url": "https://headyversion.com/show/1231/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-06-21",
+      "show_id": 512,
+      "venue": "Chateau d'Herouville Herouville,",
+      "description": "Incredible verrsion of one of the best shows of 71'.  They were so relaxed you can tell they were having fun this night!",
+      "archive_url": "https://headyversion.com/show/512/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1978-11-21",
+      "show_id": 490,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "A kickin' version full of fire.",
+      "archive_url": "https://headyversion.com/show/490/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1973-09-24",
+      "show_id": 545,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "A great Truckin'->Nobody's Fault Jam.",
+      "archive_url": "https://headyversion.com/show/545/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1977-10-09",
+      "show_id": 1109,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "Another great version from another great show.",
+      "archive_url": "https://headyversion.com/show/1109/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-06-27",
+      "show_id": 907,
+      "venue": "SPAC Saratoga Springs, NY",
+      "description": "Great build up and blow out.",
+      "archive_url": "https://headyversion.com/show/907/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-07-17",
+      "show_id": 1111,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "A great first set ending Truckin' with a cool closing jam.",
+      "archive_url": "https://headyversion.com/show/1111/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-12-31",
+      "show_id": 409,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Very together, lots of energy on NYE heading into '72.",
+      "archive_url": "https://headyversion.com/show/409/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-10-09",
+      "show_id": 499,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Very Jammy goes into The Other One",
+      "archive_url": "https://headyversion.com/show/499/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-03-23",
+      "show_id": 44,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Kick-ass version",
+      "archive_url": "https://headyversion.com/show/44/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-03-25",
+      "show_id": 299,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Tasty Truckin>Spoonful!",
+      "archive_url": "https://headyversion.com/show/299/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-07-25",
+      "show_id": 678,
+      "venue": "Paramount Theater Portland, OR",
+      "description": "Summer '72",
+      "archive_url": "https://headyversion.com/show/678/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-11-03",
+      "show_id": 1355,
+      "venue": "Polo Field, Golden Gate Park San Francisco, CA",
+      "description": "very nice truckin'->the other one",
+      "archive_url": "https://headyversion.com/show/1355/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-07-16",
+      "show_id": 74,
+      "venue": "Dillon Stadium Hartford, CT",
+      "description": "Hot one in the style of Europe 72",
+      "archive_url": "https://headyversion.com/show/74/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-10-19",
+      "show_id": 855,
+      "venue": "Saenger Performing Arts Center New Orleans, LA",
+      "description": "Just because the crowd loved hearing this in New Orleans, for obvious reasons",
+      "archive_url": "https://headyversion.com/show/855/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-12-04",
+      "show_id": 1858,
+      "venue": "Oakland Coliseum Oakland, CA",
+      "description": "Incredible high energy version, when Jerry takes lead after the vocals, OH MY ripping and fantastic, into hot Smokestack",
+      "archive_url": "https://headyversion.com/show/1858/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-10-14",
+      "show_id": 1385,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Right out of scarlet begonias, well played. New York got the ways and means!!! A Brendan Byrne arena gem!",
+      "archive_url": "https://headyversion.com/show/1385/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1995-02-21",
+      "show_id": 803,
+      "venue": "Delta Center Salt Lake City, UT",
+      "description": "Great show...love the truckin' and cool tunes that follow.",
+      "archive_url": "https://headyversion.com/show/803/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-10-25",
+      "show_id": 1663,
+      "venue": "Miami Arena Miami, FL",
+      "description": "Monster 20 minute version.  This show is crazy good and totally overshadowed by the next night.",
+      "archive_url": "https://headyversion.com/show/1663/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-05-08",
+      "show_id": 1402,
+      "venue": "Glens Falls Civic Center Glens Falls, NY",
+      "description": "SPACE>TRUCKIN'",
+      "archive_url": "https://headyversion.com/show/1402/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-16",
+      "show_id": 156,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/156/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-12-12",
+      "show_id": 1034,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "Full speed ahead",
+      "archive_url": "https://headyversion.com/show/1034/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-04-03",
+      "show_id": 1048,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1048/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-04-13",
+      "show_id": 923,
+      "venue": "Irvine Meadows Laguna Hills, CA",
+      "description": "Arguably the version in which Bobby forgot the fewest lyrics. Also great, imaginative playing by Jerry throughout.",
+      "archive_url": "https://headyversion.com/show/923/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-12-04",
+      "show_id": 17,
+      "venue": "Felt Forum, Madison Square Garden New York City, NY",
+      "description": "Smashmouth show opener for NYC crowd.",
+      "archive_url": "https://headyversion.com/show/17/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1986-02-11",
+      "show_id": 733,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Perhaps the oddest intro to Truckin' ever.",
+      "archive_url": "https://headyversion.com/show/733/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-10-24",
+      "show_id": 1427,
+      "venue": "Performing Arts Center Milwaukee, WI",
+      "description": "Pity the SQ is so flat, as this one cooks up nice and hot, with some extra melodicism in the outro jam before D>TOO.  This show needs a SBD infusion.",
+      "archive_url": "https://headyversion.com/show/1427/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-12-06",
+      "show_id": 1544,
+      "venue": "Felt Forum, Madison Square Garden New York, NY",
+      "description": "Nightmare vocals but there's fire in the instrumental",
+      "archive_url": "https://headyversion.com/show/1544/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-12-10",
+      "show_id": 750,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Hard-charging diesel burner here.  Bobby's nice and high in the mix, so a nice treat. The jam into TOO is brilliant.",
+      "archive_url": "https://headyversion.com/show/750/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1977-12-27",
+      "show_id": 35,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Starts with a marching band type whistle and takes off. Usual struggle with the lyrics, but no worse than usual. The band are having fun having this s",
+      "archive_url": "https://headyversion.com/show/35/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-04-01",
+      "show_id": 167,
+      "venue": "The Omni Atlanta, GA",
+      "description": "How did this one not make it up? This a full steam ahead rock and roll explosion that never lets up.",
+      "archive_url": "https://headyversion.com/show/167/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-02-19",
+      "show_id": 137,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "First song of the first show of Micky's hiatus from the band. Billy more then makes up for his absense, providing a hard, rolicking, steady beat.",
+      "archive_url": "https://headyversion.com/show/137/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-05-30",
+      "show_id": 1405,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "If you like this song. even a little bit,  you have to listen to this version! For my money this is as good as this song gets!",
+      "archive_url": "https://headyversion.com/show/1405/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-09-14",
+      "show_id": 1448,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Full speed ahead rockin' NYC version.",
+      "archive_url": "https://headyversion.com/show/1448/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-09-03",
+      "show_id": 582,
+      "venue": "Civic Center Springfield, MA",
+      "description": "Short but sweet 80s version",
+      "archive_url": "https://headyversion.com/show/582/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-02-24",
+      "show_id": 579,
+      "venue": "University of Iowa Iowa City, IA",
+      "description": "Phil dominates your eardrums with a booming bass solo. A hidden gem worth finding.",
+      "archive_url": "https://headyversion.com/show/579/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-06-20",
+      "show_id": 973,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "A great Truckin'->Terrapin Station.",
+      "archive_url": "https://headyversion.com/show/973/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-09-15",
+      "show_id": 1326,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "An oddity. A ballsy Truckin' with full horn section.  Weird fun in its odd way from a forgotten show.",
+      "archive_url": "https://headyversion.com/show/1326/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-06",
+      "show_id": 419,
+      "venue": "Manhattan Center New York, NY",
+      "description": "A fire version!!!!",
+      "archive_url": "https://headyversion.com/show/419/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-07-01",
+      "show_id": 1039,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "...It's the jam truckin- round n rond.  PURE BLISS",
+      "archive_url": "https://headyversion.com/show/1039/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1974-09-14",
+      "show_id": 793,
+      "venue": "Olympiahalle Munich,",
+      "description": "Killer jam out of this Truckin' with a huge peak that gives way to some fast-paced space-jazz from Jerry, and landing on a quick little mellow MLBJ",
+      "archive_url": "https://headyversion.com/show/793/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-17",
+      "show_id": 40,
+      "venue": "Dillon Gym Princeton, NJ",
+      "description": "Openers this good let you know exactly how amazing the show will be. 17.04 isn't just the best Good Lovin' of all time but an all round killer show.",
+      "archive_url": "https://headyversion.com/show/40/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-11-12",
+      "show_id": 1557,
+      "venue": "Soldiers' and Sailors' Memorial Hall Kansas City, KS",
+      "description": "14:54 of pure electric, JERRY's, Bobby's rhythm strokes and Phil's bass bombs! Hot show throughout :)",
+      "archive_url": "https://headyversion.com/show/1557/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-08-26",
+      "show_id": 592,
+      "venue": "Gaelic Park New York, NY",
+      "description": "A+ goddamned good, keeps me bobbing and weaving.  Hard throbbing, and into a killer TOO, too.",
+      "archive_url": "https://headyversion.com/show/592/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-08-18",
+      "show_id": 652,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Acoustic, and first time played. Interesting piano, too.",
+      "archive_url": "https://headyversion.com/show/652/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1981-03-07",
+      "show_id": 730,
+      "venue": "Cole Field House College Park, MD",
+      "description": "From a kind of under the radar show: Truckin out of space winds down into a spacey jam, atypical of the period.",
+      "archive_url": "https://headyversion.com/show/730/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-06-17",
+      "show_id": 136,
+      "venue": "Hollywood Bowl Hollywood, CA",
+      "description": "This one has a great high-energy jam, and of course the Pig factor for the final time ever.",
+      "archive_url": "https://headyversion.com/show/136/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-11-12",
+      "show_id": 1571,
+      "venue": "San Antonio Civic Auditorium San Antonio, TX",
+      "description": "They come charging out of the gate to open a great, maybe underrated Texas tour. Great opener.",
+      "archive_url": "https://headyversion.com/show/1571/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-24",
+      "show_id": 1979,
+      "venue": "Wallace Wade Stadium, Duke University Durham, NC",
+      "description": "Meaty with loads of thumping Phil nice intro",
+      "archive_url": "https://headyversion.com/show/1979/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-05-29",
+      "show_id": 1607,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Phil driven jam a very impressive powerful version",
+      "archive_url": "https://headyversion.com/show/1607/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-08-05",
+      "show_id": 48,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "another solid truckin Jerry just ripping, this is an awesome version.",
+      "archive_url": "https://headyversion.com/show/48/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-07-14",
+      "show_id": 1599,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "Well played standard > Smokestack....(source:CM)",
+      "archive_url": "https://headyversion.com/show/1599/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-01-18",
+      "show_id": 1916,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "No Drums Space this evening the middle of set two we get He's Gone->Truckin'->The Other One instead.",
+      "archive_url": "https://headyversion.com/show/1916/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-10-06",
+      "show_id": 1769,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1769/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-11-25",
+      "show_id": 765,
+      "venue": "Pauly Pavillion Los Angeles, CA",
+      "description": "> out of D/S. Sounds like the hint some towards Stella in Space, and I dug the left turn into Truckin first.",
+      "archive_url": "https://headyversion.com/show/765/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-12-12",
+      "show_id": 1359,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "another great 72 truckin with a hot nobody's fault jam",
+      "archive_url": "https://headyversion.com/show/1359/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-03-23",
+      "show_id": 1262,
+      "venue": "Academy of Music New York, NY",
+      "description": "A good version from a superb show.",
+      "archive_url": "https://headyversion.com/show/1262/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-15",
+      "show_id": 1543,
+      "venue": "Allegheny College Meadville, PA",
+      "description": "Superfine with spicy Jerry fills.",
+      "archive_url": "https://headyversion.com/show/1543/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-01-11",
+      "show_id": 31,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Nice Jerry soloing to lead into TOO.",
+      "archive_url": "https://headyversion.com/show/31/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-05-05",
+      "show_id": 186,
+      "venue": "California State University Dominguez Hills Carson, CA",
+      "description": "This is just a monster version. The boys are finally clickin' on all cylinders on this scorching afternoon. Every member really shines.",
+      "archive_url": "https://headyversion.com/show/186/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-10-30",
+      "show_id": 1672,
+      "venue": "Ford Auditorium Detroit, MI",
+      "description": "Hot steam.  Starting around 5:30 Jerry blisters the world with fire.",
+      "archive_url": "https://headyversion.com/show/1672/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-14",
+      "show_id": 1685,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Solid vocals lead the way.",
+      "archive_url": "https://headyversion.com/show/1685/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-13",
+      "show_id": 1423,
+      "venue": "Catholic Youth Center Scranton, PA",
+      "description": "Hard rocker with Jerry blasting a hail of lead at the crowd.",
+      "archive_url": "https://headyversion.com/show/1423/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1981-10-02",
+      "show_id": 1152,
+      "venue": "Rainbow Theatre London, EN",
+      "description": "Bob sings - ever since she went and her sex change, all her friends can say is ain't it a shame.",
+      "archive_url": "https://headyversion.com/show/1152/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-10-21",
+      "show_id": 397,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "If you like Truckin' from 1971, you will dig this.",
+      "archive_url": "https://headyversion.com/show/397/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-04-16",
+      "show_id": 1316,
+      "venue": "The Mecca Milwaukee, WI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1316/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-28",
+      "show_id": 997,
+      "venue": "Fillmore East New York, NY",
+      "description": "Very nice opener; sustained energy",
+      "archive_url": "https://headyversion.com/show/997/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-06-21",
+      "show_id": 128,
+      "venue": "West High Auditorium Anchorage, AK",
+      "description": "Can't believe this one isn't on here! Jumpin' hot version from the best show of the year.",
+      "archive_url": "https://headyversion.com/show/128/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1974-09-20",
+      "show_id": 718,
+      "venue": "Palais Des Sports Paris,",
+      "description": "Intense version that dissolved nicely into a spacey jam, then space, then Eyes",
+      "archive_url": "https://headyversion.com/show/718/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-09-07",
+      "show_id": 352,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "Strong version. Nice outro jam.",
+      "archive_url": "https://headyversion.com/show/352/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-08-13",
+      "show_id": 477,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "One hell of a heavy hitter! Drops right into a Nobody\u2019s Fault But Mine jam right after the lyrics, and keeps that ante high for the remainder of this",
+      "archive_url": "https://headyversion.com/show/477/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-05-04",
+      "show_id": 1630,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Not the longest version, but hot with some interesting diversions into different territory than a normal Truckin'. Segues effortlessly into Stella",
+      "archive_url": "https://headyversion.com/show/1630/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-08-21",
+      "show_id": 426,
+      "venue": "Autzen Stadium - University of Oregon Eugene, OR",
+      "description": "Particularly passionate vocal work by Bob and the boys. Jamming strong as well. Barn burner status? Possibly.",
+      "archive_url": "https://headyversion.com/show/426/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1972-10-27",
+      "show_id": 1896,
+      "venue": "Veterans' Memorial Hall Columbus, OH",
+      "description": "Part of a great medley:Truckin>01>halfstep>Dew.",
+      "archive_url": "https://headyversion.com/show/1896/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-02-21",
+      "show_id": 458,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/458/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-07-23",
+      "show_id": 377,
+      "venue": "World Music Theatre Tinley Park, IL",
+      "description": "High energy Truckin with a brief instrumental Nobody's Fault jam that segues perfectly into Smokestack to end set 1",
+      "archive_url": "https://headyversion.com/show/377/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-01-24",
+      "show_id": 1580,
+      "venue": "Seattle Center Arena Seattle, WA",
+      "description": "Easily overlooked show - the Truckin' opener is a giant tidal wave red carpet.",
+      "archive_url": "https://headyversion.com/show/1580/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-10-18",
+      "show_id": 1640,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "White hot bluesy jamming with some of the most intense shredding i've heard. Even Vince is great!",
+      "archive_url": "https://headyversion.com/show/1640/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-03-30",
+      "show_id": 1263,
+      "venue": "Rochester Community War Memorial Rochester, NY",
+      "description": "15 min Truckin. Disintegrates into sinister murkiness and then goes into Eyes.",
+      "archive_url": "https://headyversion.com/show/1263/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-09-20",
+      "show_id": 1360,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Short but sweet.",
+      "archive_url": "https://headyversion.com/show/1360/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-08-31",
+      "show_id": 566,
+      "venue": "Silva Hall - Hult Center for the Performing Arts Eugene, OR",
+      "description": "Like the way this one slithers out of space like a snake very creative intro rising from the ashes. Crowd gets involved.",
+      "archive_url": "https://headyversion.com/show/566/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-07-31",
+      "show_id": 216,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "jerry really going for it during the jam before the hes gone",
+      "archive_url": "https://headyversion.com/show/216/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-11-23",
+      "show_id": 533,
+      "venue": "Anderson Theatre New York, NY",
+      "description": "Will Scarlet on harmonica. Great energy and Bobby licks",
+      "archive_url": "https://headyversion.com/show/533/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-08-19",
+      "show_id": 1545,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Acoustic Truckin', with mystery piano player (Maybe Lagin, Nelson or the Loch Ness Monster for all I know - it just sounds great)",
+      "archive_url": "https://headyversion.com/show/1545/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-09-03",
+      "show_id": 999,
+      "venue": "Starlight Theater Kansas City, MO",
+      "description": "Short, but powerful version.  Cool combo of Nobody's>Truckin>Smokestack>Comes a time>LL!",
+      "archive_url": "https://headyversion.com/show/999/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-10-30",
+      "show_id": 1343,
+      "venue": "Taft Auditorium Cincinnati, OH",
+      "description": "Our boys give in to the heckler and rip out a classic Truckin' here.  Great rock and roll here with a punchy, aggressive vibe and great soloing.",
+      "archive_url": "https://headyversion.com/show/1343/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-05-13",
+      "show_id": 488,
+      "venue": "Cumberland County Civic Center Portland, ME",
+      "description": "Starts off slow but then breaks into a Nobody's Fault jam and a great space segment.",
+      "archive_url": "https://headyversion.com/show/488/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-12-12",
+      "show_id": 1856,
+      "venue": "San Diego Sports Arena San Diego, CA",
+      "description": "Anybody else hear a very distinctive riff of Steely Dan's \"Black Friday\" in the intro?",
+      "archive_url": "https://headyversion.com/show/1856/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-03-17",
+      "show_id": 1799,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Long Way to Go Home,Truckin>Spoonful>He'sGone>Drumz>I Need A Miracle>So Many Roads>Sugar Magnolia",
+      "archive_url": "https://headyversion.com/show/1799/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-10",
+      "show_id": 671,
+      "venue": "East Hall, Franklin & Marshall College Lancaster, PA",
+      "description": "Fantastic early run through of this classic",
+      "archive_url": "https://headyversion.com/show/671/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-08-15",
+      "show_id": 1606,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "This is a real heady sequence of Truckin->drums->The Other One->Me & My Uncle->The Other One. POWERFUL",
+      "archive_url": "https://headyversion.com/show/1606/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-10-19",
+      "show_id": 513,
+      "venue": "Northrop Auditorium, U. of Minn. Minneapolis, MN",
+      "description": "Keith Godchaux welcome to the fold. swirling and a standout player from the get go.",
+      "archive_url": "https://headyversion.com/show/513/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-11-11",
+      "show_id": 1702,
+      "venue": "Atlanta Municipal Auditorium Atlanta, GA",
+      "description": "another great 1971 truckin'. a ton of great ones in the 1971-73 period",
+      "archive_url": "https://headyversion.com/show/1702/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-07-14",
+      "show_id": 2005,
+      "venue": "McNichols Sports Arena Denver, CO",
+      "description": "Real heady Truckin'->Eyes->D/S->O1->Wharf Rat. Magical sequence flashing back to 1973",
+      "archive_url": "https://headyversion.com/show/2005/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-12-19",
+      "show_id": 1854,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1854/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1978-01-08",
+      "show_id": 1722,
+      "venue": "Golden Hall, Community Concourse San Diego, CA",
+      "description": "Super ending for the last 2 mins this one just SWINGS HARD.",
+      "archive_url": "https://headyversion.com/show/1722/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-09-30",
+      "show_id": 1112,
+      "venue": "American University Washington, DC",
+      "description": "Another really good one from 1972",
+      "archive_url": "https://headyversion.com/show/1112/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-08-20",
+      "show_id": 2025,
+      "venue": "Park West Ski Resort Park West, UT",
+      "description": "Hot Truckin->Smokestack lightning combination",
+      "archive_url": "https://headyversion.com/show/2025/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-07-06",
+      "show_id": 1735,
+      "venue": "Riverport Amphitheatre Maryland Heights, MO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1735/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-10-02",
+      "show_id": 1727,
+      "venue": "Boston Garden Boston, MA",
+      "description": "High energy 90s version.",
+      "archive_url": "https://headyversion.com/show/1727/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-10-08",
+      "show_id": 1121,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "Ultra cool transition out of space, surprised you 80s heads ain't lovin Richmond 83 more!",
+      "archive_url": "https://headyversion.com/show/1121/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-06-23",
+      "show_id": 637,
+      "venue": "Star Lake Amphitheater Burgettstown, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/637/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-29",
+      "show_id": 2075,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2075/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-05-05",
+      "show_id": 541,
+      "venue": "Glens Falls Civic Center Glens Falls, NY",
+      "description": "The main reasons I mention this version are the return of the Spanish Jam and then Alabama Getaway at the end. Great for 81.",
+      "archive_url": "https://headyversion.com/show/541/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-08-12",
+      "show_id": 823,
+      "venue": "Sacramento Memorial Auditorium Sacramento, CA",
+      "description": "High voltage 18-wheel Truckin'. Mix and sound on this show keep it in the shadow of others this month, but the music is all there.",
+      "archive_url": "https://headyversion.com/show/823/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-14",
+      "show_id": 1006,
+      "venue": "Davis Gym, Bucknell University Lewisburg, PA",
+      "description": "If you dig those 1971 stand-alone Truckin's - you will like this.",
+      "archive_url": "https://headyversion.com/show/1006/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-08",
+      "show_id": 1087,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Solid opener",
+      "archive_url": "https://headyversion.com/show/1087/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-10-17",
+      "show_id": 1593,
+      "venue": "Hippodrome Paris,",
+      "description": "Love it when they start with the whistle. >Birdsong",
+      "archive_url": "https://headyversion.com/show/1593/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-05-15",
+      "show_id": 869,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/869/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-03-20",
+      "show_id": 1597,
+      "venue": "University of Iowa Iowa City, IA",
+      "description": "This version of Truckin' gets all the heavy liftin' done in 8 min",
+      "archive_url": "https://headyversion.com/show/1597/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-09-20",
+      "show_id": 218,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Novelty of being done at MSG aside, this is a great version. Jerry reals get after it in the last minute or so.",
+      "archive_url": "https://headyversion.com/show/218/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-07-31",
+      "show_id": 134,
+      "venue": "Yale Bowl, Yale University New Haven, CT",
+      "description": "Great show-opening Truckin' into the first Sugaree!",
+      "archive_url": "https://headyversion.com/show/134/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-08-04",
+      "show_id": 396,
+      "venue": "Terminal Island Correctional Facility San Pedro, CA",
+      "description": "Show opener that goes some interesting places in the jamming section",
+      "archive_url": "https://headyversion.com/show/396/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-05-25",
+      "show_id": 1826,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "As with the rest of this show, Jerry is inspired. Wish the closing jam could have went on a little longer...",
+      "archive_url": "https://headyversion.com/show/1826/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-10-21",
+      "show_id": 1294,
+      "venue": "Vanderbilt University Nashville, TN",
+      "description": "This has a fantastic outro with lots of Phil (who soon takes over the mix in TOO)",
+      "archive_url": "https://headyversion.com/show/1294/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-09-20",
+      "show_id": 1328,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Solid tight version with a great NBF jam leading into eyes.",
+      "archive_url": "https://headyversion.com/show/1328/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-09-15",
+      "show_id": 152,
+      "venue": "Devore Field Chula Vista, CA",
+      "description": "Comes out of the best \"She Belongs to Me.\" Almost begins like \"Eyes.\" Rip-roarin' full of energy!",
+      "archive_url": "https://headyversion.com/show/152/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-07-08",
+      "show_id": 1270,
+      "venue": "Roanoke Civic Center Roanoke, VA",
+      "description": "Excellent, hard-charging version from arguably the best show of 87. Bobby stuttering all over the verses",
+      "archive_url": "https://headyversion.com/show/1270/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-04-02",
+      "show_id": 1591,
+      "venue": "Cameron Indoor Stadium, Duke U Durham, NC",
+      "description": "Nicely jammed into from He's Gone, awesome Bobby, Jerry and Brent scat on the outro and high energy",
+      "archive_url": "https://headyversion.com/show/1591/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-04-09",
+      "show_id": 669,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Great \u201883 Truckin\u2019.  Spoonful and Smokestack jams at the end..",
+      "archive_url": "https://headyversion.com/show/669/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-04-15",
+      "show_id": 1901,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "Mini MLB jam at the end leading into Morning Dew",
+      "archive_url": "https://headyversion.com/show/1901/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1986-06-22",
+      "show_id": 939,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "Comin' deep outta space to rise up in Berkley",
+      "archive_url": "https://headyversion.com/show/939/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-12-30",
+      "show_id": 1336,
+      "venue": "Civic Auditorium San Francisco, CA",
+      "description": "On the heels of a sweet MLB jam - Bobby blows some lyrics but the playing is where it's at - dissolves into a nice Wharf Rat",
+      "archive_url": "https://headyversion.com/show/1336/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-07-21",
+      "show_id": 1411,
+      "venue": "Paramount Northwest Theater Seattle, WA",
+      "description": "Bill is pounding and up front in the mix. Around the 3 min mark guitars drop out so its just Bob and drums for that section of the verse",
+      "archive_url": "https://headyversion.com/show/1411/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-17",
+      "show_id": 616,
+      "venue": "Capital Centre Landover, MD",
+      "description": "A perfect transition into speedway",
+      "archive_url": "https://headyversion.com/show/616/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-02-24",
+      "show_id": 503,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Kicks off a blistering finale of NFA-GDTRFB-NFA-Lovelight!",
+      "archive_url": "https://headyversion.com/show/503/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-03-24",
+      "show_id": 667,
+      "venue": "Omni Coliseum Atlanta, GA",
+      "description": "I melted together with my partner on this one.  Beautiful transition out of Space.",
+      "archive_url": "https://headyversion.com/show/667/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-09-27",
+      "show_id": 1505,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Worth it to hear what Bobby does to sweet Jane... you'll know it when you hear it. Worth a giggle.",
+      "archive_url": "https://headyversion.com/show/1505/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-04-30",
+      "show_id": 1587,
+      "venue": "Greensboro Coliseum Greensboro, NC",
+      "description": "DOuble run through of the sweet jane section, first she was living on reds vitamin c and cocaine, the second time she went and had herself a sexchange",
+      "archive_url": "https://headyversion.com/show/1587/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-06-25",
+      "show_id": 233,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/233/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-10-23",
+      "show_id": 1426,
+      "venue": "Easttown Theatre Detroit, MI",
+      "description": "Great countryish swing to this jamming truckin', wickedly good.",
+      "archive_url": "https://headyversion.com/show/1426/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-10-24",
+      "show_id": 1134,
+      "venue": "Easttown Theatre Detroit, MI",
+      "description": "Nice set two opener interesting jammy c&w feel",
+      "archive_url": "https://headyversion.com/show/1134/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-12-28",
+      "show_id": 127,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "Tight simmering burner here, with nice Bobby/Jerry mix levels. Pig on organ is a little lost, so try headphones for some fun.",
+      "archive_url": "https://headyversion.com/show/127/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-03-14",
+      "show_id": 1224,
+      "venue": "Camp Randall Field House Madison, WI",
+      "description": "Opening track to great '71 show",
+      "archive_url": "https://headyversion.com/show/1224/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-07-13",
+      "show_id": 1498,
+      "venue": "Franklin County Airport Highgate, VT",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1498/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1972-07-22",
+      "show_id": 1407,
+      "venue": "Paramount Northwest Theatre Seattle, WA",
+      "description": "Slow star builds up huge head of steam and a slamin' jam. Ends funny, unsure whether >He's Gone or something else. Nice version, overlooked show.",
+      "archive_url": "https://headyversion.com/show/1407/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-12-07",
+      "show_id": 1144,
+      "venue": "Des Moines Civic Center Des Moines, IA",
+      "description": "Whistle opening",
+      "archive_url": "https://headyversion.com/show/1144/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-06-23",
+      "show_id": 1867,
+      "venue": "City Island Harrisburg, PA",
+      "description": "with spoonful jam",
+      "archive_url": "https://headyversion.com/show/1867/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-09-24",
+      "show_id": 1590,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "Bob sings - Took all those drugs and had her head rearranged.",
+      "archive_url": "https://headyversion.com/show/1590/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-10-29",
+      "show_id": 1696,
+      "venue": "Allen Theatre Cleveland, OH",
+      "description": "A rollicking good time.",
+      "archive_url": "https://headyversion.com/show/1696/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-01-21",
+      "show_id": 2094,
+      "venue": "Freeborn Hall, University of California Davis, CA",
+      "description": "Great transition from Smokestack/ harmonica works well",
+      "archive_url": "https://headyversion.com/show/2094/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-09-16",
+      "show_id": 1693,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Livin on reds, crack, and cocaine! Rip roaring version",
+      "archive_url": "https://headyversion.com/show/1693/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-03-24",
+      "show_id": 596,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Crisp, clean and energetic. Bobby's guitar is up in the mix, and it was about 8 months before Keith's piano would step on his complex rythm work!",
+      "archive_url": "https://headyversion.com/show/596/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-06",
+      "show_id": 670,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "A forgtten Truckin, possibly my favorite.",
+      "archive_url": "https://headyversion.com/show/670/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-05-20",
+      "show_id": 1481,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Everyone's firing on all cylinders",
+      "archive_url": "https://headyversion.com/show/1481/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1973-09-26",
+      "show_id": 1213,
+      "venue": "War Memorial Buffalo, NY",
+      "description": "This is a top Truckin...no, no horns",
+      "archive_url": "https://headyversion.com/show/1213/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-07-07",
+      "show_id": 1298,
+      "venue": "Kansas City Municipal Auditorium Arena Kansas City, MO",
+      "description": "Give the early 80s some more love",
+      "archive_url": "https://headyversion.com/show/1298/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-08-28",
+      "show_id": 1715,
+      "venue": "Autzen Stadium Eugene , OR",
+      "description": "Picks up and Jerry turns into a ripper. Don't sleep on this song/show. Jams nicely into Terrapin",
+      "archive_url": "https://headyversion.com/show/1715/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-05",
+      "show_id": 1218,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Primordial & Seminal",
+      "archive_url": "https://headyversion.com/show/1218/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-12-19",
+      "show_id": 1197,
+      "venue": "State Fairgrounds Coliseum Jackson, MS",
+      "description": "Really nice breakdowns here, JERRY TAKES THE TRUCK TO SPACE!",
+      "archive_url": "https://headyversion.com/show/1197/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-04-12",
+      "show_id": 1604,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Bar band jammin extra Jerry fills - we are all on the highway scraping metal with the big rigs here... hmmm .",
+      "archive_url": "https://headyversion.com/show/1604/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1977-09-29",
+      "show_id": 1249,
+      "venue": "Paramount Theatre Seattle, WA",
+      "description": "Slow to get going, not error free, but once they get that momentum going it's worth the mention. At least listen from 7:30 on to give it a chance.",
+      "archive_url": "https://headyversion.com/show/1249/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-04-05",
+      "show_id": 1014,
+      "venue": "Jefferson Civic Center Coliseum Birmingham, AL",
+      "description": "MAJOR PHIL VOCALS HERE",
+      "archive_url": "https://headyversion.com/show/1014/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1973-07-31",
+      "show_id": 1311,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "How is this one not on here? Unreal peak and amazing jam led by Billy and Phil.",
+      "archive_url": "https://headyversion.com/show/1311/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-06-27",
+      "show_id": 941,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/941/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-03-22",
+      "show_id": 1923,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "bobby puts his hand over his forehead as if looking out on a bright day on \"other times i can barely see\"",
+      "archive_url": "https://headyversion.com/show/1923/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-03-28",
+      "show_id": 95,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Spectacularly drunken entrance to this lean mean blue hot 93 Truckin with plenty of chonky chaw! Five alarm version, stellar concert.",
+      "archive_url": "https://headyversion.com/show/95/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-07-06",
+      "show_id": 440,
+      "venue": "Cardinal Stadium Louisville, KY",
+      "description": "Very energetic!",
+      "archive_url": "https://headyversion.com/show/440/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-04-23",
+      "show_id": 1101,
+      "venue": "Veterans' Memorial Coliseum New Haven, CT",
+      "description": "Excellent generously stately and tumultuous intro. Laid back. Nice melt to black peter.",
+      "archive_url": "https://headyversion.com/show/1101/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-04-08",
+      "show_id": 1330,
+      "venue": "Orlando Arena Orlando, FL",
+      "description": "Boomin!!!! Long and awesome phil led post jam!!!!",
+      "archive_url": "https://headyversion.com/show/1330/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-31",
+      "show_id": 126,
+      "venue": "Wembley Arena London,",
+      "description": "bushel of fun, layers of chaw, totally barrelhouse!!! volcanic seven piece..",
+      "archive_url": "https://headyversion.com/show/126/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-09-17",
+      "show_id": 431,
+      "venue": "Fillmore East New York, NY",
+      "description": "Acoustic. Truckin. So damn clean",
+      "archive_url": "https://headyversion.com/show/431/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-08-16",
+      "show_id": 292,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Wow. 20 minutes. Out of the Victim->Scarlet->Fire trio, really hot version with a great jam.",
+      "archive_url": "https://headyversion.com/show/292/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-07-04",
+      "show_id": 1862,
+      "venue": "Five Seasons Center Cedar Rapids , IA",
+      "description": "https://www.youtube.com/watch?v=XVZi-YuOuug Fresh Tobin camcorder master, long jam intro, goopy chopsfest, quite involved",
+      "archive_url": "https://headyversion.com/show/1862/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-17",
+      "show_id": 1695,
+      "venue": "Grugahalle Essen,",
+      "description": "I really dig Hornsby era performances of this classic tune.",
+      "archive_url": "https://headyversion.com/show/1695/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-11-10",
+      "show_id": 732,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Top-shelf intro, jerry flying across the fretboard in fits of rage, Weir pillows, wharf fakeout and a blue hot Truckin' to follow. phil/bren intensity",
+      "archive_url": "https://headyversion.com/show/732/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-04-05",
+      "show_id": 992,
+      "venue": "Manhattan Center New York, NY",
+      "description": "The fuzz is turned up and the boys are ready to launch",
+      "archive_url": "https://headyversion.com/show/992/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-09-12",
+      "show_id": 720,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Bobby on fire",
+      "archive_url": "https://headyversion.com/show/720/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-09-13",
+      "show_id": 1906,
+      "venue": "Manor Downs Austin, TX",
+      "description": "Part of a stellar run that kicks off set two follows the fantastic scarlet fire opener. Keeps up the hot pace for the evening good interplay in Texas",
+      "archive_url": "https://headyversion.com/show/1906/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-08-31",
+      "show_id": 1963,
+      "venue": "Capitol Center Landover, MD",
+      "description": "Powerful ending with Phil thumping away high on the fretboard. > Drums.",
+      "archive_url": "https://headyversion.com/show/1963/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-10-02",
+      "show_id": 962,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Living On Crack, Vitamin C And Cocaine. Jams into Drums. Another great show at Shoreline.",
+      "archive_url": "https://headyversion.com/show/962/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-10-20",
+      "show_id": 161,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Made special by the 15 minute jam that follows. This is the longest version of the song with Brent that I can find, adding to this already unique show",
+      "archive_url": "https://headyversion.com/show/161/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-09-29",
+      "show_id": 1774,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Long haul jam here. Great tone, Jerry's got it totally busted with overdrive, and Bob is clean as a whistle. Excellent transition into Wharf Rat",
+      "archive_url": "https://headyversion.com/show/1774/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-10-28",
+      "show_id": 884,
+      "venue": "Fox Theater Atlanta, GA",
+      "description": "Another great performance from a seriously neglected show, tight Dead w/incredible sound, great Weir vox and awesome Jerry guitar, strong all the way",
+      "archive_url": "https://headyversion.com/show/884/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-11-04",
+      "show_id": 1387,
+      "venue": "The Centrum Worcester, MA",
+      "description": "rocks from out the blocks, underrated song from an underrated show",
+      "archive_url": "https://headyversion.com/show/1387/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-03-03",
+      "show_id": 2130,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Some mixing issues in the beginning, but once you get past that you're treated to a raunchy, jangly, and highly electric Truckin' full of swagger.",
+      "archive_url": "https://headyversion.com/show/2130/archive/"
+    }
+  ]
+}

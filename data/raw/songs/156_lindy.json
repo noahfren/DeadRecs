@@ -1,0 +1,38 @@
+{
+  "song_id": 156,
+  "name": "Lindy",
+  "performances": [
+    {
+      "votes": 3,
+      "date": "1966-09-16",
+      "show_id": 109,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "More of a raw version, but it still has all those good ol' stompin' elements.",
+      "archive_url": "https://headyversion.com/show/109/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1966-12-01",
+      "show_id": 958,
+      "venue": "Studio demo San Francisco, CA",
+      "description": "Vintage Grateful Dead Blues, Killer version of the rarely played little gem Jerry is sparkling",
+      "archive_url": "https://headyversion.com/show/958/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1966-11-29",
+      "show_id": 830,
+      "venue": "The Matrix San Francisco,, CA",
+      "description": "A fantastic version... Jerry's voice is young and bluesy, Bob contributes some mighty fine vocals, Jerry's rootsy solos... but Pig's harp? BLUES, BABY",
+      "archive_url": "https://headyversion.com/show/830/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1967-02-02",
+      "show_id": 1066,
+      "venue": "RCA Victor Studio A Hollywood, CA",
+      "description": "Studio Outtake. From The Golden Road",
+      "archive_url": "https://headyversion.com/show/1066/archive/"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "song_id": 352,
+  "name": "Cryptical Envelopment",
+  "performances": [
+    {
+      "votes": 55,
+      "date": "1970-05-02",
+      "show_id": 27,
+      "venue": "Harpur College Binghamton, NY",
+      "description": "The Cryptical Reprise is a beast, this whole show could be nominated, Dick\u2019s Picks Vol. 8, listen again and vote.",
+      "archive_url": "https://headyversion.com/show/27/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1970-02-13",
+      "show_id": 595,
+      "venue": "Fillmore East New York City, NY",
+      "description": "The Cryptical Reprise is absolutely stunning, and again this whole show could be nominated, Dick\u2019s Picks Vol. 4, listen again and vote.",
+      "archive_url": "https://headyversion.com/show/595/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1969-02-28",
+      "show_id": 686,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Acid drenched goodness",
+      "archive_url": "https://headyversion.com/show/686/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1969-02-22",
+      "show_id": 412,
+      "venue": "Dream Bowl Vallejo, CA",
+      "description": "Pretty amazed that ANY post 69 Crypticals would be on the list but nothing from the 60s?Like most versions this may induce flashbacks so procede with",
+      "archive_url": "https://headyversion.com/show/412/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1969-03-02",
+      "show_id": 838,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Without question, the best Crypt reprise ever performed. This one reaches the limits of space and time.",
+      "archive_url": "https://headyversion.com/show/838/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1968-10-12",
+      "show_id": 106,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "How is this not here??? Classic reprise.",
+      "archive_url": "https://headyversion.com/show/106/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1968-08-24",
+      "show_id": 666,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "This is the 2 From the Vault version I grew up with. The tight, crisp first half leads to an explosive psychedelic algae bloom in the 2nd. EPIC!",
+      "archive_url": "https://headyversion.com/show/666/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1970-04-15",
+      "show_id": 593,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Killer version with a great latin jam after the drums, and the reprise goes into dire wolf.",
+      "archive_url": "https://headyversion.com/show/593/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1968-08-23",
+      "show_id": 38,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Show a little love for this cryptical reprise",
+      "archive_url": "https://headyversion.com/show/38/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1969-02-27",
+      "show_id": 288,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "A particularly jazzy version; Jerry is ablaze and climbing to enormous heights.",
+      "archive_url": "https://headyversion.com/show/288/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1969-03-01",
+      "show_id": 81,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Fillmore West -- best of the 4 night run!!!",
+      "archive_url": "https://headyversion.com/show/81/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1968-02-14",
+      "show_id": 84,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Great version! The second half has some amazing organ work.",
+      "archive_url": "https://headyversion.com/show/84/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1970-06-07",
+      "show_id": 738,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "10 minute Cryptical reprise that gives way to drums and Main Ten. Special guest moaning person (?)",
+      "archive_url": "https://headyversion.com/show/738/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1969-02-07",
+      "show_id": 603,
+      "venue": "Stanley Theater Pittsburgh, PA",
+      "description": "An absolute tsunami, one of the most intense ever this side of 3/2/69",
+      "archive_url": "https://headyversion.com/show/603/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1969-02-11",
+      "show_id": 864,
+      "venue": "Fillmore East New York,",
+      "description": "The ending jam or reprise jam is excellent and smokes like all the good ones do!",
+      "archive_url": "https://headyversion.com/show/864/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1969-04-22",
+      "show_id": 680,
+      "venue": "The Ark Boston, MA",
+      "description": "They nail this beast all three nights at the Ark",
+      "archive_url": "https://headyversion.com/show/680/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1967-11-10",
+      "show_id": 679,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Early one.  Jerry gets right into it.  Excellent organ and really a monster version!",
+      "archive_url": "https://headyversion.com/show/679/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-06-05",
+      "show_id": 878,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Monster reprise, one of the longest and best ever.",
+      "archive_url": "https://headyversion.com/show/878/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1967-10-22",
+      "show_id": 526,
+      "venue": "Unknown Los Angeles, CA",
+      "description": "Monster reprise, longer than many from '68.",
+      "archive_url": "https://headyversion.com/show/526/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1985-06-30",
+      "show_id": 247,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/247/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1985-06-16",
+      "show_id": 117,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "The \u2018Bust Out\u201d version from the Greek, still remember someone throwing a huge basket full of rose pedals in the air when Jerry hit the first notes.",
+      "archive_url": "https://headyversion.com/show/117/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1969-03-28",
+      "show_id": 588,
+      "venue": "Student Center Modesto, CA",
+      "description": "Psychedelic masterpiece, the reprise is chilling, tremendous A+ performance",
+      "archive_url": "https://headyversion.com/show/588/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-06-24",
+      "show_id": 194,
+      "venue": "River Bend Music Center Cincinnati, OH",
+      "description": "Great Show, 2nd \u201cCryptical Envelopment\u201d in 13-years, Jerry\u2019s voice is not in the best shape, but well worth a listen.",
+      "archive_url": "https://headyversion.com/show/194/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1967-11-11",
+      "show_id": 465,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Any question's about primal Dead?  Answer's right here in the outro of this psychedelic monster.  A really hard core brainmelter, this.",
+      "archive_url": "https://headyversion.com/show/465/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-08-23",
+      "show_id": 1172,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "The vital cryptical reprise that climaxes like all the best crypticals do.  Is it 2/13/70 or 5/2/70???  No, but its damn good.",
+      "archive_url": "https://headyversion.com/show/1172/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1968-10-13",
+      "show_id": 141,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "From a painful whisper to pure lightening, an enveloping force of nature",
+      "archive_url": "https://headyversion.com/show/141/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-01-23",
+      "show_id": 394,
+      "venue": "Honolulu Civic Auditorium Honolulu, HI",
+      "description": "A different chill kinda Hawaii Cryptical...cool version with some heat at the end...not 2/13, tho!",
+      "archive_url": "https://headyversion.com/show/394/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-05-29",
+      "show_id": 1514,
+      "venue": "Robertson Gym, U.C.S.B. Santa Barbara, CA",
+      "description": "would love a crystal clear board of this show Very hot and psychedelic. The reprise is very hot",
+      "archive_url": "https://headyversion.com/show/1514/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-04-03",
+      "show_id": 811,
+      "venue": "Field House, U. of Cincinnati Cincinnati, OH",
+      "description": "Nice patient build-up prior to classic Cryptical explosion!",
+      "archive_url": "https://headyversion.com/show/811/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-06-05",
+      "show_id": 748,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Wonderful psychedelic journey, fantastic look at 1970 transitional dead. Great stuff",
+      "archive_url": "https://headyversion.com/show/748/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-01-26",
+      "show_id": 1068,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Stunning reprise, this one just keeps building endlessly!",
+      "archive_url": "https://headyversion.com/show/1068/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-09-03",
+      "show_id": 999,
+      "venue": "Starlight Theater Kansas City, MO",
+      "description": "Really, none of these '85 versions are all that great (except as novelties), but this one is probably the strongest.  JG gets all the words right!",
+      "archive_url": "https://headyversion.com/show/999/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-02-02",
+      "show_id": 840,
+      "venue": "Labor Temple Minneapolis, MN",
+      "description": "Another stellar 1969 Cryptical",
+      "archive_url": "https://headyversion.com/show/840/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-04-21",
+      "show_id": 560,
+      "venue": "The Ark Boston, MA",
+      "description": "Arguably the best reprise there is",
+      "archive_url": "https://headyversion.com/show/560/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-04-09",
+      "show_id": 1216,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Another classic from a year of Epic Crypticals!",
+      "archive_url": "https://headyversion.com/show/1216/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1968-09-02",
+      "show_id": 831,
+      "venue": "Betty Nelson's Organic Raspberry Farm Sultan, WA",
+      "description": "Just some smashmouth jammin'",
+      "archive_url": "https://headyversion.com/show/831/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-11-17",
+      "show_id": 1542,
+      "venue": "Albuquerque Civic Auditorium Albuquerque, NM",
+      "description": "Drop dead gorgeous, lithe, and restaurant quality perfect.",
+      "archive_url": "https://headyversion.com/show/1542/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-04-06",
+      "show_id": 867,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Can't just have The Other One listed for 69.  Cryptical Envelopment matters, people!",
+      "archive_url": "https://headyversion.com/show/867/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-01-24",
+      "show_id": 1069,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "nice show opening that's it for the other one",
+      "archive_url": "https://headyversion.com/show/1069/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-12-19",
+      "show_id": 950,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Another wonderful psychedelic nugget with Jerry fully dominating the exit jam",
+      "archive_url": "https://headyversion.com/show/950/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-01-02",
+      "show_id": 415,
+      "venue": "Fillmore East (Late Show) New York City, NY",
+      "description": "Fantastic tempo shifting beast, Billy and Mickey sound possessed",
+      "archive_url": "https://headyversion.com/show/415/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-07-02",
+      "show_id": 1088,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "wonderful psychedelic beauty, dripping in tons of acidic beauty",
+      "archive_url": "https://headyversion.com/show/1088/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-11-12",
+      "show_id": 1571,
+      "venue": "San Antonio Civic Auditorium San Antonio, TX",
+      "description": "another fantastic cryptical love this gem",
+      "archive_url": "https://headyversion.com/show/1571/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-05-01",
+      "show_id": 729,
+      "venue": "Alfred College Alfred, NY",
+      "description": "Excellent build-up and then bring it back down for the vocalsand then the bomb goes off!",
+      "archive_url": "https://headyversion.com/show/729/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-04-26",
+      "show_id": 990,
+      "venue": "The Electric Theatre Chicago, IL",
+      "description": "Huge oversight here?  This is a Cryptical to measure other Crypticals by.",
+      "archive_url": "https://headyversion.com/show/990/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-04-23",
+      "show_id": 389,
+      "venue": "The Ark Boston, MA",
+      "description": "One of the bluesiest, most mystical versions of this classic jam. Not to be missed.",
+      "archive_url": "https://headyversion.com/show/389/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1968-12-29",
+      "show_id": 402,
+      "venue": "Gulfstream Park Race Track Hallandale, FL",
+      "description": "Peaks and melts in all kinds of directions",
+      "archive_url": "https://headyversion.com/show/402/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-01-30",
+      "show_id": 1721,
+      "venue": "The Warehouse New Orleans, LA",
+      "description": "The intro isn't much, but the outro just swells up and hits you in the head like a bag of hammers.  Explosive power.  Outrageous.",
+      "archive_url": "https://headyversion.com/show/1721/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-09-23",
+      "show_id": 270,
+      "venue": "Palace Theater Waterbury, CT",
+      "description": "A rare treat for 1972 a Cryptical introduction to the Other one.",
+      "archive_url": "https://headyversion.com/show/270/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-01-03",
+      "show_id": 122,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Fantastic trippy heady  dripping in acid psychedelic wonder",
+      "archive_url": "https://headyversion.com/show/122/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-10-19",
+      "show_id": 513,
+      "venue": "Northrop Auditorium, U. of Minn. Minneapolis, MN",
+      "description": "wonderful heady version of this wonderful trip through psychedelia",
+      "archive_url": "https://headyversion.com/show/513/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-10-29",
+      "show_id": 1696,
+      "venue": "Allen Theatre Cleveland, OH",
+      "description": "Wonderful, love this gem slides nicely into a billy k drum solo and the reprise swiftly moves into a hot deal",
+      "archive_url": "https://headyversion.com/show/1696/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-04-18",
+      "show_id": 948,
+      "venue": "Purdue University Layfayette, IN",
+      "description": "Jer's a mad scientist - alchemist to be more precise.",
+      "archive_url": "https://headyversion.com/show/948/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1968-05-03",
+      "show_id": 2071,
+      "venue": "Columbia University NYC, NY",
+      "description": "Cryptical at Low Library Venue, Columbia University",
+      "archive_url": "https://headyversion.com/show/2071/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-04-05",
+      "show_id": 1126,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Crazy guitar effects after 4:15",
+      "archive_url": "https://headyversion.com/show/1126/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-10-31",
+      "show_id": 2067,
+      "venue": "San Jose state university  San jose,",
+      "description": "Spooky good cryptical reprise on Halloween \u201869",
+      "archive_url": "https://headyversion.com/show/2067/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-11-01",
+      "show_id": 841,
+      "venue": "Silver Dollar Fair Chico, CA",
+      "description": "next best to 5/2/70, so fine",
+      "archive_url": "https://headyversion.com/show/841/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-02-14",
+      "show_id": 1527,
+      "venue": "Electric Factory Philadelphia, PA",
+      "description": "The reprise is breathtaking, fantastic version, what a month of shows february 1969 produced.",
+      "archive_url": "https://headyversion.com/show/1527/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-05-03",
+      "show_id": 120,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Another hot 1969 cryptical, amazing psychedelic stuff",
+      "archive_url": "https://headyversion.com/show/120/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-05-31",
+      "show_id": 847,
+      "venue": "McArthur Court, University of Oregon Eugene, OR",
+      "description": "another breath taking cryptical envelopment",
+      "archive_url": "https://headyversion.com/show/847/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-07-13",
+      "show_id": 814,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "Cool treat",
+      "archive_url": "https://headyversion.com/show/814/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-02-15",
+      "show_id": 388,
+      "venue": "Electric Factory Philadelphia, PA",
+      "description": "Dive down the rabbit hole......",
+      "archive_url": "https://headyversion.com/show/388/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-02-02",
+      "show_id": 868,
+      "venue": "Crystal Ballroom Portland, OR",
+      "description": "Early powerful swinging take here",
+      "archive_url": "https://headyversion.com/show/868/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-03-01",
+      "show_id": 1603,
+      "venue": "Fillmore East New York, NY",
+      "description": "Fantastic acid soaked cryptical at the Family Dog.",
+      "archive_url": "https://headyversion.com/show/1603/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-01-17",
+      "show_id": 1201,
+      "venue": "Civic Auditorium Santa Barbara, CA",
+      "description": "Wonderful Psychedelic nugget",
+      "archive_url": "https://headyversion.com/show/1201/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-04-12",
+      "show_id": 1233,
+      "venue": "Student Union Ballroom, U. Utah Salt Lake City, UT",
+      "description": "Rabbit punches to your face.... not there, right here.",
+      "archive_url": "https://headyversion.com/show/1233/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-06-21",
+      "show_id": 512,
+      "venue": "Chateau d'Herouville Herouville,",
+      "description": "This RIPS nicely but then I love all these... One drummer combo.",
+      "archive_url": "https://headyversion.com/show/512/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1967-10-31",
+      "show_id": 2033,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Halloween juicy exit jam",
+      "archive_url": "https://headyversion.com/show/2033/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-12-14",
+      "show_id": 1095,
+      "venue": "Hill Auditorium Ann Arbor, MI",
+      "description": "Great CE>drums>TOO from a superb show in a great run",
+      "archive_url": "https://headyversion.com/show/1095/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-08-21",
+      "show_id": 885,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Every fifth note is a tracer or something like that.",
+      "archive_url": "https://headyversion.com/show/885/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-12-28",
+      "show_id": 127,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "An overlooked joy. A really well performed CE>Drums>TOO> CE reprise",
+      "archive_url": "https://headyversion.com/show/127/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-12-05",
+      "show_id": 2102,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "beautifully played start to finish, interesting jam in the reprise",
+      "archive_url": "https://headyversion.com/show/2102/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-12-01",
+      "show_id": 104,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Really grooving and tight intro; and reprise has WRS Prelude tease. Return of Pigpen this show!",
+      "archive_url": "https://headyversion.com/show/104/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-02-06",
+      "show_id": 1521,
+      "venue": "Kiel Auditorium St. Louis, MO",
+      "description": "Hot version! Not quite as epic as the night after, but still incredible.",
+      "archive_url": "https://headyversion.com/show/1521/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-06-12",
+      "show_id": 1642,
+      "venue": "Civic Auditorium Honolulu, HI",
+      "description": "Drop everything and go to tapers section now and listen!.  The 01 is an instant classic and this Cryptical has that classic 1970 build-up.",
+      "archive_url": "https://headyversion.com/show/1642/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-01-17",
+      "show_id": 520,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Intense psychedelic primal dead, typical short 1968 intro nice jam on the reprise",
+      "archive_url": "https://headyversion.com/show/520/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-03-16",
+      "show_id": 1228,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Heady primal dead, nice quality show on archive",
+      "archive_url": "https://headyversion.com/show/1228/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-09-18",
+      "show_id": 1050,
+      "venue": "Fillmore East New York, NY",
+      "description": "Very hot version sweet show",
+      "archive_url": "https://headyversion.com/show/1050/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-01-23",
+      "show_id": 727,
+      "venue": "Eagles Auditorium Seattle, WA",
+      "description": "Cryptical>The Other One>Cryp with alternate lyrics early lysergic jammin here",
+      "archive_url": "https://headyversion.com/show/727/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-05-24",
+      "show_id": 1125,
+      "venue": "Hollywood Music Festival Newcastle-Under-Lyme, EN",
+      "description": "Fantastic trippy acid drenched psychedelic beauty. This is fantastic heady trippy stuff.",
+      "archive_url": "https://headyversion.com/show/1125/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-12-14",
+      "show_id": 1095,
+      "venue": "Hill Auditorium Ann Arbor, MI",
+      "description": "Great CE>drums>TOO from a superb show in a great run",
+      "archive_url": "https://headyversion.com/show/1095/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-07-10",
+      "show_id": 1697,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Shortest Cryptical they ever played. One minute and 9 seconds (and without the intro)",
+      "archive_url": "https://headyversion.com/show/1697/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-04-14",
+      "show_id": 1006,
+      "venue": "Davis Gym, Bucknell University Lewisburg, PA",
+      "description": "Creeptical.",
+      "archive_url": "https://headyversion.com/show/1006/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-12-07",
+      "show_id": 954,
+      "venue": "Bellarmine College Louisville, KY",
+      "description": "Jam this (& the Killer TOO) thru your headphones on your dune buggy ride on the Dark Side of the moon.",
+      "archive_url": "https://headyversion.com/show/954/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-03-29",
+      "show_id": 286,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Great Reprise",
+      "archive_url": "https://headyversion.com/show/286/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-03-30",
+      "show_id": 1364,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "sweet short and trippy",
+      "archive_url": "https://headyversion.com/show/1364/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-12-31",
+      "show_id": 62,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "my sister in laws first show, really a heady version of cryptical the whole suite is sick",
+      "archive_url": "https://headyversion.com/show/62/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-21",
+      "show_id": 1978,
+      "venue": "Sargent Gym, Boston University Boston, MA",
+      "description": "Hot psychedelic beauty",
+      "archive_url": "https://headyversion.com/show/1978/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-04-11",
+      "show_id": 1984,
+      "venue": "University Auditorium, University of Arizona Tucson, AZ",
+      "description": "Macho Scale Surfing Aqui.",
+      "archive_url": "https://headyversion.com/show/1984/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-04-15",
+      "show_id": 1491,
+      "venue": "The Music Box Omaha, Nb",
+      "description": "After a punishing TOO this CE reprise screams echoes from some ancient ruins.",
+      "archive_url": "https://headyversion.com/show/1491/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-30",
+      "show_id": 413,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "Jerry gives the 1-2-3-4 countdown.",
+      "archive_url": "https://headyversion.com/show/413/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-02-04",
+      "show_id": 866,
+      "venue": "The Music Box Omaha, NE",
+      "description": "Classic 69' - followed by The Other One, Alligator, Drums and Caution.",
+      "archive_url": "https://headyversion.com/show/866/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-02-20",
+      "show_id": 88,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "A well delivered Cryptical opening a psyhadelic flood gate for a very strong single kit drums and an adventurious Other One.",
+      "archive_url": "https://headyversion.com/show/88/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-08-22",
+      "show_id": 856,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Energized, Phil drivin Cryptical, longer then its song mate tO1.",
+      "archive_url": "https://headyversion.com/show/856/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-08-29",
+      "show_id": 1206,
+      "venue": "The Matrix San Francisco,",
+      "description": "Not as great as other's from '68 but it builds into a ripping Other One",
+      "archive_url": "https://headyversion.com/show/1206/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-03-17",
+      "show_id": 927,
+      "venue": "Carousel Ballroom   San Francisco, CA",
+      "description": "While not listed on DS6 its most definitely part of the o1 jam",
+      "archive_url": "https://headyversion.com/show/927/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-04-17",
+      "show_id": 909,
+      "venue": "Washington U.  St. Louis, MO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/909/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-02-19",
+      "show_id": 137,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/137/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-10-22",
+      "show_id": 1332,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "One of the first with Keith",
+      "archive_url": "https://headyversion.com/show/1332/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-02-24",
+      "show_id": 917,
+      "venue": "Kings Beach Bowl Lake Tahoe , CA",
+      "description": "Short but Pig and Jerry do some cool things at times",
+      "archive_url": "https://headyversion.com/show/917/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-02-05",
+      "show_id": 837,
+      "venue": "Soldiers & Sailors Memorial Auditorium Kansas City, KS",
+      "description": "Reprise is blistering 69 drenched machete wielding Garcia samurai packed action",
+      "archive_url": "https://headyversion.com/show/837/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-11",
+      "show_id": 1977,
+      "venue": "49th Street Rock Palace Brooklyn, NY",
+      "description": "As Jerry shouts, \u201cYou know he had to die.\u201d BANG! A massive gunshot right on rhythm. Great reprise with great drum work from Billy and Mickey.",
+      "archive_url": "https://headyversion.com/show/1977/archive/"
+    }
+  ]
+}

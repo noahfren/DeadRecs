@@ -1,0 +1,54 @@
+{
+  "song_id": 155,
+  "name": "Let Me Sing Your Blues Away",
+  "performances": [
+    {
+      "votes": 14,
+      "date": "1973-09-08",
+      "show_id": 804,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Debut of the Keith on lead vocals tune from Wake of the flood",
+      "archive_url": "https://headyversion.com/show/804/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-09-11",
+      "show_id": 844,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "Maybe the only version of this song I like!",
+      "archive_url": "https://headyversion.com/show/844/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-09-15",
+      "show_id": 1326,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "fantastic version came wonderfully out of a glistening eyes of the world",
+      "archive_url": "https://headyversion.com/show/1326/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1973-09-17",
+      "show_id": 757,
+      "venue": "Onondaga County War Memorial Syracuse, NY",
+      "description": "only played 6 times all within a 13 day stretch.",
+      "archive_url": "https://headyversion.com/show/757/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1973-09-12",
+      "show_id": 1297,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "Rare beauty with Keith on lead vocals",
+      "archive_url": "https://headyversion.com/show/1297/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1973-09-21",
+      "show_id": 554,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "final one in philly comes out of a hot playin'",
+      "archive_url": "https://headyversion.com/show/554/archive/"
+    }
+  ]
+}

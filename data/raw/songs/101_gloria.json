@@ -1,0 +1,142 @@
+{
+  "song_id": 101,
+  "name": "Gloria",
+  "performances": [
+    {
+      "votes": 41,
+      "date": "1985-11-01",
+      "show_id": 420,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "Pure insanity",
+      "archive_url": "https://headyversion.com/show/420/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1981-10-16",
+      "show_id": 715,
+      "venue": "Melkweg Amsterdam,",
+      "description": "Bobby's birthday at the world famous Melkeweg. Yummy brownies make this version extra special.",
+      "archive_url": "https://headyversion.com/show/715/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1992-06-25",
+      "show_id": 306,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "Very nice show for the 90's..................",
+      "archive_url": "https://headyversion.com/show/306/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1979-11-09",
+      "show_id": 1130,
+      "venue": "Memorial Auditorium Buffalo, NY",
+      "description": "This He's Gone like many from 79 was a great Jam vehicle.  This Gloria Jam is better than most Glorias!",
+      "archive_url": "https://headyversion.com/show/1130/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1993-05-27",
+      "show_id": 376,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "better than tv.",
+      "archive_url": "https://headyversion.com/show/376/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1979-12-01",
+      "show_id": 475,
+      "venue": "Stanley Theater Pittsburgh, PA",
+      "description": "No words, just a glorious Gloria Jam, but it deserves some votes!",
+      "archive_url": "https://headyversion.com/show/475/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-04-14",
+      "show_id": 696,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "G-L-O-R-I-A !!!!!",
+      "archive_url": "https://headyversion.com/show/696/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1984-11-03",
+      "show_id": 1162,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "The bust out version, 1st one since the Melk Weg, what a run at the BCT.  Give it a listen.",
+      "archive_url": "https://headyversion.com/show/1162/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1995-06-30",
+      "show_id": 181,
+      "venue": "Three Rivers Stadium Pittsburgh, PA",
+      "description": "Always a fine time",
+      "archive_url": "https://headyversion.com/show/181/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-01-26",
+      "show_id": 1562,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "Hot verison with Santana on Chines New Years.  very good show and run that is overlooked.",
+      "archive_url": "https://headyversion.com/show/1562/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-06-15",
+      "show_id": 248,
+      "venue": "Freedom Hall Louisville, KY",
+      "description": "And her name is.......",
+      "archive_url": "https://headyversion.com/show/248/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-04-05",
+      "show_id": 1139,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Second set closer!!",
+      "archive_url": "https://headyversion.com/show/1139/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-12-03",
+      "show_id": 1836,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "Ummm......no.",
+      "archive_url": "https://headyversion.com/show/1836/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-05-21",
+      "show_id": 1058,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Fist pumper!!!!",
+      "archive_url": "https://headyversion.com/show/1058/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-09-18",
+      "show_id": 2023,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Rare treat especially during the Vince era.",
+      "archive_url": "https://headyversion.com/show/2023/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-03-23",
+      "show_id": 175,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "How can the bust-out not be on this list! If you were there, you remember what happened. The freeking HOUSE came down!",
+      "archive_url": "https://headyversion.com/show/175/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-04-16",
+      "show_id": 1778,
+      "venue": "Unknown studio Unknown, CA",
+      "description": "Brent's rehearsal",
+      "archive_url": "https://headyversion.com/show/1778/archive/"
+    }
+  ]
+}

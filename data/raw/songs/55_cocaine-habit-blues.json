@@ -1,0 +1,30 @@
+{
+  "song_id": 55,
+  "name": "Cocaine Habit Blues",
+  "performances": [
+    {
+      "votes": 8,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "Cocaine Blues also known as tell it to me a rare treat when perfomed in those early acoustic sets from 1970.",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-08-05",
+      "show_id": 553,
+      "venue": "Golden Hall - San Diego Community Concourse San Diego, CA",
+      "description": "Great version of Cocaine Habit Blues, part of a great acoustic set",
+      "archive_url": "https://headyversion.com/show/553/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-08-19",
+      "show_id": 1545,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Recording is not the best but it is a rare nugget and the music sounds trippy for an acoustic set.",
+      "archive_url": "https://headyversion.com/show/1545/archive/"
+    }
+  ]
+}

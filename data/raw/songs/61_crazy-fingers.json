@@ -1,0 +1,878 @@
+{
+  "song_id": 61,
+  "name": "Crazy Fingers",
+  "performances": [
+    {
+      "votes": 89,
+      "date": "1976-06-09",
+      "show_id": 544,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Man, this one is a bute",
+      "archive_url": "https://headyversion.com/show/544/archive/"
+    },
+    {
+      "votes": 76,
+      "date": "1976-06-14",
+      "show_id": 22,
+      "venue": "Beacon Theatre New York, NY",
+      "description": "Impossible I haven't submitted this yet. A real masterpiece, one of the best for sure!",
+      "archive_url": "https://headyversion.com/show/22/archive/"
+    },
+    {
+      "votes": 76,
+      "date": "1975-08-13",
+      "show_id": 170,
+      "venue": "Great American Music Hall San Francisco, CA",
+      "description": "Are you kidding me? This one is sssooooo smooth",
+      "archive_url": "https://headyversion.com/show/170/archive/"
+    },
+    {
+      "votes": 40,
+      "date": "1982-10-10",
+      "show_id": 367,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "SWEET!!!!!",
+      "archive_url": "https://headyversion.com/show/367/archive/"
+    },
+    {
+      "votes": 37,
+      "date": "1976-07-13",
+      "show_id": 1009,
+      "venue": "Orpheum Theatre San Francisco, CA",
+      "description": "Great drawn out closing jam.",
+      "archive_url": "https://headyversion.com/show/1009/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1975-06-17",
+      "show_id": 171,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "First Crazy Fingers. Show Opener. As pure as can be....",
+      "archive_url": "https://headyversion.com/show/171/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1991-09-25",
+      "show_id": 521,
+      "venue": "Boston Garden Boston, MA",
+      "description": "I flat out love this version.  Nice execution",
+      "archive_url": "https://headyversion.com/show/521/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1976-06-03",
+      "show_id": 537,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "Divinely speaks...a fine time for the band...almost too heady",
+      "archive_url": "https://headyversion.com/show/537/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1976-06-22",
+      "show_id": 5,
+      "venue": "Tower Theatre Upper Darby, PA",
+      "description": "It's a Grate Journey!",
+      "archive_url": "https://headyversion.com/show/5/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1989-07-02",
+      "show_id": 641,
+      "venue": "Sullivan Stadium Foxboro, MA",
+      "description": "Surprise first set version after Playin opener.  Great version.  Very clean.",
+      "archive_url": "https://headyversion.com/show/641/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1993-03-24",
+      "show_id": 96,
+      "venue": "Dean Smith Center Chapel Hill, NC",
+      "description": "A near-perfect rendition!",
+      "archive_url": "https://headyversion.com/show/96/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1993-05-26",
+      "show_id": 207,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Beautiful version from this top notch 1993 show.  The Victim>Crazy>Palyin sequence is super heady.",
+      "archive_url": "https://headyversion.com/show/207/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1990-09-15",
+      "show_id": 1787,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "If not perfect this one is damn close beautifully played and sung by Jerry.",
+      "archive_url": "https://headyversion.com/show/1787/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1976-09-30",
+      "show_id": 441,
+      "venue": "Mershon Auditorium, OSU Columbus, OH",
+      "description": "Incredible",
+      "archive_url": "https://headyversion.com/show/441/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1976-06-18",
+      "show_id": 476,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Awesome 1976 Crazy Fingers, such a gorgeous tune",
+      "archive_url": "https://headyversion.com/show/476/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1988-07-02",
+      "show_id": 324,
+      "venue": "Oxford Plains Speedway Oxford, ME",
+      "description": "second set opener",
+      "archive_url": "https://headyversion.com/show/324/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1990-03-14",
+      "show_id": 530,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Worth a listen, can't decide which I prefer: the straight sbd, or the matrix.  ou decide, great final solo here...We need a Charlie Miller release!",
+      "archive_url": "https://headyversion.com/show/530/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1991-06-09",
+      "show_id": 227,
+      "venue": "Buckeye Lake Music Center Hebron, OH",
+      "description": "very nice peak before going into playin",
+      "archive_url": "https://headyversion.com/show/227/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1983-10-08",
+      "show_id": 1121,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "A very strong version.",
+      "archive_url": "https://headyversion.com/show/1121/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1975-02-28",
+      "show_id": 1225,
+      "venue": "Bob Weir's Studio Mill Valley, CA",
+      "description": "You've never heard it like this: Rehearsal tape, listed as \"Distorto\". Track 2. An absolute treasure. Hard-freaking-core. No words, just rock.",
+      "archive_url": "https://headyversion.com/show/1225/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1976-06-26",
+      "show_id": 1062,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "My personal favorite, performed on my birthday",
+      "archive_url": "https://headyversion.com/show/1062/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1990-06-23",
+      "show_id": 163,
+      "venue": "Autzen Stadium Eugene, OR",
+      "description": "eugene love; unique phil tone",
+      "archive_url": "https://headyversion.com/show/163/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1982-09-21",
+      "show_id": 1013,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "76' clearly best year for this tune; 1982 another excellent year for the song, 9/21 one of the best, Playin' > Crazy Fingers to open",
+      "archive_url": "https://headyversion.com/show/1013/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1990-04-03",
+      "show_id": 157,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Very strong entry w/no lyrical mistakes & Jerry in fine voice, esp. for the year. Crystal clean sound from '90 spring box set shows how good this is!",
+      "archive_url": "https://headyversion.com/show/157/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1990-10-27",
+      "show_id": 1313,
+      "venue": "The Zenith Paris,",
+      "description": "Gorgeous fragile beauty, this is wonderful beautiful peaceful magic.",
+      "archive_url": "https://headyversion.com/show/1313/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1989-12-27",
+      "show_id": 1245,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "first version live for me still gives me goosebumps, jerry singing so soulful",
+      "archive_url": "https://headyversion.com/show/1245/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1988-07-29",
+      "show_id": 327,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "great way to split up china>rider",
+      "archive_url": "https://headyversion.com/show/327/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1990-03-21",
+      "show_id": 1273,
+      "venue": "Copps Coliseum Hamilton,",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1273/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1985-06-27",
+      "show_id": 907,
+      "venue": "SPAC Saratoga Springs, NY",
+      "description": "Fingers>Supp - 'Nuff Said for me",
+      "archive_url": "https://headyversion.com/show/907/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1982-09-15",
+      "show_id": 1243,
+      "venue": "Capital Centre Landover, MD",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1243/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1991-06-22",
+      "show_id": 261,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/261/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1986-04-19",
+      "show_id": 1375,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "BEautiful psychedelic and delicate masterpiece,they are so on this evening. Wonderful Brent and Jerry meshing, + vocals are great clear and well sung",
+      "archive_url": "https://headyversion.com/show/1375/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1985-04-28",
+      "show_id": 1244,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Sweet version of the then rather rare tune, well crafted version",
+      "archive_url": "https://headyversion.com/show/1244/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1987-07-08",
+      "show_id": 1270,
+      "venue": "Roanoke Civic Center Roanoke, VA",
+      "description": "Mesmerizing version out of space, Gorgeous and delicate like a wonderful Crazy Fingers, sung brilliantly by Jerry. Beautiful pacing and solo by Jerry.",
+      "archive_url": "https://headyversion.com/show/1270/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1988-07-17",
+      "show_id": 56,
+      "venue": "Greek Theater - University of California Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/56/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1982-07-29",
+      "show_id": 900,
+      "venue": "Red Rocks Ampitheatre Morrison, CO",
+      "description": "Beautiful soaring ending...",
+      "archive_url": "https://headyversion.com/show/900/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1993-01-24",
+      "show_id": 1561,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "One of the prettiest version that I have ever heard...just pure.",
+      "archive_url": "https://headyversion.com/show/1561/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1990-07-14",
+      "show_id": 1750,
+      "venue": "Foxboro Stadium Foxboro, MA",
+      "description": "Punctual",
+      "archive_url": "https://headyversion.com/show/1750/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1993-06-05",
+      "show_id": 228,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Nice show at giants stadium as is the next night. Killer Crazy Fingers",
+      "archive_url": "https://headyversion.com/show/228/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1995-04-02",
+      "show_id": 872,
+      "venue": "The Pyramid Memphis, TN",
+      "description": "Jerry's tortured voice is perfect here.  Has nice intro and outro.  Excellent pre-drums this night.",
+      "archive_url": "https://headyversion.com/show/872/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1991-06-16",
+      "show_id": 828,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Perfect full band gelling in a dramatic end jam portion, leading effortlessly into China > Rider",
+      "archive_url": "https://headyversion.com/show/828/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1989-08-04",
+      "show_id": 326,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "crazy>cumberland>eyes",
+      "archive_url": "https://headyversion.com/show/326/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-07-18",
+      "show_id": 1010,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "The first one since the Fall of '76 and a great one too!",
+      "archive_url": "https://headyversion.com/show/1010/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1990-03-25",
+      "show_id": 299,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Usually not a fan of this tune, but played well in Spring 90.  Fits great in this awesome second set!",
+      "archive_url": "https://headyversion.com/show/299/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-09-06",
+      "show_id": 177,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "Beautiful, lyrically perfect, another nice entry from September 91",
+      "archive_url": "https://headyversion.com/show/177/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-02-19",
+      "show_id": 1002,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1002/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-12-30",
+      "show_id": 731,
+      "venue": "Oakland Coliseum Oaxland, CA",
+      "description": "Jerry's voice may not be in great shape on this one but I always go to this one for various reasons",
+      "archive_url": "https://headyversion.com/show/731/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-06-10",
+      "show_id": 313,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Nice version that melts briefly back into a Playin' jam",
+      "archive_url": "https://headyversion.com/show/313/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1976-09-23",
+      "show_id": 897,
+      "venue": "Cameron Indoor Stadium, Duke U Durham, NC",
+      "description": "Majestic",
+      "archive_url": "https://headyversion.com/show/897/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-09-07",
+      "show_id": 219,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Classic version.  Segues into Samson.",
+      "archive_url": "https://headyversion.com/show/219/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-08-11",
+      "show_id": 1278,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Jerry's solo is amazing just warm and bright a true pleasure to hear.",
+      "archive_url": "https://headyversion.com/show/1278/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-09-19",
+      "show_id": 239,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Gorgeous crisp clean and beautiful, magnificent post coma CF. Top tier version.",
+      "archive_url": "https://headyversion.com/show/239/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1991-04-07",
+      "show_id": 258,
+      "venue": "Orlando Arena Orlando, FL",
+      "description": "second set opener, lots of phil through the set",
+      "archive_url": "https://headyversion.com/show/258/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-07-25",
+      "show_id": 1902,
+      "venue": "Compton Terrace Amphitheatre Tempe, AZ",
+      "description": "Beauriful version, love a good Brent Crazy fingers.",
+      "archive_url": "https://headyversion.com/show/1902/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-12-09",
+      "show_id": 1338,
+      "venue": "Great Western LA Forum Inglewood, CA",
+      "description": "Brents keywork on this version is absolutely beautiful. Jerry and Brent combine for a great version in LA.",
+      "archive_url": "https://headyversion.com/show/1338/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-11-16",
+      "show_id": 156,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/156/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-10-29",
+      "show_id": 1040,
+      "venue": "Fox Theater Atlanta, GA",
+      "description": "Great 85 version from an outstanding show.",
+      "archive_url": "https://headyversion.com/show/1040/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1992-06-08",
+      "show_id": 305,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/305/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1992-05-29",
+      "show_id": 734,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Folks, you need to hear this one. It's absolutely gorgeous. Great interplay between Jerry and Vince on the solos and the whole version oozes soul.",
+      "archive_url": "https://headyversion.com/show/734/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-08-18",
+      "show_id": 436,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "Nice and I love the way it falls out of Space.",
+      "archive_url": "https://headyversion.com/show/436/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-04-28",
+      "show_id": 344,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Nice peak in this one",
+      "archive_url": "https://headyversion.com/show/344/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-06-22",
+      "show_id": 147,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "Lyric-perfect version!  Hard to find after the 70's.  Vince adds some nice touches as well.",
+      "archive_url": "https://headyversion.com/show/147/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-03-13",
+      "show_id": 1798,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Fantastic version driven by the keys and Jerry beautiful stuff, The jam is just sublime, truly a joyous listen.",
+      "archive_url": "https://headyversion.com/show/1798/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-04-15",
+      "show_id": 935,
+      "venue": "rosemont chicago, Il",
+      "description": "Breathtakingly gorgeous twisting turning whirling majesty, beautiful and intricate a true fascinating masterpiece",
+      "archive_url": "https://headyversion.com/show/935/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-09-24",
+      "show_id": 1590,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "Smooth, airy and tight - tough tune that they rarely pulled off well in the '80's.",
+      "archive_url": "https://headyversion.com/show/1590/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-10-23",
+      "show_id": 1028,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Jerry is on fire in the solo, check this one out, can't believe it's not on here.",
+      "archive_url": "https://headyversion.com/show/1028/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1986-05-11",
+      "show_id": 280,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "these 1986 shows out west are rare gems",
+      "archive_url": "https://headyversion.com/show/280/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-07-21",
+      "show_id": 378,
+      "venue": "World Music Theatre Tinley Park, IL",
+      "description": "Good one in one of Brent's last shows",
+      "archive_url": "https://headyversion.com/show/378/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-10-02",
+      "show_id": 1827,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Space->Crazy Fingers to open set 2, very relaxed pace some nice carribean flavored lines from Brent, Gives this a gentle almost cool breeze on a beach",
+      "archive_url": "https://headyversion.com/show/1827/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-10-15",
+      "show_id": 1208,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Underrated show",
+      "archive_url": "https://headyversion.com/show/1208/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-06-19",
+      "show_id": 1813,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "the delicious meat of a nice little playin' sandwich.",
+      "archive_url": "https://headyversion.com/show/1813/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-02-21",
+      "show_id": 1730,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1730/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-04-03",
+      "show_id": 1048,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1048/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-07-02",
+      "show_id": 1737,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Special, voice a little rough but gives it emotional resonance",
+      "archive_url": "https://headyversion.com/show/1737/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-10-28",
+      "show_id": 1198,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Smooth transition out of Saint. Well played.",
+      "archive_url": "https://headyversion.com/show/1198/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-03-04",
+      "show_id": 1699,
+      "venue": "Blockbuster Desert Sky Pavillion Pheonix, AZ",
+      "description": "Jerry coming in with a forceful and full toned outro jam.  Not quite as delicate as I would like, but worthwhile!!",
+      "archive_url": "https://headyversion.com/show/1699/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-04-03",
+      "show_id": 786,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Lovely version from an underrated show. Nice harmonies from Brent especially and Jerry's solos sparkle.",
+      "archive_url": "https://headyversion.com/show/786/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-09-30",
+      "show_id": 269,
+      "venue": "Boston Garden Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/269/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-03-17",
+      "show_id": 975,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Great version! Soft, strong, sweet and true, swift and bright.",
+      "archive_url": "https://headyversion.com/show/975/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-06-14",
+      "show_id": 165,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "How is this not on the list?! The trailing jam will melt your heart!",
+      "archive_url": "https://headyversion.com/show/165/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-25",
+      "show_id": 2020,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Beautiful Jerry is in nice voice on this evening",
+      "archive_url": "https://headyversion.com/show/2020/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-10-02",
+      "show_id": 1727,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Nice version from a good later show. Jerry solo at the end is very good for the mid 90s.",
+      "archive_url": "https://headyversion.com/show/1727/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-11-21",
+      "show_id": 1552,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Crazy good, Jer in the pocket delivering the goods.",
+      "archive_url": "https://headyversion.com/show/1552/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-12-06",
+      "show_id": 1520,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1520/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-05-15",
+      "show_id": 2029,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Smoking version with incredible solo esp sweet for this era. Hot show",
+      "archive_url": "https://headyversion.com/show/2029/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-05-10",
+      "show_id": 347,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/347/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-09-18",
+      "show_id": 1417,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Lovely.",
+      "archive_url": "https://headyversion.com/show/1417/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-10-17",
+      "show_id": 202,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "The intro is a bit messy (what else is new), but Jerry's swift fills and impassioned vocals are the stars here.",
+      "archive_url": "https://headyversion.com/show/202/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-04-04",
+      "show_id": 1628,
+      "venue": "Civic Center Providence, RI",
+      "description": "Superb",
+      "archive_url": "https://headyversion.com/show/1628/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-12-12",
+      "show_id": 1167,
+      "venue": "Oakland Coliseum Oakland, CA",
+      "description": "Pretty version with a great solo.",
+      "archive_url": "https://headyversion.com/show/1167/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-04-23",
+      "show_id": 952,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "Fields of fragile thunder",
+      "archive_url": "https://headyversion.com/show/952/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-06-14",
+      "show_id": 165,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "How is this not on the list?! The trailing jam will melt your heart!",
+      "archive_url": "https://headyversion.com/show/165/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-08-14",
+      "show_id": 965,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Kicks off a kind crazy>Profit>sup>ujb",
+      "archive_url": "https://headyversion.com/show/965/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-12-18",
+      "show_id": 1768,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "Godbless the teleprompters",
+      "archive_url": "https://headyversion.com/show/1768/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-12-16",
+      "show_id": 1595,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1595/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-14",
+      "show_id": 1004,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "A few mild vocal hiccups but played like it was by angels. It's magnificently done.",
+      "archive_url": "https://headyversion.com/show/1004/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-03-20",
+      "show_id": 282,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/282/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-07-05",
+      "show_id": 813,
+      "venue": "Riverport Amphitheater Maryland Heights, MO",
+      "description": "Short, but sweetly melodic.  I maintain that jerry never lost his ear for beautiful lines, he just lost a lot of dexterity in the last couple years.",
+      "archive_url": "https://headyversion.com/show/813/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-13",
+      "show_id": 2089,
+      "venue": "Ice Stadium Stockholm, SW",
+      "description": "Estimated -> Crazy Fingers -> Playin'",
+      "archive_url": "https://headyversion.com/show/2089/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-09",
+      "show_id": 148,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "Gorgeous version with an amazing outro of Jerry/Phil",
+      "archive_url": "https://headyversion.com/show/148/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-09-07",
+      "show_id": 352,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "This one's perfect.",
+      "archive_url": "https://headyversion.com/show/352/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-05-05",
+      "show_id": 186,
+      "venue": "California State University Dominguez Hills Carson, CA",
+      "description": "Jerry's voice is beautifully fragile and tentative until the others come in on the harmonies. Compelling JG solos & Brent plays some pretty stuff.",
+      "archive_url": "https://headyversion.com/show/186/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-03-23",
+      "show_id": 175,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "Best one with Bruce period. Phil leads the outro and drops bombs.",
+      "archive_url": "https://headyversion.com/show/175/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-06-28",
+      "show_id": 1684,
+      "venue": "Mile High Stadium Denver, CO",
+      "description": "Far out Eyes>Picasso>Fingers>Saint... tremendous group effort. Flying colors, this version is wow. Painterly seeping aged beauties, glorious texture",
+      "archive_url": "https://headyversion.com/show/1684/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-04-04",
+      "show_id": 1398,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "starts quite rough but wins it soon after, psychy jamming and crystalline voice leading",
+      "archive_url": "https://headyversion.com/show/1398/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-05-07",
+      "show_id": 162,
+      "venue": "Frost Ampitheater Stanford, CA",
+      "description": "Very well done crazy fingers the playing is gorgeous and the vocals are decent. But the playing is what drives this one. Beautiful",
+      "archive_url": "https://headyversion.com/show/162/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-06-20",
+      "show_id": 329,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Super heady version of this song, melts out of Corrina. Super gorgeous stuff, one of my favourite Jerry ballads",
+      "archive_url": "https://headyversion.com/show/329/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-02-10",
+      "show_id": 2053,
+      "venue": "Felt Forum LA, CA",
+      "description": "Down to the water, sweet sea of love.... just perfect",
+      "archive_url": "https://headyversion.com/show/2053/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1976-06-12",
+      "show_id": 561,
+      "venue": "Music Hall Boston, MA",
+      "description": "very chill. Shoulda called it Lazy Fingers!",
+      "archive_url": "https://headyversion.com/show/561/archive/"
+    }
+  ]
+}

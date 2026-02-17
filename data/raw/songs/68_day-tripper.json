@@ -1,0 +1,46 @@
+{
+  "song_id": 68,
+  "name": "Day Tripper",
+  "performances": [
+    {
+      "votes": 21,
+      "date": "1985-06-25",
+      "show_id": 713,
+      "venue": "Blossom Music Center Cuyahoga Falls, OH",
+      "description": "To open a show.............WOW!!!!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/713/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-03-31",
+      "show_id": 1337,
+      "venue": "Cumberland County Civic Center Portland, ME",
+      "description": "Ok there were 5 of them.  2 out of 5 is not so bad. Playin'>Day Tripper is good stuff.  I for one wanted more.",
+      "archive_url": "https://headyversion.com/show/1337/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-12-28",
+      "show_id": 1705,
+      "venue": "sf civic ctr san francisco, ca",
+      "description": "Always fun to hear the boys cover the Beatles",
+      "archive_url": "https://headyversion.com/show/1705/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-08-24",
+      "show_id": 1795,
+      "venue": "Boreal Ridge Ski Resort Donner's Summit, CA",
+      "description": "Phil might not like it but I do.",
+      "archive_url": "https://headyversion.com/show/1795/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-02-20",
+      "show_id": 1794,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Sloppy, but very rare performance.",
+      "archive_url": "https://headyversion.com/show/1794/archive/"
+    }
+  ]
+}

@@ -1,0 +1,1278 @@
+{
+  "song_id": 238,
+  "name": "Shakedown Street",
+  "performances": [
+    {
+      "votes": 178,
+      "date": "1985-06-30",
+      "show_id": 247,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "Hot from start to finish",
+      "archive_url": "https://headyversion.com/show/247/archive/"
+    },
+    {
+      "votes": 164,
+      "date": "1979-10-25",
+      "show_id": 612,
+      "venue": "New Haven Coliseum New Haven, CT",
+      "description": "phil drives the start as vocals fade off into a universe of funk, lead by brent and jerry",
+      "archive_url": "https://headyversion.com/show/612/archive/"
+    },
+    {
+      "votes": 86,
+      "date": "1982-04-06",
+      "show_id": 103,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "great interplay between Jer and Brent",
+      "archive_url": "https://headyversion.com/show/103/archive/"
+    },
+    {
+      "votes": 71,
+      "date": "1984-12-31",
+      "show_id": 335,
+      "venue": "SF Civic san francisco, ca",
+      "description": "17 min. show opener on NYE...never heard  a better one imho",
+      "archive_url": "https://headyversion.com/show/335/archive/"
+    },
+    {
+      "votes": 70,
+      "date": "1979-01-15",
+      "show_id": 460,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "Miracle->Shakedown.....wait for it...and be careful it doesn't knock ya out!",
+      "archive_url": "https://headyversion.com/show/460/archive/"
+    },
+    {
+      "votes": 58,
+      "date": "1978-09-16",
+      "show_id": 716,
+      "venue": "Sphinx Theatre Giza,",
+      "description": "In the pocket start to finish.",
+      "archive_url": "https://headyversion.com/show/716/archive/"
+    },
+    {
+      "votes": 52,
+      "date": "1979-12-26",
+      "show_id": 26,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "This one gets up here for Brent's creativity during the Jam.  UJB sandwich 2nd set is sweet.",
+      "archive_url": "https://headyversion.com/show/26/archive/"
+    },
+    {
+      "votes": 48,
+      "date": "1991-09-10",
+      "show_id": 325,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "phil with loose strings; turned up the whole show. plus branford",
+      "archive_url": "https://headyversion.com/show/325/archive/"
+    },
+    {
+      "votes": 48,
+      "date": "1983-04-26",
+      "show_id": 764,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "The Boys are having fun...great vocal interplay...good times, great bass.",
+      "archive_url": "https://headyversion.com/show/764/archive/"
+    },
+    {
+      "votes": 45,
+      "date": "1978-11-24",
+      "show_id": 289,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "One of the first really solid versions.  Great show, even with Jerry's throat issues",
+      "archive_url": "https://headyversion.com/show/289/archive/"
+    },
+    {
+      "votes": 40,
+      "date": "1987-09-18",
+      "show_id": 200,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Great energy on this one!",
+      "archive_url": "https://headyversion.com/show/200/archive/"
+    },
+    {
+      "votes": 40,
+      "date": "1981-05-16",
+      "show_id": 676,
+      "venue": "Barton Hall - Cornell University Ithaca, NY",
+      "description": "This cool version begins an epic jam.",
+      "archive_url": "https://headyversion.com/show/676/archive/"
+    },
+    {
+      "votes": 39,
+      "date": "1979-10-31",
+      "show_id": 447,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Big jam here, very funky",
+      "archive_url": "https://headyversion.com/show/447/archive/"
+    },
+    {
+      "votes": 39,
+      "date": "1981-03-28",
+      "show_id": 206,
+      "venue": "Grugahalle Essen,",
+      "description": "Super rockin' and funky as can be...the drummers are locked in and leading the way",
+      "archive_url": "https://headyversion.com/show/206/archive/"
+    },
+    {
+      "votes": 36,
+      "date": "1989-04-02",
+      "show_id": 1275,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Unbelievable jam, commonly overlooked",
+      "archive_url": "https://headyversion.com/show/1275/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1982-08-03",
+      "show_id": 604,
+      "venue": "Starlight Theatre Kansas City, MO",
+      "description": "Most underrated Shakrdown ever!",
+      "archive_url": "https://headyversion.com/show/604/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1981-12-31",
+      "show_id": 176,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Jerry at some of his pied-piper best",
+      "archive_url": "https://headyversion.com/show/176/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1981-08-28",
+      "show_id": 478,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Yeah, this one shakes the walls.  Get gully",
+      "archive_url": "https://headyversion.com/show/478/archive/"
+    },
+    {
+      "votes": 29,
+      "date": "1991-06-22",
+      "show_id": 261,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "first soldier field show",
+      "archive_url": "https://headyversion.com/show/261/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1979-08-13",
+      "show_id": 477,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "Lesh bombs to shake the Rockies",
+      "archive_url": "https://headyversion.com/show/477/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1980-11-29",
+      "show_id": 105,
+      "venue": "Alligator Alley Gym, University of Florida Gainsville, FL",
+      "description": "Firin' on all cylinders",
+      "archive_url": "https://headyversion.com/show/105/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1992-12-16",
+      "show_id": 341,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "bobby makes this one go over the top during the jam",
+      "archive_url": "https://headyversion.com/show/341/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1984-10-20",
+      "show_id": 94,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "Whew boy!",
+      "archive_url": "https://headyversion.com/show/94/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1979-12-09",
+      "show_id": 881,
+      "venue": "Kiel Auditorium St. Louis, MO",
+      "description": "In my opinion, '79 Shakedown's are a perpetual smoke show.  This is no different.  Get weird",
+      "archive_url": "https://headyversion.com/show/881/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1990-03-18",
+      "show_id": 1024,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Who said Hartford ain't got no heart??",
+      "archive_url": "https://headyversion.com/show/1024/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1981-12-05",
+      "show_id": 76,
+      "venue": "Market Square Arena Indianapolis, IN",
+      "description": "Wowza",
+      "archive_url": "https://headyversion.com/show/76/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1982-04-17",
+      "show_id": 910,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "Killer Brent playing in the closing jam.",
+      "archive_url": "https://headyversion.com/show/910/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1989-07-09",
+      "show_id": 1525,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Epic Shakedown. Starts with lyric flubs by Brent and Bob, but rages onward to headiness.",
+      "archive_url": "https://headyversion.com/show/1525/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1978-12-28",
+      "show_id": 1150,
+      "venue": "Golden Hall, Community Concourse San Diego, CA",
+      "description": "Super-Funk",
+      "archive_url": "https://headyversion.com/show/1150/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1981-07-05",
+      "show_id": 516,
+      "venue": "Zoo Amphitheater Oklahoma City, OK",
+      "description": "Bass nasty funk",
+      "archive_url": "https://headyversion.com/show/516/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1979-01-10",
+      "show_id": 774,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Laser-focused, perfect rendition, start to finish. Super-funky with awesome Jerry fuzz-guitar, rock-blues jamming post-vocals",
+      "archive_url": "https://headyversion.com/show/774/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1991-09-22",
+      "show_id": 336,
+      "venue": "Boston Garden Boston, MA",
+      "description": "WOW, bruce is on fire",
+      "archive_url": "https://headyversion.com/show/336/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1979-12-05",
+      "show_id": 1107,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "A funk-laden but more laid-back, groovier vibe marks this excellent entry from Chicago. Notable for A+ vocals & harmonies and Bobby shines in end jam!",
+      "archive_url": "https://headyversion.com/show/1107/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1986-04-01",
+      "show_id": 1508,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "Super funky with loads of Phil n Jerry spewing notes. The whole band connects in the funk groove and this smokes.",
+      "archive_url": "https://headyversion.com/show/1508/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1987-03-30",
+      "show_id": 37,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Insane Set 1 opener",
+      "archive_url": "https://headyversion.com/show/37/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1978-11-20",
+      "show_id": 692,
+      "venue": "Cleveland Music Hall Cleveland, OH",
+      "description": "Nice solos by Jerry",
+      "archive_url": "https://headyversion.com/show/692/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1985-10-31",
+      "show_id": 599,
+      "venue": "Carolina Coliseum - University of South Carolina Columbia, SC",
+      "description": "Really awesome, I could listen to this version of hours! Surprised it wasn't on here already 85 ain't a bad year for Shakedown as we know from MPP",
+      "archive_url": "https://headyversion.com/show/599/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1984-04-26",
+      "show_id": 736,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "Laser effects from Brent's hammond, collective funk with downright blazing passages; On par with NYE 84', Smoking X-factor opener",
+      "archive_url": "https://headyversion.com/show/736/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1980-05-07",
+      "show_id": 833,
+      "venue": "Barton Hall - Cornell University Ithaca, NY",
+      "description": "Blowing minds 35 years later.",
+      "archive_url": "https://headyversion.com/show/833/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1987-07-26",
+      "show_id": 1019,
+      "venue": "Anaheim Stadium Anaheim, CA",
+      "description": "As good as a Shakedown gets!",
+      "archive_url": "https://headyversion.com/show/1019/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1990-04-03",
+      "show_id": 157,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Great one here to open the last show of this epic tour!",
+      "archive_url": "https://headyversion.com/show/157/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1989-10-18",
+      "show_id": 1230,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Great Jerry/Bobby/Brent interplay! Great jamming version",
+      "archive_url": "https://headyversion.com/show/1230/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1981-03-24",
+      "show_id": 1490,
+      "venue": "Rainbow Theater London,",
+      "description": "15+ minutes of funk w/extended overlapping vocal rounds of \"just gotta poke around\", etc. before jam Brent adds cool \"fuzzy\" SFX",
+      "archive_url": "https://headyversion.com/show/1490/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1981-05-12",
+      "show_id": 384,
+      "venue": "Veterans' Memorial Coliseum New Haven, CT",
+      "description": "Hot and spicy funk",
+      "archive_url": "https://headyversion.com/show/384/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1982-09-20",
+      "show_id": 1360,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Funky opener Jerry bending ad twisting notes every which way a real kick ass version full of energy",
+      "archive_url": "https://headyversion.com/show/1360/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1985-09-07",
+      "show_id": 219,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "lots of precussion",
+      "archive_url": "https://headyversion.com/show/219/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1992-03-20",
+      "show_id": 323,
+      "venue": "Copps Coliseum Hamilton,",
+      "description": "starts slow but builds to a killer jam, tons of PHil",
+      "archive_url": "https://headyversion.com/show/323/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1979-11-29",
+      "show_id": 876,
+      "venue": "Cleveland Public Hall Cleveland, OH",
+      "description": "FUNKY.  Brent rips",
+      "archive_url": "https://headyversion.com/show/876/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1981-09-12",
+      "show_id": 915,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "funky,funky and funky...............",
+      "archive_url": "https://headyversion.com/show/915/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1980-09-06",
+      "show_id": 574,
+      "venue": "State Fairgrounds Lewiston, ME",
+      "description": "It gets the second set off to a hot start.",
+      "archive_url": "https://headyversion.com/show/574/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1985-11-21",
+      "show_id": 1552,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Funky and speedy",
+      "archive_url": "https://headyversion.com/show/1552/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1983-10-22",
+      "show_id": 1494,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "Phildown St. opener in the ginormo dome at Syrabuse. Phil makes this one groovy.",
+      "archive_url": "https://headyversion.com/show/1494/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1982-05-23",
+      "show_id": 802,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "Sound quality and upbeat extended jam make this a very worthy contender, I can't believe it isn't already on here!",
+      "archive_url": "https://headyversion.com/show/802/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1993-05-27",
+      "show_id": 376,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "A great version from the '90's.",
+      "archive_url": "https://headyversion.com/show/376/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1980-10-07",
+      "show_id": 1100,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "This one deserves some love.",
+      "archive_url": "https://headyversion.com/show/1100/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1994-10-15",
+      "show_id": 1602,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Pretty tasty Shakedown for the 90's.  Some real good stuff from this last run at MSG.",
+      "archive_url": "https://headyversion.com/show/1602/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1979-12-11",
+      "show_id": 929,
+      "venue": "Soldiers & Sailors Memorial Hall Kansas City, KS",
+      "description": "No better way to start the 2nd set!!!!",
+      "archive_url": "https://headyversion.com/show/929/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1984-04-16",
+      "show_id": 1549,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Funky, filthy & monsterous. Little known b/c it's hard to find good sound of this one. Try neumann's on archive.",
+      "archive_url": "https://headyversion.com/show/1549/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1987-06-13",
+      "show_id": 977,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "Jerry is a madman on this version, absolutley an amazing Funk fest hard to believe its 1987. Crowd had to be in shock or dancing asses off. CRAZY",
+      "archive_url": "https://headyversion.com/show/977/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1981-03-13",
+      "show_id": 1145,
+      "venue": "Utica Coliseum Utica, NY",
+      "description": "Upstate Funk Jerry breaks out the distorto in the middle jam. Brent goes full Herbie H. at the end! Dank slow jamz.",
+      "archive_url": "https://headyversion.com/show/1145/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1978-12-30",
+      "show_id": 808,
+      "venue": "Pauley Pavilion Los Angeles, CA",
+      "description": "Speed kills! Choose in the pocket disco grooviness and you got what you need here... sublime.",
+      "archive_url": "https://headyversion.com/show/808/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1981-04-30",
+      "show_id": 1587,
+      "venue": "Greensboro Coliseum Greensboro, NC",
+      "description": "Crisp funk like a Shakedown should be",
+      "archive_url": "https://headyversion.com/show/1587/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1984-06-30",
+      "show_id": 832,
+      "venue": "Indianapolis Sports and Music Center Indianapolis, IN",
+      "description": "I love the jam on this one.  The interplay between Jerry and Brent is excellent.  This is the start of a real face melt pre-drums.",
+      "archive_url": "https://headyversion.com/show/832/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1994-07-19",
+      "show_id": 208,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "\"you just gotta poke around\" goes on and on.  Jerry having some fun",
+      "archive_url": "https://headyversion.com/show/208/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1983-08-20",
+      "show_id": 580,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "This one is alive and hot to the point where Jerry's embarrassing mumble-flub somewhere in the middle",
+      "archive_url": "https://headyversion.com/show/580/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1982-07-28",
+      "show_id": 1060,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Cool jammin' version.",
+      "archive_url": "https://headyversion.com/show/1060/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1983-12-30",
+      "show_id": 1336,
+      "venue": "Civic Auditorium San Francisco, CA",
+      "description": "WOW So Smooth Jerry Sounds Crisp",
+      "archive_url": "https://headyversion.com/show/1336/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1995-04-02",
+      "show_id": 872,
+      "venue": "The Pyramid Memphis, TN",
+      "description": "Super Hot opener to great show.",
+      "archive_url": "https://headyversion.com/show/872/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1991-06-01",
+      "show_id": 1638,
+      "venue": "Los Angeles Coliseum Los Angeles, CA",
+      "description": "Just gotta poke around!",
+      "archive_url": "https://headyversion.com/show/1638/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1993-01-25",
+      "show_id": 1694,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Starts this excellent night 2 of this run off right.  Hot!",
+      "archive_url": "https://headyversion.com/show/1694/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1984-10-11",
+      "show_id": 1708,
+      "venue": "Civic Center Augusta, ME",
+      "description": "Monster version from Maine!",
+      "archive_url": "https://headyversion.com/show/1708/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1991-04-05",
+      "show_id": 256,
+      "venue": "The Omni Atlanta, GA",
+      "description": "phil is using some weird midi throughout this version; unique long version",
+      "archive_url": "https://headyversion.com/show/256/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1984-07-21",
+      "show_id": 654,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "WHOA...very Phil-heavy and awesome for it",
+      "archive_url": "https://headyversion.com/show/654/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1995-06-25",
+      "show_id": 233,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "17 mins of funkiness. Check out the nice little jam Bob starts at 11:50, band complies at 13:20",
+      "archive_url": "https://headyversion.com/show/233/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1987-07-06",
+      "show_id": 1356,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "with the Neville Brothers!",
+      "archive_url": "https://headyversion.com/show/1356/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1993-03-17",
+      "show_id": 975,
+      "venue": "Capital Centre Landover, MD",
+      "description": "pure bliss to kick off a mellow, relaxing later day St. Patty's day show.",
+      "archive_url": "https://headyversion.com/show/975/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1985-04-07",
+      "show_id": 236,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Jerry ate a frog before the show but his lines this night are clear, sublime and FUNKY at the 7.50 mark.",
+      "archive_url": "https://headyversion.com/show/236/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1990-10-19",
+      "show_id": 260,
+      "venue": "Internationales Congress Centrum Berlin,",
+      "description": "LTGTR>Shakedown!",
+      "archive_url": "https://headyversion.com/show/260/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1994-10-03",
+      "show_id": 297,
+      "venue": "Boston Garden Boston, MA",
+      "description": "check out this setlist!  plus the shakedown is very well played",
+      "archive_url": "https://headyversion.com/show/297/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1983-06-24",
+      "show_id": 902,
+      "venue": "Dane County Coliseum Madison, WI",
+      "description": "Jerry flubs the first line,  but this Shakedown smokes! Best one I saw for sure. The whole show is high energy.",
+      "archive_url": "https://headyversion.com/show/902/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1980-12-13",
+      "show_id": 1073,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Holy smokes",
+      "archive_url": "https://headyversion.com/show/1073/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1981-05-08",
+      "show_id": 1132,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Jammin!",
+      "archive_url": "https://headyversion.com/show/1132/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1979-02-17",
+      "show_id": 880,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "dirty guitar licks by jerry esp in intro. victims of shakedown st keith & donnas last show. you can hear keith copying guitar parts.",
+      "archive_url": "https://headyversion.com/show/880/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-11-05",
+      "show_id": 940,
+      "venue": "The Centrum Worcester, MA",
+      "description": "One of the best of the year!!!",
+      "archive_url": "https://headyversion.com/show/940/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1979-08-31",
+      "show_id": 1400,
+      "venue": "Glenns Falls Civic Center Glenns Falls, NY",
+      "description": "Another great August 79 version, another great set 2 opener. Jerry gets downright sassy.",
+      "archive_url": "https://headyversion.com/show/1400/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-03-27",
+      "show_id": 896,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/896/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1980-10-30",
+      "show_id": 90,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "This one is pretty good... overlooked",
+      "archive_url": "https://headyversion.com/show/90/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1982-09-15",
+      "show_id": 1243,
+      "venue": "Capital Centre Landover, MD",
+      "description": "This is a Smacktacular Shakedown Street!!!",
+      "archive_url": "https://headyversion.com/show/1243/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1979-04-22",
+      "show_id": 143,
+      "venue": "Spartan Stadium - San Jose State University San Jose, CA",
+      "description": "Brent's first show. Encore. PHIL!...'nuff said",
+      "archive_url": "https://headyversion.com/show/143/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1979-05-07",
+      "show_id": 622,
+      "venue": "Allan Kirby Field House Lafayette College - Easton, PA",
+      "description": "This show and especially this song Jerry and the Band are in zen with the crowd. Absolute treasure in air. My feet would have leaked all the doses.",
+      "archive_url": "https://headyversion.com/show/622/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1979-11-25",
+      "show_id": 765,
+      "venue": "Pauly Pavillion Los Angeles, CA",
+      "description": "Super funky.  Brent is on fire for this.  Melts into Bertha",
+      "archive_url": "https://headyversion.com/show/765/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1983-10-09",
+      "show_id": 1281,
+      "venue": "Greensboro Coliseum Greensboro, NC",
+      "description": "Rockin version, they touched the ceiling on this night. Brent very tasteful throughout",
+      "archive_url": "https://headyversion.com/show/1281/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1979-05-11",
+      "show_id": 1036,
+      "venue": "Billerica Forum Billerica, MA",
+      "description": "A major funk fest you cant help but staart grooving to this luscious beauty",
+      "archive_url": "https://headyversion.com/show/1036/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1988-09-22",
+      "show_id": 1712,
+      "venue": "Madison Sq Garden New York, NY",
+      "description": "Shakedown Street is always an excellent way to open up a show in New York City, Punchy Funky version gets the show off right.",
+      "archive_url": "https://headyversion.com/show/1712/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1989-12-31",
+      "show_id": 382,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "New Year's '89>'90?! Yes, pretty please! The crowd is totally into it. Check out the build up before the song starts (matrix recording recommended)",
+      "archive_url": "https://headyversion.com/show/382/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1987-04-10",
+      "show_id": 1690,
+      "venue": "UIC Pavilion Chicago, IL",
+      "description": "Wonderful Funky Shakedown, Real fun energetic set one.",
+      "archive_url": "https://headyversion.com/show/1690/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1993-09-16",
+      "show_id": 284,
+      "venue": "Madison Square Garden New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/284/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1990-07-14",
+      "show_id": 1750,
+      "venue": "Foxboro Stadium Foxboro, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1750/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1995-05-29",
+      "show_id": 263,
+      "venue": "Portland Meadows Portland, OR",
+      "description": "Second set opener seemed like a big deal at the time",
+      "archive_url": "https://headyversion.com/show/263/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1980-08-21",
+      "show_id": 944,
+      "venue": "Uptown Theatre Chicago, IL",
+      "description": "Shakedown>Promised to close 1st set.................Killer!!!!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/944/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-09-26",
+      "show_id": 632,
+      "venue": "Buffalo Auditorium Buffalo, NY",
+      "description": "A standout version from a great show.",
+      "archive_url": "https://headyversion.com/show/632/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1978-11-23",
+      "show_id": 1635,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Not jammed too deeply, but the playing that there is seriously funky and powerful",
+      "archive_url": "https://headyversion.com/show/1635/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1979-01-17",
+      "show_id": 1081,
+      "venue": "New Haven Coliseum New Haven, CT",
+      "description": "The first song at a rescheduled show...the Dead come out with a smokeshow",
+      "archive_url": "https://headyversion.com/show/1081/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1978-08-31",
+      "show_id": 1781,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Super Funky Jerry really dishing out the wah. Funky to the max, Short first version but shows its potential Loads of Funk",
+      "archive_url": "https://headyversion.com/show/1781/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-10-02",
+      "show_id": 1152,
+      "venue": "Rainbow Theatre London, EN",
+      "description": "One of the jammiest most improvisational versions you'll hear still maintains the FUNK. REALLY super hot version",
+      "archive_url": "https://headyversion.com/show/1152/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-07-14",
+      "show_id": 2005,
+      "venue": "McNichols Sports Arena Denver, CO",
+      "description": "Incredibly wonderful funkfest!!!!",
+      "archive_url": "https://headyversion.com/show/2005/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-04-11",
+      "show_id": 2030,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "Well oiled delivery on this opener.",
+      "archive_url": "https://headyversion.com/show/2030/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1978-10-20",
+      "show_id": 10,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "3rd ever and it's a double encore. Pretty sweet man",
+      "archive_url": "https://headyversion.com/show/10/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-12-14",
+      "show_id": 1577,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "explosive",
+      "archive_url": "https://headyversion.com/show/1577/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-03-30",
+      "show_id": 91,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Bone shakin'",
+      "archive_url": "https://headyversion.com/show/91/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-04-30",
+      "show_id": 1951,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Great late 1980's funkathon, grooving and shaking, gets set 2 off to a real hot start",
+      "archive_url": "https://headyversion.com/show/1951/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1984-10-31",
+      "show_id": 1782,
+      "venue": "Berkley Community Theatre Berkeley, CA",
+      "description": "Like so many Shakedowns, this one is a slow starter.  But once that groove takes hold it's Disco Dead magic!!",
+      "archive_url": "https://headyversion.com/show/1782/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-07-15",
+      "show_id": 1007,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "Jerry mumbles threw the lyrics but the jam is hot!",
+      "archive_url": "https://headyversion.com/show/1007/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-06-14",
+      "show_id": 331,
+      "venue": "Memorial Stadium Seattle, WA",
+      "description": "best song whole show",
+      "archive_url": "https://headyversion.com/show/331/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-10-06",
+      "show_id": 624,
+      "venue": "Rainbow Theater London, UK",
+      "description": "Just a great version from another great show.",
+      "archive_url": "https://headyversion.com/show/624/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1979-02-04",
+      "show_id": 1421,
+      "venue": "Dane County Coliseum Madison, WI",
+      "description": "amazing 2nd set opener with great long jam.",
+      "archive_url": "https://headyversion.com/show/1421/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-05-24",
+      "show_id": 1637,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Show opener, very hot for Vince-era",
+      "archive_url": "https://headyversion.com/show/1637/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-03-02",
+      "show_id": 668,
+      "venue": "Cleveland Music Hall Cleveland, OH",
+      "description": "Smooth and funky; Garcia's tone is just right; Lesh is cruising; very strong opener.",
+      "archive_url": "https://headyversion.com/show/668/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-11-14",
+      "show_id": 1707,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Shakedown opener...does not disappoint",
+      "archive_url": "https://headyversion.com/show/1707/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1979-05-12",
+      "show_id": 481,
+      "venue": "Alumni Stadium, University of Massachusetts Amherst, MA",
+      "description": "Some serious funk for an encore this evening moves into OMSN for a double encore",
+      "archive_url": "https://headyversion.com/show/481/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1979-01-07",
+      "show_id": 1915,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "It's '79 - can you smell the funk?",
+      "archive_url": "https://headyversion.com/show/1915/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1978-12-13",
+      "show_id": 2034,
+      "venue": "Curtis Hixon Convention Hall Tampa, FL",
+      "description": "Nice early Shakedown, one of the few with Keith.",
+      "archive_url": "https://headyversion.com/show/2034/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-03-29",
+      "show_id": 1535,
+      "venue": "Marin County Veterans Auditorium San Rafael, CA",
+      "description": "WTF! Cliche yes but this Shakedown should've been here already. The SBD has Jerry so buried it's a crime, AUD link in cmts you'll see what I mean.",
+      "archive_url": "https://headyversion.com/show/1535/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-09-05",
+      "show_id": 1804,
+      "venue": "Glen Helen Regional Park Devore, CA",
+      "description": "Easily emerges from a Playin\u2019 opener",
+      "archive_url": "https://headyversion.com/show/1804/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1983-08-29",
+      "show_id": 1532,
+      "venue": "Silva Hall, Hult Center Eugene, OR",
+      "description": "The boys bringing the funk in Eugene",
+      "archive_url": "https://headyversion.com/show/1532/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-06-17",
+      "show_id": 158,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "lots of midi during the jam",
+      "archive_url": "https://headyversion.com/show/158/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-09-10",
+      "show_id": 1064,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Shakedown show opener! Great interplay and jamming!",
+      "archive_url": "https://headyversion.com/show/1064/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-08-04",
+      "show_id": 1401,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "The cymbals have a great tone, the",
+      "archive_url": "https://headyversion.com/show/1401/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-04-15",
+      "show_id": 1104,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Really heavy on Brent's synth at the beginning on the recording, which isn't a bad thing. Great vocal play with Jerry, Bob, & Brent.",
+      "archive_url": "https://headyversion.com/show/1104/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-12-12",
+      "show_id": 1856,
+      "venue": "San Diego Sports Arena San Diego, CA",
+      "description": "Wow Vince really shines through on this funky energetic Shakedown to open set 2. Jerry and Vince go at great on the jams here. Hot and funky!",
+      "archive_url": "https://headyversion.com/show/1856/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-03-25",
+      "show_id": 2020,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Funktastic",
+      "archive_url": "https://headyversion.com/show/2020/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-09-04",
+      "show_id": 1149,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Wickedly hot encore, Brent and Jerry go off andit is a real hot ending what a way to send everybody off.",
+      "archive_url": "https://headyversion.com/show/1149/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1978-11-17",
+      "show_id": 609,
+      "venue": "Rambler Room Chicago, IL",
+      "description": "Not great sound quality, but awesome fast version!",
+      "archive_url": "https://headyversion.com/show/609/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1978-12-17",
+      "show_id": 1063,
+      "venue": "Fox Theatre Atlanta, GA",
+      "description": "Fantastic -- love the early Shakedowns.  Very tight interplay between Jerry and Keith's percussive piano.",
+      "archive_url": "https://headyversion.com/show/1063/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1979-07-01",
+      "show_id": 1039,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "Sweet encore to a sweet show",
+      "archive_url": "https://headyversion.com/show/1039/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-06-14",
+      "show_id": 1280,
+      "venue": "Red Rocks Amphitheater Morrison, CO",
+      "description": "A hot, funky \"Shakedown\" from the Rocky Mountains. 30 Days 2016 version.",
+      "archive_url": "https://headyversion.com/show/1280/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-03-23",
+      "show_id": 262,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "back out east after some good chicago/cleveland shows",
+      "archive_url": "https://headyversion.com/show/262/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-08-04",
+      "show_id": 1401,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "The cymbals have a great tone, the",
+      "archive_url": "https://headyversion.com/show/1401/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1978-01-15",
+      "show_id": 1380,
+      "venue": "Selland Arena Fresno, CA",
+      "description": "disco dead- very funky- check this one out!",
+      "archive_url": "https://headyversion.com/show/1380/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-08-15",
+      "show_id": 1912,
+      "venue": "Memorial Coliseum Portland, OR",
+      "description": "Super hot funky lines from jerry and some hot piano from brent a standout way to start the show, FUNKY!!!!",
+      "archive_url": "https://headyversion.com/show/1912/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-04-01",
+      "show_id": 1205,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Great version, as good as many 70s versions.",
+      "archive_url": "https://headyversion.com/show/1205/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-12-28",
+      "show_id": 972,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "I'm going to assume this version is new to the site because nobody has heard it",
+      "archive_url": "https://headyversion.com/show/972/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-02-21",
+      "show_id": 1940,
+      "venue": "Pauley Pavilion, UCLA Los Angeles, CA",
+      "description": "The bass and drums are practically absent on recording but Jerry/Brent/Bobby really sound great during jams. Any '82 Shakedowns are a B at worst",
+      "archive_url": "https://headyversion.com/show/1940/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-12-06",
+      "show_id": 1352,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Surprised this isn't here! Liftoff from the first chord! WOO!",
+      "archive_url": "https://headyversion.com/show/1352/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-10-17",
+      "show_id": 1593,
+      "venue": "Hippodrome Paris,",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1593/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-09-08",
+      "show_id": 462,
+      "venue": "Red Rocks Morrison, CO",
+      "description": "Show opener at Red Rocks! Some slick jamming, pretty spot-on.",
+      "archive_url": "https://headyversion.com/show/462/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-12-30",
+      "show_id": 2041,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Smokin\u2019 Version -Matrix-",
+      "archive_url": "https://headyversion.com/show/2041/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-10-10",
+      "show_id": 1214,
+      "venue": "Stadt Halle Bremen, GE",
+      "description": "Dirty, grimy, filthy",
+      "archive_url": "https://headyversion.com/show/1214/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-04-27",
+      "show_id": 298,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Last half of the song just plain sizzles",
+      "archive_url": "https://headyversion.com/show/298/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-04-18",
+      "show_id": 2051,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "Solid Shakedown to start the set. Good Bobby rhythm to end the jam.",
+      "archive_url": "https://headyversion.com/show/2051/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-09-08",
+      "show_id": 1932,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Very focused version that doesn't stray too far but is nice in it's compactness.",
+      "archive_url": "https://headyversion.com/show/1932/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-11-29",
+      "show_id": 1391,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "First show back from Europe tour and they kill it! Full intensity and the >GSET is excellent as well.",
+      "archive_url": "https://headyversion.com/show/1391/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-05-06",
+      "show_id": 146,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Groovy",
+      "archive_url": "https://headyversion.com/show/146/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-01-28",
+      "show_id": 1354,
+      "venue": "San Francisco Civic Auditorium San Francisco, CA",
+      "description": "vocally pretty bad, but Jerry tears up the guitar. Vocal coda is handled well",
+      "archive_url": "https://headyversion.com/show/1354/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-12-31",
+      "show_id": 356,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/356/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-12-15",
+      "show_id": 2048,
+      "venue": "Boutwell Auditorium Birmingham, AL",
+      "description": "No SBD but this AUD is actually quite fantastic. This is a superb version, totally worth your time",
+      "archive_url": "https://headyversion.com/show/2048/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-03-30",
+      "show_id": 1612,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Leads off the second set. Just gotta poke around those Jersey swamps, Hoffa's there somewhere.",
+      "archive_url": "https://headyversion.com/show/1612/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-12-15",
+      "show_id": 1457,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "Great way to kick off this show!",
+      "archive_url": "https://headyversion.com/show/1457/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-05-14",
+      "show_id": 1698,
+      "venue": "greek theater berkeley, ca",
+      "description": "How can this not be here!",
+      "archive_url": "https://headyversion.com/show/1698/archive/"
+    }
+  ]
+}

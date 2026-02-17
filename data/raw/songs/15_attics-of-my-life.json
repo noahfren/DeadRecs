@@ -1,0 +1,374 @@
+{
+  "song_id": 15,
+  "name": "Attics of My Life",
+  "performances": [
+    {
+      "votes": 52,
+      "date": "1972-09-27",
+      "show_id": 583,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "Dick's Picks 11 version",
+      "archive_url": "https://headyversion.com/show/583/archive/"
+    },
+    {
+      "votes": 34,
+      "date": "1989-10-09",
+      "show_id": 318,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "The glorious return of Attics",
+      "archive_url": "https://headyversion.com/show/318/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1970-06-24",
+      "show_id": 395,
+      "venue": "Capitol Theatre Port Chester, NY",
+      "description": "If you want a DS->Attics, check this out...EPIC",
+      "archive_url": "https://headyversion.com/show/395/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1989-10-16",
+      "show_id": 47,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Special Dark Star -> Attics -> Playin",
+      "archive_url": "https://headyversion.com/show/47/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1970-06-06",
+      "show_id": 387,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Stellar version.",
+      "archive_url": "https://headyversion.com/show/387/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "Words cannot properly express the majesty...JUST LISTEN",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1970-09-20",
+      "show_id": 85,
+      "venue": "Fillmore East New York, NY",
+      "description": "A great electric version thrown into a excellent show",
+      "archive_url": "https://headyversion.com/show/85/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1990-03-30",
+      "show_id": 28,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "encore for third show of maybe the best 3 shows ever pulled off.  from maybe the best tour ever.",
+      "archive_url": "https://headyversion.com/show/28/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1970-05-14",
+      "show_id": 719,
+      "venue": "Merramec Community College Kirkwood, MO",
+      "description": "This shw in its entirety is an ass kicker true magic on this night. FANFREAKINGTASTIC",
+      "archive_url": "https://headyversion.com/show/719/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1994-10-14",
+      "show_id": 1079,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Jerry belts it out in the end",
+      "archive_url": "https://headyversion.com/show/1079/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1992-05-25",
+      "show_id": 1800,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Gorgeous a real nice late era Attics, Vince era Attics are often better than expected",
+      "archive_url": "https://headyversion.com/show/1800/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1991-09-26",
+      "show_id": 115,
+      "venue": "Boston Garden Boston, MA",
+      "description": "A standout version from a great show.",
+      "archive_url": "https://headyversion.com/show/115/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1994-09-24",
+      "show_id": 1276,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "A wonderful acoustic performance with rife with emotion. Very moving throughout.",
+      "archive_url": "https://headyversion.com/show/1276/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1993-09-10",
+      "show_id": 232,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "Perfect version at very good 1993 show.",
+      "archive_url": "https://headyversion.com/show/232/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1991-09-16",
+      "show_id": 337,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "this show is filled with kindness",
+      "archive_url": "https://headyversion.com/show/337/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1970-06-05",
+      "show_id": 748,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Nice early Attics of My Life this is some really great stuff right here.",
+      "archive_url": "https://headyversion.com/show/748/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-10-28",
+      "show_id": 1539,
+      "venue": "Cleveland Public Hall Cleveland, OH",
+      "description": "Heartfelt rendition. The vocal-heavy mix of the 28th really works for this tune.",
+      "archive_url": "https://headyversion.com/show/1539/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1994-10-03",
+      "show_id": 297,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Dare I say, an upbeat \"Attics\"",
+      "archive_url": "https://headyversion.com/show/297/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1992-05-31",
+      "show_id": 235,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "vegas dead",
+      "archive_url": "https://headyversion.com/show/235/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-09-08",
+      "show_id": 769,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Encore treat at MSG. First one in a year and a half.",
+      "archive_url": "https://headyversion.com/show/769/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1994-03-06",
+      "show_id": 1999,
+      "venue": "Desert Sky Pavilion Phoenix, AZ",
+      "description": "Love all the late era Attics.  Love this one too.",
+      "archive_url": "https://headyversion.com/show/1999/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1994-07-26",
+      "show_id": 1971,
+      "venue": "Riverport Amphitheatre Maryland Heights, MO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1971/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-06-04",
+      "show_id": 1394,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "For a song notoriously difficult to sing, this one comes of beautifully. June 6th is better, but good to hear them in sequence as the worked on it.",
+      "archive_url": "https://headyversion.com/show/1394/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-07-16",
+      "show_id": 1546,
+      "venue": "Euphoria Ballroom San Rafael, CA",
+      "description": "Bend your ears to hear the tune, and close your eyes to see",
+      "archive_url": "https://headyversion.com/show/1546/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-05-24",
+      "show_id": 1125,
+      "venue": "Hollywood Music Festival Newcastle-Under-Lyme, EN",
+      "description": "A worthy rendition...",
+      "archive_url": "https://headyversion.com/show/1125/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1995-06-28",
+      "show_id": 1968,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "Nice for a 95 version. Always like that they played this well in the 90s. Harmonies are pretty good.",
+      "archive_url": "https://headyversion.com/show/1968/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "Oh man what a version. Slow, melodic...",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-12-27",
+      "show_id": 1575,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "Another stellar 1970 offering. Such raw emotion.",
+      "archive_url": "https://headyversion.com/show/1575/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-07-01",
+      "show_id": 1363,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1363/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-06-12",
+      "show_id": 252,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Great encore.",
+      "archive_url": "https://headyversion.com/show/252/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1976-05-28",
+      "show_id": 1241,
+      "venue": "Orpheum Theatre San Francisco, CA",
+      "description": "A great rehearsal version.",
+      "archive_url": "https://headyversion.com/show/1241/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-12-18",
+      "show_id": 1768,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1768/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-06-06",
+      "show_id": 265,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Great Attics out of Corrina.",
+      "archive_url": "https://headyversion.com/show/265/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-10-23",
+      "show_id": 1028,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "2 weeks after they brought it back Gorgeous version.",
+      "archive_url": "https://headyversion.com/show/1028/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1995-07-02",
+      "show_id": 350,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/350/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1974-02-22",
+      "show_id": 365,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "a cool version during the sound check.",
+      "archive_url": "https://headyversion.com/show/365/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-09-28",
+      "show_id": 1386,
+      "venue": "Boston Garden Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1386/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-03-22",
+      "show_id": 986,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "show is better than most of 1995. This and next night plus first two in philly some of the runs best",
+      "archive_url": "https://headyversion.com/show/986/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-11-07",
+      "show_id": 1219,
+      "venue": "Capital Theater Port Chester, NY",
+      "description": "A reflective departure into that peaceful attics space",
+      "archive_url": "https://headyversion.com/show/1219/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-10-24",
+      "show_id": 1474,
+      "venue": "Kiel Opera House St. Louis, MO",
+      "description": "Not perfect but a little more in tune than most 1970 versions.",
+      "archive_url": "https://headyversion.com/show/1474/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-12-17",
+      "show_id": 1757,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1757/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-02-19",
+      "show_id": 1746,
+      "venue": "Delta Center Salt Lake City, UT",
+      "description": "Very emotive Jerry on this tune, When he is animated he usually delivers and he does so here emotional and beautiful version.",
+      "archive_url": "https://headyversion.com/show/1746/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-03-28",
+      "show_id": 95,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "beautiful post space from Knick. Well sung great vocals from all. Powerful later version.",
+      "archive_url": "https://headyversion.com/show/95/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-03-25",
+      "show_id": 1582,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1582/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-08-18",
+      "show_id": 652,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Harmonious delivery. Poised, poignant, and evocative.",
+      "archive_url": "https://headyversion.com/show/652/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-06",
+      "show_id": 670,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "From an all acoustic set. Tight harmonies on this one.",
+      "archive_url": "https://headyversion.com/show/670/archive/"
+    }
+  ]
+}

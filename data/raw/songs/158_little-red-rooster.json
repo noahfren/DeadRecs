@@ -1,0 +1,934 @@
+{
+  "song_id": 158,
+  "name": "Little Red Rooster",
+  "performances": [
+    {
+      "votes": 57,
+      "date": "1989-07-07",
+      "show_id": 281,
+      "venue": "JFK Stadium Philadelphia, PA",
+      "description": "WOAH. Awesome rooster. Brent coming in and dominating vocals second half? Yes, please!",
+      "archive_url": "https://headyversion.com/show/281/archive/"
+    },
+    {
+      "votes": 34,
+      "date": "1980-11-30",
+      "show_id": 36,
+      "venue": "Fox Theatre Atlanta, GA",
+      "description": "All about Brent.",
+      "archive_url": "https://headyversion.com/show/36/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1984-04-20",
+      "show_id": 1116,
+      "venue": "Philadelphia Civic Center Philadelphia, PA",
+      "description": "Bob's slide work is CLEAN and on point and Jerry is in a frisky mood this night. Brent's B3 is hummin' - this version peels paint.",
+      "archive_url": "https://headyversion.com/show/1116/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1989-10-09",
+      "show_id": 318,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Why wasn't this metioned!!!!",
+      "archive_url": "https://headyversion.com/show/318/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1981-05-01",
+      "show_id": 780,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "A heady version",
+      "archive_url": "https://headyversion.com/show/780/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1981-05-06",
+      "show_id": 146,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Sultry and seductive with a splash of evil. Dick's Picks 13 version.",
+      "archive_url": "https://headyversion.com/show/146/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1981-12-09",
+      "show_id": 1186,
+      "venue": "Activity Center - University of Colorado Boulder, CO",
+      "description": "One of the best ever at this great show!",
+      "archive_url": "https://headyversion.com/show/1186/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1980-11-28",
+      "show_id": 1072,
+      "venue": "Lakeland Civic Center Lakeland, FL",
+      "description": "This version is a raging BEAST! If you've never heard it, you're in for a treat.",
+      "archive_url": "https://headyversion.com/show/1072/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1985-11-01",
+      "show_id": 420,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "Team effort on this one.  Smokin version from Dicks picks 21.",
+      "archive_url": "https://headyversion.com/show/420/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1983-10-17",
+      "show_id": 722,
+      "venue": "Olympic Center Lake Placid, NY",
+      "description": "Bobby's Slide solo is quite good!",
+      "archive_url": "https://headyversion.com/show/722/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1981-03-28",
+      "show_id": 206,
+      "venue": "Grugahalle Essen,",
+      "description": "Scorcher",
+      "archive_url": "https://headyversion.com/show/206/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1982-10-10",
+      "show_id": 367,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Highlights for me were Bobby's voice bouncing around the hall and Jerry's super sweet tone.",
+      "archive_url": "https://headyversion.com/show/367/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1990-09-16",
+      "show_id": 691,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Pretty hot version here with Bruce and Vince both taking meaty solos.",
+      "archive_url": "https://headyversion.com/show/691/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1990-03-18",
+      "show_id": 1024,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Acceptable slide playing from Bobby. Nice extended organ solo, MIDI sax solo. Whole band playing blues choruses gives first set particular vibe.",
+      "archive_url": "https://headyversion.com/show/1024/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1990-02-25",
+      "show_id": 1838,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Bobby starts it dirty and growling, Brent just blows it the F#($ up, wow, killer stuff, Jerry is just ripping it too, clear and wonderful tone.",
+      "archive_url": "https://headyversion.com/show/1838/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1981-05-17",
+      "show_id": 688,
+      "venue": "Onondaga Auditorium Syracuse, NY",
+      "description": "BRENT IS THE MAN!",
+      "archive_url": "https://headyversion.com/show/688/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1987-03-27",
+      "show_id": 30,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Brent completely dominates this \"Rooster.\"",
+      "archive_url": "https://headyversion.com/show/30/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1989-10-26",
+      "show_id": 11,
+      "venue": "Miami Arena Miami, FL",
+      "description": "Angry Version",
+      "archive_url": "https://headyversion.com/show/11/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1989-07-13",
+      "show_id": 2013,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Real nasty LRR",
+      "archive_url": "https://headyversion.com/show/2013/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1989-10-18",
+      "show_id": 1230,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Nuts",
+      "archive_url": "https://headyversion.com/show/1230/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1987-04-10",
+      "show_id": 1690,
+      "venue": "UIC Pavilion Chicago, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1690/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-03-30",
+      "show_id": 28,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Might be hottest rooster. Brent's scat then a solo. Fool was raging",
+      "archive_url": "https://headyversion.com/show/28/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1987-12-31",
+      "show_id": 49,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "A blues boogie SHOWDOWN! Brent may pull away with the solo champ win here though",
+      "archive_url": "https://headyversion.com/show/49/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1983-06-20",
+      "show_id": 98,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "A close # 2 in my book!!!",
+      "archive_url": "https://headyversion.com/show/98/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1981-03-06",
+      "show_id": 52,
+      "venue": "Stanley Theater Pittsburgh, PA",
+      "description": "Brent on his moog with a clav patch. Lays it down",
+      "archive_url": "https://headyversion.com/show/52/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1981-03-10",
+      "show_id": 762,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "It's the Dead at the Garden, plenty for the whole family to enjoy! Some inspired playing on display",
+      "archive_url": "https://headyversion.com/show/762/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1980-12-14",
+      "show_id": 1153,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Another great one with Matt Kelly guesting",
+      "archive_url": "https://headyversion.com/show/1153/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1981-02-26",
+      "show_id": 895,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "Sizzling, overall a very good show and a real nice one for the first one of the year.",
+      "archive_url": "https://headyversion.com/show/895/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-07-31",
+      "show_id": 464,
+      "venue": "Manor Downs Austin, TX",
+      "description": "fantastic great Brent verse off 30 trips",
+      "archive_url": "https://headyversion.com/show/464/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1984-07-14",
+      "show_id": 1908,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "HOT version with guest Matthew Kelly on harmonica.",
+      "archive_url": "https://headyversion.com/show/1908/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1986-04-22",
+      "show_id": 714,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Crows for days",
+      "archive_url": "https://headyversion.com/show/714/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1980-12-12",
+      "show_id": 1034,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "Slide guitar solo is nuts. The AUD is delicious taboot",
+      "archive_url": "https://headyversion.com/show/1034/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-03-13",
+      "show_id": 1145,
+      "venue": "Utica Coliseum Utica, NY",
+      "description": "#1 in my book!!!",
+      "archive_url": "https://headyversion.com/show/1145/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-03-21",
+      "show_id": 1025,
+      "venue": "Rainbow Theatre London,",
+      "description": "Brent's organ solo.",
+      "archive_url": "https://headyversion.com/show/1025/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1988-08-28",
+      "show_id": 1715,
+      "venue": "Autzen Stadium Eugene , OR",
+      "description": "Brent was throwed and had 2 black eyes",
+      "archive_url": "https://headyversion.com/show/1715/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-06-27",
+      "show_id": 907,
+      "venue": "SPAC Saratoga Springs, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/907/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-04-16",
+      "show_id": 1316,
+      "venue": "The Mecca Milwaukee, WI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1316/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-08-31",
+      "show_id": 625,
+      "venue": "Aladdin Theater Las Vegas, NV",
+      "description": "Proudly submit this version. That Dusborne matrix gives this superb depth of sound. Brent\u2019s Hammond solo is lively and strong, and Jerry\u2019s lightning.",
+      "archive_url": "https://headyversion.com/show/625/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-11-08",
+      "show_id": 1744,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Hot Rooster Bluesy and a gem on this night.",
+      "archive_url": "https://headyversion.com/show/1744/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-03-27",
+      "show_id": 223,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "From DL Series volume 5 in Hampton, VA. Satisfying slow burner",
+      "archive_url": "https://headyversion.com/show/223/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1992-06-08",
+      "show_id": 305,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/305/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-08-19",
+      "show_id": 883,
+      "venue": "Uptown Theatre Chicago, IL",
+      "description": "Outstanding version to kickoff 2nd set.",
+      "archive_url": "https://headyversion.com/show/883/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-10-29",
+      "show_id": 1160,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "Candy > Rooster both from Dead Set.",
+      "archive_url": "https://headyversion.com/show/1160/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-06-19",
+      "show_id": 1269,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "Always nice to hear the blues staple in the Windy City",
+      "archive_url": "https://headyversion.com/show/1269/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-02-28",
+      "show_id": 150,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "Scorching hot Blues!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/150/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-05-15",
+      "show_id": 1103,
+      "venue": "Rutgers Athletic Center New Brunswick, NJ",
+      "description": "Brent shows off with some fantastic keyboard work!!!!",
+      "archive_url": "https://headyversion.com/show/1103/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-07-04",
+      "show_id": 1155,
+      "venue": "Manor Downs Austin, TX",
+      "description": "Smokey dank and blusey Jerry nailing his solos. Passionate Bobby. Scorcher from Texas",
+      "archive_url": "https://headyversion.com/show/1155/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-10-03",
+      "show_id": 297,
+      "venue": "Boston Garden Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/297/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-10-31",
+      "show_id": 293,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Outstand vocals. Crisp, tight version.",
+      "archive_url": "https://headyversion.com/show/293/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-09-12",
+      "show_id": 1686,
+      "venue": "Lakeland Civic Center Lakeland, FL",
+      "description": "One of the most dissed and underrated songs they played. What version wasn't any good?",
+      "archive_url": "https://headyversion.com/show/1686/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-09-24",
+      "show_id": 1339,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Another hot version, also with Mick Taylor",
+      "archive_url": "https://headyversion.com/show/1339/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-04-17",
+      "show_id": 910,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "Very silky and relaxed.",
+      "archive_url": "https://headyversion.com/show/910/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-03-03",
+      "show_id": 1158,
+      "venue": "Cleveland Music Hall Cleveland, OH",
+      "description": "Brent take s a nice solo on the B3- good stuff.",
+      "archive_url": "https://headyversion.com/show/1158/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-07-06",
+      "show_id": 834,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Nice Bobby slide work",
+      "archive_url": "https://headyversion.com/show/834/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-08-08",
+      "show_id": 776,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Jerry goes off on the slide!",
+      "archive_url": "https://headyversion.com/show/776/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-04-02",
+      "show_id": 1275,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "The Brent-driven portion of the jam is downright smoldering. The rest of the band can't resist getting in on the action.",
+      "archive_url": "https://headyversion.com/show/1275/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-08-26",
+      "show_id": 2106,
+      "venue": "Cleveland Public Auditorium Cleveland, OH",
+      "description": "A very rare second set little red rooster. Snarled out by Bobby early version. Jerry really seems engaged. Has that extra punch.",
+      "archive_url": "https://headyversion.com/show/2106/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-03-29",
+      "show_id": 1664,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "High energy",
+      "archive_url": "https://headyversion.com/show/1664/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-07-31",
+      "show_id": 1884,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "Another hot rooster with Brent, this one has special guest David Hidalgo also sitting in adding extra guitar lines.",
+      "archive_url": "https://headyversion.com/show/1884/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-10-05",
+      "show_id": 1994,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Heavy",
+      "archive_url": "https://headyversion.com/show/1994/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-12-10",
+      "show_id": 1128,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "Real Nice with Branford Marsalis helping out. HOT!",
+      "archive_url": "https://headyversion.com/show/1128/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-02-19",
+      "show_id": 1148,
+      "venue": "Golden Hall, Community Concourse San Diego, CA",
+      "description": "Wicked Rooster Jerry's playing is off the charts on this night. A grate tight performance on this night.",
+      "archive_url": "https://headyversion.com/show/1148/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-06-23",
+      "show_id": 1867,
+      "venue": "City Island Harrisburg, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1867/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-14",
+      "show_id": 1685,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Rock solid version of a great tune!!",
+      "archive_url": "https://headyversion.com/show/1685/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-12-27",
+      "show_id": 1970,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "Good vocals from Bob - excellent jamming from Bruce and Jerry. Isn't this song almost always good?",
+      "archive_url": "https://headyversion.com/show/1970/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-04-06",
+      "show_id": 543,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Completely torched. Jerry hits his solo like they owe him a million a dollars.",
+      "archive_url": "https://headyversion.com/show/543/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-09-22",
+      "show_id": 1410,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "This one rages. Fierce.",
+      "archive_url": "https://headyversion.com/show/1410/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-10-26",
+      "show_id": 405,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "Bobby Brent Jerry rock it in NYC",
+      "archive_url": "https://headyversion.com/show/405/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-07-04",
+      "show_id": 1283,
+      "venue": "Sullivan Stadium Foxboro, MA",
+      "description": "Really!? This isn't good enough for you people!? Fuckin hell.",
+      "archive_url": "https://headyversion.com/show/1283/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1981-05-12",
+      "show_id": 384,
+      "venue": "Veterans' Memorial Coliseum New Haven, CT",
+      "description": "Bobby and Jerry trade licks scorchingly! Hot!!! They continue ripping into a ridiculous China-Rider! Hot show after the death of Bob Marley.",
+      "archive_url": "https://headyversion.com/show/384/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-07-27",
+      "show_id": 875,
+      "venue": "Red Rocks Ampitheatre Morrison, CO",
+      "description": "Gangs all here, especially Brent's keys",
+      "archive_url": "https://headyversion.com/show/875/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-09-13",
+      "show_id": 1906,
+      "venue": "Manor Downs Austin, TX",
+      "description": "Slower, takes it time, confident strut to it, like the rooster.",
+      "archive_url": "https://headyversion.com/show/1906/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-04-03",
+      "show_id": 1099,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Kickass",
+      "archive_url": "https://headyversion.com/show/1099/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-08-06",
+      "show_id": 693,
+      "venue": "St. Paul Civic Center St. Paul, MN",
+      "description": "Gritty barnyard funk. Great and somewhat overlooked show.",
+      "archive_url": "https://headyversion.com/show/693/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-04-27",
+      "show_id": 298,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Cool mellow blues",
+      "archive_url": "https://headyversion.com/show/298/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-02-17",
+      "show_id": 613,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Bobby seems to be so on this night. Everybody seems to be taking his lead so far.",
+      "archive_url": "https://headyversion.com/show/613/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-03-12",
+      "show_id": 1785,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Matt Kelly guests always a pleasure",
+      "archive_url": "https://headyversion.com/show/1785/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-09-27",
+      "show_id": 1505,
+      "venue": "Capital Centre Landover, MD",
+      "description": "ANother song that was defat its peak during the Brent years here is another fabulous Rooster.",
+      "archive_url": "https://headyversion.com/show/1505/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1983-10-09",
+      "show_id": 1281,
+      "venue": "Greensboro Coliseum Greensboro, NC",
+      "description": "I know Bobby slide playing is despised most but it's so psychedelic!",
+      "archive_url": "https://headyversion.com/show/1281/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-12-06",
+      "show_id": 2037,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2037/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-04-03",
+      "show_id": 1048,
+      "venue": "The Omni Atlanta, GA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1048/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-12-09",
+      "show_id": 129,
+      "venue": "Compton Terrace Amphitheatre Chandler, AZ",
+      "description": "Rockin version at Compton Terrace",
+      "archive_url": "https://headyversion.com/show/129/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-04-07",
+      "show_id": 989,
+      "venue": "Tampa Stadium Tampa, FL",
+      "description": "They really got into this one. Bobby's voice was powerful as it had ever been and Jerry was backing him up nicely. Great version and the crowd knew it",
+      "archive_url": "https://headyversion.com/show/989/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-20",
+      "show_id": 340,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Very slick work from Jerry here. One of the best post-Brent versions.",
+      "archive_url": "https://headyversion.com/show/340/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-10-15",
+      "show_id": 1602,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Torched. Mark it down.",
+      "archive_url": "https://headyversion.com/show/1602/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-08-29",
+      "show_id": 450,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "That dawg is howling, and by gawd tnat rooster be prowlin.",
+      "archive_url": "https://headyversion.com/show/450/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-09-05",
+      "show_id": 1646,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "Cockadoodledoo! Whole show is great. Bruce Hornsby assist that weekend.",
+      "archive_url": "https://headyversion.com/show/1646/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-02-20",
+      "show_id": 1738,
+      "venue": "Delta Center Salt Lake City, UT",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1738/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-05-21",
+      "show_id": 116,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/116/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-03-25",
+      "show_id": 2020,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2020/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1995-06-03",
+      "show_id": 1242,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1242/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-11-21",
+      "show_id": 1552,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "A crisp, tight one from '85.",
+      "archive_url": "https://headyversion.com/show/1552/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-24",
+      "show_id": 1240,
+      "venue": "Boston Garden Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1240/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-10-02",
+      "show_id": 962,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/962/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-10-01",
+      "show_id": 1878,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Because t just doesn\u2019t sound right when Brent says \u2018mess with\u2019 instead of \u2018fuck with\u2019",
+      "archive_url": "https://headyversion.com/show/1878/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-09-19",
+      "show_id": 1568,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Great playing by everyone",
+      "archive_url": "https://headyversion.com/show/1568/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-06-17",
+      "show_id": 158,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Firing on all cylinders",
+      "archive_url": "https://headyversion.com/show/158/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-03-26",
+      "show_id": 1905,
+      "venue": "Aladdin Theater Las Vegas, NV",
+      "description": "Not a song I usually stop for but this is one of the first versions that made me pause and listen more closely",
+      "archive_url": "https://headyversion.com/show/1905/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-06-24",
+      "show_id": 902,
+      "venue": "Dane County Coliseum Madison, WI",
+      "description": "High octane fueled lunacy from a scorching show. None better.",
+      "archive_url": "https://headyversion.com/show/902/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-08-21",
+      "show_id": 2054,
+      "venue": "Frost Amphitheater Palo Alto, CA",
+      "description": "Dirty, muddy, blues",
+      "archive_url": "https://headyversion.com/show/2054/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-08-27",
+      "show_id": 73,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "Sweet slide, dig Brent's verse too, bluesy and bitchin'",
+      "archive_url": "https://headyversion.com/show/73/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-10-03",
+      "show_id": 633,
+      "venue": "Rainbow Theater London,",
+      "description": "Hot one",
+      "archive_url": "https://headyversion.com/show/633/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-10-06",
+      "show_id": 624,
+      "venue": "Rainbow Theater London, UK",
+      "description": "Excellently performed.",
+      "archive_url": "https://headyversion.com/show/624/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-04-15",
+      "show_id": 1104,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Surprised this version isn\u2019t on here. Bobby\u2019s vocals and playing are great, and Brent\u2019s verse and solo really make this a top tier version",
+      "archive_url": "https://headyversion.com/show/1104/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-02-08",
+      "show_id": 1041,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "laser hot rooster, explosive Brent, dual slide and devils gettin' it done",
+      "archive_url": "https://headyversion.com/show/1041/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-09-03",
+      "show_id": 582,
+      "venue": "Civic Center Springfield, MA",
+      "description": "A slowed down Rooster with some heavy organ from Brent. DS7",
+      "archive_url": "https://headyversion.com/show/582/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-09-03",
+      "show_id": 87,
+      "venue": "Capital Centre Landover, MD",
+      "description": "everyone impatient to bust out passionate stuff on this searing version",
+      "archive_url": "https://headyversion.com/show/87/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-06-28",
+      "show_id": 597,
+      "venue": "Poplar Creek Music Theater Hofman Estates, IL",
+      "description": "Rooster is not necessarily a song I seek out when I look at setlists, but this one stands out. Nice show here.",
+      "archive_url": "https://headyversion.com/show/597/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-09-15",
+      "show_id": 1243,
+      "venue": "Capital Centre Landover, MD",
+      "description": "great rooster! great playing all around, especially jerry toward the end.",
+      "archive_url": "https://headyversion.com/show/1243/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-04-19",
+      "show_id": 778,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "Hot hot",
+      "archive_url": "https://headyversion.com/show/778/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-11-30",
+      "show_id": 1872,
+      "venue": "Hara Arena Dayton, OH",
+      "description": "Garcia's playing is great",
+      "archive_url": "https://headyversion.com/show/1872/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-19",
+      "show_id": 260,
+      "venue": "Internationales Congress Centrum Berlin,",
+      "description": "Listen to those drums swing! Above average slide fun from the band, particularly Garcia.",
+      "archive_url": "https://headyversion.com/show/260/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-09-30",
+      "show_id": 547,
+      "venue": "Warfield Theatre San Francisco, CA",
+      "description": "How high can Garcia get?",
+      "archive_url": "https://headyversion.com/show/547/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-03-18",
+      "show_id": 1089,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Jam made me look at my radio twice in disbelief.",
+      "archive_url": "https://headyversion.com/show/1089/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-05-13",
+      "show_id": 1212,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "Very solid version of a song I normally look past.",
+      "archive_url": "https://headyversion.com/show/1212/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-06",
+      "show_id": 303,
+      "venue": "Crisler Arena Ann Arbor, MI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/303/archive/"
+    }
+  ]
+}

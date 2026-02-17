@@ -1,0 +1,54 @@
+{
+  "song_id": 366,
+  "name": "Valley Road",
+  "performances": [
+    {
+      "votes": 17,
+      "date": "1990-10-30",
+      "show_id": 1822,
+      "venue": "Wembley Arena London,",
+      "description": "Brucey is ON for this version.  Only heard it live once but enjoyed it when the boys broke it out.",
+      "archive_url": "https://headyversion.com/show/1822/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1990-12-04",
+      "show_id": 1858,
+      "venue": "Oakland Coliseum Oakland, CA",
+      "description": "The blues version of this Hornsby led beauty. This is a real treat and should have been explored more often. Wonderful",
+      "archive_url": "https://headyversion.com/show/1858/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1990-12-13",
+      "show_id": 1859,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "LOVER of all 6 versions. LOVE BRUCE. Can not wait until the shows this summer BRRRRRRRUUUUUCEEEEEE",
+      "archive_url": "https://headyversion.com/show/1859/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-12-09",
+      "show_id": 129,
+      "venue": "Compton Terrace Amphitheatre Chandler, AZ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/129/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-12-30",
+      "show_id": 888,
+      "venue": "Coliseum Arena Oakland, Ca",
+      "description": "Tragically this is the last time played, this had potential to be a barn burning set closer during the Hornsby years, nice little piano and guitar jam",
+      "archive_url": "https://headyversion.com/show/888/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-10-22",
+      "show_id": 1860,
+      "venue": "Festhalle Frankfurt\u007f, GM",
+      "description": "Debut of a Hornsby penned tune played by the GratefulDead, not the jamming beast this would become with Bruce's solo bands but still a very enjoyable",
+      "archive_url": "https://headyversion.com/show/1860/archive/"
+    }
+  ]
+}

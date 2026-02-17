@@ -1,0 +1,38 @@
+{
+  "song_id": 17,
+  "name": "Baby",
+  "performances": [
+    {
+      "votes": 7,
+      "date": "1985-11-08",
+      "show_id": 203,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Baby What You Want Me To Do-Great rare Brent tune, Cover of the Classic Jmmy Reed tune also played by Elvis and Hot Tuna",
+      "archive_url": "https://headyversion.com/show/203/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-12-31",
+      "show_id": 754,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "This one is the bomb with Etta James and Tower of Power,",
+      "archive_url": "https://headyversion.com/show/754/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-02-18",
+      "show_id": 1701,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "BRENT",
+      "archive_url": "https://headyversion.com/show/1701/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-03-29",
+      "show_id": 1357,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "music never stoppd tease into this crackling rarity! Back porch scheming for lived-in tracks, avenues of decay for the tires of hummers.",
+      "archive_url": "https://headyversion.com/show/1357/archive/"
+    }
+  ]
+}
