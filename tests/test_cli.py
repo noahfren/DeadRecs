@@ -1,5 +1,7 @@
 """Tests for the CLI skeleton."""
 
+from unittest.mock import patch
+
 from click.testing import CliRunner
 
 from deadrecs.cli import main
@@ -19,11 +21,12 @@ def test_version():
     assert "0.1.0" in result.output
 
 
-def test_scrape_placeholder():
+def test_scrape_invokes_run_scraper():
     runner = CliRunner()
-    result = runner.invoke(main, ["scrape"])
-    assert result.exit_code == 0
-    assert "Scraper not yet implemented." in result.output
+    with patch("deadrecs.scraper.run_scraper") as mock_run:
+        result = runner.invoke(main, ["scrape"])
+        assert result.exit_code == 0
+        mock_run.assert_called_once_with(delay=1.0)
 
 
 def test_train_placeholder():
