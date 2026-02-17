@@ -10,6 +10,7 @@ SONGS_DIR = RAW_DIR / "songs"
 
 SONGS_INDEX_PATH = RAW_DIR / "songs_index.json"
 GRAPH_PATH = DATA_DIR / "graph.pickle"
+DESCRIPTION_EMBEDDINGS_PATH = DATA_DIR / "description_embeddings.pt"
 MODEL_PATH = DATA_DIR / "model.pt"
 EMBEDDINGS_PATH = DATA_DIR / "embeddings.pt"
 

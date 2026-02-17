@@ -29,11 +29,13 @@ def test_scrape_invokes_run_scraper():
         mock_run.assert_called_once_with(delay=1.0)
 
 
-def test_train_placeholder():
+def test_train_requires_scraped_data():
     runner = CliRunner()
-    result = runner.invoke(main, ["train"])
-    assert result.exit_code == 0
-    assert "Training not yet implemented." in result.output
+    with patch("deadrecs.utils.SONGS_INDEX_PATH") as mock_path:
+        mock_path.exists.return_value = False
+        result = runner.invoke(main, ["train"])
+        assert result.exit_code != 0
+        assert "scrape" in result.output.lower()
 
 
 def test_recommend_placeholder():
