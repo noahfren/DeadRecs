@@ -1,0 +1,54 @@
+{
+  "song_id": 303,
+  "name": "Willie and the Hand Jive",
+  "performances": [
+    {
+      "votes": 5,
+      "date": "1987-04-04",
+      "show_id": 1178,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Out of Comes A Time, this Hand Jive smokes.",
+      "archive_url": "https://headyversion.com/show/1178/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1986-02-12",
+      "show_id": 979,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "A nice jam with the Neville Brothers.",
+      "archive_url": "https://headyversion.com/show/979/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1986-03-23",
+      "show_id": 1780,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "great rare tune",
+      "archive_url": "https://headyversion.com/show/1780/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1986-04-12",
+      "show_id": 983,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "good Hand Jive in the first set.",
+      "archive_url": "https://headyversion.com/show/983/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1986-03-31",
+      "show_id": 1177,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "nice treat performed mostly in spring of 1986",
+      "archive_url": "https://headyversion.com/show/1177/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1986-12-16",
+      "show_id": 1595,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Jerrys second dnight back from the coma a very fun little show",
+      "archive_url": "https://headyversion.com/show/1595/archive/"
+    }
+  ]
+}

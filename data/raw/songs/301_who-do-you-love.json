@@ -1,0 +1,38 @@
+{
+  "song_id": 301,
+  "name": "Who Do You Love",
+  "performances": [
+    {
+      "votes": 9,
+      "date": "1972-04-14",
+      "show_id": 135,
+      "venue": "Tivolis Koncertsal Copenhagen, DN",
+      "description": "First one ever.  Was a nice touch in the middle of Caution.",
+      "archive_url": "https://headyversion.com/show/135/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-05-11",
+      "show_id": 14,
+      "venue": "Rotterdam Civic Hall Rotterdam,",
+      "description": "Final who do u love at is top 5 show of all time and the best of Europe 72.",
+      "archive_url": "https://headyversion.com/show/14/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1966-03-09",
+      "show_id": 2149,
+      "venue": "Owsley's House (rehearsal) Los Angeles, CA",
+      "description": "Pig is on fire and the band revs to 6000 rpm. Jerry's tone is a shredding crisp fist full of razor blades.",
+      "archive_url": "https://headyversion.com/show/2149/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-04-29",
+      "show_id": 819,
+      "venue": "Musikhalle Hamburg,",
+      "description": "During Caution, amazing Pig stuff!",
+      "archive_url": "https://headyversion.com/show/819/archive/"
+    }
+  ]
+}

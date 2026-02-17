@@ -1,0 +1,62 @@
+{
+  "song_id": 141,
+  "name": "It Takes A Lot To Laugh, It Takes A Train To Cry",
+  "performances": [
+    {
+      "votes": 34,
+      "date": "1973-06-10",
+      "show_id": 144,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "So much goodness in this show. Allmans join in on this one to make it a classic.",
+      "archive_url": "https://headyversion.com/show/144/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1991-09-10",
+      "show_id": 325,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Sweeter than pie",
+      "archive_url": "https://headyversion.com/show/325/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1991-05-12",
+      "show_id": 346,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Has that swagger this tune requires",
+      "archive_url": "https://headyversion.com/show/346/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1992-03-16",
+      "show_id": 805,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Great Bob Dylan song,Jerry transitons cc rider into It takes a lot to laugh.Partial to this version because I was there",
+      "archive_url": "https://headyversion.com/show/805/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-09-22",
+      "show_id": 336,
+      "venue": "Boston Garden Boston, MA",
+      "description": "From an underrated Boston 91 show!!!",
+      "archive_url": "https://headyversion.com/show/336/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-08-18",
+      "show_id": 242,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "A great song they should have played more. Solid version. Hornsby is all over it.",
+      "archive_url": "https://headyversion.com/show/242/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-06-24",
+      "show_id": 497,
+      "venue": "Sandstone Amphitheatre Bonner Springs, KS",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/497/archive/"
+    }
+  ]
+}

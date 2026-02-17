@@ -1,0 +1,398 @@
+{
+  "song_id": 13,
+  "name": "And We Bid You Goodnight",
+  "performances": [
+    {
+      "votes": 46,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "A great \"long\" version.",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1976-12-31",
+      "show_id": 46,
+      "venue": "Cow Palace Daly City, CA",
+      "description": "This one might be my favorite",
+      "archive_url": "https://headyversion.com/show/46/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1970-05-02",
+      "show_id": 27,
+      "venue": "Harpur College Binghamton, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/27/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1989-10-16",
+      "show_id": 47,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Great end to a great night.",
+      "archive_url": "https://headyversion.com/show/47/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1969-05-24",
+      "show_id": 473,
+      "venue": "Seminole Indian Village West Hollywood, FL",
+      "description": "As usual the perfect little cherry on a hot 1969 show",
+      "archive_url": "https://headyversion.com/show/473/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1989-10-08",
+      "show_id": 385,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/385/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1989-07-17",
+      "show_id": 53,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "just really together on this one",
+      "archive_url": "https://headyversion.com/show/53/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1990-03-24",
+      "show_id": 191,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "Fairly Long Version, The Fans Are Loving It !",
+      "archive_url": "https://headyversion.com/show/191/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1969-04-26",
+      "show_id": 990,
+      "venue": "The Electric Theatre Chicago, IL",
+      "description": "The absolute only way they could have ended the madness that preceded it.",
+      "archive_url": "https://headyversion.com/show/990/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-11-11",
+      "show_id": 434,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Good version of this short number",
+      "archive_url": "https://headyversion.com/show/434/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1974-02-23",
+      "show_id": 360,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/360/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1973-02-28",
+      "show_id": 8,
+      "venue": "Salt Palace Salt Lake City, UT",
+      "description": "Jerry feels it.",
+      "archive_url": "https://headyversion.com/show/8/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-01-25",
+      "show_id": 863,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Another fantastic 1960's version",
+      "archive_url": "https://headyversion.com/show/863/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1978-12-31",
+      "show_id": 356,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "You only get about the half the song in the recording but the band is awesome sounding and the audience is going insane!",
+      "archive_url": "https://headyversion.com/show/356/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1970-02-13",
+      "show_id": 595,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Little ragged vocally, but a beautiful end to a wide-ranging and justly famous show.",
+      "archive_url": "https://headyversion.com/show/595/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "A standout version from a great show.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-02-15",
+      "show_id": 388,
+      "venue": "Electric Factory Philadelphia, PA",
+      "description": "WOW - Just WOW. This one is STARK HARMONY crowd clapping is perfect.  Basically Phil + Jerry Duet. This one's money.",
+      "archive_url": "https://headyversion.com/show/388/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-02-28",
+      "show_id": 686,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Short, but a nice ending to a really sublime show",
+      "archive_url": "https://headyversion.com/show/686/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-01-24",
+      "show_id": 1447,
+      "venue": "Honolulu Civic Auditorium Honolulu, HI",
+      "description": "Gorgeous version and appropriate after this great run.",
+      "archive_url": "https://headyversion.com/show/1447/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-09-26",
+      "show_id": 115,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Nice version with Vince and Bruce joining in.",
+      "archive_url": "https://headyversion.com/show/115/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1989-10-26",
+      "show_id": 11,
+      "venue": "Miami Arena Miami, FL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/11/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1973-04-02",
+      "show_id": 50,
+      "venue": "Boston Garden Boston, MA",
+      "description": "2nd one in a few years.  Seemed appropriate to close the run with this.",
+      "archive_url": "https://headyversion.com/show/50/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-12-12",
+      "show_id": 1383,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "Smokin We bid Jam out of alligator and then soulful show closer.",
+      "archive_url": "https://headyversion.com/show/1383/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-03-02",
+      "show_id": 838,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/838/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-07-14",
+      "show_id": 1750,
+      "venue": "Foxboro Stadium Foxboro, MA",
+      "description": "Penultimate version and final version with Brent. Always a treat.",
+      "archive_url": "https://headyversion.com/show/1750/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1973-11-25",
+      "show_id": 1305,
+      "venue": "Feyline Field Tempe, AZ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1305/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-09-20",
+      "show_id": 85,
+      "venue": "Fillmore East New York, NY",
+      "description": "Absolutely beautiful version.",
+      "archive_url": "https://headyversion.com/show/85/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-08-18",
+      "show_id": 436,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/436/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-04-03",
+      "show_id": 157,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Last one for over a year.  Pretty version!",
+      "archive_url": "https://headyversion.com/show/157/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-04-05",
+      "show_id": 1126,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Barber shop trio with Phil prominent in the mix.",
+      "archive_url": "https://headyversion.com/show/1126/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1974-10-20",
+      "show_id": 628,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/628/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-02-05",
+      "show_id": 837,
+      "venue": "Soldiers & Sailors Memorial Auditorium Kansas City, KS",
+      "description": "Deserves a listen...wait for Jerry's comment at the end.",
+      "archive_url": "https://headyversion.com/show/837/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-08-06",
+      "show_id": 988,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Head spun when they whipped this one out..1st and only time for me.",
+      "archive_url": "https://headyversion.com/show/988/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-08-15",
+      "show_id": 1606,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "This is the last known version with Pigpen",
+      "archive_url": "https://headyversion.com/show/1606/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1968-08-21",
+      "show_id": 885,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "About 3 minutes before Alligator ends, there is a really aggressive run through we bid you goodnight.",
+      "archive_url": "https://headyversion.com/show/885/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-11-08",
+      "show_id": 743,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Everybody's in on this one - Jer Bob and Phil. start off creaky then drive it home.",
+      "archive_url": "https://headyversion.com/show/743/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-08-03",
+      "show_id": 1488,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Sweet ending to an absolutely cosmic show. I love 1969 Grateful Dead. Just so Deep. AWESOME",
+      "archive_url": "https://headyversion.com/show/1488/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-03-16",
+      "show_id": 1228,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Always the sweetest little cherry on a beautiful Sundae",
+      "archive_url": "https://headyversion.com/show/1228/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-02-11",
+      "show_id": 864,
+      "venue": "Fillmore East New York,",
+      "description": "Pretty good one, wondering why it isnt on here yet. after a few minutes of audience it erupts into cosmic charlie then the tape cuts out",
+      "archive_url": "https://headyversion.com/show/864/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-04-23",
+      "show_id": 389,
+      "venue": "The Ark Boston, MA",
+      "description": "another amazing 1969 wbyg",
+      "archive_url": "https://headyversion.com/show/389/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-12-21",
+      "show_id": 1054,
+      "venue": "Shrine Exhibition Hall Los Angeles, CA",
+      "description": "fantastic always a great choice to end a hot show.",
+      "archive_url": "https://headyversion.com/show/1054/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-10-31",
+      "show_id": 287,
+      "venue": "Ohio Theatre Columbus, OH",
+      "description": "No words, just the melody at the 6 minute mark of one of the best GDTRFB ever",
+      "archive_url": "https://headyversion.com/show/287/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-12-29",
+      "show_id": 402,
+      "venue": "Gulfstream Park Race Track Hallandale, FL",
+      "description": "Excellent wrap up to the show closing jam",
+      "archive_url": "https://headyversion.com/show/402/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-02-27",
+      "show_id": 619,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "even in 1990 the best way to end a spacey fun show",
+      "archive_url": "https://headyversion.com/show/619/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-05-31",
+      "show_id": 847,
+      "venue": "McArthur Court, University of Oregon Eugene, OR",
+      "description": "go to closer for these sick 1969 shows",
+      "archive_url": "https://headyversion.com/show/847/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-08-23",
+      "show_id": 1523,
+      "venue": "Pelletier Farm St. Helens, OR",
+      "description": "This one comes after a really hot Lovelight. The harmonies are perfect!",
+      "archive_url": "https://headyversion.com/show/1523/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-02-02",
+      "show_id": 589,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Awesome version and on an official release, not sure why it\u2019s not already here",
+      "archive_url": "https://headyversion.com/show/589/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-12-07",
+      "show_id": 954,
+      "venue": "Bellarmine College Louisville, KY",
+      "description": "\u201cThanks a lot, you\u2019ve just been victimized by the Grateful Dead.\u201d",
+      "archive_url": "https://headyversion.com/show/954/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-30",
+      "show_id": 413,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "4 minutes prior, they played a jam of the melody.",
+      "archive_url": "https://headyversion.com/show/413/archive/"
+    }
+  ]
+}

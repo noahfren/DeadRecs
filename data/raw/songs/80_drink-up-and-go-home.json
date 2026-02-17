@@ -1,0 +1,14 @@
+{
+  "song_id": 80,
+  "name": "Drink Up and Go Home",
+  "performances": [
+    {
+      "votes": 5,
+      "date": "1970-08-05",
+      "show_id": 553,
+      "venue": "Golden Hall - San Diego Community Concourse San Diego, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/553/archive/"
+    }
+  ]
+}

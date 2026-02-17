@@ -1,0 +1,46 @@
+{
+  "song_id": 123,
+  "name": "How Long Blues",
+  "performances": [
+    {
+      "votes": 6,
+      "date": "1970-07-14",
+      "show_id": 57,
+      "venue": "Euphoria Ballroom San Rafael, CA",
+      "description": "Only one I've heard on tape. Nice tune..",
+      "archive_url": "https://headyversion.com/show/57/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-02-12",
+      "show_id": 68,
+      "venue": "Great Western Forum Inglewood, CA",
+      "description": "with Spencer Davis",
+      "archive_url": "https://headyversion.com/show/68/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-08-19",
+      "show_id": 1545,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Warm audience recording, mystery piano player (Lagin, maybe?)",
+      "archive_url": "https://headyversion.com/show/1545/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "You need the Sir Mick source on IA as some of the shows seem to be the night before. Muddy sound but a good version of the few times this song was pla",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-11-07",
+      "show_id": 1219,
+      "venue": "Capital Theater Port Chester, NY",
+      "description": "Rare",
+      "archive_url": "https://headyversion.com/show/1219/archive/"
+    }
+  ]
+}

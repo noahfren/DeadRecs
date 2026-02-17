@@ -1,0 +1,30 @@
+{
+  "song_id": 360,
+  "name": "You Don't Love Me",
+  "performances": [
+    {
+      "votes": 5,
+      "date": "1966-02-25",
+      "show_id": 410,
+      "venue": "Ivar Theater Los Angeles, CA",
+      "description": "in a schoolgirl sandwich - jerry vocals - junior wells' hoodoo man blues LP is required listening for any pigpen/66 freaks out there",
+      "archive_url": "https://headyversion.com/show/410/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1966-12-01",
+      "show_id": 958,
+      "venue": "Studio demo San Francisco, CA",
+      "description": "Jerry vocals. Sounds kinda like Schoolgirl. A nice curiosity.",
+      "archive_url": "https://headyversion.com/show/958/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1966-08-01",
+      "show_id": 2153,
+      "venue": "Unknown Unknown,",
+      "description": "Dates are debatable, but the band isn't. Brilliant insert between Schoolgirl sections.",
+      "archive_url": "https://headyversion.com/show/2153/archive/"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "song_id": 153,
+  "name": "Let It Rock",
+  "performances": [
+    {
+      "votes": 52,
+      "date": "1974-06-23",
+      "show_id": 92,
+      "venue": "Jai-Alai Fronton Miami, FL",
+      "description": "It DOES INDEED Let it ROCK!",
+      "archive_url": "https://headyversion.com/show/92/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1975-12-31",
+      "show_id": 1713,
+      "venue": "Keystone Berkeley, CA",
+      "description": "JGB only new years show they ever played with nicky hopkins garcia live vol. 5",
+      "archive_url": "https://headyversion.com/show/1713/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-09-16",
+      "show_id": 2159,
+      "venue": "Poplar Creek Hoffmann Estates, IL",
+      "description": "Clarence Clemons sits in for the whole show and really is a great addition. They rock this Let It Rock better than anywhere else I have heard anywhere",
+      "archive_url": "https://headyversion.com/show/2159/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-11-15",
+      "show_id": 2215,
+      "venue": "The Wiltern Los Angeles, Ca",
+      "description": "One of if not the best I've heard. Jerry rips the paints off the walls.",
+      "archive_url": "https://headyversion.com/show/2215/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-09-06",
+      "show_id": 2107,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Gutbucket Chuck funk",
+      "archive_url": "https://headyversion.com/show/2107/archive/"
+    }
+  ]
+}

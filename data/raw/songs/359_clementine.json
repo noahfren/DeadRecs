@@ -1,0 +1,62 @@
+{
+  "song_id": 359,
+  "name": "Clementine",
+  "performances": [
+    {
+      "votes": 38,
+      "date": "1969-01-26",
+      "show_id": 1068,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Cool, acid-jamming, psychedelic waltz. And sadly the last version.",
+      "archive_url": "https://headyversion.com/show/1068/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1968-02-02",
+      "show_id": 868,
+      "venue": "Crystal Ballroom Portland, OR",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/868/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1968-01-20",
+      "show_id": 83,
+      "venue": "Eureka Municipal Auditorium Eureka, CA",
+      "description": "there's that speeding melting warbling 1968 train feeling again",
+      "archive_url": "https://headyversion.com/show/83/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1968-01-23",
+      "show_id": 727,
+      "venue": "Eagles Auditorium Seattle, WA",
+      "description": "Wonderful and far to rare, thanks for the heads up about this show this version is wonderful as they all are, psychedelic wonderment.",
+      "archive_url": "https://headyversion.com/show/727/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1968-10-08",
+      "show_id": 1937,
+      "venue": "The Matrix San Francisco, CA",
+      "description": "Wonderfully heady Clementine Jam to start this great Heartbeats show, Jerry and Phil are really getting off",
+      "archive_url": "https://headyversion.com/show/1937/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-08-13",
+      "show_id": 2164,
+      "venue": "Pacific Recording San Mateo, CA",
+      "description": "The studio jam version from the expanded Aoxomoxoa release",
+      "archive_url": "https://headyversion.com/show/2164/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-09-21",
+      "show_id": 2179,
+      "venue": "Pacific Recording San Mateo, CA",
+      "description": "Studio Rarities",
+      "archive_url": "https://headyversion.com/show/2179/archive/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "song_id": 257,
+  "name": "Tangled Up In Blue",
+  "performances": [
+    {
+      "votes": 15,
+      "date": "1987-07-10",
+      "show_id": 1091,
+      "venue": "JFK Stadium Philadelphia, PA",
+      "description": "To me Philly is easily the best of the Dylan Dead shows, Confident Dylan Delivery The boys are rocking it pretty good, wish he let them let loose more",
+      "archive_url": "https://headyversion.com/show/1091/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1987-07-19",
+      "show_id": 1237,
+      "venue": "Autzen Stadium - University of Oregon Eugene, OR",
+      "description": "One of the few Soundboards I heard from the Dylan sets, Modified Dylan lyrics. Incredible backup effort by the boys, expertly played , Nice Jerry",
+      "archive_url": "https://headyversion.com/show/1237/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1983-11-25",
+      "show_id": 2086,
+      "venue": "Cleveland Music Hall Cleveland, OH",
+      "description": "Best tangled up in Blue ever.  Inredibly high energy and fusion among the band.",
+      "archive_url": "https://headyversion.com/show/2086/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1977-07-30",
+      "show_id": 2183,
+      "venue": "Theatre 1839 San Francisco, CA",
+      "description": "My favorite version of one of my favorite songs by my favorite musician.",
+      "archive_url": "https://headyversion.com/show/2183/archive/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "song_id": 7,
+  "name": "Ain't Superstitious (Meet Me on the Bottom)",
+  "performances": [
+    {
+      "votes": 20,
+      "date": "1985-06-28",
+      "show_id": 238,
+      "venue": "Hershey Park Stadium Hershey, PA",
+      "description": "Awesome. Of the few times this was played, this is perhaps the tightest and fiercest.",
+      "archive_url": "https://headyversion.com/show/238/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-04-08",
+      "show_id": 783,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Bluesy night at the Spectrum. This has some heat whole show big energy > Althea cool down.",
+      "archive_url": "https://headyversion.com/show/783/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-03-29",
+      "show_id": 1357,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "With Matthew Kelly, takes a second to get cookin, but when it does it totally rips",
+      "archive_url": "https://headyversion.com/show/1357/archive/"
+    }
+  ]
+}

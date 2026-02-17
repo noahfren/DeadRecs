@@ -1,0 +1,86 @@
+{
+  "song_id": 16,
+  "name": "Oh Babe It Ain't No Lie",
+  "performances": [
+    {
+      "votes": 12,
+      "date": "1980-10-30",
+      "show_id": 90,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "The original Reckoning version of \"Oh Babe, It Ain't No Lie\"",
+      "archive_url": "https://headyversion.com/show/90/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1981-10-16",
+      "show_id": 715,
+      "venue": "Melkweg Amsterdam,",
+      "description": "The Best.",
+      "archive_url": "https://headyversion.com/show/715/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1980-10-11",
+      "show_id": 963,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Cool version in a great acoustic set.",
+      "archive_url": "https://headyversion.com/show/963/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-09-25",
+      "show_id": 403,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "The first and a very good one too.",
+      "archive_url": "https://headyversion.com/show/403/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-09-30",
+      "show_id": 547,
+      "venue": "Warfield Theatre San Francisco, CA",
+      "description": "I can dream can't I......",
+      "archive_url": "https://headyversion.com/show/547/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-10-09",
+      "show_id": 1192,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Great version from a great acoustic set",
+      "archive_url": "https://headyversion.com/show/1192/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-03-28",
+      "show_id": 1345,
+      "venue": "Marin County Veterans Auditorium San Rafael, CA",
+      "description": "Cool version that Jerry starts and the band jumps on while Bob works out some gear issues. Last one ever, first in years, and only electric version.",
+      "archive_url": "https://headyversion.com/show/1345/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-12-06",
+      "show_id": 971,
+      "venue": "Mill Valley Recreation Center Mill Valley, CA",
+      "description": "Not played since the Warfield/RCMH run, and it shows a little, but overall it\u2019s still pretty good",
+      "archive_url": "https://headyversion.com/show/971/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-10-23",
+      "show_id": 1146,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "Beautiful... I think I like this more than the Reckoning version",
+      "archive_url": "https://headyversion.com/show/1146/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-04-25",
+      "show_id": 2040,
+      "venue": "The Stone San Francisco, CA",
+      "description": "New Bear's Sonic Journals release sounds AMAZING!",
+      "archive_url": "https://headyversion.com/show/2040/archive/"
+    }
+  ]
+}

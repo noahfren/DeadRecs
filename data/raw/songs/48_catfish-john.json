@@ -1,0 +1,78 @@
+{
+  "song_id": 48,
+  "name": "Catfish John",
+  "performances": [
+    {
+      "votes": 7,
+      "date": "1982-06-16",
+      "show_id": 1443,
+      "venue": "Music Mountain South Fallsburg, NY",
+      "description": "(J.G.B.) A classic, if you havent heard this show check it out, Jerry's on fire all night. Billy K. sits in on drums.",
+      "archive_url": "https://headyversion.com/show/1443/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1976-02-14",
+      "show_id": 2085,
+      "venue": "Keystone Berkeley, CA",
+      "description": "Have not heaerd it in hears but remember it being special.Back to back Catfish/I want to Tell you! https://www.youtube.com/watch?v=8hzK6rTEHdY",
+      "archive_url": "https://headyversion.com/show/2085/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1976-09-15",
+      "show_id": 1816,
+      "venue": "S.S. Duchess on New York City Harbor New York, NY",
+      "description": "Definitive!",
+      "archive_url": "https://headyversion.com/show/1816/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-02-28",
+      "show_id": 2097,
+      "venue": "Kean College Union County, NJ",
+      "description": "JGB absolutely nails the perfect mix of funk, rock, and classic Jerry in this sweet tune",
+      "archive_url": "https://headyversion.com/show/2097/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1975-12-31",
+      "show_id": 1713,
+      "venue": "Keystone Berkeley, CA",
+      "description": "GarciaLive 5. SUPER SOLID recording and performance.",
+      "archive_url": "https://headyversion.com/show/1713/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-03-01",
+      "show_id": 1817,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "From GarciaLive 1. Very funky with very good vocals from Jerry. Give it a listen!",
+      "archive_url": "https://headyversion.com/show/1817/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-05-18",
+      "show_id": 1431,
+      "venue": "Irvine Meadows Ampitheatre Irvine , CA",
+      "description": "Oh man this version smokes.... One of the last times it was played... And man its up tempo like it should be. Absolutely shredding",
+      "archive_url": "https://headyversion.com/show/1431/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-01-22",
+      "show_id": 2158,
+      "venue": "Phoenix Theatre Petaluma, CA",
+      "description": "This is another later day catsh john, and it shreds. Not that slow 70s catfish john, but a totally sweeping jamming catfish john. Way sweet.",
+      "archive_url": "https://headyversion.com/show/2158/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-02-18",
+      "show_id": 2233,
+      "venue": "Veterans Memorial Auditorium San Rafael, CA",
+      "description": "Pure Jerry: Bay Area 1978 version. From one of the best JGB shows of all time, Jerry plays one of my all time favorite solos of his. Top Shelf version",
+      "archive_url": "https://headyversion.com/show/2233/archive/"
+    }
+  ]
+}

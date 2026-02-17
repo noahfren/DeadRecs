@@ -1,0 +1,398 @@
+{
+  "song_id": 11,
+  "name": "Alligator",
+  "performances": [
+    {
+      "votes": 58,
+      "date": "1968-08-23",
+      "show_id": 38,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Bouncy energetic inspired",
+      "archive_url": "https://headyversion.com/show/38/archive/"
+    },
+    {
+      "votes": 51,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "So Sweet!!!",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 39,
+      "date": "1968-02-14",
+      "show_id": 84,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Used on Anthem of the Sun. Awesome leads, cool Mountain jam theme.",
+      "archive_url": "https://headyversion.com/show/84/archive/"
+    },
+    {
+      "votes": 35,
+      "date": "1969-02-28",
+      "show_id": 686,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "The \"Power Jam\", wild stuff from Phil!",
+      "archive_url": "https://headyversion.com/show/686/archive/"
+    },
+    {
+      "votes": 33,
+      "date": "1969-12-12",
+      "show_id": 1383,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "This one is smoking!!!!",
+      "archive_url": "https://headyversion.com/show/1383/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1967-11-10",
+      "show_id": 679,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "A smoking version from the Shrine Exposition Hall!",
+      "archive_url": "https://headyversion.com/show/679/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1968-02-24",
+      "show_id": 917,
+      "venue": "Kings Beach Bowl Lake Tahoe , CA",
+      "description": "Alligator>China Cat>Eleven>Alligator - speaks for itself. The only crime here is I wish the 2nd Alligator was way longer!",
+      "archive_url": "https://headyversion.com/show/917/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1969-03-02",
+      "show_id": 838,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Oh. My. GOD. The jam is long as hell, but the playing is hot. The peak at 18:52 is absolutley UNREAL",
+      "archive_url": "https://headyversion.com/show/838/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "A legendary run of Alligator->Drums->Me And My Uncleot Fade Away->Mason's Children->Caution->Feedback->We Bid You Goodnight.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1968-08-21",
+      "show_id": 885,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Beautiful Mountain Jam and Bid You Goodnight themes",
+      "archive_url": "https://headyversion.com/show/885/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1967-05-05",
+      "show_id": 393,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Can you find a better one?",
+      "archive_url": "https://headyversion.com/show/393/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1970-01-03",
+      "show_id": 122,
+      "venue": "Fillmore East New York City, NY",
+      "description": "alligator>drums>alligator = 23 minutes!",
+      "archive_url": "https://headyversion.com/show/122/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1970-11-06",
+      "show_id": 670,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Some really nimble guitar work by Jerry.  Ripping version",
+      "archive_url": "https://headyversion.com/show/670/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1970-06-06",
+      "show_id": 387,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "All about the jam on this one.  AWESOME!!",
+      "archive_url": "https://headyversion.com/show/387/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1967-08-05",
+      "show_id": 816,
+      "venue": "O'Keefe Center Toronto, ON",
+      "description": "Rippin' Version",
+      "archive_url": "https://headyversion.com/show/816/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1968-01-22",
+      "show_id": 794,
+      "venue": "Eagles Auditorium Seattle, WA",
+      "description": "long jammed out version with a real nice drums/vocal breakdown around 3 minutes in",
+      "archive_url": "https://headyversion.com/show/794/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1968-09-02",
+      "show_id": 831,
+      "venue": "Betty Nelson's Organic Raspberry Farm Sultan, WA",
+      "description": "Psychedelic swamp sludge > Drums > Blind Willie Garcia blues riffing > Caution - pretty damn boss.",
+      "archive_url": "https://headyversion.com/show/831/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-02-07",
+      "show_id": 603,
+      "venue": "Stanley Theater Pittsburgh, PA",
+      "description": "A sweet suite for the folks in Pittsburgh...west coast energy",
+      "archive_url": "https://headyversion.com/show/603/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-05-24",
+      "show_id": 473,
+      "venue": "Seminole Indian Village West Hollywood, FL",
+      "description": "Love the Alligator in Florida",
+      "archive_url": "https://headyversion.com/show/473/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1967-09-03",
+      "show_id": 114,
+      "venue": "Dance Hall Rio Nido, CA",
+      "description": "First  First There Is a Mountain theme?? Great stuff non-the-less",
+      "archive_url": "https://headyversion.com/show/114/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-12-31",
+      "show_id": 414,
+      "venue": "??? Boston Tea Party, MA",
+      "description": "\"Well it looks like the 70's are gonna be weird\" - great way to start this jam Jerry.",
+      "archive_url": "https://headyversion.com/show/414/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1968-08-22",
+      "show_id": 856,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "How is this not on the list?",
+      "archive_url": "https://headyversion.com/show/856/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-02-15",
+      "show_id": 388,
+      "venue": "Electric Factory Philadelphia, PA",
+      "description": "Long and intense; a stunning Bid You Goodnight theme takes this one up a notch...",
+      "archive_url": "https://headyversion.com/show/388/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-08-03",
+      "show_id": 1488,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "The second half of this show is an interstellar jam fest Dark Star->Alligator->Caution->Feedback",
+      "archive_url": "https://headyversion.com/show/1488/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1968-05-18",
+      "show_id": 1938,
+      "venue": "County Fairgrounds Santa Clara, CA",
+      "description": "Wow an incredible alligator with jerry jamming his ass off high energy wild and crazy show segment we have on archive",
+      "archive_url": "https://headyversion.com/show/1938/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1968-03-16",
+      "show_id": 1228,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Like chewin' on bullets....",
+      "archive_url": "https://headyversion.com/show/1228/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-01-25",
+      "show_id": 863,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Off the Aoxomoxoa 50th, amazing Alligator.",
+      "archive_url": "https://headyversion.com/show/863/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-11-01",
+      "show_id": 1507,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Great Acid-Soaked Jams after the initial song.  Includes  nice WBYGN and UJB jams.",
+      "archive_url": "https://headyversion.com/show/1507/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-07-10",
+      "show_id": 1697,
+      "venue": "Fillmore East New York City, NY",
+      "description": "One of the lasts, and they're undoubtedly still jamming the shit out of it.  Listen to them come out of drums and the head sez \"pray it's not NFA\" !!!",
+      "archive_url": "https://headyversion.com/show/1697/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1967-11-11",
+      "show_id": 465,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "With the power to blast you out of your chair.  Watch your dose, it's that strong.",
+      "archive_url": "https://headyversion.com/show/465/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-02-04",
+      "show_id": 866,
+      "venue": "The Music Box Omaha, NE",
+      "description": "Bluesy and brief",
+      "archive_url": "https://headyversion.com/show/866/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-04-23",
+      "show_id": 389,
+      "venue": "The Ark Boston, MA",
+      "description": "A crisp, cooking Allligator that was somehow missed. It  transitions into Drums, then a t 11, tease, jam then the 11.",
+      "archive_url": "https://headyversion.com/show/389/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-04-30",
+      "show_id": 1939,
+      "venue": "Unknown   Unknown Perhaps SF, ?",
+      "description": "Real sick alligator->caution, stuff my dreams are made of, oh to have seen this stuff live what a dream just gorgeous heady stuff",
+      "archive_url": "https://headyversion.com/show/1939/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1967-01-27",
+      "show_id": 1891,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Shit this is sick early Dead is The tits.",
+      "archive_url": "https://headyversion.com/show/1891/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1967-09-15",
+      "show_id": 118,
+      "venue": "Hollywood Bowl Hollywood, CA",
+      "description": "This is Psychedelic awesomeness, love these early shows 1967-69 Grcia has this amazing tone i just dig so much",
+      "archive_url": "https://headyversion.com/show/118/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-01-16",
+      "show_id": 955,
+      "venue": "Springer's Inn Portland Portland, OR",
+      "description": "Okay, the Alligator's kinda short, but I nominate the entire Alligator>Drums>Eleven Jam because it hasn't been talked about on here. Smokin'.",
+      "archive_url": "https://headyversion.com/show/955/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-12-21",
+      "show_id": 1054,
+      "venue": "Shrine Exhibition Hall Los Angeles, CA",
+      "description": "Wild Eleven-ish jam gives way to some really melodic, fresh takes on the Mountain jam theme. Beware of SQ though...",
+      "archive_url": "https://headyversion.com/show/1054/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-02-12",
+      "show_id": 849,
+      "venue": "Fillmore East New York, NY",
+      "description": "Fast. Inspired leads. This one blazes into Caution!",
+      "archive_url": "https://headyversion.com/show/849/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1967-10-31",
+      "show_id": 2033,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Great primal dead hot alligator->drums segment",
+      "archive_url": "https://headyversion.com/show/2033/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-11-01",
+      "show_id": 841,
+      "venue": "Silver Dollar Fair Chico, CA",
+      "description": "One of the nastiest, funkiest performances ever!",
+      "archive_url": "https://headyversion.com/show/841/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-04-21",
+      "show_id": 560,
+      "venue": "The Ark Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/560/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-06-21",
+      "show_id": 1190,
+      "venue": "Fillmore East New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1190/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1967-06-18",
+      "show_id": 728,
+      "venue": "Monterey Fairgrounds Monterey, CA",
+      "description": "Pigpens vocals are not coming thru but his harp playing does and the boys rock out hard fascinating performance from the legendary festival Jerry is +",
+      "archive_url": "https://headyversion.com/show/728/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-30",
+      "show_id": 413,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "Alligator>Drums>11>WBYG Jam>Alligator",
+      "archive_url": "https://headyversion.com/show/413/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-02-28",
+      "show_id": 1315,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "A smooth version with powerful vocals",
+      "archive_url": "https://headyversion.com/show/1315/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-07-11",
+      "show_id": 953,
+      "venue": "NY State Pavilion, Flushing Meadow Park Queens, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/953/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1967-01-01",
+      "show_id": 2154,
+      "venue": "Studio Rehearsals Unknown, CA",
+      "description": "Outtakes from Anthem: '67 comes in hot! The transition from '66 pop is complete. B/B- sound quality though. Worth it.",
+      "archive_url": "https://headyversion.com/show/2154/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-05-29",
+      "show_id": 1514,
+      "venue": "Robertson Gym, U.C.S.B. Santa Barbara, CA",
+      "description": "Don't miss this one! Very energetic!",
+      "archive_url": "https://headyversion.com/show/1514/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-05-11",
+      "show_id": 529,
+      "venue": "Aztec Bowl, San Diego State U. San Diego, CA",
+      "description": "Not so sleepy Alligator",
+      "archive_url": "https://headyversion.com/show/529/archive/"
+    }
+  ]
+}

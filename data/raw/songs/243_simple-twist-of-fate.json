@@ -1,0 +1,54 @@
+{
+  "song_id": 243,
+  "name": "Simple Twist Of Fate",
+  "performances": [
+    {
+      "votes": 3,
+      "date": "1987-07-10",
+      "show_id": 1091,
+      "venue": "JFK Stadium Philadelphia, PA",
+      "description": "Nice song from one of the better Dylan and the Dead shows at JFK stadium Philly",
+      "archive_url": "https://headyversion.com/show/1091/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-07-26",
+      "show_id": 1019,
+      "venue": "Anaheim Stadium Anaheim, CA",
+      "description": "Bob Dylan and the grateful Dead a classic pairing on a classic song.",
+      "archive_url": "https://headyversion.com/show/1019/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-03-01",
+      "show_id": 1817,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Awesome version!!!!",
+      "archive_url": "https://headyversion.com/show/1817/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-02-28",
+      "show_id": 2097,
+      "venue": "Kean College Union County, NJ",
+      "description": "Kean College. Tight guitar on point; sweet Jerry lullabye.",
+      "archive_url": "https://headyversion.com/show/2097/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-07-19",
+      "show_id": 1237,
+      "venue": "Autzen Stadium - University of Oregon Eugene, OR",
+      "description": "Hot version from Dylan and the Dead. Wonderful",
+      "archive_url": "https://headyversion.com/show/1237/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-10-10",
+      "show_id": 1714,
+      "venue": "Keystone Berkeley, CA",
+      "description": "One of the better up-beat versions. There are some serious high octane jams in this version. Not the slow down trodding version here.",
+      "archive_url": "https://headyversion.com/show/1714/archive/"
+    }
+  ]
+}

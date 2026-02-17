@@ -1,0 +1,102 @@
+{
+  "song_id": 6,
+  "name": "Ain't It Crazy (The Rub)",
+  "performances": [
+    {
+      "votes": 21,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "This is a fun version and Pig is killin' it.  Some great Jerry banter immediately after the tune ends... But that's not why I submitted it.  Solid!",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1971-03-18",
+      "show_id": 416,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Great fun Pigpen song",
+      "archive_url": "https://headyversion.com/show/416/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1971-04-28",
+      "show_id": 997,
+      "venue": "Fillmore East New York, NY",
+      "description": "Fun version.",
+      "archive_url": "https://headyversion.com/show/997/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-04-25",
+      "show_id": 643,
+      "venue": "Fillmore East New York, NY",
+      "description": "Supercharged and hard rocking. Boys had some strong stuff in them this night.",
+      "archive_url": "https://headyversion.com/show/643/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1971-07-02",
+      "show_id": 1088,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1088/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-05-30",
+      "show_id": 1405,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Amazing Pigpen in full control. impressive amazing version",
+      "archive_url": "https://headyversion.com/show/1405/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "A mellow acoustic version unlike any I the others more known for being uptempo and somewhat aggressive. A rare treat.",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-04-05",
+      "show_id": 992,
+      "venue": "Manhattan Center New York, NY",
+      "description": "Solid 1971 electric version.",
+      "archive_url": "https://headyversion.com/show/992/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-10-10",
+      "show_id": 1936,
+      "venue": "The Matrix San Francisco, CA",
+      "description": "Ain't It Crazy Jam!!!!",
+      "archive_url": "https://headyversion.com/show/1936/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-12-01",
+      "show_id": 104,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/104/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-11-06",
+      "show_id": 670,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Awesome acoustic version!!!",
+      "archive_url": "https://headyversion.com/show/670/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-04-18",
+      "show_id": 1681,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Pretty sure it\u2019s not complete but it\u2019s still\u2026 crazy",
+      "archive_url": "https://headyversion.com/show/1681/archive/"
+    }
+  ]
+}

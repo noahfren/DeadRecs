@@ -1,0 +1,22 @@
+{
+  "song_id": 146,
+  "name": "Kansas City",
+  "performances": [
+    {
+      "votes": 11,
+      "date": "1985-10-28",
+      "show_id": 884,
+      "venue": "Fox Theater Atlanta, GA",
+      "description": "\"For those of you who were watching TV last night\" KC won the World Series. I guess I wasn't the only one.",
+      "archive_url": "https://headyversion.com/show/884/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-05",
+      "show_id": 940,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Another rarity from the great tours of 1985, only listed twice this is the second and last GD performance",
+      "archive_url": "https://headyversion.com/show/940/archive/"
+    }
+  ]
+}

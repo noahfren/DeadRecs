@@ -1,0 +1,62 @@
+{
+  "song_id": 111,
+  "name": "The Harder They Come",
+  "performances": [
+    {
+      "votes": 7,
+      "date": "1978-03-18",
+      "show_id": 795,
+      "venue": "Warner theatre Washington, DC",
+      "description": "This is JGB but saw this and had to add this.",
+      "archive_url": "https://headyversion.com/show/795/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-02-28",
+      "show_id": 2097,
+      "venue": "Kean College Union County, NJ",
+      "description": "JGB but had to throw this one out there. Has always been a favorite of mine.",
+      "archive_url": "https://headyversion.com/show/2097/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-03-01",
+      "show_id": 1817,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Very nice & fast version. Jerry\u2019s solos are like butter",
+      "archive_url": "https://headyversion.com/show/1817/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-08-05",
+      "show_id": 2191,
+      "venue": "Greek Theatre Berkeley , CA",
+      "description": "With Bela Flick on the banjo",
+      "archive_url": "https://headyversion.com/show/2191/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-05-20",
+      "show_id": 2229,
+      "venue": "Hilo Civic Auditorium  Hilo, HI",
+      "description": "A+",
+      "archive_url": "https://headyversion.com/show/2229/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-08-29",
+      "show_id": 2166,
+      "venue": "French's Camp Piercy, CA",
+      "description": "This is probably the best one I\u2019ve heard JGB do. Jerry\u2019s vocals are superb, almost 78 like. The jam in the middle is essential.",
+      "archive_url": "https://headyversion.com/show/2166/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1976-02-13",
+      "show_id": 2232,
+      "venue": "Keystone Berkeley Berkeley, CA",
+      "description": "Garcia Volume 21 \u2014 a laid-back, feel-good nearly 19 minutes version. Kieth is on keys and Donna\u2019s vocals fit perfectly.",
+      "archive_url": "https://headyversion.com/show/2232/archive/"
+    }
+  ]
+}

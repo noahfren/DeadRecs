@@ -1,0 +1,374 @@
+{
+  "song_id": 9,
+  "name": "All New Minglewood Blues",
+  "performances": [
+    {
+      "votes": 17,
+      "date": "1977-02-26",
+      "show_id": 6,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "Updated Minglewood review, same show as Terrapin debuted. Sounds clean & tight!",
+      "archive_url": "https://headyversion.com/show/6/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1982-10-10",
+      "show_id": 367,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "The show starts with a killer New Minglewood Blues.",
+      "archive_url": "https://headyversion.com/show/367/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "A standout version from a great show.",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1987-07-26",
+      "show_id": 1019,
+      "venue": "Anaheim Stadium Anaheim, CA",
+      "description": "A rockin' version that filled the stadium.",
+      "archive_url": "https://headyversion.com/show/1019/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1977-05-08",
+      "show_id": 1,
+      "venue": "Barton Hall - Cornell University Ithaca, NY",
+      "description": "Barton Hall '77?! How is this not on here?!",
+      "archive_url": "https://headyversion.com/show/1/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1977-11-04",
+      "show_id": 63,
+      "venue": "Cotterell Gym - Colgate University Hamilton, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/63/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1977-05-13",
+      "show_id": 451,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "Killer smooth solos, like most everything Jerry did that month...and now we get to enjoy it from the May '77 box release!!",
+      "archive_url": "https://headyversion.com/show/451/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Strong version to close down the Fillmore East.",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-02-24",
+      "show_id": 503,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Rippin' version at a critical time....",
+      "archive_url": "https://headyversion.com/show/503/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-10-03",
+      "show_id": 618,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "A strong version with hot jam during the break.",
+      "archive_url": "https://headyversion.com/show/618/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1976-09-24",
+      "show_id": 683,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/683/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-04-26",
+      "show_id": 990,
+      "venue": "The Electric Theatre Chicago, IL",
+      "description": "Only version from 1969 & it's smokin'!!!",
+      "archive_url": "https://headyversion.com/show/990/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1977-06-08",
+      "show_id": 439,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/439/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-07-10",
+      "show_id": 1091,
+      "venue": "JFK Stadium Philadelphia, PA",
+      "description": "This one smokes from start to finish, a fire version to heat up the first set to a GREAT! '87 show!",
+      "archive_url": "https://headyversion.com/show/1091/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-06-07",
+      "show_id": 1958,
+      "venue": "Folsom Field Boulder, CO",
+      "description": "Jer comes out of the gate hot 1st solo then fine slide work from Bob and finally JG mops up on hyperdrive The sweet Boulder nectar got their game up.",
+      "archive_url": "https://headyversion.com/show/1958/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1979-08-13",
+      "show_id": 477,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "Heats up McNichols Arena!",
+      "archive_url": "https://headyversion.com/show/477/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-03-31",
+      "show_id": 222,
+      "venue": "Marin County Civic Center San Rafael, CA",
+      "description": "Feeling hot Hot HOT!",
+      "archive_url": "https://headyversion.com/show/222/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-05-06",
+      "show_id": 146,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Bobby and Brent steal this one. Dicks Picks 13",
+      "archive_url": "https://headyversion.com/show/146/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-12-26",
+      "show_id": 1665,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1665/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-10-31",
+      "show_id": 1782,
+      "venue": "Berkley Community Theatre Berkeley, CA",
+      "description": "matt kelly guests",
+      "archive_url": "https://headyversion.com/show/1782/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1966-12-01",
+      "show_id": 958,
+      "venue": "Studio demo San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/958/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-09-14",
+      "show_id": 1448,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Insanely good!!!",
+      "archive_url": "https://headyversion.com/show/1448/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-08-03",
+      "show_id": 604,
+      "venue": "Starlight Theatre Kansas City, MO",
+      "description": "Bobbys Vocals are perfect with this clear recording!!!!",
+      "archive_url": "https://headyversion.com/show/604/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-04-05",
+      "show_id": 302,
+      "venue": "Crisler Arena Ann Arbor, MI",
+      "description": "My first show.  When brent took his solo Crisler arena went NUTS!  I boarded the bus right then",
+      "archive_url": "https://headyversion.com/show/302/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-12-28",
+      "show_id": 815,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "X-Factor, Phil-Zone, Over the center field wall",
+      "archive_url": "https://headyversion.com/show/815/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-10-06",
+      "show_id": 1769,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1769/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1977-09-03",
+      "show_id": 39,
+      "venue": "Raceway Park Englishtown, NJ",
+      "description": "Englishtown, NJ",
+      "archive_url": "https://headyversion.com/show/39/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-07-30",
+      "show_id": 1005,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "Strong performance.",
+      "archive_url": "https://headyversion.com/show/1005/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-09-14",
+      "show_id": 1004,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Rocking version with Vince.",
+      "archive_url": "https://headyversion.com/show/1004/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1982-05-22",
+      "show_id": 937,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "Hot thumping version.",
+      "archive_url": "https://headyversion.com/show/937/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-04-13",
+      "show_id": 187,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "jammy goodness!",
+      "archive_url": "https://headyversion.com/show/187/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-06-23",
+      "show_id": 871,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "strong solos from all, Jerry really hammers out his backing guitar work",
+      "archive_url": "https://headyversion.com/show/871/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1977-10-09",
+      "show_id": 1109,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1109/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-08-14",
+      "show_id": 1384,
+      "venue": "Seattle Center Coliseum Seattle, WA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1384/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-04-12",
+      "show_id": 998,
+      "venue": "Broome County Arena Binghamton, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/998/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-12-26",
+      "show_id": 527,
+      "venue": "Legion Stadium El Monte, CA",
+      "description": "w/Dark Hollow lyrics on one verse",
+      "archive_url": "https://headyversion.com/show/527/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-03-13",
+      "show_id": 934,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "with Matt Kelly always makes for a hot version",
+      "archive_url": "https://headyversion.com/show/934/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-11-30",
+      "show_id": 1872,
+      "venue": "Hara Arena Dayton, OH",
+      "description": "Opens an underrated show",
+      "archive_url": "https://headyversion.com/show/1872/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-06-27",
+      "show_id": 941,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Late 80s heat",
+      "archive_url": "https://headyversion.com/show/941/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-07-06",
+      "show_id": 2010,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2010/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-07-07",
+      "show_id": 1098,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1098/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-09-05",
+      "show_id": 899,
+      "venue": "Red Rocks Amphitheatre Morrison, CA",
+      "description": "Great Bobby intro guutar",
+      "archive_url": "https://headyversion.com/show/899/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1985-09-05",
+      "show_id": 899,
+      "venue": "Red Rocks Amphitheatre Morrison, CA",
+      "description": "Great Bobby intro guitar.",
+      "archive_url": "https://headyversion.com/show/899/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-10-10",
+      "show_id": 145,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Thumping with some dirty slide. From Dead Set",
+      "archive_url": "https://headyversion.com/show/145/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-12-07",
+      "show_id": 1920,
+      "venue": "Indiana Convention Center Indianapolis, IN",
+      "description": "Bob & Jer sound fantastically in sync here.",
+      "archive_url": "https://headyversion.com/show/1920/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1976-10-09",
+      "show_id": 630,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/630/archive/"
+    }
+  ]
+}

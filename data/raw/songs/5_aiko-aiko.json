@@ -1,0 +1,1006 @@
+{
+  "song_id": 5,
+  "name": "Aiko Aiko",
+  "performances": [
+    {
+      "votes": 75,
+      "date": "1989-07-07",
+      "show_id": 281,
+      "venue": "JFK Stadium Philadelphia, PA",
+      "description": "Hot day in Philly, so the Dead bust out this New Orleans classic.",
+      "archive_url": "https://headyversion.com/show/281/archive/"
+    },
+    {
+      "votes": 44,
+      "date": "1995-03-18",
+      "show_id": 3,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "One of the funner versions of this song",
+      "archive_url": "https://headyversion.com/show/3/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1978-04-16",
+      "show_id": 615,
+      "venue": "Huntington Civic Center Huntington, WV",
+      "description": "Laid back chill version. Probably one of the first times played. Some fun island sounding jerry licks in the second solo",
+      "archive_url": "https://headyversion.com/show/615/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1982-09-14",
+      "show_id": 591,
+      "venue": "University of Virginia Charlottesville, VA",
+      "description": "The transition from space to Aiko is of the hook.  Hands down one of the most beautiful versions ever!",
+      "archive_url": "https://headyversion.com/show/591/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1991-06-20",
+      "show_id": 348,
+      "venue": "Pine Knob Music Theatre Clarkston, MI",
+      "description": "Love the Throwin>Iko...spot on transition.  What a fun show!",
+      "archive_url": "https://headyversion.com/show/348/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1987-03-23",
+      "show_id": 44,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Riproarin' energy",
+      "archive_url": "https://headyversion.com/show/44/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1987-07-06",
+      "show_id": 1356,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Super high energy, with the Nevilles, Jerry very animated. Iko>Banana Boat>Women Smarter",
+      "archive_url": "https://headyversion.com/show/1356/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1990-09-16",
+      "show_id": 691,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "A cool drawn out version with everyone jamming away!",
+      "archive_url": "https://headyversion.com/show/691/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1977-05-15",
+      "show_id": 21,
+      "venue": "St. Louis Arena St. Louis, MO",
+      "description": "A standout version from a great show.",
+      "archive_url": "https://headyversion.com/show/21/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1978-04-11",
+      "show_id": 1102,
+      "venue": "Fox Theatre Atlanta, GA",
+      "description": "Slow and Funky beginning to the song gives it a real nice groove, allows momentum to build nicely.",
+      "archive_url": "https://headyversion.com/show/1102/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1982-08-10",
+      "show_id": 675,
+      "venue": "Iowa Fieldhouse - University of Iowa Iowa City, IA",
+      "description": "Another kick-ass version out of Space...not as long&rising a wind-up as  the 9-14-82  tripiness), but raucous, fun & full of N'awlins cajun rock!",
+      "archive_url": "https://headyversion.com/show/675/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1985-06-24",
+      "show_id": 194,
+      "venue": "River Bend Music Center Cincinnati, OH",
+      "description": "Yep, get that guitar tune right and get after it",
+      "archive_url": "https://headyversion.com/show/194/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1980-09-02",
+      "show_id": 64,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "Smoking Iko Iko out of Space.",
+      "archive_url": "https://headyversion.com/show/64/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1977-11-04",
+      "show_id": 63,
+      "venue": "Cotterell Gym - Colgate University Hamilton, NY",
+      "description": "Hey Now!!!",
+      "archive_url": "https://headyversion.com/show/63/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1978-09-16",
+      "show_id": 716,
+      "venue": "Sphinx Theatre Giza,",
+      "description": "Iko in Egypt.",
+      "archive_url": "https://headyversion.com/show/716/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1987-07-26",
+      "show_id": 1019,
+      "venue": "Anaheim Stadium Anaheim, CA",
+      "description": "Nice cajun feel during this NOLA show",
+      "archive_url": "https://headyversion.com/show/1019/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1977-10-07",
+      "show_id": 890,
+      "venue": "University of New Mexico Albuquerque, NM",
+      "description": "Road Trips Volume 1 Number 2",
+      "archive_url": "https://headyversion.com/show/890/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1985-11-02",
+      "show_id": 690,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "2 great shows in Richmond.  1 a DP the other could have been.  Jerry brings the boys down to a hush before tha final chorus.",
+      "archive_url": "https://headyversion.com/show/690/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1990-07-10",
+      "show_id": 1260,
+      "venue": "Carter-Finley Stadium Raleigh, NC",
+      "description": "Stellar set two opener with Bruce sitting in on the Accordion, always adds a nice texture to Aiko.",
+      "archive_url": "https://headyversion.com/show/1260/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1987-12-31",
+      "show_id": 49,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "With the Neville Bros. Jerry gets his Big Easy on.",
+      "archive_url": "https://headyversion.com/show/49/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1989-07-10",
+      "show_id": 1163,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "2nd Line fun all over the stage with the Nevilles.",
+      "archive_url": "https://headyversion.com/show/1163/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1992-06-25",
+      "show_id": 306,
+      "venue": "Soldier Field Chicago, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/306/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1993-03-11",
+      "show_id": 1485,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1485/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1986-02-11",
+      "show_id": 733,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "W/ Neville Brothers",
+      "archive_url": "https://headyversion.com/show/733/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-03-18",
+      "show_id": 1024,
+      "venue": "Civic Center Hartford, CT",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1024/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1986-12-30",
+      "show_id": 798,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Aiko Aiko into a hot smoldering women are smarter obviously the perfect pairing with such a similar sound.",
+      "archive_url": "https://headyversion.com/show/798/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1995-03-27",
+      "show_id": 190,
+      "venue": "The Omni Atlanta, GA",
+      "description": "cool late era aiko with the new arrangement.",
+      "archive_url": "https://headyversion.com/show/190/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1978-07-05",
+      "show_id": 1656,
+      "venue": "Omaha Civic Auditorium Omaha, NE",
+      "description": "Neat dark intro out of Truckin', melts its way up and down Jerry's neck; Bob's slide work nice layer",
+      "archive_url": "https://headyversion.com/show/1656/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1987-08-23",
+      "show_id": 456,
+      "venue": "Calavaras County Fairgrounds Angel's Camp, CA",
+      "description": "with Santana - smokin into Watchtower!",
+      "archive_url": "https://headyversion.com/show/456/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1991-06-19",
+      "show_id": 251,
+      "venue": "Pine Knob Clarkston, MI",
+      "description": "Was a great one from beginning to end. Hornsby on accordian was nice too.",
+      "archive_url": "https://headyversion.com/show/251/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1988-07-02",
+      "show_id": 324,
+      "venue": "Oxford Plains Speedway Oxford, ME",
+      "description": "Great start to a show",
+      "archive_url": "https://headyversion.com/show/324/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1990-12-12",
+      "show_id": 882,
+      "venue": "McNichols Arena Denver, CO",
+      "description": "Another very jammed out version.",
+      "archive_url": "https://headyversion.com/show/882/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1978-05-07",
+      "show_id": 480,
+      "venue": "Field House - Rensselaer Polytechnic Institute Troy, NY",
+      "description": "The first time I saw Aiko Aiko, great singing by Garcia, clearly having a blast.  RPI is an underrated show, with many, many highlights.",
+      "archive_url": "https://headyversion.com/show/480/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1994-03-27",
+      "show_id": 381,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Super hot and long.",
+      "archive_url": "https://headyversion.com/show/381/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1988-03-27",
+      "show_id": 223,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "From Download Series vol 5, great version from a great show",
+      "archive_url": "https://headyversion.com/show/223/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1981-12-31",
+      "show_id": 176,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Fantastic sequence of the midnight countdown With Ken Kesey and Bill Graham into a twisted Aiko with Matt Kelly",
+      "archive_url": "https://headyversion.com/show/176/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1991-10-27",
+      "show_id": 496,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": ">Mona (with Carlos Santana & Gary Duncan) Should at least be in this list.",
+      "archive_url": "https://headyversion.com/show/496/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1984-11-02",
+      "show_id": 930,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "ONE OF THE BEST OF THE 80'S...........VERY RARE TO CLOSE THE 1ST SET!!!!!",
+      "archive_url": "https://headyversion.com/show/930/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-04-02",
+      "show_id": 1275,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Classic",
+      "archive_url": "https://headyversion.com/show/1275/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1982-09-24",
+      "show_id": 1590,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "A surprising Aiko emerges out of space which melds seamlessly into truckin'",
+      "archive_url": "https://headyversion.com/show/1590/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-10-07",
+      "show_id": 1100,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Grooving acoustic version.",
+      "archive_url": "https://headyversion.com/show/1100/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-04-09",
+      "show_id": 1717,
+      "venue": "Centrum Worchester, MA",
+      "description": "High energy version comes flying out of a smoking Bucket.",
+      "archive_url": "https://headyversion.com/show/1717/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-06-20",
+      "show_id": 889,
+      "venue": "Greek Theater Berkeley, Ca",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/889/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1994-09-18",
+      "show_id": 1309,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1309/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-03-30",
+      "show_id": 28,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Am I missing something here???  STUNNED that this one is not listed yet and shame on all of us.  It is not good, it is GREAT.",
+      "archive_url": "https://headyversion.com/show/28/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-12-27",
+      "show_id": 1245,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "High energy Set 2 opener with Clarence Clemmons!",
+      "archive_url": "https://headyversion.com/show/1245/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1987-07-10",
+      "show_id": 1091,
+      "venue": "JFK Stadium Philadelphia, PA",
+      "description": "Aiko opener, you KNOW! it's gonna be a good show. Little Bobby mic issue, but they seem to be hooked in from the start.",
+      "archive_url": "https://headyversion.com/show/1091/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-04-23",
+      "show_id": 1101,
+      "venue": "Veterans' Memorial Coliseum New Haven, CT",
+      "description": "Smokin' version.",
+      "archive_url": "https://headyversion.com/show/1101/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-07-01",
+      "show_id": 1301,
+      "venue": "Pine Knob Music Theater Clarkston, MI",
+      "description": "Aiko Aiko was a great opener to an average show.  Jerry had some good leads and great vocals to finish.",
+      "archive_url": "https://headyversion.com/show/1301/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-02-18",
+      "show_id": 1701,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "First song played in 1985. Boisterous. Listen to Jerry growl.",
+      "archive_url": "https://headyversion.com/show/1701/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1992-03-09",
+      "show_id": 309,
+      "venue": "Capital Centre Landover, MD",
+      "description": "love the way Vince Bruce and Jerry are jamming at the beginning then Phil starts bombing, definetly a hot version, nice guitar jam by jerry after vets",
+      "archive_url": "https://headyversion.com/show/309/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-04-01",
+      "show_id": 1739,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "With Barney the Purple Dinosaur on Bass, Phil played behind the stacks, sweet April Fools joke by the band",
+      "archive_url": "https://headyversion.com/show/1739/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-11-08",
+      "show_id": 1744,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Hot show opener. Rex Foundation Benefit. 1987 has several outstanding Aikos this is one of them.",
+      "archive_url": "https://headyversion.com/show/1744/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-04-05",
+      "show_id": 256,
+      "venue": "The Omni Atlanta, GA",
+      "description": "Wonderful fun version, Great time tune.",
+      "archive_url": "https://headyversion.com/show/256/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1991-06-11",
+      "show_id": 1238,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1238/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-03-30",
+      "show_id": 37,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Submitting this on Fat Tuesday 2017. Great Mardi Gras version with really nice piano (!) fills by Brent that oughta be heard!",
+      "archive_url": "https://headyversion.com/show/37/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-08-18",
+      "show_id": 436,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "2nd set opener at the midldle night during the last Greek run",
+      "archive_url": "https://headyversion.com/show/436/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1978-08-30",
+      "show_id": 747,
+      "venue": "Red Rocks Ampitheatre Morrison, CO",
+      "description": "Super funky version out of the best If I had the world...",
+      "archive_url": "https://headyversion.com/show/747/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-07-29",
+      "show_id": 327,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "Stupendous Garcia",
+      "archive_url": "https://headyversion.com/show/327/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-10-02",
+      "show_id": 542,
+      "venue": "Warfield Theatre San Francisco, CA",
+      "description": "Acoustic!",
+      "archive_url": "https://headyversion.com/show/542/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-12-12",
+      "show_id": 1616,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "Fast. Tight. Happy. What more could you ask for?",
+      "archive_url": "https://headyversion.com/show/1616/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-04-14",
+      "show_id": 1677,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1677/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-05-09",
+      "show_id": 1855,
+      "venue": "Laguna Seca Raceway Monterey, CA",
+      "description": "Jerry ROARS Thru this RARE Encore",
+      "archive_url": "https://headyversion.com/show/1855/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-01-30",
+      "show_id": 1898,
+      "venue": "San Francisco Civic Auditorium San Francisco, CA",
+      "description": "Aiko Aiko->Women R Smarter Hot funtime party medley get down cajun funtime",
+      "archive_url": "https://headyversion.com/show/1898/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-05-03",
+      "show_id": 1954,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Raucous kick ass cajun begininng to set two wonderful stuff, loads of fun",
+      "archive_url": "https://headyversion.com/show/1954/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1985-03-31",
+      "show_id": 1337,
+      "venue": "Cumberland County Civic Center Portland, ME",
+      "description": "Wonderful take from an over the top awesome show",
+      "archive_url": "https://headyversion.com/show/1337/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-10-02",
+      "show_id": 1727,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Another well played late era Aiko. Not sure why but Jerry really dug into Aiko over the last 2-3 years, some very hot later era Aiko's.",
+      "archive_url": "https://headyversion.com/show/1727/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1993-09-18",
+      "show_id": 2023,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Funtime opener for set two at the garden, enthusiastic Jerry",
+      "archive_url": "https://headyversion.com/show/2023/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1995-07-05",
+      "show_id": 813,
+      "venue": "Riverport Amphitheater Maryland Heights, MO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/813/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-05-27",
+      "show_id": 1849,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Fun celebratory Aiko from a real fun crazy 1989 show.  Love how in 1989 Aiko could show up pretty much anywhere at anytime. Mid set 1 here",
+      "archive_url": "https://headyversion.com/show/1849/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-10-10",
+      "show_id": 311,
+      "venue": "USAir Arena Landover, MD",
+      "description": "Great choice for a show opener.",
+      "archive_url": "https://headyversion.com/show/311/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-05-06",
+      "show_id": 380,
+      "venue": "California State University Dominguez Hills Carson, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/380/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-08-01",
+      "show_id": 1904,
+      "venue": "Zoo Amphitheater Oklahoma City, OK",
+      "description": "Hey now!, Hey now!!. check this version out",
+      "archive_url": "https://headyversion.com/show/1904/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-22",
+      "show_id": 336,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Jerry smokin\u2019, fun version with plenty of Vince and Bruce. Delicious jam, great show too!",
+      "archive_url": "https://headyversion.com/show/336/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-06-06",
+      "show_id": 1502,
+      "venue": "Rich Stadium Orchard Park, NY",
+      "description": "Jerry gets really into it in the second half. Not lifechanging, but fun",
+      "archive_url": "https://headyversion.com/show/1502/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-04-13",
+      "show_id": 1777,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "Sweet opener",
+      "archive_url": "https://headyversion.com/show/1777/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1984-07-06",
+      "show_id": 834,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Fun show opener at Alpine Valley",
+      "archive_url": "https://headyversion.com/show/834/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-05-23",
+      "show_id": 159,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Jerry is on fire",
+      "archive_url": "https://headyversion.com/show/159/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-02-27",
+      "show_id": 619,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "Mardi Gras with Michael Doucet & Beausoleil",
+      "archive_url": "https://headyversion.com/show/619/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-05-24",
+      "show_id": 1731,
+      "venue": "Memorial Stadium Seattle, WA",
+      "description": "This song had a rebirth in 1995 Jerry clearly enjoyed playing it during the last year. Upbeat and rocking.",
+      "archive_url": "https://headyversion.com/show/1731/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-10-15",
+      "show_id": 1208,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1208/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-10-04",
+      "show_id": 1506,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "A truly fantastic version, Crisp and clean nice high energy set 1 ender.",
+      "archive_url": "https://headyversion.com/show/1506/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-09-14",
+      "show_id": 1004,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Nice upbeat party time tune, Philly seemed to bring out the best in this song for some reason.",
+      "archive_url": "https://headyversion.com/show/1004/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-05-13",
+      "show_id": 1589,
+      "venue": "Civic Center Providence, RI",
+      "description": "loved when they brought Aiko Aiko out of space. Added a spaciness to the party tune. Heady take into a hot Miracle.",
+      "archive_url": "https://headyversion.com/show/1589/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-04-07",
+      "show_id": 1156,
+      "venue": "Irvine Meadows Irvine, CA",
+      "description": "Lively, clean, energetic version with Brent doing his doobie brother backup gig perfectly.",
+      "archive_url": "https://headyversion.com/show/1156/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-03-29",
+      "show_id": 2075,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2075/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-03-03",
+      "show_id": 766,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Awesome Iko Iko with a huge mardi gras parade in oakland. You need to see the video because this is amazing.",
+      "archive_url": "https://headyversion.com/show/766/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-05-07",
+      "show_id": 2016,
+      "venue": "Silva Hall, Hult Center Eugene, OR",
+      "description": "Nice aiko opener",
+      "archive_url": "https://headyversion.com/show/2016/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-07-30",
+      "show_id": 1005,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "Solid start to a solid 88 show.",
+      "archive_url": "https://headyversion.com/show/1005/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-05-11",
+      "show_id": 1852,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Bruce is boss on this one, his keys just adding color & style throughout the tune. Overlooked show & performance",
+      "archive_url": "https://headyversion.com/show/1852/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-09-11",
+      "show_id": 1809,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Just gotta dance to this show-opener!",
+      "archive_url": "https://headyversion.com/show/1809/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1986-03-20",
+      "show_id": 1204,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Jerry sounding good as always, solid version!",
+      "archive_url": "https://headyversion.com/show/1204/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-09-30",
+      "show_id": 1619,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "FANTASTIC! Jerry\u2019s first midi solo is top notch, Brent has a grate solo too, and the energy is high.",
+      "archive_url": "https://headyversion.com/show/1619/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-03-07",
+      "show_id": 730,
+      "venue": "Cole Field House College Park, MD",
+      "description": "Nice groove to open the second set",
+      "archive_url": "https://headyversion.com/show/730/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-06-18",
+      "show_id": 1254,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Nice way to end the first set",
+      "archive_url": "https://headyversion.com/show/1254/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-11-08",
+      "show_id": 203,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "\"How many would cast the rajnessh as a tragic hero?\"",
+      "archive_url": "https://headyversion.com/show/203/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-04-17",
+      "show_id": 1051,
+      "venue": "Metropolitan Sports Center Minneapolis, MN",
+      "description": "Lively show opener!",
+      "archive_url": "https://headyversion.com/show/1051/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-06-14",
+      "show_id": 1280,
+      "venue": "Red Rocks Amphitheater Morrison, CO",
+      "description": "Rockin' show opener with the band in full form. Everyone can be heard nicely in the Soundboard mix",
+      "archive_url": "https://headyversion.com/show/1280/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1989-05-07",
+      "show_id": 162,
+      "venue": "Frost Ampitheater Stanford, CA",
+      "description": "Fun little opener sung sweetly by Jerry with some nice help from Brent. Sweet little guitar work from Jerry as well",
+      "archive_url": "https://headyversion.com/show/162/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-09-09",
+      "show_id": 1463,
+      "venue": "MSG New York, NY",
+      "description": "Fun set opener, everyone does a solid job",
+      "archive_url": "https://headyversion.com/show/1463/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-02-24",
+      "show_id": 1584,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Fun and Funky Mardi Gras inspired Aiko opens a very fun second set. Melts into one of the first Corrina's that cooks.",
+      "archive_url": "https://headyversion.com/show/1584/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-09-20",
+      "show_id": 620,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Wonderful fun rocking cajun blast. Fulll on good time great swing to this version",
+      "archive_url": "https://headyversion.com/show/620/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-11-15",
+      "show_id": 1077,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Party time opener in Long Beach.",
+      "archive_url": "https://headyversion.com/show/1077/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-08-12",
+      "show_id": 2073,
+      "venue": "cal expo amphitheatre Sacramento , ca",
+      "description": "hot opener hot show",
+      "archive_url": "https://headyversion.com/show/2073/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-08-16",
+      "show_id": 1154,
+      "venue": "Town Park Telluride, CO",
+      "description": "Aiko during the Harmonic Convergence - time to party.",
+      "archive_url": "https://headyversion.com/show/1154/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-04-04",
+      "show_id": 1178,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Surprised this one has not made the list until now. Spring 87 rebirth energy here. Jerry growls, \"I'm talkin' bout hey now..!\". Solos are \"87 tight\"",
+      "archive_url": "https://headyversion.com/show/1178/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-24",
+      "show_id": 2018,
+      "venue": "Sportsahalle Hamburg,",
+      "description": "Always good to get this as a set closer.",
+      "archive_url": "https://headyversion.com/show/2018/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-04-03",
+      "show_id": 704,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "Punchy and well explored to open the gig; beefy and well mixed soundboard to boot",
+      "archive_url": "https://headyversion.com/show/704/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-02-23",
+      "show_id": 1196,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Hey Now! Played on Mardi Gras day with 10 minute drum percussion lead-in to start the 2nd set! You'll like what the Big Chief say.",
+      "archive_url": "https://headyversion.com/show/1196/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-10-18",
+      "show_id": 1640,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Fast, a bit sloppy, but Jerry's having a great time here.",
+      "archive_url": "https://headyversion.com/show/1640/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-10-17",
+      "show_id": 1169,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Terrific jamming into fast-rocking Promised Land. First set opener. Great show.",
+      "archive_url": "https://headyversion.com/show/1169/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-03-28",
+      "show_id": 1345,
+      "venue": "Marin County Veterans Auditorium San Rafael, CA",
+      "description": "FOB perfectly captures the power of this opener. Jerry's '84 growl is almost a bark here, love it!",
+      "archive_url": "https://headyversion.com/show/1345/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-08-16",
+      "show_id": 1053,
+      "venue": "Mississippi River Festival Edwardsville, IL",
+      "description": "Jerry and Phil kill this encore version",
+      "archive_url": "https://headyversion.com/show/1053/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-02-16",
+      "show_id": 1460,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Fantastic Mardi Gras style set 2 opener. Jerry\u2019s vocals are spirited, Brent shines, and everyone\u2019s having fun!",
+      "archive_url": "https://headyversion.com/show/1460/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1977-10-12",
+      "show_id": 1381,
+      "venue": "Manor Downs Austin, TX",
+      "description": "This is the third time they played it and it's '77 solid. This whole show deserves more attention. If you haven't listen, you should.",
+      "archive_url": "https://headyversion.com/show/1381/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-06-27",
+      "show_id": 941,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Nice way to open up this show",
+      "archive_url": "https://headyversion.com/show/941/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-06-28",
+      "show_id": 597,
+      "venue": "Poplar Creek Music Theater Hofman Estates, IL",
+      "description": "Fun encore",
+      "archive_url": "https://headyversion.com/show/597/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-04-16",
+      "show_id": 1105,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "With Stephen Stills, who even sings a weird verse. Can't believe I'm the first to mention this one!",
+      "archive_url": "https://headyversion.com/show/1105/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-06-21",
+      "show_id": 2012,
+      "venue": "Kingswood Music Theater Maple, ON",
+      "description": "They brought the audience down for an extended 3-song vacay in the Big Easy, capped off with a jumpin Iko. Stamp of approval from this Cajun deadhead.",
+      "archive_url": "https://headyversion.com/show/2012/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-09-17",
+      "show_id": 2059,
+      "venue": "Madison Square Garden New York City, NY",
+      "description": "Peppy Iko to start the night off - good show overlooked by the rest of the run",
+      "archive_url": "https://headyversion.com/show/2059/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-06-26",
+      "show_id": 310,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "I saw many ikos over the years. This one is one I always remember as enjoying a little extra.",
+      "archive_url": "https://headyversion.com/show/310/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-11-29",
+      "show_id": 1725,
+      "venue": "McNichols Sports Arena Denver, CO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1725/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1979-01-14",
+      "show_id": 2017,
+      "venue": "Utica Memorial Coliseum Utica, NY",
+      "description": "Slow chunk-a-chunk-a-chunk late 70s version out of space. Audience only, but worth it.",
+      "archive_url": "https://headyversion.com/show/2017/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-03-18",
+      "show_id": 1089,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Lets you know it\u2019s gonna be a good one",
+      "archive_url": "https://headyversion.com/show/1089/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-02-12",
+      "show_id": 68,
+      "venue": "Great Western Forum Inglewood, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/68/archive/"
+    }
+  ]
+}

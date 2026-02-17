@@ -1,0 +1,22 @@
+{
+  "song_id": 239,
+  "name": "She's Mine",
+  "performances": [
+    {
+      "votes": 11,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "awesome .  period .",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "beautifulrare early nugget",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    }
+  ]
+}

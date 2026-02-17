@@ -1,0 +1,46 @@
+{
+  "song_id": 368,
+  "name": "La Bamba",
+  "performances": [
+    {
+      "votes": 32,
+      "date": "1987-09-18",
+      "show_id": 200,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Jerry nails the vocals with confidence and matched with Bob's best Good Lovin'",
+      "archive_url": "https://headyversion.com/show/200/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1987-09-07",
+      "show_id": 777,
+      "venue": "Civic Center Providence, RI",
+      "description": "The bust out.  Huge energy, but not as tight as the others.",
+      "archive_url": "https://headyversion.com/show/777/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-09-23",
+      "show_id": 1983,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Maybe the best one of the bunch.  It is the most jammed out of the 4 from this tour.",
+      "archive_url": "https://headyversion.com/show/1983/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-09-13",
+      "show_id": 709,
+      "venue": "Capital Centre Landover, MD",
+      "description": "just such jyous fun to hear.",
+      "archive_url": "https://headyversion.com/show/709/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-11-11",
+      "show_id": 1977,
+      "venue": "49th Street Rock Palace Brooklyn, NY",
+      "description": "Sadly, completely unlistenable. But this is a song that will not be played again until 17 years later in the famous MSG 87' concert. So there's that.",
+      "archive_url": "https://headyversion.com/show/1977/archive/"
+    }
+  ]
+}

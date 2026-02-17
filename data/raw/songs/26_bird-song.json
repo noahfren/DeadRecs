@@ -1,0 +1,2190 @@
+{
+  "song_id": 26,
+  "name": "Bird Song",
+  "performances": [
+    {
+      "votes": 261,
+      "date": "1972-08-27",
+      "show_id": 18,
+      "venue": "Old Renaissance Faire Grounds Veneta, OR",
+      "description": "Close to perfect",
+      "archive_url": "https://headyversion.com/show/18/archive/"
+    },
+    {
+      "votes": 192,
+      "date": "1973-06-22",
+      "show_id": 522,
+      "venue": "Pacific Coliseum Vancouver, BC",
+      "description": "Soaring version.  Show is wall to wall highlights",
+      "archive_url": "https://headyversion.com/show/522/archive/"
+    },
+    {
+      "votes": 144,
+      "date": "1972-09-21",
+      "show_id": 142,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Excellent Keith solo when Jer breaks a string. Incredible Bird Song.",
+      "archive_url": "https://headyversion.com/show/142/archive/"
+    },
+    {
+      "votes": 143,
+      "date": "1990-03-29",
+      "show_id": 188,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Soaring, lilting, transcendent.",
+      "archive_url": "https://headyversion.com/show/188/archive/"
+    },
+    {
+      "votes": 99,
+      "date": "1972-09-27",
+      "show_id": 583,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "Dick's Picks 11 - Jazzy and bouncy with some extraordinary melodies from Jerry",
+      "archive_url": "https://headyversion.com/show/583/archive/"
+    },
+    {
+      "votes": 89,
+      "date": "1972-09-17",
+      "show_id": 584,
+      "venue": "Baltimore Civic Center Baltimore, MD",
+      "description": "Tight version",
+      "archive_url": "https://headyversion.com/show/584/archive/"
+    },
+    {
+      "votes": 79,
+      "date": "1972-11-17",
+      "show_id": 957,
+      "venue": "Century II Convention Hall Wichita, KS",
+      "description": "This is on fire",
+      "archive_url": "https://headyversion.com/show/957/archive/"
+    },
+    {
+      "votes": 65,
+      "date": "1973-07-27",
+      "show_id": 535,
+      "venue": "Grand Prix Racecourse Watkins Glen, NY",
+      "description": "19 minute masterpiece.  Jerry is speaking to Janice in the heavens. Simply beautiful!",
+      "archive_url": "https://headyversion.com/show/535/archive/"
+    },
+    {
+      "votes": 53,
+      "date": "1989-10-08",
+      "show_id": 385,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Been a while since i have spun this one - it shoots straight into the cosmos.  Very spacey",
+      "archive_url": "https://headyversion.com/show/385/archive/"
+    },
+    {
+      "votes": 53,
+      "date": "1989-12-09",
+      "show_id": 1338,
+      "venue": "Great Western LA Forum Inglewood, CA",
+      "description": "Surprised the Without A Net version gets no love here.  This one has always been one of my favorites, and I go back to it often!",
+      "archive_url": "https://headyversion.com/show/1338/archive/"
+    },
+    {
+      "votes": 52,
+      "date": "1980-11-30",
+      "show_id": 36,
+      "venue": "Fox Theatre Atlanta, GA",
+      "description": "early electric version",
+      "archive_url": "https://headyversion.com/show/36/archive/"
+    },
+    {
+      "votes": 51,
+      "date": "1981-03-07",
+      "show_id": 730,
+      "venue": "Cole Field House College Park, MD",
+      "description": "a definitive version that I am surprised didn't make it up here...clocks in at over 17 mins",
+      "archive_url": "https://headyversion.com/show/730/archive/"
+    },
+    {
+      "votes": 49,
+      "date": "1990-03-16",
+      "show_id": 735,
+      "venue": "Capital Centre Landover, MD",
+      "description": "There's a reason this is on the 'Spring 1990 So Glad You Made It' compilation release.",
+      "archive_url": "https://headyversion.com/show/735/archive/"
+    },
+    {
+      "votes": 43,
+      "date": "1987-03-26",
+      "show_id": 1372,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1372/archive/"
+    },
+    {
+      "votes": 41,
+      "date": "1981-03-09",
+      "show_id": 82,
+      "venue": "Madison Square Garden New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/82/archive/"
+    },
+    {
+      "votes": 39,
+      "date": "1989-10-18",
+      "show_id": 1230,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "This is one of those versions where you hear it and can't believe it's not #1 (Definitely worth a listen)",
+      "archive_url": "https://headyversion.com/show/1230/archive/"
+    },
+    {
+      "votes": 35,
+      "date": "1973-03-16",
+      "show_id": 363,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "it just keeps building",
+      "archive_url": "https://headyversion.com/show/363/archive/"
+    },
+    {
+      "votes": 34,
+      "date": "1972-08-25",
+      "show_id": 827,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "A wonderful Jerry/Phil duet on this one. Not quite the legend of Veneta, but still very strong in its own right.",
+      "archive_url": "https://headyversion.com/show/827/archive/"
+    },
+    {
+      "votes": 33,
+      "date": "1972-10-02",
+      "show_id": 1358,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "Jerry's ideas are entirely inspired and the band follows along to the ether.",
+      "archive_url": "https://headyversion.com/show/1358/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1983-10-17",
+      "show_id": 722,
+      "venue": "Olympic Center Lake Placid, NY",
+      "description": "Freshly flying through the night at a fresh spot... Olympic arena lake placid!",
+      "archive_url": "https://headyversion.com/show/722/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1973-06-10",
+      "show_id": 144,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Soaring solid and focused version from one of the top shows of the year.",
+      "archive_url": "https://headyversion.com/show/144/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1980-10-27",
+      "show_id": 959,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "Fantastic version from the acoustic set",
+      "archive_url": "https://headyversion.com/show/959/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1972-09-10",
+      "show_id": 406,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "14 minutes of beauty",
+      "archive_url": "https://headyversion.com/show/406/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1973-09-07",
+      "show_id": 761,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "The Debut of Wolf! Here him howl!",
+      "archive_url": "https://headyversion.com/show/761/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1980-10-31",
+      "show_id": 961,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "Magical",
+      "archive_url": "https://headyversion.com/show/961/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1984-07-15",
+      "show_id": 139,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "Don't know how to put it into words",
+      "archive_url": "https://headyversion.com/show/139/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1972-10-18",
+      "show_id": 657,
+      "venue": "Fox Theater St. Louis, MO",
+      "description": "Really dig this one, Jerry is especially hot coming out of the vocal reprise",
+      "archive_url": "https://headyversion.com/show/657/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1971-04-28",
+      "show_id": 997,
+      "venue": "Fillmore East New York, NY",
+      "description": "cosmic energy and bliss personified...",
+      "archive_url": "https://headyversion.com/show/997/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1982-07-31",
+      "show_id": 464,
+      "venue": "Manor Downs Austin, TX",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/464/archive/"
+    },
+    {
+      "votes": 24,
+      "date": "1972-09-15",
+      "show_id": 1889,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Set 2 version and one of the all-time Best Bird songs, spacey jazzy just an amazing journey. Jerry is at the top of his game.",
+      "archive_url": "https://headyversion.com/show/1889/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1972-11-19",
+      "show_id": 459,
+      "venue": "Hofheinz Pavilion Houston, TX",
+      "description": "Perfection.",
+      "archive_url": "https://headyversion.com/show/459/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1989-07-18",
+      "show_id": 1310,
+      "venue": "Alpine Valley Alpine Valley, WI",
+      "description": "1989 was a very good year for Birdsongs. This one deserves consideration along with 10/8/89 and 12/8/89.",
+      "archive_url": "https://headyversion.com/show/1310/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1987-09-18",
+      "show_id": 200,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Great middle jam and overall great 80's version",
+      "archive_url": "https://headyversion.com/show/200/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1972-09-24",
+      "show_id": 1453,
+      "venue": "Palace Theatre Waterbury, CT",
+      "description": "These fall Birdsongs from 72 are just so pure!",
+      "archive_url": "https://headyversion.com/show/1453/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1972-09-09",
+      "show_id": 140,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/140/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1990-07-21",
+      "show_id": 378,
+      "venue": "World Music Theatre Tinley Park, IL",
+      "description": "this one is filled w/midi; this first night might be best of the 3",
+      "archive_url": "https://headyversion.com/show/378/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1993-09-22",
+      "show_id": 234,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "If you don't know Saxophonist David Murray, here's a good way to find out how great he is. This is one stellar Birdsong that flew under the radar here",
+      "archive_url": "https://headyversion.com/show/234/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1988-07-03",
+      "show_id": 1351,
+      "venue": "Oxford Plains Speedway Oxford, ME",
+      "description": "Bobby SHREDS. Hangglider around 10:15.",
+      "archive_url": "https://headyversion.com/show/1351/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1972-11-15",
+      "show_id": 423,
+      "venue": "Oklahoma City Music Hall Oklahoma City, OK",
+      "description": "The '72 vintages are so silky smooth and this one is no exception. Jerry's vocals aren't prone to the frog-croaks of later years.This glides on wings.",
+      "archive_url": "https://headyversion.com/show/423/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1972-10-19",
+      "show_id": 1176,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "Wonderful breakdown in this one...Keith steps up very nicely!",
+      "archive_url": "https://headyversion.com/show/1176/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1981-12-05",
+      "show_id": 76,
+      "venue": "Market Square Arena Indianapolis, IN",
+      "description": "So good. 81 was a peak year for this song...",
+      "archive_url": "https://headyversion.com/show/76/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1990-12-31",
+      "show_id": 153,
+      "venue": "Coliseum Arena Oakland, CA",
+      "description": "with Branford Marsalis---smooth as purple polished marble",
+      "archive_url": "https://headyversion.com/show/153/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1972-08-12",
+      "show_id": 823,
+      "venue": "Sacramento Memorial Auditorium Sacramento, CA",
+      "description": "Very Jazzy and spacey the jam reaches almost dark star proportions. Very Jazzy feel to this one.",
+      "archive_url": "https://headyversion.com/show/823/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1971-04-29",
+      "show_id": 66,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Young but nicely developed, and passion going out to Janis",
+      "archive_url": "https://headyversion.com/show/66/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1991-09-06",
+      "show_id": 177,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "check it out",
+      "archive_url": "https://headyversion.com/show/177/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1991-04-28",
+      "show_id": 344,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "jerry is on fire",
+      "archive_url": "https://headyversion.com/show/344/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1981-02-26",
+      "show_id": 895,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "Amazing, soaring flow, one of the best I have heard in any era!",
+      "archive_url": "https://headyversion.com/show/895/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1981-10-16",
+      "show_id": 715,
+      "venue": "Melkweg Amsterdam,",
+      "description": "Best Acoustic version I've heard from a lesser appreciated show...Jerry's vocals are spot on and very and some very nice soloing.  Tops any Warfield",
+      "archive_url": "https://headyversion.com/show/715/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1972-10-17",
+      "show_id": 498,
+      "venue": "Fox Theatre St. Louis, MO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/498/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1973-02-22",
+      "show_id": 763,
+      "venue": "Assembly Hall, University of Illinois Champaign-Urbana, IL",
+      "description": "Fantastic interplay and syncopation, Jerry and Keith synergies in collective improv. Can't believe I'm the first to post this one.",
+      "archive_url": "https://headyversion.com/show/763/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1973-03-22",
+      "show_id": 443,
+      "venue": "Utica Memorial Auditorium Utica, NY",
+      "description": "Lifts you off the ground like an ocean wave: A beautiful, buoyant, Phil-driven jam.",
+      "archive_url": "https://headyversion.com/show/443/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1971-07-31",
+      "show_id": 134,
+      "venue": "Yale Bowl, Yale University New Haven, CT",
+      "description": "DS>Birdsong",
+      "archive_url": "https://headyversion.com/show/134/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1989-07-09",
+      "show_id": 1525,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Very inspired playing. Jazzy swing from the rhythm devils, Lesh is barreling down the low end, and Jerry dancing the leads to a powerful conclusion",
+      "archive_url": "https://headyversion.com/show/1525/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1980-10-14",
+      "show_id": 531,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Acoustic version from Reckoning",
+      "archive_url": "https://headyversion.com/show/531/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1972-08-22",
+      "show_id": 1361,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Cosmic",
+      "archive_url": "https://headyversion.com/show/1361/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1972-08-24",
+      "show_id": 650,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Wow they really nailed this song in august of 1972. Very amazing not quite Veneta but not far off.",
+      "archive_url": "https://headyversion.com/show/650/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1987-12-31",
+      "show_id": 49,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "A New Year's gift -so hot!",
+      "archive_url": "https://headyversion.com/show/49/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1995-06-30",
+      "show_id": 181,
+      "venue": "Three Rivers Stadium Pittsburgh, PA",
+      "description": "I love this version",
+      "archive_url": "https://headyversion.com/show/181/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1991-06-20",
+      "show_id": 348,
+      "venue": "Pine Knob Music Theatre Clarkston, MI",
+      "description": "birdsong set closer says it all; hornsby/garcia midi love",
+      "archive_url": "https://headyversion.com/show/348/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1984-10-20",
+      "show_id": 94,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "Craziness!",
+      "archive_url": "https://headyversion.com/show/94/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1981-12-09",
+      "show_id": 1186,
+      "venue": "Activity Center - University of Colorado Boulder, CO",
+      "description": "Zig zagging but controlled. Excellent version",
+      "archive_url": "https://headyversion.com/show/1186/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1972-07-18",
+      "show_id": 461,
+      "venue": "Rossevelt Stadium Jersey City, NJ",
+      "description": "Extremelly confident spacey well sung and incredibly played an amazing powerful version. Follows Bobby telling the crowd Of Pigpen's illness.",
+      "archive_url": "https://headyversion.com/show/461/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1994-06-19",
+      "show_id": 160,
+      "venue": "Autzen Stadium, U. of Oregon Eugene, OR",
+      "description": "eugene dead",
+      "archive_url": "https://headyversion.com/show/160/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1972-11-22",
+      "show_id": 1455,
+      "venue": "Austin Municipal Auditorium Austin, TX",
+      "description": "A truly captivating journey awaits the listener of this one.",
+      "archive_url": "https://headyversion.com/show/1455/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1971-02-21",
+      "show_id": 458,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "An intimate very early Bird Song - Quartet-styled, which serves this song really well. Also: you can hear the thinking, especially between guitars.",
+      "archive_url": "https://headyversion.com/show/458/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1985-06-28",
+      "show_id": 238,
+      "venue": "Hershey Park Stadium Hershey, PA",
+      "description": "Soooo smooth.  Soooo awesome.",
+      "archive_url": "https://headyversion.com/show/238/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1991-03-21",
+      "show_id": 257,
+      "venue": "Capital Centre Landover, MD",
+      "description": "set ender, no need for one more after this one",
+      "archive_url": "https://headyversion.com/show/257/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1973-06-30",
+      "show_id": 133,
+      "venue": "Universal Amphitheatre Universal City, CA",
+      "description": "Everything in this show sparkles...no exception here",
+      "archive_url": "https://headyversion.com/show/133/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1981-09-12",
+      "show_id": 915,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "very sweeeet!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/915/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1992-03-20",
+      "show_id": 323,
+      "venue": "Copps Coliseum Hamilton,",
+      "description": "How is this not on here from epic show of the 90's?",
+      "archive_url": "https://headyversion.com/show/323/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1990-03-25",
+      "show_id": 299,
+      "venue": "Knickerbocker Arena Albany, NY",
+      "description": "This song was killed all tour, regardless of Branford or not!",
+      "archive_url": "https://headyversion.com/show/299/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1989-07-15",
+      "show_id": 225,
+      "venue": "Deer Creek Music Center Noblesville, IN",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/225/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1973-02-17",
+      "show_id": 569,
+      "venue": "St. Paul Auditorium St. Paul, MN",
+      "description": "Very nice Garcia fretwork. Intense yet breezy, if that makes sense...",
+      "archive_url": "https://headyversion.com/show/569/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1972-09-19",
+      "show_id": 1528,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "Massive Bird Song. Poor recording, but nonetheless this is one fantastic bird",
+      "archive_url": "https://headyversion.com/show/1528/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1984-04-19",
+      "show_id": 1307,
+      "venue": "Philadelphia Civic Center Philadelphia, PA",
+      "description": "Jerry + Brent Blow This One Into the Ether While Bobby Channels Whale Calls - Seriously Tasty!",
+      "archive_url": "https://headyversion.com/show/1307/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1987-07-26",
+      "show_id": 1019,
+      "venue": "Anaheim Stadium Anaheim, CA",
+      "description": "Super fired up with strong macho on the jam.",
+      "archive_url": "https://headyversion.com/show/1019/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1991-04-01",
+      "show_id": 315,
+      "venue": "Greensboro Coliseum Greensboro, NC",
+      "description": "this has an incredible peak during the jam, it gets out there",
+      "archive_url": "https://headyversion.com/show/315/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1973-08-01",
+      "show_id": 370,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "Beautifully executed",
+      "archive_url": "https://headyversion.com/show/370/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1995-06-02",
+      "show_id": 1003,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Great version",
+      "archive_url": "https://headyversion.com/show/1003/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1994-06-16",
+      "show_id": 1500,
+      "venue": "Autzen Stadium eugene, OR",
+      "description": "magic. youre floating in cloudz during this..his fingerz hit each noTe as percise and delicate as the teaRz that fall when u listen.ill YOU uSnow&Rain",
+      "archive_url": "https://headyversion.com/show/1500/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1982-08-06",
+      "show_id": 693,
+      "venue": "St. Paul Civic Center St. Paul, MN",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/693/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1993-05-23",
+      "show_id": 159,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Beautiful Version with Vince and Jerry wrapping around each other in a beautiful jam that really soars",
+      "archive_url": "https://headyversion.com/show/159/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1983-09-06",
+      "show_id": 843,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Hot, hot version from '83! The boys are on point",
+      "archive_url": "https://headyversion.com/show/843/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1972-09-26",
+      "show_id": 779,
+      "venue": "Stanley Theatre Jersey City, NJ",
+      "description": "Crisp, articulate, deliberate. This is as strong a statement about what this song could be in '72 as I know.  Airplay levels of concision.",
+      "archive_url": "https://headyversion.com/show/779/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1989-10-12",
+      "show_id": 1511,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Fantastic version! Tons of MIDI Jerr w/ flute-like and synthy guitar tones. Jerry and Brent come to a blistering dissonant peak before final chorus",
+      "archive_url": "https://headyversion.com/show/1511/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1983-08-20",
+      "show_id": 580,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Really dig Brents work here",
+      "archive_url": "https://headyversion.com/show/580/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1987-10-03",
+      "show_id": 618,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Loose, vocals could be better, but the playing is very good.  Jerry's voice was showing strain at this point.  Not a 70s version, but I love the jams.",
+      "archive_url": "https://headyversion.com/show/618/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1981-07-04",
+      "show_id": 1155,
+      "venue": "Manor Downs Austin, TX",
+      "description": "wow a mesmeriszing version evokes dark star at times a true spacey masterpiece, placed song 2 set 2. Really interstellar version",
+      "archive_url": "https://headyversion.com/show/1155/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1983-10-22",
+      "show_id": 1494,
+      "venue": "Carrier Dome, Syracuse U Syracuse, NY",
+      "description": "So why this song? The journey? Well it's right here in spades. Aces!",
+      "archive_url": "https://headyversion.com/show/1494/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1981-03-03",
+      "show_id": 1158,
+      "venue": "Cleveland Music Hall Cleveland, OH",
+      "description": "Jazz busting all over this one super fine.",
+      "archive_url": "https://headyversion.com/show/1158/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1990-10-27",
+      "show_id": 1313,
+      "venue": "The Zenith Paris,",
+      "description": "1990 was a great year for this tune and this was the best song of the first set at this epic show.",
+      "archive_url": "https://headyversion.com/show/1313/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1972-12-12",
+      "show_id": 1359,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1359/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1984-07-06",
+      "show_id": 834,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "A great version, check it out",
+      "archive_url": "https://headyversion.com/show/834/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1973-09-12",
+      "show_id": 1297,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "Extremely beautiful version with some AUD problems. Sparkling melodicism out of the perfect collective mind.  A forgotten diamond.",
+      "archive_url": "https://headyversion.com/show/1297/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1982-04-17",
+      "show_id": 910,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "Nice mellow version",
+      "archive_url": "https://headyversion.com/show/910/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1980-12-14",
+      "show_id": 1153,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Wonderful interplay. Short and focused. Sounds like the band becomes one organism.",
+      "archive_url": "https://headyversion.com/show/1153/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1994-10-19",
+      "show_id": 1583,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Over 15 minutes of spacey goodness, More of that MSG magic.",
+      "archive_url": "https://headyversion.com/show/1583/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-08-20",
+      "show_id": 1563,
+      "venue": "San Jose Civic Auditorium San Jose, CA",
+      "description": "Very CHILLED out and SPACEY",
+      "archive_url": "https://headyversion.com/show/1563/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-04-07",
+      "show_id": 236,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Jerry gets out there in stars on this one...",
+      "archive_url": "https://headyversion.com/show/236/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1984-04-24",
+      "show_id": 2015,
+      "venue": "Veterans' Memorial Coliseum New Haven, CT",
+      "description": "An example of the band in total sync and delivering the goods - Jer's awake and has a plan - wow,",
+      "archive_url": "https://headyversion.com/show/2015/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1985-10-29",
+      "show_id": 1040,
+      "venue": "Fox Theater Atlanta, GA",
+      "description": "Bird Song at the Fabulous Fox - you do the math.",
+      "archive_url": "https://headyversion.com/show/1040/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1984-10-15",
+      "show_id": 1909,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Check in and check it out!",
+      "archive_url": "https://headyversion.com/show/1909/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1972-09-16",
+      "show_id": 825,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "No sbd... yeah, well this aud works just fine",
+      "archive_url": "https://headyversion.com/show/825/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1971-02-19",
+      "show_id": 137,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "1st time played.",
+      "archive_url": "https://headyversion.com/show/137/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-09-23",
+      "show_id": 270,
+      "venue": "Palace Theater Waterbury, CT",
+      "description": "Very lyrical and melodic playing by Jerry. A pretty unique version, one of my favorites.",
+      "archive_url": "https://headyversion.com/show/270/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1986-03-21",
+      "show_id": 611,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Epically intense crescendos. A singular version set in an awesomely improvisational first set. Especially listen to Weir & Garcia's contributions.",
+      "archive_url": "https://headyversion.com/show/611/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1989-08-06",
+      "show_id": 988,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Super jazzy",
+      "archive_url": "https://headyversion.com/show/988/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1984-12-31",
+      "show_id": 335,
+      "venue": "SF Civic san francisco, ca",
+      "description": "Mid-Set Jack Straw followed by this great '84 Bird Song",
+      "archive_url": "https://headyversion.com/show/335/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1989-10-22",
+      "show_id": 1554,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "Some midi effects I don't remember hearing in any other version.",
+      "archive_url": "https://headyversion.com/show/1554/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1993-06-26",
+      "show_id": 310,
+      "venue": "RFK Stadium Washington, DC",
+      "description": "Pretty standard show!  It does have some gems.  The Stranger and Terrapin come to mind.  The Birdsong, too.  Nice 14 minute version .",
+      "archive_url": "https://headyversion.com/show/310/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-07-25",
+      "show_id": 678,
+      "venue": "Paramount Theater Portland, OR",
+      "description": "No such thing as a bad bird song",
+      "archive_url": "https://headyversion.com/show/678/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1984-04-13",
+      "show_id": 187,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Phil lays the foundation with Jerry handling the pretty work",
+      "archive_url": "https://headyversion.com/show/187/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1982-04-03",
+      "show_id": 138,
+      "venue": "The Scope Norfolk, VA",
+      "description": "Fine",
+      "archive_url": "https://headyversion.com/show/138/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1983-04-16",
+      "show_id": 1105,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1105/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1993-01-24",
+      "show_id": 1561,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Soaring 15 min Birdsong to close this well executed set!",
+      "archive_url": "https://headyversion.com/show/1561/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1983-10-11",
+      "show_id": 71,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "This thing gets crinkly",
+      "archive_url": "https://headyversion.com/show/71/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1972-09-03",
+      "show_id": 664,
+      "venue": "Folsom Field, University of Colorado Boulder, CO",
+      "description": "Don't let the murky and C+ sound stop you from this gem. Would someone with C. Miller's phone number ask him about this show, please?",
+      "archive_url": "https://headyversion.com/show/664/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1986-04-22",
+      "show_id": 714,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "There's just a litte cheesy chriping synth...outside of that this Bird is jumpy,agressive, and probably cracked my top 5",
+      "archive_url": "https://headyversion.com/show/714/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1981-03-12",
+      "show_id": 491,
+      "venue": "Boston Garden Boston, MA",
+      "description": "A pristine version.  Some beautiful AUD recordings of this show on archive.",
+      "archive_url": "https://headyversion.com/show/491/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1991-05-11",
+      "show_id": 1852,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "This and the dew are the real stars of this show",
+      "archive_url": "https://headyversion.com/show/1852/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-06-08",
+      "show_id": 180,
+      "venue": "The Palace Auburn Hills, MI",
+      "description": "listen to believe it, I gotta go with my gut on this one",
+      "archive_url": "https://headyversion.com/show/180/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1990-06-08",
+      "show_id": 266,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "brent/jerry love",
+      "archive_url": "https://headyversion.com/show/266/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-07-13",
+      "show_id": 814,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "WHERE WOULD YOU RATHER BE, LIVE AID OR THIS KILLER SHOW?????",
+      "archive_url": "https://headyversion.com/show/814/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-09-30",
+      "show_id": 1112,
+      "venue": "American University Washington, DC",
+      "description": "Awesome flowing buildups and peaks during the first jam especially. A bit under the radar, but definitely one of the best of 1972!!!",
+      "archive_url": "https://headyversion.com/show/1112/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-10-21",
+      "show_id": 1294,
+      "venue": "Vanderbilt University Nashville, TN",
+      "description": "Excellent jams. Mix/sound is off, but this is still a must hear version!",
+      "archive_url": "https://headyversion.com/show/1294/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1971-04-17",
+      "show_id": 40,
+      "venue": "Dillon Gym Princeton, NJ",
+      "description": "A strangly deconstructed early version (7th time ever), very loose in the joints. But it rolls along with great lopsided beauty.  Interesting.",
+      "archive_url": "https://headyversion.com/show/40/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1983-12-28",
+      "show_id": 707,
+      "venue": "Civic Auditorium San Francisco, CA",
+      "description": "Dark, spacey, very psychedelic. Really fits the '83 sound.",
+      "archive_url": "https://headyversion.com/show/707/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-05-13",
+      "show_id": 1589,
+      "venue": "Civic Center Providence, RI",
+      "description": "Incredible Bird Song!!! Very intense jamming from Garcia that builds into an absolute frenzy. Short but very, very sweet!",
+      "archive_url": "https://headyversion.com/show/1589/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1972-11-26",
+      "show_id": 1454,
+      "venue": "San Antonio Civic Auditorium San Antonio, TX",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1454/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1984-03-29",
+      "show_id": 1535,
+      "venue": "Marin County Veterans Auditorium San Rafael, CA",
+      "description": "NAILED THIS ONE!",
+      "archive_url": "https://headyversion.com/show/1535/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1983-09-24",
+      "show_id": 1678,
+      "venue": "Santa Cruz County Fairgrounds Watsonville, CA",
+      "description": "Crunchy",
+      "archive_url": "https://headyversion.com/show/1678/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1981-11-30",
+      "show_id": 1872,
+      "venue": "Hara Arena Dayton, OH",
+      "description": "Second song proper after a technical problem and an aborted Mack the knife. Very cool jammin.",
+      "archive_url": "https://headyversion.com/show/1872/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1986-02-11",
+      "show_id": 733,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "Listen to Phil on this one. Then listen to Bobby.",
+      "archive_url": "https://headyversion.com/show/733/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1985-03-25",
+      "show_id": 1293,
+      "venue": "Springfield Civic Center Springfield, MA",
+      "description": "Head phone alert - Bobby pushes Jerry around on the dissonant jam and it's cool.",
+      "archive_url": "https://headyversion.com/show/1293/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1989-12-27",
+      "show_id": 1245,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Really great jam. It should be listed.",
+      "archive_url": "https://headyversion.com/show/1245/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1993-03-20",
+      "show_id": 2109,
+      "venue": "The Omni Atlanta ,",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2109/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-07-16",
+      "show_id": 967,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "Great one with a hint at Dark Star.",
+      "archive_url": "https://headyversion.com/show/967/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1981-03-23",
+      "show_id": 1499,
+      "venue": "Rainbow Theatre London,",
+      "description": "Beautiful, flowing, spacey version, reminiscent of 3/7/81 from a couple weeks earlier.",
+      "archive_url": "https://headyversion.com/show/1499/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1981-10-17",
+      "show_id": 1593,
+      "venue": "Hippodrome Paris,",
+      "description": "A fairly unique version, because of its placement in the second set and the way that it jams into NTAW.",
+      "archive_url": "https://headyversion.com/show/1593/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-08-29",
+      "show_id": 1532,
+      "venue": "Silva Hall, Hult Center Eugene, OR",
+      "description": "Majorly underrated show, but A+ performance, and one of the best shows of 83'. Very tight Bird Song here.",
+      "archive_url": "https://headyversion.com/show/1532/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-10-24",
+      "show_id": 1427,
+      "venue": "Performing Arts Center Milwaukee, WI",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1427/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-10-30",
+      "show_id": 1672,
+      "venue": "Ford Auditorium Detroit, MI",
+      "description": "From a Bear audience tape. Really good for '72.",
+      "archive_url": "https://headyversion.com/show/1672/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-06-18",
+      "show_id": 108,
+      "venue": "Saratoga Performing Arts Center Saratoga Springs, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/108/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1995-05-24",
+      "show_id": 1731,
+      "venue": "Memorial Stadium Seattle, WA",
+      "description": "Excellent late era version spacy jam goes out there.  Whole Seattle run best of 1995",
+      "archive_url": "https://headyversion.com/show/1731/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-06-17",
+      "show_id": 158,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Nice interstellar jam gets way out there loads of Brent and Jerry feeding the jam pushing each other. Great spacey version strong passionate lyrics.",
+      "archive_url": "https://headyversion.com/show/158/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1984-10-28",
+      "show_id": 1869,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "Concise Jamming! Great footwork from Phil and Jer throws goes off on an Other One riff at 6:20",
+      "archive_url": "https://headyversion.com/show/1869/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1981-05-02",
+      "show_id": 1588,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Swirling version with brent and jerry wrapping their lines around each other. a cosmic masterpiece.",
+      "archive_url": "https://headyversion.com/show/1588/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-04-09",
+      "show_id": 1393,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1393/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1993-04-04",
+      "show_id": 1513,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Real nice and spacey 14 minute Bird Song, Vince is terrific here, Fantastic Clean and Clear Jerry.",
+      "archive_url": "https://headyversion.com/show/1513/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-12-06",
+      "show_id": 971,
+      "venue": "Mill Valley Recreation Center Mill Valley, CA",
+      "description": "This acoustic version is very relaxed due to the intimate setting. Not too jammed out but something about it is very soothing",
+      "archive_url": "https://headyversion.com/show/971/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1993-12-19",
+      "show_id": 1854,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1854/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1990-12-09",
+      "show_id": 129,
+      "venue": "Compton Terrace Amphitheatre Chandler, AZ",
+      "description": "nice and 15 minutes long with a real cool spirally jam.",
+      "archive_url": "https://headyversion.com/show/129/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-04-16",
+      "show_id": 1316,
+      "venue": "The Mecca Milwaukee, WI",
+      "description": "Some nice swirliness in the solo. Video online as well!",
+      "archive_url": "https://headyversion.com/show/1316/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1991-09-20",
+      "show_id": 353,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Excellent swirling Bird Song a truly classic version, hot and jazzy.",
+      "archive_url": "https://headyversion.com/show/353/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-12-31",
+      "show_id": 1184,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Lovely acoustic take - well worth the spin.",
+      "archive_url": "https://headyversion.com/show/1184/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-06-19",
+      "show_id": 1813,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "14 minutes of bliss a great verion, very underrated show all around",
+      "archive_url": "https://headyversion.com/show/1813/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-04-12",
+      "show_id": 1803,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Short but sweet and hot",
+      "archive_url": "https://headyversion.com/show/1803/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1989-02-07",
+      "show_id": 2056,
+      "venue": "Henry J. Kaiser Convention Center Oakland, Ca",
+      "description": "Nice one, goes pretty deep for so early in the year. Bird Song hit a peak this year.",
+      "archive_url": "https://headyversion.com/show/2056/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1983-05-13",
+      "show_id": 1212,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "Jerry soars from the first note while Brent's compI ng subtly shades darker. A mesmerizing gyre. Check out the fine Keshavan/Miller AUD.",
+      "archive_url": "https://headyversion.com/show/1212/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1972-11-12",
+      "show_id": 1557,
+      "venue": "Soldiers' and Sailors' Memorial Hall Kansas City, KS",
+      "description": "Just Jerry, Phil, and Bobby are audible in this weird tape - but what a study of their communication. Worth a listen for that alone.",
+      "archive_url": "https://headyversion.com/show/1557/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1993-08-21",
+      "show_id": 426,
+      "venue": "Autzen Stadium - University of Oregon Eugene, OR",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/426/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1980-10-10",
+      "show_id": 145,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Surprised to not see this excellent acoustic version on here already!",
+      "archive_url": "https://headyversion.com/show/145/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1988-12-28",
+      "show_id": 995,
+      "venue": "Oakland Coliseum Arena Oakland, CA",
+      "description": "One of the spaciest I've ever heard! Truly beautiful.",
+      "archive_url": "https://headyversion.com/show/995/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-04-28",
+      "show_id": 1244,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "Really good version in an uneven year..",
+      "archive_url": "https://headyversion.com/show/1244/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1982-07-25",
+      "show_id": 1902,
+      "venue": "Compton Terrace Amphitheatre Tempe, AZ",
+      "description": "Soars",
+      "archive_url": "https://headyversion.com/show/1902/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-02-24",
+      "show_id": 503,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Super loose in the joints and fun. They seem to be searching for the '71 sound throughout the run here but I like this one.",
+      "archive_url": "https://headyversion.com/show/503/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-06-19",
+      "show_id": 1615,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "This one lifts off. Massive rendition. Garcia melodically pushes this one to multiple peaks, a fantastic version.",
+      "archive_url": "https://headyversion.com/show/1615/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-04-14",
+      "show_id": 1117,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Decent version, well jammed.",
+      "archive_url": "https://headyversion.com/show/1117/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-04-14",
+      "show_id": 1677,
+      "venue": "Rosemont Horizon Rosemont, IL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1677/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-03-04",
+      "show_id": 1699,
+      "venue": "Blockbuster Desert Sky Pavillion Pheonix, AZ",
+      "description": "i got lost in this little jem",
+      "archive_url": "https://headyversion.com/show/1699/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1990-10-31",
+      "show_id": 126,
+      "venue": "Wembley Arena London,",
+      "description": "Beautiful version from Bruce's first full run",
+      "archive_url": "https://headyversion.com/show/126/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-09-25",
+      "show_id": 403,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Can't go wrong with some acoustic!!!!!!! Amazing first set opener. First show of an unforgettable run at the Warfield, New Orleans, and Radio City",
+      "archive_url": "https://headyversion.com/show/403/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1986-04-03",
+      "show_id": 704,
+      "venue": "Hartford Civic Center Hartford, CT",
+      "description": "Great, tight version!",
+      "archive_url": "https://headyversion.com/show/704/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-04-05",
+      "show_id": 700,
+      "venue": "Civic Center Hartford, CT",
+      "description": "Compelling - nice work!",
+      "archive_url": "https://headyversion.com/show/700/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-02-21",
+      "show_id": 1940,
+      "venue": "Pauley Pavilion, UCLA Los Angeles, CA",
+      "description": "Some sweet licks on this one before the space noodling...",
+      "archive_url": "https://headyversion.com/show/1940/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1988-03-18",
+      "show_id": 1089,
+      "venue": "Henry J. Kaiser Auditorium Oakland, CA",
+      "description": "Full band jamming on display more a straight ahead jammy version than a spacey one ripping into a hot TMNS",
+      "archive_url": "https://headyversion.com/show/1089/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-03-10",
+      "show_id": 1922,
+      "venue": "Berkeley Community Theatre Berkeley, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1922/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-05-04",
+      "show_id": 1075,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Another one that gets out there...",
+      "archive_url": "https://headyversion.com/show/1075/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-06-21",
+      "show_id": 2012,
+      "venue": "Kingswood Music Theater Maple, ON",
+      "description": "Hot show in Canada, Hot Bird Song",
+      "archive_url": "https://headyversion.com/show/2012/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-10-03",
+      "show_id": 297,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Very good for a Vince version. Nice part around 8:40.",
+      "archive_url": "https://headyversion.com/show/297/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1985-11-05",
+      "show_id": 940,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Amazing the dig into this one",
+      "archive_url": "https://headyversion.com/show/940/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1987-03-02",
+      "show_id": 546,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "So they actually pipe in bird calls - Jer gets different here..",
+      "archive_url": "https://headyversion.com/show/546/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1984-10-08",
+      "show_id": 702,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Bird Songs started to get longer around this time and that's not a bad thing. Listen to what Bobby plays starting at 7:32",
+      "archive_url": "https://headyversion.com/show/702/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-10-26",
+      "show_id": 853,
+      "venue": "Music Hall Cincinnati, OH",
+      "description": "Compelling version with Jerry exploring new ideas. It doesn't quite soar like other Fall '72s, but still stretches out and worth a close listen.",
+      "archive_url": "https://headyversion.com/show/853/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1993-05-15",
+      "show_id": 2029,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "Phil takes over the middle section. Highlight of the show.",
+      "archive_url": "https://headyversion.com/show/2029/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-09-30",
+      "show_id": 547,
+      "venue": "Warfield Theatre San Francisco, CA",
+      "description": "Incredible acoustic version. Jerry goes OFF in this jam",
+      "archive_url": "https://headyversion.com/show/547/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1989-09-29",
+      "show_id": 1008,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1008/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1980-10-09",
+      "show_id": 1192,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Fluttering acoustic beauty from the Warfield",
+      "archive_url": "https://headyversion.com/show/1192/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1972-07-22",
+      "show_id": 1407,
+      "venue": "Paramount Northwest Theatre Seattle, WA",
+      "description": "Bobby is dripping trippy chords all over the jam. SUBLIME",
+      "archive_url": "https://headyversion.com/show/1407/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1981-07-07",
+      "show_id": 1298,
+      "venue": "Kansas City Municipal Auditorium Arena Kansas City, MO",
+      "description": "Some great playing here, shorter and more straightforward, enjoyable overall ha",
+      "archive_url": "https://headyversion.com/show/1298/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-05-21",
+      "show_id": 2,
+      "venue": "Greek Theatre, U. Of California Berkeley, CA",
+      "description": "Nice 82 Bird song- warm n easy..",
+      "archive_url": "https://headyversion.com/show/2/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1994-06-13",
+      "show_id": 332,
+      "venue": "Memorial Stadium Seattle, WA",
+      "description": "Adventurous, somewhat dissonant jam from a fairly strong first set. Fans of Welnick-era improv should check this out.",
+      "archive_url": "https://headyversion.com/show/332/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1982-02-17",
+      "show_id": 1299,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Sweet, smooth jamming",
+      "archive_url": "https://headyversion.com/show/1299/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-02-20",
+      "show_id": 88,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "I believe it's the 2nd ever, vocals are beautiful and raw, the cut in the recording during the first chorus doesn't bother me a bit",
+      "archive_url": "https://headyversion.com/show/88/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-09-03",
+      "show_id": 87,
+      "venue": "Capital Centre Landover, MD",
+      "description": "I'm putting this one up becasue this version luanched me into outter space that night...could have been the liquid though",
+      "archive_url": "https://headyversion.com/show/87/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1980-10-19",
+      "show_id": 855,
+      "venue": "Saenger Performing Arts Center New Orleans, LA",
+      "description": "Wildly jammed, possibly the finest acoustic version ever, despite the skeevy sound",
+      "archive_url": "https://headyversion.com/show/855/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1973-09-15",
+      "show_id": 1326,
+      "venue": "Providence Civic Center Providence, RI",
+      "description": "This one and the one 3 days earlier are both inventive and experimental - really soaring.  Rough AUD though.",
+      "archive_url": "https://headyversion.com/show/1326/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-14",
+      "show_id": 1006,
+      "venue": "Davis Gym, Bucknell University Lewisburg, PA",
+      "description": "Early version of the song, but definitely finding its way nicely, a great mellow version that is jammed 10+ min.",
+      "archive_url": "https://headyversion.com/show/1006/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-12-12",
+      "show_id": 1616,
+      "venue": "Sports Arena Los Angeles, CA",
+      "description": "16 minutes, with trippy vibes going on throughout. Sick jamming, vocals are not too bad, but could be better.",
+      "archive_url": "https://headyversion.com/show/1616/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-08-23",
+      "show_id": 1172,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "Intricate zigzagging solo work from Jerry, tight ensemble playing.  Doesn't ever \"soar\" like some of them, but more exploratory and compelling.",
+      "archive_url": "https://headyversion.com/show/1172/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-27",
+      "show_id": 594,
+      "venue": "Fillmore East New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/594/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1981-09-25",
+      "show_id": 826,
+      "venue": "Stabler Arena Bethlehem, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/826/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-03-28",
+      "show_id": 43,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/43/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-03-13",
+      "show_id": 1798,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "This is one of those amazing bird sondgs you talked about for days or weeeks or months or years after the show, it is a real real real good late era",
+      "archive_url": "https://headyversion.com/show/1798/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1990-12-04",
+      "show_id": 1858,
+      "venue": "Oakland Coliseum Oakland, CA",
+      "description": "Very spacey out there Bird Song. Band really gets to outer space led by a vibrant Jerry AWESOME",
+      "archive_url": "https://headyversion.com/show/1858/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-06-27",
+      "show_id": 1108,
+      "venue": "Poplar Creek Music Theater Hofman Estates, IL",
+      "description": "Mid set placement but still that whirling swirling dervish that you expect from it as a set ender, really spacey and a great jam.",
+      "archive_url": "https://headyversion.com/show/1108/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1983-04-13",
+      "show_id": 463,
+      "venue": "Patrick Gymnasium, U of Vermont Burlington, VT",
+      "description": "Explorative jamminess early '80s style",
+      "archive_url": "https://headyversion.com/show/463/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-12-30",
+      "show_id": 887,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Excellent reading of Birdsong at this under-rated show.  Pure version.",
+      "archive_url": "https://headyversion.com/show/887/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1988-06-23",
+      "show_id": 871,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Nice jam here",
+      "archive_url": "https://headyversion.com/show/871/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-04-21",
+      "show_id": 1538,
+      "venue": "Rhode Island Auditorium Providence, RI",
+      "description": "Nice early Bird Song, short but sweet.",
+      "archive_url": "https://headyversion.com/show/1538/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1991-09-13",
+      "show_id": 1285,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "14+ minutes of awesomeness to close the first set.",
+      "archive_url": "https://headyversion.com/show/1285/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1992-06-15",
+      "show_id": 548,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Surprised no mentions yet. A long, jazzy, spacey version from a real good show.",
+      "archive_url": "https://headyversion.com/show/548/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1987-04-02",
+      "show_id": 362,
+      "venue": "The Centrum Worcester, MA",
+      "description": "This one climbs, blooms, and sheds in that direct 87-Bird Song way, complete with bird sounds.",
+      "archive_url": "https://headyversion.com/show/362/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1994-04-01",
+      "show_id": 312,
+      "venue": "The Omni Atlanta, GA",
+      "description": "A pretty dang fantastic trip through space for a \u201894 recording.",
+      "archive_url": "https://headyversion.com/show/312/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1971-08-05",
+      "show_id": 48,
+      "venue": "Hollywood Palladium Hollywood, CA",
+      "description": "Fresh. Interesting workout on this; which has been missing from other recordings of this show.",
+      "archive_url": "https://headyversion.com/show/48/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1982-09-14",
+      "show_id": 591,
+      "venue": "University of Virginia Charlottesville, VA",
+      "description": "Jerry's fingers flying in this version. Love '82 Bird Songs!",
+      "archive_url": "https://headyversion.com/show/591/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1981-10-03",
+      "show_id": 633,
+      "venue": "Rainbow Theater London,",
+      "description": "Brent and Jerry's fingers are flying through the night",
+      "archive_url": "https://headyversion.com/show/633/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1986-01-27",
+      "show_id": 2171,
+      "venue": "The Ritz New York City, NY",
+      "description": "Nice acoustic version with just Jer and John Kahn. Very good jam.",
+      "archive_url": "https://headyversion.com/show/2171/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-05-27",
+      "show_id": 1849,
+      "venue": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
+      "description": "Very nice 1989 version with Clarence Clemons.",
+      "archive_url": "https://headyversion.com/show/1849/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1989-04-06",
+      "show_id": 303,
+      "venue": "Crisler Arena Ann Arbor, MI",
+      "description": "Great version overall, full band interplay with classic Jerry peaks",
+      "archive_url": "https://headyversion.com/show/303/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-07-01",
+      "show_id": 182,
+      "venue": "Buckeye Lake Music Center Hebron, OH",
+      "description": "not bad for 92",
+      "archive_url": "https://headyversion.com/show/182/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1973-03-30",
+      "show_id": 1263,
+      "venue": "Rochester Community War Memorial Rochester, NY",
+      "description": "Listen through the murk of the AUD recording and you find a beautiful exploratory version.  Headphones only.",
+      "archive_url": "https://headyversion.com/show/1263/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1993-09-28",
+      "show_id": 1386,
+      "venue": "Boston Garden Boston, MA",
+      "description": "Wooden and crunchy. Nice interplay between Jerry and Phil. Vince blows little zephyrs.",
+      "archive_url": "https://headyversion.com/show/1386/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-08-03",
+      "show_id": 1585,
+      "venue": "Giants Stadium East Rutherford, NJ",
+      "description": "Yes, the rest of the show is pretty poor, and a good bit of this meanders, but once they dial it in it has O1-like intensity.",
+      "archive_url": "https://headyversion.com/show/1585/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1971-02-23",
+      "show_id": 623,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/623/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1986-12-27",
+      "show_id": 924,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/924/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1994-03-04",
+      "show_id": 1699,
+      "venue": "Blockbuster Desert Sky Pavillion Pheonix, AZ",
+      "description": "i got lost in this little jem",
+      "archive_url": "https://headyversion.com/show/1699/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-03-06",
+      "show_id": 1833,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Cosmic, Spacey and swirling the only time they caught the true Hampton Magic and went for it on this evening. Jerry ended set one with two strong ones",
+      "archive_url": "https://headyversion.com/show/1833/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-08-30",
+      "show_id": 1927,
+      "venue": "Southern Star Amphitheater Houston, TX",
+      "description": "A really nice spacey jam set nicely dead center of the first set. Highlight version",
+      "archive_url": "https://headyversion.com/show/1927/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-07-14",
+      "show_id": 2005,
+      "venue": "McNichols Sports Arena Denver, CO",
+      "description": "Absolutely smoking set ending sequence Bird Song->Lost Sailor->Saint of Circ.-> Don't Ease",
+      "archive_url": "https://headyversion.com/show/2005/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1995-03-24",
+      "show_id": 1723,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1723/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-05-07",
+      "show_id": 2016,
+      "venue": "Silva Hall, Hult Center Eugene, OR",
+      "description": "Brent's quite high in the mix and you can really appreciate what he's doing behind the solos. Swings and rolls along nicely.",
+      "archive_url": "https://headyversion.com/show/2016/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-10-28",
+      "show_id": 1198,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Cool '91 version, clocks in at 16:32.",
+      "archive_url": "https://headyversion.com/show/1198/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1988-09-16",
+      "show_id": 1947,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Birdsong has left the building... only to return to earth, center stage",
+      "archive_url": "https://headyversion.com/show/1947/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1972-07-21",
+      "show_id": 1411,
+      "venue": "Paramount Northwest Theater Seattle, WA",
+      "description": "Download Series Vol. 10. This version is sparkling. Everything you expect out of a great '72 w/cool OR. vibe. Beautiful midsong drum break & much more",
+      "archive_url": "https://headyversion.com/show/1411/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-09-13",
+      "show_id": 709,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Short and sweet",
+      "archive_url": "https://headyversion.com/show/709/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1992-05-31",
+      "show_id": 235,
+      "venue": "Sam Boyd Silver Bowl Las Vegas, NV",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/235/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-09-07",
+      "show_id": 352,
+      "venue": "Richfield Coliseum Richfield, OH",
+      "description": "Vinny's inaugural \"Bird Song\" is a 14 minute monster.",
+      "archive_url": "https://headyversion.com/show/352/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-09-15",
+      "show_id": 1787,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "Hornsby's first \"Bird Song\" as a member is nearly 15 minutes of bliss. Nice harmonies, too.",
+      "archive_url": "https://headyversion.com/show/1787/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1981-12-26",
+      "show_id": 1317,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Whoa! This one somehow slipped through the cracks - A hidden gem for sure!",
+      "archive_url": "https://headyversion.com/show/1317/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-06-12",
+      "show_id": 1955,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "This splendid version of Bird Song includes plenty of bird sounds and a spirited jam segment that crescendos magnificently into an uplifting climax.",
+      "archive_url": "https://headyversion.com/show/1955/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-06-29",
+      "show_id": 1907,
+      "venue": "Blossom Music Center Cuyahoga Falls, OH",
+      "description": "Crashing and banging! 14 min of the best one ever!!!!",
+      "archive_url": "https://headyversion.com/show/1907/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1980-12-28",
+      "show_id": 1964,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "Bob does some interesting guitar on this. Don't pass this one by",
+      "archive_url": "https://headyversion.com/show/1964/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-11-11",
+      "show_id": 1716,
+      "venue": "Brendan Byrne Arena East Rutherford, NJ",
+      "description": "Phil and Jerry shine here especially",
+      "archive_url": "https://headyversion.com/show/1716/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-06-11",
+      "show_id": 1238,
+      "venue": "Charlotte Coliseum Charlotte, NC",
+      "description": "A bit chaotic, but strong. Better than decent 90s version.",
+      "archive_url": "https://headyversion.com/show/1238/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-09-24",
+      "show_id": 629,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Welcome aboard - with amazing mix and quality",
+      "archive_url": "https://headyversion.com/show/629/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-04-01",
+      "show_id": 1924,
+      "venue": "Cumberland County Civic Center Portland, ME",
+      "description": "down to business in the mines of emotion. Tight and incredible. A gem of a intuitive version with lots of rootsy charisma and swingin' euphoria..",
+      "archive_url": "https://headyversion.com/show/1924/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1987-08-12",
+      "show_id": 898,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "No spine-tingling moments but very good overall with interesting jam.",
+      "archive_url": "https://headyversion.com/show/898/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1990-07-10",
+      "show_id": 1260,
+      "venue": "Carter-Finley Stadium Raleigh, NC",
+      "description": "Epic version elevated by Hornsby and the boys jamming it out in the pouring rain",
+      "archive_url": "https://headyversion.com/show/1260/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-06-28",
+      "show_id": 857,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Not bad for 87'....into  killer Jackstraw\u2661\u2661\u2661\u2661",
+      "archive_url": "https://headyversion.com/show/857/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1983-04-12",
+      "show_id": 998,
+      "venue": "Broome County Arena Binghamton, NY",
+      "description": "Really nice late-ish version",
+      "archive_url": "https://headyversion.com/show/998/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-02-27",
+      "show_id": 619,
+      "venue": "Oakland-Alameda County Coliseum Arena Oakland, CA",
+      "description": "they were absolutely locked in on this night awesome",
+      "archive_url": "https://headyversion.com/show/619/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-22",
+      "show_id": 1860,
+      "venue": "Festhalle Frankfurt\u007f, GM",
+      "description": "The whole band is on for this one taking it into deep outerspace and beautifully bringing it back home.",
+      "archive_url": "https://headyversion.com/show/1860/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-12-12",
+      "show_id": 1167,
+      "venue": "Oakland Coliseum Oakland, CA",
+      "description": "Just a great version, sets an exploratory tone for the DS later.",
+      "archive_url": "https://headyversion.com/show/1167/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1991-08-12",
+      "show_id": 2073,
+      "venue": "cal expo amphitheatre Sacramento , ca",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/2073/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-14",
+      "show_id": 1004,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1004/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-03-22",
+      "show_id": 2088,
+      "venue": "Hampton Coliseum Hampton, VA",
+      "description": "Actually from March 21st- extraordinary version- you may never listen to song the same way again.",
+      "archive_url": "https://headyversion.com/show/2088/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-09-29",
+      "show_id": 1774,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Nice acoustic version.",
+      "archive_url": "https://headyversion.com/show/1774/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1990-10-13",
+      "show_id": 2089,
+      "venue": "Ice Stadium Stockholm, SW",
+      "description": "Easily the best song of the first set. The whole band gets into this one.",
+      "archive_url": "https://headyversion.com/show/2089/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-01-28",
+      "show_id": 1354,
+      "venue": "San Francisco Civic Auditorium San Francisco, CA",
+      "description": "Extra heady free jazz jamz in the middle, of course the start is completely botched with Jerry apparently forgetting the opening riff",
+      "archive_url": "https://headyversion.com/show/1354/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1987-11-13",
+      "show_id": 1657,
+      "venue": "Long Beach Arena Long Beach, CA",
+      "description": "Clean and exploratory, with active Brent, yet not as telepathic as others",
+      "archive_url": "https://headyversion.com/show/1657/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-08-18",
+      "show_id": 436,
+      "venue": "Greek Theater Berkeley, CA",
+      "description": "Floating on the breeze. Ethereal, powerful, emotional Bird Song. Laugh in the sunshine sing, cry, in the dark, fly through the night.",
+      "archive_url": "https://headyversion.com/show/436/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1971-02-25",
+      "show_id": 2168,
+      "venue": "Capitol Theatre Port Chester, NY",
+      "description": "Actually happened the night before but when I tried to post it as the correct date I was told it was already posted, but when I looked it wasnt posted",
+      "archive_url": "https://headyversion.com/show/2168/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1992-05-21",
+      "show_id": 1058,
+      "venue": "Cal Expo Sacramento, CA",
+      "description": "Probably the most underrated version in the history of Bird Songs. Incredible jazzy jamming from Jerry that peaks extremely hard.",
+      "archive_url": "https://headyversion.com/show/1058/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1993-09-20",
+      "show_id": 218,
+      "venue": "Madison Square Garden New York, NY",
+      "description": "One of the sweeter yet still midi exploratorily '93 Bird Songs. To used the tired old clich\u00e9, surprised it wasn't already here yet.",
+      "archive_url": "https://headyversion.com/show/218/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1981-07-11",
+      "show_id": 1011,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "Very nice version",
+      "archive_url": "https://headyversion.com/show/1011/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1994-07-03",
+      "show_id": 1302,
+      "venue": "Shoreline Amphitheatre Mountain View, CA",
+      "description": "Quality 90s version",
+      "archive_url": "https://headyversion.com/show/1302/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-10-30",
+      "show_id": 90,
+      "venue": "Radio City Music Hall New York, NY",
+      "description": "https://www.youtube.com/watch?v=Snz5k9PkXTk magisterial jamming",
+      "archive_url": "https://headyversion.com/show/90/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1989-04-27",
+      "show_id": 2188,
+      "venue": "Oakland-Alameda County Stadium Oakland, CA",
+      "description": "Not the cleanest performance but Jerry had fun at this show",
+      "archive_url": "https://headyversion.com/show/2188/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1988-07-31",
+      "show_id": 1884,
+      "venue": "Laguna Seca Recreation Area Monterey, CA",
+      "description": "consonantly epic woodshedding on Bird at a special  spot, swimming through time.",
+      "archive_url": "https://headyversion.com/show/1884/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-04-29",
+      "show_id": 2031,
+      "venue": "Nassau Coliseum Uniondale, NY",
+      "description": "Jerry immediately takes the solo in a very deliberate introspective direction to a stunning peak, crisp and beautiful with the whole band cooking",
+      "archive_url": "https://headyversion.com/show/2031/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1980-09-26",
+      "show_id": 1288,
+      "venue": "Warfield Theater San Francisco, CA",
+      "description": "Surprised to not see this listed - this entire show should be on here.",
+      "archive_url": "https://headyversion.com/show/1288/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1982-03-14",
+      "show_id": 1586,
+      "venue": "Recreation Hall - University of California Davis, CA",
+      "description": "Fun mellow version with some great playing from Brent and Jerry",
+      "archive_url": "https://headyversion.com/show/1586/archive/"
+    }
+  ]
+}

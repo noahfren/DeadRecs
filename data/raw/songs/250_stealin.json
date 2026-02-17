@@ -1,0 +1,78 @@
+{
+  "song_id": 250,
+  "name": "Stealin'",
+  "performances": [
+    {
+      "votes": 7,
+      "date": "1966-07-29",
+      "show_id": 1982,
+      "venue": "P.N.E. Garden Auditorium Vancouver, BC",
+      "description": "Amazing early dead",
+      "archive_url": "https://headyversion.com/show/1982/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1966-07-30",
+      "show_id": 1029,
+      "venue": "P.N.E. Garden Auditorium Vancouver,",
+      "description": "A nice one in Canada.",
+      "archive_url": "https://headyversion.com/show/1029/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1966-09-16",
+      "show_id": 109,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Historic Dead version.",
+      "archive_url": "https://headyversion.com/show/109/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1966-03-02",
+      "show_id": 1255,
+      "venue": "Unknown Studio Recording San Francisco, CA",
+      "description": "Studio recording that can be found on Rare Cuts And Oddities.",
+      "archive_url": "https://headyversion.com/show/1255/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1966-07-03",
+      "show_id": 1086,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Possibly from the second set, or maybe another show.",
+      "archive_url": "https://headyversion.com/show/1086/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1966-03-25",
+      "show_id": 515,
+      "venue": "Trouper's Hall Los Angeles, CA",
+      "description": "Nice even though the beginning is clipped",
+      "archive_url": "https://headyversion.com/show/515/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1966-03-12",
+      "show_id": 1256,
+      "venue": "Danish Center Los Angeles, CA",
+      "description": "A standout version from a great show.",
+      "archive_url": "https://headyversion.com/show/1256/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1966-11-29",
+      "show_id": 830,
+      "venue": "The Matrix San Francisco,, CA",
+      "description": "Fantastic!",
+      "archive_url": "https://headyversion.com/show/830/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1966-02-25",
+      "show_id": 410,
+      "venue": "Ivar Theater Los Angeles, CA",
+      "description": "all the boys having their moments and shining, Pigpen at finest. Great keyboard drum interplay. A great Stealin'",
+      "archive_url": "https://headyversion.com/show/410/archive/"
+    }
+  ]
+}

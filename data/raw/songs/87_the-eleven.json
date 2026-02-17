@@ -1,0 +1,774 @@
+{
+  "song_id": 87,
+  "name": "The Eleven",
+  "performances": [
+    {
+      "votes": 92,
+      "date": "1968-10-12",
+      "show_id": 106,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "One of the best",
+      "archive_url": "https://headyversion.com/show/106/archive/"
+    },
+    {
+      "votes": 69,
+      "date": "1969-02-28",
+      "show_id": 686,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "How is this not on here?",
+      "archive_url": "https://headyversion.com/show/686/archive/"
+    },
+    {
+      "votes": 51,
+      "date": "1968-08-23",
+      "show_id": 38,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Epic jams",
+      "archive_url": "https://headyversion.com/show/38/archive/"
+    },
+    {
+      "votes": 46,
+      "date": "1968-08-24",
+      "show_id": 666,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/666/archive/"
+    },
+    {
+      "votes": 38,
+      "date": "1969-02-22",
+      "show_id": 412,
+      "venue": "Dream Bowl Vallejo, CA",
+      "description": "Had I never tripped this still might have given me flashbacks,do yourself a favor ,listen to the whole show pure 69 bliss!",
+      "archive_url": "https://headyversion.com/show/412/archive/"
+    },
+    {
+      "votes": 38,
+      "date": "1969-01-26",
+      "show_id": 1068,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1068/archive/"
+    },
+    {
+      "votes": 32,
+      "date": "1969-06-14",
+      "show_id": 687,
+      "venue": "Monterey Performing Arts Center Monterey, CA",
+      "description": "Garcia is on fire.",
+      "archive_url": "https://headyversion.com/show/687/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1968-10-20",
+      "show_id": 836,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "Warp speed version as tight as they come",
+      "archive_url": "https://headyversion.com/show/836/archive/"
+    },
+    {
+      "votes": 27,
+      "date": "1969-11-08",
+      "show_id": 743,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Furious",
+      "archive_url": "https://headyversion.com/show/743/archive/"
+    },
+    {
+      "votes": 26,
+      "date": "1969-03-01",
+      "show_id": 81,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/81/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1969-03-02",
+      "show_id": 838,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Really tight, melodic jams. Nice Jerry/Phil duet.",
+      "archive_url": "https://headyversion.com/show/838/archive/"
+    },
+    {
+      "votes": 23,
+      "date": "1969-04-27",
+      "show_id": 845,
+      "venue": "Labor Temple Minneapolis, MN",
+      "description": "Dick's Picks 26. Unparalled energy. You can literally hear the crowd going nuts during the Everest-sized peaks!!",
+      "archive_url": "https://headyversion.com/show/845/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1969-02-27",
+      "show_id": 288,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "After THE Dark Star and probably the best St. Stephen. How is this not here?",
+      "archive_url": "https://headyversion.com/show/288/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1970-01-02",
+      "show_id": 415,
+      "venue": "Fillmore East (Late Show) New York City, NY",
+      "description": "Intense version. Gotta love it!",
+      "archive_url": "https://headyversion.com/show/415/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1968-02-23",
+      "show_id": 925,
+      "venue": "Kings Beach Bowl Lake Tahoe, CA",
+      "description": "Jerry is on fire during the long transition to Lovelight. One of the hottest early versions.",
+      "archive_url": "https://headyversion.com/show/925/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1969-04-22",
+      "show_id": 680,
+      "venue": "The Ark Boston, MA",
+      "description": "Heavy and Fast",
+      "archive_url": "https://headyversion.com/show/680/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1969-04-26",
+      "show_id": 990,
+      "venue": "The Electric Theatre Chicago, IL",
+      "description": "Inside The Other One jam",
+      "archive_url": "https://headyversion.com/show/990/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1968-09-02",
+      "show_id": 831,
+      "venue": "Betty Nelson's Organic Raspberry Farm Sultan, WA",
+      "description": "Faster than a speeding bullet",
+      "archive_url": "https://headyversion.com/show/831/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1968-10-13",
+      "show_id": 141,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "BETTER than 10/12!?",
+      "archive_url": "https://headyversion.com/show/141/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1968-02-14",
+      "show_id": 84,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/84/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1969-02-11",
+      "show_id": 864,
+      "venue": "Fillmore East New York,",
+      "description": "Eleven Jam. This one is tight as a you-know-what!!",
+      "archive_url": "https://headyversion.com/show/864/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1969-12-20",
+      "show_id": 1471,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Hits a nice mellow calypso jam, then shoots into a flurry of energy to reach a massive peak!  Loving the new Dave's Picks release",
+      "archive_url": "https://headyversion.com/show/1471/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1969-05-23",
+      "show_id": 752,
+      "venue": "Seminole Indian Village West Hollywood, FL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/752/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1975-09-28",
+      "show_id": 432,
+      "venue": "Lindley Meadows, Golden Gate Park San Francisco, CA",
+      "description": "This has be here as there has not been any form of the 11 in 5 years.  Very cool jam.",
+      "archive_url": "https://headyversion.com/show/432/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1968-02-24",
+      "show_id": 917,
+      "venue": "Kings Beach Bowl Lake Tahoe , CA",
+      "description": "RAGING. 'nuff said. Goes into 'Drums', then 'Alligator', and can be found on 'Dick's Picks Vol. 22'.",
+      "archive_url": "https://headyversion.com/show/917/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1969-04-23",
+      "show_id": 389,
+      "venue": "The Ark Boston, MA",
+      "description": "Includes a short but sweet \"There Is a Mountain\" Jam",
+      "archive_url": "https://headyversion.com/show/389/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1969-06-07",
+      "show_id": 598,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "No no... not 9 MInutes, not 10 minutes, not ELEVEN, not twelve... BUT 15 MINUES OF ELVEN AWESOMENESS",
+      "archive_url": "https://headyversion.com/show/598/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1969-02-12",
+      "show_id": 849,
+      "venue": "Fillmore East New York, NY",
+      "description": "Longest intro jam I've ever heard",
+      "archive_url": "https://headyversion.com/show/849/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1969-04-20",
+      "show_id": 1382,
+      "venue": "Clark University Worcester, MA",
+      "description": "Nice 11 with a proper segue in to Death Don't.",
+      "archive_url": "https://headyversion.com/show/1382/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1969-12-11",
+      "show_id": 1627,
+      "venue": "Thelma Theater Los Angeles, CA",
+      "description": "I keep playing this one......",
+      "archive_url": "https://headyversion.com/show/1627/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1969-11-02",
+      "show_id": 390,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/390/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1969-02-21",
+      "show_id": 590,
+      "venue": "Dream Bowl Vallejo, CA",
+      "description": "The longest and best IMO. Absolutely incredible heavy-metal shredding from Jerry!! And the transition into Lovelight is damn-near perfect.",
+      "archive_url": "https://headyversion.com/show/590/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1968-03-17",
+      "show_id": 927,
+      "venue": "Carousel Ballroom   San Francisco, CA",
+      "description": "New Potato>China Cat>Eleven. This version kills. I mean kills. Jerry is scorching the entire way and it flows very nicely into a 20+ minute Caution.",
+      "archive_url": "https://headyversion.com/show/927/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "Why not here yet? This show has it all, and this Eleven just slays it. Balls out, high-energy jams from everyone.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-01-17",
+      "show_id": 1201,
+      "venue": "Civic Auditorium Santa Barbara, CA",
+      "description": "Wonderfully nice jammiest, a true pleasure to hear this is amazing psychedelic beauty.",
+      "archive_url": "https://headyversion.com/show/1201/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-01-17",
+      "show_id": 1451,
+      "venue": "Oregon State University Corvallis, OR",
+      "description": "The classic Live Dead sequence with my new favorite \u201cThe Eleven\u201d, just a little more controlled, in a laid back, non-frenzied pace.  Give it a listen.",
+      "archive_url": "https://headyversion.com/show/1451/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1970-04-24",
+      "show_id": 1403,
+      "venue": "Mammoth Gardens Denver, CO",
+      "description": "Insanely polished, and powerful eleven. Following an epic dark star. Despite the atrocious recording, this Eleven is most definitely a must listen",
+      "archive_url": "https://headyversion.com/show/1403/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-04-12",
+      "show_id": 1233,
+      "venue": "Student Union Ballroom, U. Utah Salt Lake City, UT",
+      "description": "Just diggin' this one",
+      "archive_url": "https://headyversion.com/show/1233/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1968-12-29",
+      "show_id": 402,
+      "venue": "Gulfstream Park Race Track Hallandale, FL",
+      "description": "Some liquid lava energy on this one.",
+      "archive_url": "https://headyversion.com/show/402/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1969-06-05",
+      "show_id": 878,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Jerry doing Jerry things",
+      "archive_url": "https://headyversion.com/show/878/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1969-03-28",
+      "show_id": 588,
+      "venue": "Student Center Modesto, CA",
+      "description": "Hot as all get out fairly new discovery. amazing show love 1969 grateful dead.",
+      "archive_url": "https://headyversion.com/show/588/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1969-05-24",
+      "show_id": 473,
+      "venue": "Seminole Indian Village West Hollywood, FL",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/473/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1969-02-07",
+      "show_id": 603,
+      "venue": "Stanley Theater Pittsburgh, PA",
+      "description": "Filthy jamming, great show",
+      "archive_url": "https://headyversion.com/show/603/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1969-07-07",
+      "show_id": 860,
+      "venue": "Piedmont Park Atlanta, GA",
+      "description": "THey so owned this piece of music in 1969 hot and dripping with acid",
+      "archive_url": "https://headyversion.com/show/860/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1968-08-21",
+      "show_id": 885,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Bananas with the machismo! After spinning your DNA will be rearranged.",
+      "archive_url": "https://headyversion.com/show/885/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-04-13",
+      "show_id": 770,
+      "venue": "Ballroom Boulder, CO",
+      "description": "Long, sweet and jazzy. Ebbs and peaks.",
+      "archive_url": "https://headyversion.com/show/770/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1969-12-31",
+      "show_id": 414,
+      "venue": "??? Boston Tea Party, MA",
+      "description": "a spot on eleven!",
+      "archive_url": "https://headyversion.com/show/414/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-05-30",
+      "show_id": 552,
+      "venue": "Springer's Inn Portland, OR",
+      "description": "a nice version from a show overshadowed by the night after",
+      "archive_url": "https://headyversion.com/show/552/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-02-04",
+      "show_id": 866,
+      "venue": "The Music Box Omaha, NE",
+      "description": "Nie And psychedelic, Another hot 1969 Dark Star-> St. Stephen->The Eleven",
+      "archive_url": "https://headyversion.com/show/866/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-10-25",
+      "show_id": 781,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Psychedelic breeze, looping and cascading arches of musical exploration",
+      "archive_url": "https://headyversion.com/show/781/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-04-21",
+      "show_id": 560,
+      "venue": "The Ark Boston, MA",
+      "description": "So blisteringly hot.  All three Ark '69 shows are brilliant, but this is the clearest example of their brilliance on Eleven.",
+      "archive_url": "https://headyversion.com/show/560/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-02-15",
+      "show_id": 388,
+      "venue": "Electric Factory Philadelphia, PA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/388/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-04-05",
+      "show_id": 1126,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "The Eleven > 9 Songs > Eleven Closeout..whole show worth a visit",
+      "archive_url": "https://headyversion.com/show/1126/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-12-30",
+      "show_id": 413,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "Wow another fantastic Eleven from 1969, Jerry just raging and Phil carpet bombing the tune great keys and drums as well.",
+      "archive_url": "https://headyversion.com/show/413/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1968-01-17",
+      "show_id": 520,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "First version, out of the first China Cat ever.  Epic show.  Pigpen is on fire the whole night.",
+      "archive_url": "https://headyversion.com/show/520/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1968-02-03",
+      "show_id": 858,
+      "venue": "Crystal Ballroom Portland, OR",
+      "description": "Swirling epic feedback with drums synergy",
+      "archive_url": "https://headyversion.com/show/858/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1969-02-05",
+      "show_id": 837,
+      "venue": "Soldiers & Sailors Memorial Auditorium Kansas City, KS",
+      "description": "Wild Garica/Drums battle during a rare transition into Caution",
+      "archive_url": "https://headyversion.com/show/837/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-08-23",
+      "show_id": 1523,
+      "venue": "Pelletier Farm St. Helens, OR",
+      "description": "Explodes out of a rockin' St. Stephen and carries that energy all the way through to Lovelight. I'm shocked their equipment didn't spontaneously erupt",
+      "archive_url": "https://headyversion.com/show/1523/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1968-03-16",
+      "show_id": 1228,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Primal raw and psychedellic VERY heady. Awesome tune LOVE it. Jerry just sizzles.",
+      "archive_url": "https://headyversion.com/show/1228/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1968-08-22",
+      "show_id": 856,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "14 min. heavy, swift, flying Eleven",
+      "archive_url": "https://headyversion.com/show/856/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-01-25",
+      "show_id": 863,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "another heady Dark Star->St.Stephen->The Eleven. Magical times this is just such transcendence",
+      "archive_url": "https://headyversion.com/show/863/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-02-02",
+      "show_id": 840,
+      "venue": "Labor Temple Minneapolis, MN",
+      "description": "A-MAZING, tight as a f'ing drum version with Garica on his absoulte A-GAME. Totally epic, earth-scorching leads!!! MUST HEAR!!!!!",
+      "archive_url": "https://headyversion.com/show/840/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1969-07-05",
+      "show_id": 1786,
+      "venue": "Electric Theater Chicago, IL",
+      "description": "Awesome run through of this psychedelic masterpiece",
+      "archive_url": "https://headyversion.com/show/1786/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1968-12-07",
+      "show_id": 954,
+      "venue": "Bellarmine College Louisville, KY",
+      "description": "Big Phil, Aggressive Jerry shortened due to rig setup",
+      "archive_url": "https://headyversion.com/show/954/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1968-01-23",
+      "show_id": 727,
+      "venue": "Eagles Auditorium Seattle, WA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/727/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-01-23",
+      "show_id": 2170,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Excellent. Rehearsal. From Download Series Vol. 12",
+      "archive_url": "https://headyversion.com/show/2170/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-02-06",
+      "show_id": 1521,
+      "venue": "Kiel Auditorium St. Louis, MO",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1521/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1968-01-22",
+      "show_id": 794,
+      "venue": "Eagles Auditorium Seattle, WA",
+      "description": "Phil zone",
+      "archive_url": "https://headyversion.com/show/794/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-09-01",
+      "show_id": 1934,
+      "venue": "Baton Rouge International Speedway Baton Rouge, LA",
+      "description": "Another smoking 11 from a gorgeous high quality soundboard currently up on archive, really great heady shit",
+      "archive_url": "https://headyversion.com/show/1934/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-06-13",
+      "show_id": 1771,
+      "venue": "Fresno Convention Center Fresno, CA",
+      "description": "Wow this is one hot freaking show",
+      "archive_url": "https://headyversion.com/show/1771/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1968-12-20",
+      "show_id": 1203,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Wow wish we had more than 3 songs from this beauty",
+      "archive_url": "https://headyversion.com/show/1203/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1968-03-30",
+      "show_id": 1364,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "The China Cat>The Eleven sequence was always very cool and this one burns hot and fast. Don't wanna just put all of 'em up here, but this is a cooker.",
+      "archive_url": "https://headyversion.com/show/1364/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1969-07-12",
+      "show_id": 1388,
+      "venue": "NY State Pavilion, Flushing Meadow Park Queens, NY",
+      "description": "Expanding over 14 minutes, this one covers different themes and vibes with great streches for soloing. Low-fi AUD.",
+      "archive_url": "https://headyversion.com/show/1388/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-05-10",
+      "show_id": 1764,
+      "venue": "Rose Palace  Pasadena , CA",
+      "description": "Wow i truly love this Jam raw powerful and psychedelic everything i love about 1969 Grateful Dead",
+      "archive_url": "https://headyversion.com/show/1764/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-03-15",
+      "show_id": 1608,
+      "venue": "Hilton Hotel San Francisco, CA",
+      "description": "The fact that this version of the eleven is not here yet shocked me, heady",
+      "archive_url": "https://headyversion.com/show/1608/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1968-06-14",
+      "show_id": 119,
+      "venue": "Fillmore East New York, NY",
+      "description": "Coming out of Feedback and leading TO St Stephen, this one is powerful.",
+      "archive_url": "https://headyversion.com/show/119/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1981-12-26",
+      "show_id": 1317,
+      "venue": "Oakland Auditorium Oakland, CA",
+      "description": "They waited eleven more years to play the Eleven jam one more time.",
+      "archive_url": "https://headyversion.com/show/1317/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-03-29",
+      "show_id": 1350,
+      "venue": "Ice Palace Las Vegas, NV",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/1350/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-02-05",
+      "show_id": 1395,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Incomplete, but fantastic tight jam with lovely China Cat riffs. A fantastic jam with Mason's>11>Caution>NFA",
+      "archive_url": "https://headyversion.com/show/1395/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-09-29",
+      "show_id": 1772,
+      "venue": "Cafe au Go-Go New York City, NY",
+      "description": "The Stephen and this Eleven are on '69 fire.",
+      "archive_url": "https://headyversion.com/show/1772/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-04-04",
+      "show_id": 1124,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Another brilliant April '69 Eleven that just doesn't let up. Forceful, but totally unforced.",
+      "archive_url": "https://headyversion.com/show/1124/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-08-30",
+      "show_id": 861,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Short and bouncy!",
+      "archive_url": "https://headyversion.com/show/861/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-11-22",
+      "show_id": 1935,
+      "venue": "Veterans Hall Columbus, OH",
+      "description": "Phil mentions this show in his book and how on he thought they were from the first note of Dew he said they knew it. 300 in attendance needs a SNBD",
+      "archive_url": "https://headyversion.com/show/1935/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-06-27",
+      "show_id": 721,
+      "venue": "Veterans Auditorium Santa Rosa, CA",
+      "description": "Jerry's chromatics liquified my face. Total acid-drenched mindmeld.",
+      "archive_url": "https://headyversion.com/show/721/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-05-03",
+      "show_id": 2071,
+      "venue": "Columbia University NYC, NY",
+      "description": "Columbia University",
+      "archive_url": "https://headyversion.com/show/2071/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-02-14",
+      "show_id": 1527,
+      "venue": "Electric Factory Philadelphia, PA",
+      "description": "The boys often delivered on valentines day this is no exception.  Tremendous psychedelic journey.  throw on some headphones and strap yourself down of",
+      "archive_url": "https://headyversion.com/show/1527/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-09-26",
+      "show_id": 1933,
+      "venue": "Fillmore East New York, NY",
+      "description": "Tape is a little rough but the performance is oh my first rate 1969 psychedelic madness.",
+      "archive_url": "https://headyversion.com/show/1933/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-04-15",
+      "show_id": 1491,
+      "venue": "The Music Box Omaha, Nb",
+      "description": "This is pure 69 psychadelic energy, at it's very best!",
+      "archive_url": "https://headyversion.com/show/1491/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1967-03-16",
+      "show_id": 2081,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Early, long, amazing version coming out of a great DS>ChinaCat. Highly recommended, Jerry is just on fire on this rare cut of primal Dead.",
+      "archive_url": "https://headyversion.com/show/2081/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-08-13",
+      "show_id": 2164,
+      "venue": "Pacific Recording San Mateo, CA",
+      "description": "Live Studio Jam",
+      "archive_url": "https://headyversion.com/show/2164/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-01-27",
+      "show_id": 1941,
+      "venue": "Eagles Auditorium Seattle, WA",
+      "description": "Fire",
+      "archive_url": "https://headyversion.com/show/1941/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-08-28",
+      "show_id": 1985,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "So overlooked! The end of this show is an Hour+ Dark Star>Eleven!",
+      "archive_url": "https://headyversion.com/show/1985/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-07",
+      "show_id": 2083,
+      "venue": "Fillmore San Francisco, CA",
+      "description": "Nice jammed out version!",
+      "archive_url": "https://headyversion.com/show/2083/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-08-28",
+      "show_id": 2211,
+      "venue": "Avalon Ballroom San Francisco , CA",
+      "description": "Cool 11>Death Don't!",
+      "archive_url": "https://headyversion.com/show/2211/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-10-08",
+      "show_id": 1937,
+      "venue": "The Matrix San Francisco, CA",
+      "description": "Some wormholes just require a smaller spaceship. The Hartbeats phase isn't just true Dead, it's essential.",
+      "archive_url": "https://headyversion.com/show/1937/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-06-21",
+      "show_id": 1190,
+      "venue": "Fillmore East New York City, NY",
+      "description": "Stupidly heavy, shades of early heavy metal on this one. Incredible controlled chaos that explores so much. A very tight version.",
+      "archive_url": "https://headyversion.com/show/1190/archive/"
+    }
+  ]
+}

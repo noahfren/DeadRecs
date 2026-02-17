@@ -1,0 +1,14 @@
+{
+  "song_id": 95,
+  "name": "France",
+  "performances": [
+    {
+      "votes": 2,
+      "date": "1978-08-01",
+      "show_id": 1815,
+      "venue": "Studio rehearsal Marin County, CA",
+      "description": "The rehearsal",
+      "archive_url": "https://headyversion.com/show/1815/archive/"
+    }
+  ]
+}

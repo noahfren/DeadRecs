@@ -1,0 +1,998 @@
+{
+  "song_id": 64,
+  "name": "Dancin' in the Streets",
+  "performances": [
+    {
+      "votes": 153,
+      "date": "1977-05-08",
+      "show_id": 1,
+      "venue": "Barton Hall - Cornell University Ithaca, NY",
+      "description": "The best Dancin'",
+      "archive_url": "https://headyversion.com/show/1/archive/"
+    },
+    {
+      "votes": 118,
+      "date": "1977-05-22",
+      "show_id": 100,
+      "venue": "The Sportatorium Pembroke Pines, FL",
+      "description": "Funkalicous, jazz juiced '77ness, Fourteen and a half minutes ewwwey, gooooey, boggie",
+      "archive_url": "https://headyversion.com/show/100/archive/"
+    },
+    {
+      "votes": 105,
+      "date": "1970-05-02",
+      "show_id": 27,
+      "venue": "Harpur College Binghamton, NY",
+      "description": "Another great tune from the legendary Harpur College show. Includes a really great tighten up jam.",
+      "archive_url": "https://headyversion.com/show/27/archive/"
+    },
+    {
+      "votes": 68,
+      "date": "1979-10-27",
+      "show_id": 361,
+      "venue": "Cape Cod Coliseum South Yarmouth, MA",
+      "description": "Funky",
+      "archive_url": "https://headyversion.com/show/361/archive/"
+    },
+    {
+      "votes": 66,
+      "date": "1978-05-11",
+      "show_id": 551,
+      "venue": "Springfield Civic Center Arena Springfield, MA",
+      "description": "All around nuts",
+      "archive_url": "https://headyversion.com/show/551/archive/"
+    },
+    {
+      "votes": 55,
+      "date": "1977-02-26",
+      "show_id": 6,
+      "venue": "Swing Auditorium San Bernardino, CA",
+      "description": "Classic",
+      "archive_url": "https://headyversion.com/show/6/archive/"
+    },
+    {
+      "votes": 52,
+      "date": "1977-05-19",
+      "show_id": 244,
+      "venue": "Fox Theatre Atlanta, GA",
+      "description": "Favorite '77 Dancin'. Jamming gets real cruchy!!!",
+      "archive_url": "https://headyversion.com/show/244/archive/"
+    },
+    {
+      "votes": 38,
+      "date": "1977-05-15",
+      "show_id": 21,
+      "venue": "St. Louis Arena St. Louis, MO",
+      "description": "Big, romping version.  Get loose",
+      "archive_url": "https://headyversion.com/show/21/archive/"
+    },
+    {
+      "votes": 38,
+      "date": "1976-10-10",
+      "show_id": 746,
+      "venue": "Oakland-Alameda County Coliseum Oakland, CA",
+      "description": "Funky all over the place, excellent transition to Wharf Rat and then back again",
+      "archive_url": "https://headyversion.com/show/746/archive/"
+    },
+    {
+      "votes": 35,
+      "date": "1970-05-06",
+      "show_id": 58,
+      "venue": "Kresge Plaza - MIT Cambridge, MA",
+      "description": "Crazy early version",
+      "archive_url": "https://headyversion.com/show/58/archive/"
+    },
+    {
+      "votes": 35,
+      "date": "1970-04-15",
+      "show_id": 593,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Jazzy",
+      "archive_url": "https://headyversion.com/show/593/archive/"
+    },
+    {
+      "votes": 33,
+      "date": "1976-10-14",
+      "show_id": 755,
+      "venue": "Shrine Auditorium Los Angeles, CA",
+      "description": "Huge Dancin -> Wharf Rat -> Dancin sandwich.  Awesome.",
+      "archive_url": "https://headyversion.com/show/755/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1976-06-14",
+      "show_id": 22,
+      "venue": "Beacon Theatre New York, NY",
+      "description": "Super dancin' into an absolutely amazing Cosmic Charlie.  One of my all time favorites!",
+      "archive_url": "https://headyversion.com/show/22/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1977-10-11",
+      "show_id": 408,
+      "venue": "Lloyd Noble Center - University of Oklahoma Norman, OK",
+      "description": "Jerry is absolutely posessed in this version.  Wow does not sum it up enough!",
+      "archive_url": "https://headyversion.com/show/408/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1979-11-09",
+      "show_id": 1130,
+      "venue": "Memorial Auditorium Buffalo, NY",
+      "description": "Awesome transition into Franklin's.  Cape Cod version is better known, but this is just as hot.",
+      "archive_url": "https://headyversion.com/show/1130/archive/"
+    },
+    {
+      "votes": 30,
+      "date": "1970-02-14",
+      "show_id": 608,
+      "venue": "Fillmore East New York, NY",
+      "description": "How is this not on here?  All you really have to say is 2/14/70, but with that being said...this one is epic.",
+      "archive_url": "https://headyversion.com/show/608/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1970-04-12",
+      "show_id": 558,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Fallout from the Phil Zone. Unique, one of the finest early versions.",
+      "archive_url": "https://headyversion.com/show/558/archive/"
+    },
+    {
+      "votes": 28,
+      "date": "1978-07-03",
+      "show_id": 1749,
+      "venue": "St. Paul Civic Center Arena St. Paul, MN",
+      "description": "Scarlet->Fire->Dancin In the Streets wow what a straight up jam fest boogie down dead.",
+      "archive_url": "https://headyversion.com/show/1749/archive/"
+    },
+    {
+      "votes": 25,
+      "date": "1967-03-18",
+      "show_id": 15,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Excellent early version. The jam in the middle is a fine bit of acid rock.",
+      "archive_url": "https://headyversion.com/show/15/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1976-06-09",
+      "show_id": 544,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Probably some of the funkiest Phil I've ever heard",
+      "archive_url": "https://headyversion.com/show/544/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1970-03-21",
+      "show_id": 1258,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "peak version of the \"true\" dancin' - there's a very good AUD",
+      "archive_url": "https://headyversion.com/show/1258/archive/"
+    },
+    {
+      "votes": 22,
+      "date": "1970-11-08",
+      "show_id": 796,
+      "venue": "Capitol Theater Port Chester, NY",
+      "description": "Slow, relentless jam--unique and very cool version from an unheralded show.",
+      "archive_url": "https://headyversion.com/show/796/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1978-10-20",
+      "show_id": 10,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Out there and way jammy",
+      "archive_url": "https://headyversion.com/show/10/archive/"
+    },
+    {
+      "votes": 21,
+      "date": "1977-05-04",
+      "show_id": 711,
+      "venue": "The Palladium New York, NY",
+      "description": "While not the definitive version, that would come four days later, this is a rollicking romper full of 19 minutes of Dead Funk.",
+      "archive_url": "https://headyversion.com/show/711/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1977-04-22",
+      "show_id": 372,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "outta nowhere \"Got my Mojo Workin\" sandwiched in between",
+      "archive_url": "https://headyversion.com/show/372/archive/"
+    },
+    {
+      "votes": 20,
+      "date": "1977-10-01",
+      "show_id": 610,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "Great Dancin' out of Eyes...the intro jam is the highlight of this one.",
+      "archive_url": "https://headyversion.com/show/610/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1979-01-12",
+      "show_id": 1292,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "Great interplay between Bobby and Jerry. Well jammed out and then the Jerry / Billy solo jam at the end is fabulous.  Surprised it is not on the list.",
+      "archive_url": "https://headyversion.com/show/1292/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1976-09-25",
+      "show_id": 649,
+      "venue": "Capital Centre Landover, MD",
+      "description": "into a very mellow cosmic charlie",
+      "archive_url": "https://headyversion.com/show/649/archive/"
+    },
+    {
+      "votes": 19,
+      "date": "1977-03-19",
+      "show_id": 677,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Wonderful funk fest comes out of a not 1977 Eyes of the world, the band was just such jam masters at this time. AMAZING",
+      "archive_url": "https://headyversion.com/show/677/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1976-06-11",
+      "show_id": 672,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "You know in the first drum beats you are in for a serious treat.  Cannot beat 76' Dancin' versions :)",
+      "archive_url": "https://headyversion.com/show/672/archive/"
+    },
+    {
+      "votes": 18,
+      "date": "1969-06-08",
+      "show_id": 848,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "HUGE early Dancin', possibly the best ever--they are just totally dialed into one another like fingers of a hand!",
+      "archive_url": "https://headyversion.com/show/848/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1985-04-27",
+      "show_id": 298,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "2nd to Greek'84 for '80s fallback versions to me.  Jerry's solo just does it.",
+      "archive_url": "https://headyversion.com/show/298/archive/"
+    },
+    {
+      "votes": 17,
+      "date": "1976-06-17",
+      "show_id": 1404,
+      "venue": "Capitol Theater Passaic, NJ",
+      "description": "'76 is always funky but this evening seems to have an extra layer of the FUNK, Help->Slip->Franklin's->Dancin how did they have so much energy 40 min.",
+      "archive_url": "https://headyversion.com/show/1404/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1976-10-03",
+      "show_id": 562,
+      "venue": "Cobo Arena Detroit, MI",
+      "description": "Dancin' > NFA > Dancin' sandy.  Pretty hot stuff",
+      "archive_url": "https://headyversion.com/show/562/archive/"
+    },
+    {
+      "votes": 16,
+      "date": "1978-01-07",
+      "show_id": 1289,
+      "venue": "Golden Hall San Diego, CA",
+      "description": "Jerry has laryngitis, so he speaks with his hands.  Starts as a buttsweat dancefest.  Long jam that eventually quiets to a whisper before wrapping up",
+      "archive_url": "https://headyversion.com/show/1289/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1977-05-12",
+      "show_id": 1200,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "Clean Version",
+      "archive_url": "https://headyversion.com/show/1200/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1970-06-06",
+      "show_id": 387,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Nice long jamming early version, Jerry rips his solos on this one real hot",
+      "archive_url": "https://headyversion.com/show/387/archive/"
+    },
+    {
+      "votes": 15,
+      "date": "1970-01-24",
+      "show_id": 1447,
+      "venue": "Honolulu Civic Auditorium Honolulu, HI",
+      "description": "Jamming monster in Honolulu Hawaii. TREMENDOUS",
+      "archive_url": "https://headyversion.com/show/1447/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1979-11-30",
+      "show_id": 874,
+      "venue": "Stanley Theater Pittsburgh, PA",
+      "description": "Huge and Fluid, 15+ min",
+      "archive_url": "https://headyversion.com/show/874/archive/"
+    },
+    {
+      "votes": 14,
+      "date": "1978-04-18",
+      "show_id": 1853,
+      "venue": "Civic Arena Pittsburgh, PA",
+      "description": "Hot combo of Scarlet Begonias into Dancin in in The Streets, Very cool transition between the two songs, loaded with Jerry noodles.",
+      "archive_url": "https://headyversion.com/show/1853/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1967-09-03",
+      "show_id": 114,
+      "venue": "Dance Hall Rio Nido, CA",
+      "description": "gotta check out this pre-mickey version.  Awesome",
+      "archive_url": "https://headyversion.com/show/114/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1970-01-18",
+      "show_id": 1622,
+      "venue": "Springer's Inn Portland, OR",
+      "description": "Another knock-out 1970 version.",
+      "archive_url": "https://headyversion.com/show/1622/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1985-11-01",
+      "show_id": 420,
+      "venue": "Richmond Coliseum Richmond, VA",
+      "description": "How is this not here.  Epic Dancin>CRS!",
+      "archive_url": "https://headyversion.com/show/420/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1976-08-04",
+      "show_id": 173,
+      "venue": "Roosevelt Stadium Jersey City, NJ",
+      "description": "whole show smokes",
+      "archive_url": "https://headyversion.com/show/173/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1976-06-24",
+      "show_id": 174,
+      "venue": "Tower Theatre Upper Darby, PA",
+      "description": "Funky as they get, this entire second set is as groovy as they come.  What a treat!",
+      "archive_url": "https://headyversion.com/show/174/archive/"
+    },
+    {
+      "votes": 12,
+      "date": "1976-10-01",
+      "show_id": 605,
+      "venue": "Market Square Arena Indianapolis, IN",
+      "description": "Ridiculous",
+      "archive_url": "https://headyversion.com/show/605/archive/"
+    },
+    {
+      "votes": 11,
+      "date": "1977-04-26",
+      "show_id": 1634,
+      "venue": "Capitol Theater Passaic, NJ",
+      "description": "Wow Dancin->Eyes a dream come true.  How is this not up here. figured a powerhouse 1977 performance had to be here.",
+      "archive_url": "https://headyversion.com/show/1634/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1977-05-01",
+      "show_id": 179,
+      "venue": "The Palladium New York, NY",
+      "description": "cool version",
+      "archive_url": "https://headyversion.com/show/179/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1984-07-15",
+      "show_id": 139,
+      "venue": "Greek Theatre - University of California Berkeley, CA",
+      "description": "Opens show, segues into Bird Song. Couldn't get enough of this pairing (or the show) for  a while. Smokin",
+      "archive_url": "https://headyversion.com/show/139/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1966-12-01",
+      "show_id": 958,
+      "venue": "Studio demo San Francisco, CA",
+      "description": "Jerry jamming in the middle of the song is absolutely amazing...",
+      "archive_url": "https://headyversion.com/show/958/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1976-06-19",
+      "show_id": 421,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "Let it Grow->Dancin-> Cosmic Charlie is very meaty and heady stuff, Funky as all hell, great disco funk jam.",
+      "archive_url": "https://headyversion.com/show/421/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1978-02-04",
+      "show_id": 817,
+      "venue": "Milwaukee Auditorium Milwaukee, WI",
+      "description": "Funky funky funky Dancin scorching Jerry leads Pil bombs away, great discofied jam fest",
+      "archive_url": "https://headyversion.com/show/817/archive/"
+    },
+    {
+      "votes": 10,
+      "date": "1978-07-07",
+      "show_id": 101,
+      "venue": "Red Rocks Amphitheatre Morrison, CO",
+      "description": "Scarlet fire Dancin what a run a pure jammy thon at Red Rocks Jerry really enjoying it",
+      "archive_url": "https://headyversion.com/show/101/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1971-12-31",
+      "show_id": 409,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Jerry's on fire in this show opener.  Not my favorite song, but just a rippin' version here.  Wish I could have been there....",
+      "archive_url": "https://headyversion.com/show/409/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1970-01-03",
+      "show_id": 122,
+      "venue": "Fillmore East New York City, NY",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/122/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1970-10-24",
+      "show_id": 1474,
+      "venue": "Kiel Opera House St. Louis, MO",
+      "description": "Fantastic long jammy opener",
+      "archive_url": "https://headyversion.com/show/1474/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1966-07-03",
+      "show_id": 1086,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Always such a great exploration vehicle in the 60's.",
+      "archive_url": "https://headyversion.com/show/1086/archive/"
+    },
+    {
+      "votes": 9,
+      "date": "1976-09-28",
+      "show_id": 572,
+      "venue": "Onondaga County War Memorial Syracuse, NY",
+      "description": "How on earth is this not up yet?  It really kicks off the Fall '76 retooling of Dancin' with style. Brilliant, tight, and part of an enormous 2nd set.",
+      "archive_url": "https://headyversion.com/show/572/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-02-27",
+      "show_id": 1433,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "its dissolves into a hugh Dark Star jam, before returning to Dancin'",
+      "archive_url": "https://headyversion.com/show/1433/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1976-06-03",
+      "show_id": 537,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "Churns, plays itself out, factor playing. Energetic, smooth as smooth.",
+      "archive_url": "https://headyversion.com/show/537/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1978-01-13",
+      "show_id": 1789,
+      "venue": "Arlington Theater Santa Barbara, CA",
+      "description": "typically hot late 1970's version funky leads into an intense drums",
+      "archive_url": "https://headyversion.com/show/1789/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1976-06-10",
+      "show_id": 1183,
+      "venue": "Boston Music Hall Boston, MA",
+      "description": "Another fabulous and funky 1976 Dancin' Super disco funk on this one, Hot",
+      "archive_url": "https://headyversion.com/show/1183/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1976-06-22",
+      "show_id": 5,
+      "venue": "Tower Theatre Upper Darby, PA",
+      "description": "Another Funk storm from 1976 comes bopping beautifully out of a funky Eyes of the World. Great stuff killer combo listen up and enjoy",
+      "archive_url": "https://headyversion.com/show/5/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1978-04-14",
+      "show_id": 1175,
+      "venue": "Cassell Coliseum - Virginia Polytechnic Institute and State University Blacksburg, VA",
+      "description": "Dancin In the Streets->Drums->Space->The Other One Mad awesome 1978 headiness, Nice Donna and Bobby",
+      "archive_url": "https://headyversion.com/show/1175/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-02-04",
+      "show_id": 1564,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "Easily the best Dancin' ever. So mellow and trippy and spacey, almost Dark-Starry. Officially released from the Family Dog via the Download series",
+      "archive_url": "https://headyversion.com/show/1564/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1984-07-22",
+      "show_id": 429,
+      "venue": "Ventura County Fairgrounds Ventura, CA",
+      "description": "Dancin' on the beach!!!!!!!!!!!!!!!",
+      "archive_url": "https://headyversion.com/show/429/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1981-07-07",
+      "show_id": 1298,
+      "venue": "Kansas City Municipal Auditorium Arena Kansas City, MO",
+      "description": "Minglewood>Bertha>Dancin..............1st one in years \"sweet\"",
+      "archive_url": "https://headyversion.com/show/1298/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1984-10-18",
+      "show_id": 1397,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Hello? This is some of Jerry's best playing of the era. Brief but inspired.",
+      "archive_url": "https://headyversion.com/show/1397/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1970-04-03",
+      "show_id": 811,
+      "venue": "Field House, U. of Cincinnati Cincinnati, OH",
+      "description": "Churning and meandering, flowing tightening up and raveling back",
+      "archive_url": "https://headyversion.com/show/811/archive/"
+    },
+    {
+      "votes": 7,
+      "date": "1969-11-02",
+      "show_id": 390,
+      "venue": "Family Dog at the Great Highway San Francisco, CA",
+      "description": "A lost masterpiece, now restored on the new Dave's Picks! The once-missing jam is a face-stealer.",
+      "archive_url": "https://headyversion.com/show/390/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1966-09-16",
+      "show_id": 109,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "Early classic dead",
+      "archive_url": "https://headyversion.com/show/109/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1979-12-10",
+      "show_id": 1110,
+      "venue": "Soldiers' and Sailors' Memorial Hall Kansas City, KS",
+      "description": "Dancin'>Franklins>LLRain>Deal to close 1st set!!! \"Heaven on Earth\"",
+      "archive_url": "https://headyversion.com/show/1110/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-10-05",
+      "show_id": 1559,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Filler from the Family Dog download series",
+      "archive_url": "https://headyversion.com/show/1559/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1978-05-17",
+      "show_id": 1486,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "Fastest version I\u2019ve ever heard. Bobby: \u201cwhat Motor City?\u201d quip mid-song.",
+      "archive_url": "https://headyversion.com/show/1486/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1987-04-06",
+      "show_id": 543,
+      "venue": "Meadowlands Arena East Rutherford, NJ",
+      "description": "Last one!  Also, haven't done Dancin'>Franklins since those great version of 79!",
+      "archive_url": "https://headyversion.com/show/543/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-10-30",
+      "show_id": 1555,
+      "venue": "SUNY Stonybrook Stonybrook, NY",
+      "description": "Hot version Jerry just ripping away",
+      "archive_url": "https://headyversion.com/show/1555/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1976-10-02",
+      "show_id": 1997,
+      "venue": "Riverfront Arena Cincinnati, OH",
+      "description": "Dancin->Drums->The Other One is truly a great sequence for the Bobby fans out there. Really cool interesting stuff.",
+      "archive_url": "https://headyversion.com/show/1997/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-09-18",
+      "show_id": 1050,
+      "venue": "Fillmore East New York, NY",
+      "description": "They really let loose on this one. Funky and Massive, Top 5 for the year.",
+      "archive_url": "https://headyversion.com/show/1050/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1976-06-15",
+      "show_id": 4,
+      "venue": "Beacon Theatre New York, NY",
+      "description": "Played almost everynight of the tour but still maintains a funky fresh disco dead flavor.",
+      "archive_url": "https://headyversion.com/show/4/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1976-06-28",
+      "show_id": 577,
+      "venue": "Auditorium Theatre Chicago, IL",
+      "description": "another heady funky dancing, great donna on this one, June of 76 Bobby plays almost same songs nightly butthey sound inspired and fresh,amazing feat.",
+      "archive_url": "https://headyversion.com/show/577/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1966-11-19",
+      "show_id": 519,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Great early cover of the soul classic. It is amazing how many changes this song went through over the many times they played it Garage band style here",
+      "archive_url": "https://headyversion.com/show/519/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1984-10-09",
+      "show_id": 1247,
+      "venue": "The Centrum Worcester, MA",
+      "description": "Very well jammed my favorite of the post disco versions of the song",
+      "archive_url": "https://headyversion.com/show/1247/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "Another GREAT jammed to all hell 1970 version Jerry just rips this to shreds.",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-11-07",
+      "show_id": 1493,
+      "venue": "Community War Memorial Auditorium Rochester, NY",
+      "description": "usually let the tune speak 4 itself but his kicks some butt, great post disco/funk version.",
+      "archive_url": "https://headyversion.com/show/1493/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1979-05-05",
+      "show_id": 1570,
+      "venue": "Civic Center Baltimore, MD",
+      "description": "Brent's first Dancin, nice Funky Disco version, Nice Jam loads of note bending Funkiness.",
+      "archive_url": "https://headyversion.com/show/1570/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1976-07-13",
+      "show_id": 1009,
+      "venue": "Orpheum Theatre San Francisco, CA",
+      "description": "Rare encore position",
+      "archive_url": "https://headyversion.com/show/1009/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1985-04-07",
+      "show_id": 236,
+      "venue": "The Spectrum Philadelphia, PA",
+      "description": "A nice surprise for '85. Jer's vox is shot but the playing is sweetness.",
+      "archive_url": "https://headyversion.com/show/236/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-10-11",
+      "show_id": 1623,
+      "venue": "Action House Island Park, NY",
+      "description": "One of the finer versions of the year",
+      "archive_url": "https://headyversion.com/show/1623/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1986-12-27",
+      "show_id": 924,
+      "venue": "Henry J. Kaiser Convention Center Oakland, CA",
+      "description": "What a goofy pre-drums...love the Dancin' right into BMR.",
+      "archive_url": "https://headyversion.com/show/924/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1976-06-21",
+      "show_id": 1335,
+      "venue": "Tower Theater Upper Darby, PA",
+      "description": "Meaty and funky but the real star of this version may be the amazing jam from Dancin into Wharf Rat some killer stuff and the crowd goes crazy!",
+      "archive_url": "https://headyversion.com/show/1335/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1978-05-09",
+      "show_id": 1166,
+      "venue": "Onongada County War Memorial Syracuse, NY",
+      "description": "Playful punchy funk another great funkathon from 1978 dead, The funk dead is awesome",
+      "archive_url": "https://headyversion.com/show/1166/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1976-09-23",
+      "show_id": 897,
+      "venue": "Cameron Indoor Stadium, Duke U Durham, NC",
+      "description": "PHIL PHIL and moe PHIL with some ample help from Mr. Garcia, sung powerfully by Donna and Bobby a great 12+ minute version.",
+      "archive_url": "https://headyversion.com/show/897/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1986-05-11",
+      "show_id": 280,
+      "venue": "Frost Amphitheatre Palo Alto, CA",
+      "description": "",
+      "archive_url": "https://headyversion.com/show/280/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1966-07-16",
+      "show_id": 829,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Jammed out more than most songs from this show.",
+      "archive_url": "https://headyversion.com/show/829/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1976-07-12",
+      "show_id": 760,
+      "venue": "Orpheum Theater San Francisco, CA",
+      "description": "On of the post-haitus ones that stretch and groove and go every-which-way.  What a treat.",
+      "archive_url": "https://headyversion.com/show/760/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-12-29",
+      "show_id": 392,
+      "venue": "Boston Tea Party Boston, MA",
+      "description": "Gets pretty spacey, sounds like they hint at Tighten Up a little...",
+      "archive_url": "https://headyversion.com/show/392/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-01-16",
+      "show_id": 955,
+      "venue": "Springer's Inn Portland Portland, OR",
+      "description": "\"C'mon everybody get in a big long line and dance around now!\" Absolutely primal Dead",
+      "archive_url": "https://headyversion.com/show/955/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1978-04-10",
+      "show_id": 1106,
+      "venue": "Fox Theatre Atlanta, GA",
+      "description": "Firey pumping funk leads into drums  which flows into a nice smoking franklin's",
+      "archive_url": "https://headyversion.com/show/1106/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1978-11-16",
+      "show_id": 1369,
+      "venue": "Uptown Theater Chicago, IL",
+      "description": "Hot Dancin->Deal to end set one.",
+      "archive_url": "https://headyversion.com/show/1369/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1978-11-23",
+      "show_id": 1635,
+      "venue": "Capital Centre Landover, MD",
+      "description": "Part of a spectacular Dancin->Terrapin->Playin->Drumz->Ollin Arrageed Jam Sequence Really a great show",
+      "archive_url": "https://headyversion.com/show/1635/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1976-06-23",
+      "show_id": 581,
+      "venue": "Tower Theatre Upper Darby, PA",
+      "description": "another exploratory jammy improvisational Dancin from 1976. Great funky jam.",
+      "archive_url": "https://headyversion.com/show/581/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-12-17",
+      "show_id": 1720,
+      "venue": "The Matrix San Francisco, CA",
+      "description": "Questionable date, but unquestionably amazing. A great classic jam with a near-perfect recording for the time.  A++",
+      "archive_url": "https://headyversion.com/show/1720/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1976-06-04",
+      "show_id": 1497,
+      "venue": "Paramount Theatre Portland, OR",
+      "description": "How has this whole show been overlooked?  I know '76 is generally undervalued, even by '70s fans, but c'mon, this is smokin' hot stuff.",
+      "archive_url": "https://headyversion.com/show/1497/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1967-04-09",
+      "show_id": 2140,
+      "venue": "Pan Handle Golden Gate Park San Francisco, CA",
+      "description": "https://www.youtube.com/watch?v=VNPzRoL_1DU",
+      "archive_url": "https://headyversion.com/show/2140/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1969-12-31",
+      "show_id": 414,
+      "venue": "??? Boston Tea Party, MA",
+      "description": "This one is hot!!",
+      "archive_url": "https://headyversion.com/show/414/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1968-03-31",
+      "show_id": 932,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Kick-ass playing! Sound is a little distorted, but no matter",
+      "archive_url": "https://headyversion.com/show/932/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1985-07-01",
+      "show_id": 701,
+      "venue": "Merriweather Post Pavilion Columbia, MD",
+      "description": "Dead at the Shed and a revved up show opener of Dancin' makes for a killer show",
+      "archive_url": "https://headyversion.com/show/701/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-03-01",
+      "show_id": 1603,
+      "venue": "Fillmore East New York, NY",
+      "description": "A case could be made for this being the finest version ever.",
+      "archive_url": "https://headyversion.com/show/1603/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-05-08",
+      "show_id": 123,
+      "venue": "Farrell Hall (SUNY) Delhi, NY",
+      "description": "Rare, rough, and out of Dark Star",
+      "archive_url": "https://headyversion.com/show/123/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1979-02-07",
+      "show_id": 1965,
+      "venue": "SIU Arena, University Of Souther Illinois Carbondale, IL",
+      "description": "Read The book by Steve Parrish to hear the story of Jerry taking 4 valiums before going on stage sluggish for set one but he got fired up for set 2",
+      "archive_url": "https://headyversion.com/show/1965/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1969-06-22",
+      "show_id": 121,
+      "venue": "Central Park NYC, NY",
+      "description": "Criminally underrated show summer 69 was an amazing time for the boys",
+      "archive_url": "https://headyversion.com/show/121/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1984-10-30",
+      "show_id": 1868,
+      "venue": "Berkeley Community Theater Berkeley, CA",
+      "description": "Show opener in Bezerkley",
+      "archive_url": "https://headyversion.com/show/1868/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1976-06-12",
+      "show_id": 561,
+      "venue": "Music Hall Boston, MA",
+      "description": "Superb version, surprising not listed yet.  Tighter to my ears than the other more well-known ones in the Boston run. Check it out!",
+      "archive_url": "https://headyversion.com/show/561/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1986-06-29",
+      "show_id": 1314,
+      "venue": "Alpine Valley Music Theatre East Troy, WI",
+      "description": "One of the very last ones!!!!!!!!!!!!!!!!!!!!..................To Bad.......................",
+      "archive_url": "https://headyversion.com/show/1314/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1977-02-17",
+      "show_id": 1035,
+      "venue": "Arista Studios Unknown, CA",
+      "description": "fantastic studio outtake not burdened with all the technical bs added to the released album",
+      "archive_url": "https://headyversion.com/show/1035/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1968-03-30",
+      "show_id": 1364,
+      "venue": "Carousel Ballroom San Francisco, CA",
+      "description": "Hot early version from a hot show all around",
+      "archive_url": "https://headyversion.com/show/1364/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1984-06-24",
+      "show_id": 1805,
+      "venue": "Saratoga Performing Arts Center Saratoga Springs, NY",
+      "description": "Dancin returns with a new more rocking less funk but still jamming form.",
+      "archive_url": "https://headyversion.com/show/1805/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-02-06",
+      "show_id": 1215,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "God this one is crazy the singing is insane like what the fuck and then the cut. Where it picks back up is again what the fuck! I don't know try it",
+      "archive_url": "https://headyversion.com/show/1215/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-08-18",
+      "show_id": 652,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Epic wanderings from the \u201cWoodacre Training Camp\u201d",
+      "archive_url": "https://headyversion.com/show/652/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1976-08-26",
+      "show_id": 2131,
+      "venue": "Club Front Studio San Rafael, CA",
+      "description": "Very cool studio rehearsals with new grooves and wildly flanged sound. Fall '76 versions are some of the best, and here they are still in the egg.",
+      "archive_url": "https://headyversion.com/show/2131/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1969-12-05",
+      "show_id": 2102,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "High-velocity, high-power jamming magic, all packed into less than nine minutes. Intense. From a wonderful overlooked show.",
+      "archive_url": "https://headyversion.com/show/2102/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1966-07-17",
+      "show_id": 2152,
+      "venue": "Fillmore Auditorium San Francisco, CA",
+      "description": "Cuts out in the out-chorus, but shows the initial move from cover band into exploratory jams and bendy form.  Very cool testament to where they were.",
+      "archive_url": "https://headyversion.com/show/2152/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-04-15",
+      "show_id": 479,
+      "venue": "William and Mary College Hall Williamsburg, VA",
+      "description": "Coming out of Scarlet Begonias, has a bit more of a '76 vibe than most of 77-78",
+      "archive_url": "https://headyversion.com/show/479/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1966-12-24",
+      "show_id": 2217,
+      "venue": "Avalon Ballroom San Francisco, CA",
+      "description": "What a party! Need more Pig vox",
+      "archive_url": "https://headyversion.com/show/2217/archive/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "song_id": 195,
+  "name": "The Night They Drove Ole Dixie Down",
+  "performances": [
+    {
+      "votes": 4,
+      "date": "1978-03-17",
+      "show_id": 1437,
+      "venue": "Capitol Theatre Passaic, NJ",
+      "description": "JGB",
+      "archive_url": "https://headyversion.com/show/1437/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1971-05-21",
+      "show_id": 2177,
+      "venue": "Keystone Korner San Francisco, CA",
+      "description": "Garcia Live Vol. 15 version with Merle",
+      "archive_url": "https://headyversion.com/show/2177/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1991-11-09",
+      "show_id": 782,
+      "venue": "Hampton hampton,",
+      "description": "JGB. Very solemn and soulful",
+      "archive_url": "https://headyversion.com/show/782/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1978-03-22",
+      "show_id": 2068,
+      "venue": "Veteran's. Hall Sebastopol, CA",
+      "description": "Garcia live 4. Super dynamic excellent music builds up for each chorus it's so heavy and beautiful at the same time",
+      "archive_url": "https://headyversion.com/show/2068/archive/"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "song_id": 138,
+  "name": "It's A Man's World",
+  "performances": [
+    {
+      "votes": 38,
+      "date": "1970-05-02",
+      "show_id": 27,
+      "venue": "Harpur College Binghamton, NY",
+      "description": "hot, Hot, HOT!!!",
+      "archive_url": "https://headyversion.com/show/27/archive/"
+    },
+    {
+      "votes": 31,
+      "date": "1970-04-15",
+      "show_id": 593,
+      "venue": "Winterland Arena San Francisco, CA",
+      "description": "Pigpen at his absolute best. This man died way too young.",
+      "archive_url": "https://headyversion.com/show/593/archive/"
+    },
+    {
+      "votes": 13,
+      "date": "1970-06-04",
+      "show_id": 1394,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "It moves, from start to finish, without letting up and the jamming is inspired. At one point Pigpen shouts, \"suck your cock, man says that too\".",
+      "archive_url": "https://headyversion.com/show/1394/archive/"
+    },
+    {
+      "votes": 8,
+      "date": "1970-09-18",
+      "show_id": 1050,
+      "venue": "Fillmore East New York, NY",
+      "description": "AWESOME this show is chuck full of rare nuggets",
+      "archive_url": "https://headyversion.com/show/1050/archive/"
+    },
+    {
+      "votes": 6,
+      "date": "1970-06-05",
+      "show_id": 748,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Nice and long and smoking hot version brings the roof down.",
+      "archive_url": "https://headyversion.com/show/748/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-05-15",
+      "show_id": 151,
+      "venue": "Fillmore East (Late Show) New York, NY",
+      "description": "Can't say enough about it...Pig, Jerry, Devils, Weir, Lesh, everyone's all over it",
+      "archive_url": "https://headyversion.com/show/151/archive/"
+    },
+    {
+      "votes": 5,
+      "date": "1970-04-09",
+      "show_id": 1216,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Excellent Pig here!  His vocal are awesome and the band is on fire.",
+      "archive_url": "https://headyversion.com/show/1216/archive/"
+    },
+    {
+      "votes": 4,
+      "date": "1970-06-07",
+      "show_id": 738,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "another solid version from the '70 tour",
+      "archive_url": "https://headyversion.com/show/738/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-04-12",
+      "show_id": 558,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Speedy, bouncy version - even the drummers get off on this one.",
+      "archive_url": "https://headyversion.com/show/558/archive/"
+    },
+    {
+      "votes": 3,
+      "date": "1970-07-12",
+      "show_id": 1596,
+      "venue": "Fillmore East New York, NY",
+      "description": "PIGPEN in charge absolutely dominating the proceedings a blues psychedelic masterpiece.",
+      "archive_url": "https://headyversion.com/show/1596/archive/"
+    },
+    {
+      "votes": 2,
+      "date": "1970-08-18",
+      "show_id": 652,
+      "venue": "Fillmore West San Francisco, CA",
+      "description": "Pigpen leads the band on an acid-drenched, climactic R&B jam.",
+      "archive_url": "https://headyversion.com/show/652/archive/"
+    },
+    {
+      "votes": 1,
+      "date": "1970-04-24",
+      "show_id": 1403,
+      "venue": "Mammoth Gardens Denver, CO",
+      "description": "This version is... not great. I'm wondering if the drugs kicked in or something.",
+      "archive_url": "https://headyversion.com/show/1403/archive/"
+    }
+  ]
+}
