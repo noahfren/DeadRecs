@@ -3,7 +3,7 @@
 ## Phase 1: Project Setup
 
 ### 1.1 Dependencies
-- Update `pyproject.toml` with dependencies: `networkx`, `torch`, `torch-geometric`, `beautifulsoup4`, `requests`, `click`, `numpy`.
+- Update `pyproject.toml` with dependencies: `networkx`, `torch`, `torch-geometric`, `sentence-transformers`, `beautifulsoup4`, `requests`, `click`, `numpy`.
 - Add dev dependencies: `pytest`, `pytest-cov`.
 - Create `deadrecs/__init__.py`.
 
@@ -72,20 +72,32 @@
 - Compute `idf(s) = log(N / df(s))` where N = total distinct show dates.
 - Store IDF as a property on Song nodes.
 
-### 3.3 Weighted Jaccard + SETLIST_NEIGHBOR Edges
+### 3.3 Description Embeddings
+- `deadrecs/features.py`
+- Load `sentence-transformers/all-MiniLM-L6-v2` model (downloaded on first run, ~80 MB).
+- Collect all performance descriptions from the graph's `SongPerformance` nodes.
+- Batch-encode descriptions (batch size 256, CPU-only) into 384-dim vectors.
+- For empty descriptions (~8% of performances), use a zero vector.
+- Cache result to `data/description_embeddings.pt` as a dict mapping `perf:{song_id}:{show_date}` → tensor.
+- On subsequent runs, load from cache if the file exists and is newer than the raw data.
+- Store the embedding vector as a property on each `SongPerformance` node.
+
+### 3.4 Weighted Jaccard + SETLIST_NEIGHBOR Edges
 - `deadrecs/features.py`
 - For each show, build its IDF-weighted song vector.
 - Compute pairwise weighted Jaccard similarity.
   - Optimization: only compare shows that share at least one song (sparse intersection) to avoid O(n^2) over all show pairs.
 - Add top-k `SETLIST_NEIGHBOR` edges per show (default k=10).
 
-### 3.4 Serialization
+### 3.5 Serialization
 - Save graph to `data/graph.pickle`.
 - Print graph statistics: node counts by type, edge counts by type, density.
 
-### 3.5 Tests
+### 3.6 Tests
 - Test graph construction with a small synthetic dataset.
 - Test IDF computation.
+- Test description embedding generation (mock sentence-transformers model for unit tests).
+- Test zero-vector fallback for empty descriptions.
 - Test weighted Jaccard similarity with known values.
 
 **Deliverable**: `deadrecs train` (first half) builds and saves the graph. Stats printed to console.
@@ -100,9 +112,10 @@
   - Map node types to separate feature tensors.
   - Map edge types to separate edge index tensors.
 - Node feature engineering:
-  - Show: [num_performances, mean_vote, era_onehot (6 dims)]
-  - Song: [idf, total_votes, num_performances]
-  - SongPerformance: [normalized_votes, rank_within_song]
+  - Show: [num_performances, mean_vote, era_onehot (6 dims)] — 8 dims
+  - Song: [idf, total_votes, num_performances] — 3 dims
+  - SongPerformance: [normalized_votes, rank_within_song, description_embedding (384 dims)] — 386 dims
+- The first GraphSAGE layer's per-type linear projection handles the dimension mismatch between node types (projecting each to the shared 128-dim hidden space).
 
 ### 4.2 Model Definition
 - `deadrecs/model.py`

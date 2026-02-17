@@ -131,7 +131,30 @@ Perf features    ──>   per-type projections     ──>  Perf embeddings (d=
 |------------------|-----------------------------------------------------------------|
 | Show             | Number of rated performances, mean vote of performances, era (one-hot encoded by decade) |
 | Song             | IDF weight, total votes across all performances, number of rated performances |
-| SongPerformance  | Vote count (normalized), vote rank within song                  |
+| SongPerformance  | Vote count (normalized), vote rank within song, description embedding (384-dim) |
+
+### Description Embeddings
+
+Performance descriptions (~92% coverage, ~69 chars avg) carry rich qualitative signal about what makes a performance notable — its energy, style, standout jams, and emotional character. We encode these into dense vectors so the GNN can learn from textual similarity alongside structural graph features.
+
+#### Model
+
+`sentence-transformers/all-MiniLM-L6-v2` — a 22M-parameter sentence embedding model that maps text to 384-dimensional normalized vectors. Chosen for:
+- Small footprint (suitable for a CLI tool, no GPU required).
+- Strong performance on short, informal text (which matches the description style).
+- Cosine-similarity-ready output (L2-normalized vectors).
+
+#### Embedding Pipeline
+
+1. Collect all `description` strings from `SongPerformance` nodes.
+2. Batch-encode with `sentence-transformers` (batches of 256, CPU-only).
+3. For empty descriptions (~8% of performances), use a zero vector (384-dim).
+4. Cache the resulting tensor to `data/description_embeddings.pt` (keyed by `perf:{song_id}:{show_date}`).
+5. On subsequent runs, load from cache unless the raw data is newer.
+
+#### Integration with GNN
+
+The 384-dim description embedding is concatenated with the 2-dim numeric features (normalized votes, rank) to form a 386-dim input feature vector for each `SongPerformance` node. The first GraphSAGE layer projects this down to the shared hidden dimension (128) via a learned linear transform, so the model decides how much weight to give textual vs. numeric features.
 
 ### Training Objective: Link Prediction (Self-Supervised)
 
@@ -187,6 +210,7 @@ data/
 │       ├── 58_dark-star.json  # Per-song performances
 │       ├── 207_playin-in-the-band.json
 │       └── ...
+├── description_embeddings.pt  # Cached sentence embeddings for descriptions
 ├── graph.pickle               # Serialized NetworkX graph
 ├── model.pt                   # Trained GNN weights
 └── embeddings.pt              # Node embeddings tensor + ID mapping
@@ -199,6 +223,7 @@ data/
 | `networkx`           | Graph construction and storage       |
 | `torch`              | Deep learning framework              |
 | `torch-geometric`    | GNN layers, data loaders, transforms |
+| `sentence-transformers` | Description text embeddings (all-MiniLM-L6-v2) |
 | `beautifulsoup4`     | HTML parsing for scraper             |
 | `requests`           | HTTP client for scraper              |
 | `click`              | CLI framework                        |
