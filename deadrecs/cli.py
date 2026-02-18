@@ -50,8 +50,18 @@ def train(epochs, k_neighbors):
     add_setlist_neighbor_edges(G, k=k_neighbors)
     save_graph(G)
 
-    # Phase 4: GNN training (not yet implemented)
-    click.echo("\nGNN training not yet implemented (Phase 4).")
+    # Phase 4: GNN training
+    from deadrecs.model import convert_to_heterodata
+    from deadrecs.train import save_embeddings, save_model, train_gnn
+
+    click.echo("\nConverting graph to PyG HeteroData...")
+    data, node_id_maps = convert_to_heterodata(G)
+    click.echo(f"  Node types: {data.node_types}")
+    click.echo(f"  Edge types: {data.edge_types}")
+
+    model, embeddings = train_gnn(data, epochs=epochs)
+    save_model(model)
+    save_embeddings(embeddings, node_id_maps)
 
 
 @main.command()
