@@ -12,3 +12,11 @@ For example:
 - "Shows where drums/space is especially good"
 
 This would involve interpreting free-text input, mapping it to the existing graph structure, and returning relevant recommendations.
+
+## Web Application
+
+Host DeadRecs as a server with a web frontend so users can get recommendations from a browser instead of the CLI. This would include:
+
+- A backend API (e.g., FastAPI) exposing the recommendation engine over HTTP
+- A web UI for browsing recommendations, exploring the graph, and discovering shows
+- The ability to share recommended shows or setlists via links
