@@ -26,7 +26,7 @@ def scrape(delay):
 
 
 @main.command()
-@click.option("--epochs", default=100, type=int, help="Number of training epochs.")
+@click.option("--epochs", default=150, type=int, help="Number of training epochs.")
 @click.option("--k-neighbors", default=10, type=int, help="Top-k setlist neighbors per show.")
 def train(epochs, k_neighbors):
     """Build the graph and train the GNN model."""
@@ -50,8 +50,10 @@ def train(epochs, k_neighbors):
     add_setlist_neighbor_edges(G, k=k_neighbors)
     save_graph(G)
 
-    # Phase 4: GNN training (not yet implemented)
-    click.echo("\nGNN training not yet implemented (Phase 4).")
+    # Phase 4: GNN training
+    from deadrecs.train import train_model
+
+    train_model(G, epochs=epochs)
 
 
 @main.command()

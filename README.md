@@ -69,7 +69,7 @@ Fetches songs and rated performances from Headyversion.com. Supports resuming â€
 ### Train the model
 
 ```bash
-deadrecs train [--epochs 100] [--k-neighbors 10]
+deadrecs train [--epochs 150] [--k-neighbors 10]
 ```
 
 Builds the graph from scraped data, computes description embeddings, and trains the GNN. `--k-neighbors` controls how many setlist-neighbor edges each show gets.

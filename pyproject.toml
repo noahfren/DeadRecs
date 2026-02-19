@@ -13,6 +13,7 @@ dependencies = [
     "requests>=2.31",
     "click>=8.1",
     "numpy>=1.24",
+    "sentence-transformers>=2.0",
 ]
 
 [project.optional-dependencies]
@@ -27,6 +28,9 @@ deadrecs = "deadrecs.cli:main"
 [build-system]
 requires = ["setuptools>=68.0"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["deadrecs*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

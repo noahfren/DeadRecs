@@ -115,6 +115,7 @@
   - Show: [num_performances, mean_vote, era_onehot (6 dims)] — 8 dims
   - Song: [idf, total_votes, num_performances] — 3 dims
   - SongPerformance: [normalized_votes, rank_within_song, description_embedding (384 dims)] — 386 dims
+- Apply `LayerNorm` to the SongPerformance feature matrix before passing it into the GNN. The 384-dim text embedding values cluster near zero, so without normalization the votes and rank features would be drowned out. LayerNorm rescales across the full 386-dim vector so that the scalar features (votes, rank) receive relatively higher values.
 - The first GraphSAGE layer's per-type linear projection handles the dimension mismatch between node types (projecting each to the shared 128-dim hidden space).
 
 ### 4.2 Model Definition
