@@ -38,11 +38,13 @@ def test_train_requires_scraped_data():
         assert "scrape" in result.output.lower()
 
 
-def test_recommend_placeholder():
+def test_recommend_requires_trained_model():
     runner = CliRunner()
-    result = runner.invoke(main, ["recommend", "--like", "1977-05-08"])
-    assert result.exit_code == 0
-    assert "Recommendations not yet implemented." in result.output
+    with patch("deadrecs.recommend.GRAPH_PATH") as mock_path:
+        mock_path.exists.return_value = False
+        result = runner.invoke(main, ["recommend", "--like", "1977-05-08"])
+        assert result.exit_code != 0
+        assert "train" in result.output.lower()
 
 
 def test_recommend_requires_like():

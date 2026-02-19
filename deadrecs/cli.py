@@ -57,18 +57,13 @@ def train(epochs, k_neighbors):
 
 
 @main.command()
-@click.option("--like", multiple=True, required=True, help="A show date or song name you enjoy (repeatable).")
+@click.option("--like", multiple=True, required=True, help="A show date, song name, or performance (\"Song @ YYYY-MM-DD\"). Repeatable.")
 @click.option("--n", "num_results", default=10, type=int, help="Number of recommendations.")
-@click.option(
-    "--type",
-    "rec_type",
-    type=click.Choice(["shows", "songs", "both"], case_sensitive=False),
-    default="both",
-    help="Type of recommendations to return.",
-)
-def recommend(like, num_results, rec_type):
-    """Get show and song recommendations."""
-    click.echo("Recommendations not yet implemented.")
+def recommend(like, num_results):
+    """Get show recommendations based on shows/songs you like."""
+    from deadrecs.recommend import recommend as run_recommend
+
+    run_recommend(like_args=like, num_results=num_results)
 
 
 @main.command()
