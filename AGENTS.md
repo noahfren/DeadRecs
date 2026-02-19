@@ -8,13 +8,14 @@ DeadRecs is a CLI recommendation engine for Grateful Dead live performances, pow
 
 The `docs/` directory contains the authoritative specifications for this project. **Read these before making changes.**
 
-- **`docs/requirements.md`** — Functional and non-functional requirements. Consult this to understand what the system should do and its constraints (Python 3.10+, CLI-only, all data local, recommendations under 2 seconds).
+Docs are organized into numerically ordered **epics** (e.g., `docs/01-initial-impl/`), each containing their own planning files (requirements, design, implementation plan). Items in the roadmap will eventually become their own epics.
 
-- **`docs/design.md`** — Architecture, graph schema, GNN design, and data layout. This is the primary reference for how the system works: node types and their properties, edge types, weighted Jaccard similarity, GraphSAGE architecture, training objective, and the recommendation algorithm. Read this before touching `graph.py`, `model.py`, `train.py`, `features.py`, or `recommend.py`.
+- **`docs/01-initial-impl/`** — The initial implementation epic:
+  - `requirements.md` — Functional and non-functional requirements. Consult this to understand what the system should do and its constraints (Python 3.10+, CLI-only, all data local, recommendations under 2 seconds).
+  - `design.md` — Architecture, graph schema, GNN design, and data layout. This is the primary reference for how the system works: node types and their properties, edge types, weighted Jaccard similarity, GraphSAGE architecture, training objective, and the recommendation algorithm. Read this before touching `graph.py`, `model.py`, `train.py`, `features.py`, or `recommend.py`.
+  - `implementation-plan.md` — Phased build plan (Phases 1-6) with specific deliverables per phase. Shows what files implement what functionality, what tests are expected, and the implementation order. Use this to understand where new code should go.
 
-- **`docs/implementation-plan.md`** — Phased build plan (Phases 1-6) with specific deliverables per phase. Shows what files implement what functionality, what tests are expected, and the implementation order. Use this to understand where new code should go.
-
-- **`docs/roadmap.md`** — Planned future features (natural language queries, web app). Not yet implemented.
+- **`docs/roadmap.md`** — Planned future features (natural language queries, web app, evaluation benchmarks, additional data sources). Not yet implemented. Items here will become their own numbered epics when work begins.
 
 ## Project Structure
 
