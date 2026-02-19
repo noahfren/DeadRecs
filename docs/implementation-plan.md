@@ -195,9 +195,6 @@
 - Progress bars for scraping (using click.progressbar or similar).
 - Progress reporting during training (epoch, loss, AUC).
 
-### 6.3 Integration Test
-- End-to-end test with a small fixture dataset: scrape fixture → build graph → train (1 epoch) → recommend.
-
 **Deliverable**: Fully functional CLI. All subcommands working end-to-end.
 
 ---

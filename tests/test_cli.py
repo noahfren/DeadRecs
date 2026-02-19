@@ -54,11 +54,13 @@ def test_recommend_requires_like():
     assert "Missing option" in result.output or "required" in result.output.lower()
 
 
-def test_info_placeholder():
+def test_info_requires_graph():
     runner = CliRunner()
-    result = runner.invoke(main, ["info", "1977-05-08"])
-    assert result.exit_code == 0
-    assert "Info not yet implemented." in result.output
+    with patch("deadrecs.info.GRAPH_PATH") as mock_path:
+        mock_path.exists.return_value = False
+        result = runner.invoke(main, ["info", "1977-05-08"])
+        assert result.exit_code != 0
+        assert "train" in result.output.lower()
 
 
 def test_info_requires_query():

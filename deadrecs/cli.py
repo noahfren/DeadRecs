@@ -70,4 +70,6 @@ def recommend(like, num_results):
 @click.argument("query")
 def info(query):
     """Display details about a show (by date) or song (by name)."""
-    click.echo("Info not yet implemented.")
+    from deadrecs.info import run_info
+
+    run_info(query)
